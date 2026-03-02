@@ -89,7 +89,7 @@ The **Right of Petition** exists in law: any citizen may petition the Autarchs d
 
 **The Edge** is where the island ends — or rather, where it is currently ending. At the Edge, you can watch rock and earth dissolve slowly into the chaos of Limbo below. This has been happening faster in recent years. The official position is that it is manageable.
 
-**What you know about the Fraying:** There are earthquakes now, at the frontier. There are storms. There is an effect your character may have heard described by travelers from the frontier — objects changing slightly, things vanishing from storage rooms when no one was watching — that is hard to explain and easy to dismiss if you don't live there.
+**What you know about the Fraying:** There are earthquakes now, at the frontier. There are storms. There is an effect your character may have heard described by travelers from the frontier — objects changing slightly, things vanishing from storage rooms when no one was watching — that is hard to explain and easy to dismiss if you don't live there. Scholars in Diaspola have given this a name — the *Unobserved Effect* — though naming it has not brought anyone closer to explaining it.
 
 ## Limbo — Beyond the Border
 
@@ -112,11 +112,11 @@ Limbo is the chaos. It surrounds the Pax on all sides. From the island's edge on
 
 The Foundation is the Pax's monastic order — its peacekeepers, scholars, and (most significantly) its Anarchs, the chaos-shapers who maintain the realm's stability within Limbo.
 
-The Foundation is trusted and beloved in a way the Autarchs are not. Its peacekeepers are calm and fair-minded; its scholars maintain the realm's knowledge. The order's public face is warm, helpful, and reliable. Citizens who had children with inborn Anarch ability donated them to the order by age ten; this is considered a high honor and an act of genuine virtue.
+The Foundation is trusted and beloved in a way the Autarchs are not. Its peacekeepers are calm and fair-minded; its scholars maintain the realm's knowledge. The order's public face is warm, helpful, and reliable. Citizens with children who show inborn Anarch ability donate them to the order by age ten; this is considered a high honor and an act of genuine virtue.
 
 Members of the Foundation who formally join the order take new names and sever contact with their families. Once initiated, they do not leave their monasteries except on official duties. The public explanation for this is the demands of ascetic practice; the actual structure of the order is not a matter of public knowledge.
 
-The Foundation's **Shaper sub-order** — the Anarchs who actually maintain the Pax's stability — live in complete seclusion. They are never seen in public. Citizens are told this is necessary for the concentration required to sustain the realm. Most citizens have never questioned this.
+The Foundation's **Shapers sub-order** — the Anarchs who actually maintain the Pax's stability — live in complete seclusion. They are never seen in public. Citizens are told this is necessary for the concentration required to sustain the realm. Most citizens have never questioned this.
 
 ## The Devoti
 
@@ -139,6 +139,14 @@ Brother Candor is a nuisance, but a hard one to dismiss entirely. He is clearly 
 A pragmatic organization of agents available for hire: investigators, couriers, arbitrators, negotiators, and various other skilled professionals. Run by **Caske Amanthri**, a female elf — rare in Meridian — who came up from the streets and built the Guild through competence and a reputation for keeping her word. No philosophical agenda; purely practical.
 
 If you need something done and official channels are too slow, too visible, or too likely to inform the wrong people, the Freelancer's Guild is a reasonable first call.
+
+## The Created
+
+The Pax's population includes a small but notable number of constructed beings — made things that have achieved genuine selfhood through craft, circumstance, or something that has never been adequately explained. Citizens typically call them **the Created**, a category broad enough to cover beings of very different origins who share the quality of having been made rather than born.
+
+The Created in the Pax are citizens in full standing: they own property, hold guild memberships, stand before the Council, and pursue whatever purposes they've arrived at through whatever history brought them here. Most were made here in the Pax — their creation a practice of the Geometer's Guild, whose knowledge does not travel beyond the realm's borders. A small number have arrived through the interplanar portals, but the Guild remains the source of nearly all Created living in the realm.
+
+They are distinct in the public mind from the **administrative constructs** that handle significant portions of the Pax's institutional work: the Tender constructs who maintain the realm's agricultural and infrastructural systems, the Ledger constructs who manage the Foundation's records, and the Charter Minder who maintains the Council Hall's legal archive. These constructs serve, and their service is not generally understood to be voluntary. Most citizens do not find this troubling enough to discuss.
 
 ---
 
@@ -185,9 +193,49 @@ All officially published 5e races are available to characters native to the Pax.
 
 **Uncommon:** Elf (rare enough that a full-elf character draws occasional surprised notice, as Caske Amanthri demonstrates), Dragonborn, Tabaxi
 
-**Rare but present:** Warforged (free-willed constructs who arrived via the planes), Kenku, Tortle, and other exotic races (work with your DM on flavor)
+**Rare but present:** The Created (see below for full racial traits), Kenku, Tortle, and other exotic races (work with your DM on flavor)
 
 **Githzerai characters specifically:** You are a citizen of the Pax — descended from Githzerai who settled here generations ago, or recently emigrated. You probably have some contact with the nearby monastery, even if you chose not to join it. Zerith knows of your family; you know of her reputation.
+
+## The Created
+
+The Geometer's Guild has held, under the Autarchs' authority, the knowledge required to make the realm's administrative constructs since the early centuries of the Pax. It was not always content to make servants. Centuries ago, Guild artisans working at the edge of their mandate began experimenting with something different: beings built for purpose, but given genuine selfhood alongside it. The Autarchs were informed. The Guild was permitted to continue. The first Created had already been made.
+
+Each Created is visually unique — there is no shared form. Some are built in geometric precision: angular planes, articulated joints, strict proportion. Others curve and flow, their construction suggesting organic life without quite replicating it. Some are stark and functional, their design communicating nothing beyond what they were made to do; others are painted, inlaid, or adorned with structural flourishes, whether by their makers or by themselves. They are made here, in the Pax — the knowledge of their construction belongs to the Guild and does not travel.
+
+Every Created is built for a purpose. Many honor that purpose throughout their lives. Many others drift from it as they encounter more of the world than their construction anticipated, and the Guild has long supported this independence — a being with genuine selfhood that chooses its original purpose freely is more valuable, in the Guild's understanding, than one that simply enacts it. Each new Created is given a name at the time of their making. Some keep it. Others, in time, choose their own.
+
+The personality of a Created is genuinely their own, though it develops differently than it does for biological beings. Young Created tend to imprint strongly on those they spend significant time with, absorbing traits and approaches they find useful or worthy of emulation; over time, this imprinting consolidates into something distinctively individual. Created also lack the gender identity most humanoids experience as a given. Some adopt a gender over time, shaping their appearance in line with that choice; others find the category simply inapplicable. Both are ordinary.
+
+---
+
+**Created Racial Traits**
+
+**Ability Score Increase.** Your Constitution score increases by 2, and one other ability score of your choice increases by 1, reflecting the purpose for which you were constructed.
+
+**Age.** Created do not age. They are functional adults from the moment of construction and, barring damage, can persist indefinitely.
+
+**Alignment.** Created have no innate alignment tendency. They often default to neutrality in early development but can hold any alignment, shaped by experience.
+
+**Size.** Created come in varied sizes reflecting their construction. You are Medium or Small (your choice).
+
+**Speed.** Your base walking speed is 30 feet.
+
+**Constructed Nature.** You don't need to eat, drink, or breathe. You are immune to disease, have advantage on saving throws against being poisoned, and have resistance to poison damage. You don't sleep. Instead, you spend 6 hours each day in an inactive resting state. During this state you are aware of your surroundings but cannot take actions or move.
+
+**Living Construct.** Despite your constructed nature, you count as a humanoid for the purposes of spells, features, and effects. Healing magic affects you normally.
+
+**Natural Armor.** Your constructed body provides inherent protection. When you are not wearing armor, your AC equals 13 + your Dexterity modifier. You can use a shield and still gain this benefit.
+
+**Light Fortification.** When you are hit by a critical hit, you can use your reaction to treat it as a normal hit instead. Once you use this feature, you can't use it again until you finish a long rest.
+
+**Built for Purpose.** During character creation, choose one of the following to reflect the design intent of your construction:
+- *Combat Build:* You gain proficiency with one martial weapon of your choice and one set of armor (light or medium).
+- *Scholar Build:* You gain proficiency in two skills of your choice from: Arcana, History, Insight, Investigation, Medicine, Nature, Religion.
+- *Artisan Build:* You gain proficiency in two artisan's tool kits of your choice, and double your proficiency bonus on checks with one of them.
+- *Courier Build:* Your base walking speed increases to 35 feet, and your long jump and high jump distances are doubled.
+
+**Languages.** You can speak, read, and write Common and two additional languages of your choice.
 
 ## Classes
 
@@ -206,13 +254,13 @@ The Fraying affects people who spend time near it in ways that aren't fully unde
 
 Barbarians of the Path of the Fraying have been overexposed to Limbo's encroaching chaos and emerged changed rather than destroyed. Their rage doesn't channel primal fury or ancestral power — it channels the raw instability of the plane outside, the energy that makes matter temporary and physics negotiable. They have stopped fighting the Fraying and started using it.
 
-**Chaos Channeling (Level 3).** Once per turn while raging, when you hit a creature with an attack, you can cause it to deal additional damage of a random type. Roll a d10: 1—Acid, 2—Cold, 3—Fire, 4—Force, 5—Lightning, 6—Necrotic, 7—Poison, 8—Radiant, 9—Psychic, 10—Thunder. The attack deals an additional 1d6 damage of the rolled type.
+**Chaos Channeling (Level 3)-** Once per turn while raging, when you hit a creature with an attack, you can cause it to deal additional damage of a random type. Roll a d10: 1—Acid, 2—Cold, 3—Fire, 4—Force, 5—Lightning, 6—Necrotic, 7—Poison, 8—Radiant, 9—Psychic, 10—Thunder. The attack deals an additional 1d6 damage of the rolled type.
 
-**Mutable Form (Level 6).** At the start of each rage, choose one damage type. You gain resistance to that damage type for the duration of the rage.
+**Mutable Form (Level 6) -** At the start of each rage, choose one damage type. You gain resistance to that damage type for the duration of the rage.
 
-**Etheric Dodge (Level 10).** While raging, you can use your reaction when hit by an attack to briefly phase into the chaos. Make a Constitution saving throw (DC 10 + the triggering attack roll's damage dice total, before modifiers). On a success, you take no damage from the attack. You can use this feature once per rage.
+**Etheric Dodge (Level 10) -** While raging, you can use your reaction when hit by an attack to briefly phase into the chaos. Make a Constitution saving throw (DC 10 + the triggering attack roll's damage dice total, before modifiers). On a success, you take no damage from the attack. You can use this feature once per rage.
 
-**Discorporation (Level 14).** While raging, you can use a bonus action to become incorporeal until the start of your next turn. While incorporeal, you can move through solid objects and creatures (ending your movement outside them), you are immune to nonmagical physical damage, and you cannot make physical attacks. You can use this feature once per rage.
+**Discorporation (Level 14) -** While raging, you can use a bonus action to become incorporeal until the start of your next turn. While incorporeal, you can move through solid objects and creatures (ending your movement outside them), you are immune to nonmagical physical damage, and you cannot make physical attacks. You can use this feature once per rage.
 
 ---
 
@@ -225,28 +273,28 @@ The Pax has a strong tradition of oral history, musical chronicle, and ceremonia
 Most bards in the Pax are simply good at what they do: performers, historians, social lubricants who make every gathering better. Their relationship to the Autarchs is the same live-and-let-live arrangement most citizens maintain. The fact that a bard's memory of events sometimes diverges from official accounts is, in most cases, a conversation that never quite happens.
 
 ### College of a Thousand Years
-*The Pax's living memory — oral historians who remember what the Unobserved Effect erases*
+*The Pax's living memory — oral historians who remember what time erases*
 
 Bards of the College of a Thousand Years have committed to something more than performance: they are the Pax's deliberate archive, trained to retain and transmit accurate accounts of what they personally witness. In a realm where the Unobserved Effect means that unattended things change, the College's members represent a counterforce — not through magic, but through the disciplined habit of attention and recall that their training instills.
 
-**Memory Palace (Level 3).** Your training gives you exceptional recall of events you have personally witnessed. You can accurately reproduce any conversation, scene, or document you have directly observed. Once per short rest, you can spend 1 minute in contact with an object, location, or person to receive a 1-minute sensory impression of the most significant event involving that subject within the past year (DM determines what qualifies as "significant"). You gain proficiency in History and Religion. The DM may require an Intelligence (History) check for precise details of events you witnessed more than one year ago.
+**Memory Palace (Level 3) -** Your training gives you exceptional recall of events you have personally witnessed. You can accurately reproduce any conversation, scene, or document you have directly observed. Once per short rest, you can spend 1 minute in contact with an object, location, or person to receive a 1-minute sensory impression of the most significant event involving that subject within the past year (DM determines what qualifies as "significant"). You gain proficiency in History and Religion. The DM may require an Intelligence (History) check for precise details of events you witnessed more than one year ago.
 
-**Psychic Archive (Level 6).** Once per long rest, you can cast *legend lore* without expending a spell slot, drawing on the unconscious collective memory of the Pax's inhabitants — a thousand years of people who lived here and remember it — rather than any magical or divine source. When cast this way, the information arrives as fragmented impressions from many witnesses. Additionally, when a creature uses one of your Bardic Inspiration dice, it gains advantage on the first Intelligence-based ability check it makes before the die is used.
+**Psychic Archive (Level 6) -** Once per long rest, you can cast *legend lore* without expending a spell slot, drawing on the unconscious collective memory of the Pax's inhabitants — a thousand years of people who lived here and remember it — rather than any magical or divine source. When cast this way, the information arrives as fragmented impressions from many witnesses. Additionally, when a creature uses one of your Bardic Inspiration dice, it gains advantage on the first Intelligence-based ability check it makes before the die is used.
 
-**Thousand Voices (Level 14).** Once per long rest, you can ask one question about any person, place, or event within the Pax's history. The DM provides a true answer drawn from the collective memory of the realm's inhabitants — even information that has been officially suppressed or forgotten. The answer arrives as fragmented impressions from multiple perspectives, not as a clean statement, but it is accurate.
+**Thousand Voices (Level 14) -** Once per long rest, you can ask one question about any person, place, or event within the Pax's history. The DM provides a true answer drawn from the collective memory of the realm's inhabitants — even information that has been officially suppressed or forgotten. The answer arrives as fragmented impressions from multiple perspectives, not as a clean statement, but it is accurate.
 
 ---
 
 ## Cleric
 
-The Devoti are the Pax's primary religious and philosophical tradition, and clerics are their formal clergy — practitioners who have moved beyond philosophical commitment into the active channeling of divine principle. In the Pax's understanding, the divine is not housed in a single deity but in the underlying sanctity of sovereign will: the principle that every thinking being possesses an inviolable self that cannot rightfully be surrendered or taken. Devoti clerics draw power from this principle directly.
+The Devoti are the Pax's primary religious and philosophical tradition, and clerics are their formal clergy — practitioners who have moved beyond philosophical commitment into the active channeling of divine principle. In the Pax's understanding, the divine is not housed in a single deity but in the underlying sanctity of sovereign will: the belief that every thinking being possesses an inviolable self that cannot rightfully be surrendered or taken. Devoti clerics draw power from this principle directly.
 
 Clerics serve in temple communities throughout the realm, providing spiritual guidance, officiating ceremonies, and performing the practical healing and social work that religious communities sustain. They are embedded in the Pax's civic life in a way that most other spellcasters are not — connected to neighborhood networks, trusted by people who would be suspicious of a wizard or a monk, and called upon in circumstances that require both power and discretion. Their relationship with the Autarchs is respectful and distant; the Autarchs fund Devoti temples as part of their general support for civic institutions.
 
 The Domain of Sovereignty represents a particular strain of Devoti theology: those who take the principle of inviolable will not merely as a personal belief but as a channeled divine mandate. Their magic centers specifically on protecting the self against compulsion and freeing those whose sovereignty has been violated. These clerics are not fringe figures — sovereignty is central Devoti doctrine — but their powers make them unusually aware of when something has gone wrong with another being's will.
 
 ### Domain of Sovereignty
-*Devoti clerics who channel the divine principle that every will is sacred*
+*Devoti clerics channel the divine principle that every will is sacred*
 
 Sovereignty clerics have moved past philosophical commitment into active defense of personal will. Their magic is oriented around a single question: is this being acting freely? If not, what can be done about it? In the Pax's generally ordered society, this vocation most often manifests as healing, counseling, and the removal of mundane enchantments that afflict people in any realm. It becomes something more pointed in circumstances where the answer to that first question is more complicated.
 
@@ -260,13 +308,13 @@ Sovereignty clerics have moved past philosophical commitment into active defense
 | 7th | *death ward, freedom of movement* |
 | 9th | *dream, greater restoration* |
 
-**Sovereign (Level 2).** You can use your Channel Divinity to shield a creature's will. As an action, you touch a willing creature. That creature is immune to the charmed and frightened conditions for 1 hour.
+**Sovereign Shield (Level 2) -** You can use your Channel Divinity to shield a creature's will. As an action, you touch a willing creature. That creature is immune to the charmed and frightened conditions for 1 hour.
 
-**Discern Binding (Level 6).** You always know whether a creature you can see is under a magical compulsion — including charm effects, domination, *geas*, or the conditioning mechanic described in this module. You know only whether such an effect is present; you do not know its source, nature, or duration.
+**Discern Binding (Level 6) -** You always know whether a creature you can see is under a magical compulsion — including charm effects, domination, *geas*, or similar coercive magical effects of any kind. You know only whether such an effect is present; you do not know its source, nature, or duration.
 
-**Potent Spellcasting (Level 8).** You add your Wisdom modifier to the damage you deal with any cleric cantrip.
+**Potent Spellcasting (Level 8) -** You add your Wisdom modifier to the damage you deal with any cleric cantrip.
 
-**Rupture Restraints (Level 17).** When you end a magical compulsion on a creature — through *dispel magic*, *remove curse*, or any other means — that creature immediately regains all of its hit points. For 24 hours following the removal, the creature is immune to all charm and domination effects.
+**Rupture Restraints (Level 17) -** When you end a magical compulsion on a creature — through *dispel magic*, *remove curse*, or any other means — that creature immediately regains all of its hit points. For 24 hours following the removal, the creature is immune to all charm and domination effects.
 
 ---
 
@@ -283,15 +331,15 @@ In the frontier, the role shifts. Here, the Fraying is not a philosophical conce
 
 Druids of the Circle of the Constant take their name from the Pax's great river and its central truth: in a plane of chaos, the only permanence is what you tend. Their magic is oriented toward growth in impossible conditions, toward the sustaining of life that has no business surviving where it finds itself. They are the Pax's agricultural backbone, its frontier lifeline, and the practitioners most likely to understand — in concrete, practical terms — what happens when the chaos gets closer.
 
-**Tended Growth (Level 2).** You can cause plants to take root and grow in any soil, including chaos-touched ground where normal growth is impossible. Once per long rest, you can cast *plant growth* (the 8-hour enriching version) without expending a spell slot.
+**Tended Growth (Level 2) -** You can cause plants to take root and grow in any soil, including chaos-touched ground where normal growth is impossible. Once per long rest, you can cast *plant growth* (the 8-hour enriching version) without expending a spell slot.
 
-**Constant's Blessing (Level 2).** While within 30 feet of flowing water, you have advantage on Constitution saving throws. When you take a short rest within 30 feet of flowing water, you recover one expended spell slot of the lowest level you have available.
+**Constant's Blessing (Level 2) -** While within 30 feet of flowing water, you have advantage on Constitution saving throws. When you take a short rest within 30 feet of flowing water, you recover one expended spell slot of the lowest level you have available.
 
-**Impossible Garden (Level 6).** You can cast *create food and water* at will without expending a spell slot. Plants you tend require only half the normal soil, water, and light to grow and can establish themselves in rock, sand, or magically barren ground.
+**Impossible Garden (Level 6) -** You can cast *create food and water* at will without expending a spell slot. Plants you tend require only half the normal soil, water, and light to grow and can establish themselves in rock, sand, or magically barren ground.
 
-**Unbroken Current (Level 10).** Once per long rest, you can sustain one concentration spell for up to 1 hour without making concentration checks. Taking damage does not break your concentration on this spell during that time.
+**Unbroken Current (Level 10) -** Once per long rest, you can sustain one concentration spell for up to 1 hour without making concentration checks. Taking damage does not break your concentration on this spell during that time.
 
-**Ancient Current (Level 14).** Once per long rest, you can cast *commune with nature* without expending a spell slot. When cast this way, instead of the spell's normal questions, you may ask up to five yes/no questions about the history of your current location — what grew here, who lived here, what changed, what was taken, what is hidden. The answers span the full history of the Pax.
+**Ancient Roots (Level 14) -** Once per long rest, you can cast *commune with nature* without expending a spell slot. When cast this way, instead of the spell's normal questions, you may ask up to five yes/no questions about the history of your current location — what grew here, who lived here, what changed, what was taken, what is hidden. The answers span the full history of the Pax.
 
 ---
 
@@ -308,17 +356,17 @@ Outside the Peacekeeper tradition, fighters in the Pax pursue their craft as cir
 
 Peacekeepers are trained by the Foundation in the tradition of calibrated intervention: the art of resolving conflict with the minimum necessary force, applied with precision. They have studied the philosophy of proportional response, trained in the techniques of restraint and de-escalation, and developed capabilities oriented around controlling situations rather than winning them. The Peacekeeper who stands before you may or may not currently hold a Foundation commission. Either way, they were trained by people who take this work seriously, and it shows.
 
-**Measured Response (Level 3).** When you hit a creature with an attack, you can choose to deal no damage and instead impose one of the following conditions until the start of your next turn: grappled, restrained, or frightened. The creature makes a Strength or Dexterity saving throw (your choice, DC 8 + your proficiency bonus + your Strength modifier) to resist the condition.
+**Measured Response (Level 3) -** When you hit a creature with an attack, you can choose to deal no damage and instead impose one of the following conditions until the start of your next turn: grappled, restrained, or frightened. The creature makes a Strength or Dexterity saving throw (your choice, DC 8 + your proficiency bonus + your Strength modifier) to resist the condition.
 
-**Foundation Training (Level 3).** You gain proficiency in the Insight and Persuasion skills. Once per short rest, you can cast *calm emotions* without expending a spell slot.
+**Foundation Training (Level 3) -** You gain proficiency in the Insight and Persuasion skills. Once per short rest, you can cast *calm emotions* without expending a spell slot.
 
-**Situational Awareness (Level 7).** When you have been able to observe an area for at least one full round before initiative is rolled, you have advantage on Initiative rolls. You cannot be surprised in urban environments.
+**Situational Awareness (Level 7) -** When you have been able to observe an area for at least one full round before initiative is rolled, you have advantage on Initiative rolls. You cannot be surprised in urban environments.
 
-**Precision Intervention (Level 10).** When you use Action Surge, you can choose to make the additional attacks non-lethal. All damage dealt by these attacks becomes 0, but each target hit takes the Restrained condition until the end of your next turn.
+**Precision Intervention (Level 10) -** When you use Action Surge, you can choose to make the additional attacks non-lethal. All damage dealt by these attacks becomes 0, but each target hit takes the Restrained condition until the end of your next turn.
 
-**Guardian's Resolve (Level 15).** When an ally within 5 feet of you takes damage, you can use your reaction to take half of that damage yourself (rounded down). The ally takes the other half.
+**Guardian's Resolve (Level 15) -** When an ally within 5 feet of you takes damage, you can use your reaction to take half of that damage yourself (rounded down). The ally takes the other half.
 
-**Pacific Aura (Level 18).** Once per long rest, you can declare a 30-foot radius zone of enforced calm centered on yourself. All creatures of your choice in the zone must succeed on a DC 17 Wisdom saving throw or be unable to make attacks or cast spells that deal damage for 1 minute (this requires your concentration). The effect ends immediately for a particular creature if you or any of your allies deal damage to it.
+**Pacific Aura (Level 18) -** Once per long rest, you can declare a 30-foot radius zone of enforced calm centered on yourself. All creatures of your choice in the zone must succeed on a DC 17 Wisdom saving throw or be unable to make attacks or cast spells that deal damage for 1 minute (this requires your concentration). The effect ends immediately for a particular creature if you or any of your allies deal damage to it.
 
 ---
 
@@ -335,15 +383,15 @@ The Anarch ability — the innate capacity to impose will directly on Limbo's ma
 
 Monks of the Way of the Unformed Hand have taken the Anarch ability that the Foundation trains so carefully and let it develop without institutional constraints. The result is less precise than Foundation work, less controlled — and in certain key respects, more powerful. These monks don't shape reality within approved parameters. They shape it the way Limbo itself does: completely, immediately, and with no particular regard for what was there before.
 
-**Touch of Chaos (Level 3).** You can spend 1 ki point when you hit with an unarmed strike to channel chaos energy through the blow. The strike deals an additional 1d8 damage of a random type. Roll a d10: 1—Acid, 2—Cold, 3—Fire, 4—Force, 5—Lightning, 6—Necrotic, 7—Poison, 8—Radiant, 9—Psychic, 10—Thunder.
+**Touch of Chaos (Level 3) -** You can spend 1 ki point when you hit with an unarmed strike to channel chaos energy through the blow. The strike deals an additional 1d8 damage of a random type. Roll a d10: 1—Acid, 2—Cold, 3—Fire, 4—Force, 5—Lightning, 6—Necrotic, 7—Poison, 8—Radiant, 9—Psychic, 10—Thunder.
 
-**Will Shaping (Level 3).** You can spend 2 ki points as an action to reshape nonmagical, non-living matter within 30 feet of you. The affected area is one 5-foot cube, plus one additional 5-foot cube for every 4 monk levels you have. You cannot create structural changes that would cause a collapse.
+**Will Shaping (Level 3) -** You can spend 2 ki points as an action to reshape nonmagical, non-living matter within 30 feet of you. The affected area is one 5-foot cube, plus one additional 5-foot cube for every 4 monk levels you have. You cannot create structural changes that would cause a collapse.
 
-**Translocation (Level 6).** You can spend 2 ki points to cast *misty step*. Wisdom is your spellcasting ability for this spell.
+**Translocation (Level 6) -** You can spend 2 ki points to cast *misty step*. Wisdom is your spellcasting ability for this spell.
 
-**Unraveling Strike (Level 11).** You can spend 3 ki points when you hit a creature with an unarmed strike. The creature must succeed on a Constitution saving throw (DC 8 + your proficiency bonus + your Wisdom modifier) or gain vulnerability to the next damage type it takes before the end of your next turn. On a failed save, the creature also loses its reaction until the end of its next turn.
+**Unraveling Strike (Level 11) -** You can spend 3 ki points when you hit a creature with an unarmed strike. The creature must succeed on a Constitution saving throw (DC 8 + your proficiency bonus + your Wisdom modifier) or gain vulnerability to the next damage type it takes before the end of your next turn. On a failed save, the creature also loses its reaction until the end of its next turn.
 
-**The Shape of Things (Level 17).** Once per long rest, you can spend 4 ki points as an action to enter a heightened state of will imposition that lasts for 1 minute (requires concentration). While active: Will Shaping costs a bonus action and its area increases by 2 additional cubes; your unarmed strikes deal an additional 1d10 force damage; creatures that start their turn within 60 feet of you must succeed on a Strength saving throw (DC 8 + your proficiency bonus + your Wisdom modifier) or have their speed halved until the start of their next turn.
+**The Shape of Things (Level 17) -** Once per long rest, you can spend 4 ki points as an action to enter a heightened state of will imposition that lasts for 1 minute (requires concentration). While active: Will Shaping costs a bonus action and its area increases by 2 additional cubes; your unarmed strikes deal an additional 1d10 force damage; creatures that start their turn within 60 feet of you must succeed on a Strength saving throw (DC 8 + your proficiency bonus + your Wisdom modifier) or have their speed halved until the start of their next turn.
 
 ---
 
@@ -360,24 +408,26 @@ What separates paladins from other Devoti practitioners is not the content of th
 
 Paladins of the Oath of Deliverance have made a specific commitment: not merely to believe in personal sovereignty, but to actively defend it and, where it has been violated, to restore it. Their powers center on detecting and ending compulsion, protecting the will of those around them, and — when necessary — confronting those who use coercion as a tool. In a realm as generally ordered as the Pax, most of their work is quiet. They wait, they watch, and they help where they can. The oath does not wait with them.
 
-**Oath Spells.** You gain oath spells at the paladin levels listed.
+**Oath Spells -** You gain oath spells at the paladin levels listed.
 
 | Paladin Level | Spells |
 |---|---|
 | 3rd | *detect evil and good, protection from evil and good* |
 | 5th | *calm emotions, zone of truth* |
 | 9th | *freedom of movement, guardian of faith* |
+| 13th | *banishment, death ward* |
+| 17th | *dispel evil and good, greater restoration* |
 
-**Tenets of Deliverance.** The tenets of the Oath of Deliverance are:
+**Tenets of Deliverance -** The tenets of the Oath of Deliverance are:
 - *No sovereign being may be willingly surrendered to bondage.*
 - *Truth, spoken plainly, is the only true weapon.*
 - *The chain that binds one binds all.*
 
-**Channel Divinity: Break the Chain (Level 3).** As an action, you touch a creature under any form of magical compulsion. That compulsion ends immediately, regardless of its source or level.
+**Channel Divinity: Break the Chain (Level 3) -** As an action, you touch a creature under any form of magical compulsion. That compulsion ends immediately, regardless of its source or level.
 
-**Channel Divinity: Voice of Sincerity (Level 3).** As an action, you speak a true statement aloud. Choose one creature within 30 feet that can hear you. That creature must succeed on a Charisma saving throw (DC equal to your spell save DC) or be compelled to speak the one true thing it most wants to conceal. The creature repeats the saving throw at the end of each of its turns, ending the effect on a success.
+**Channel Divinity: Voice of Sincerity (Level 3) -** As an action, you speak a true statement aloud. Choose one creature within 30 feet that can hear you. That creature must succeed on a Charisma saving throw (DC equal to your spell save DC) or be compelled to speak the one true thing it most wants to conceal. The creature repeats the saving throw at the end of each of its turns, ending the effect on a success.
 
-**Aura of Sovereignty (Level 7).** Creatures of your choice within 10 feet of you are immune to the charmed and frightened conditions. At 18th level, this aura extends to 30 feet.
+**Aura of Sovereignty (Level 7) -** Creatures of your choice within 10 feet of you are immune to the charmed and frightened conditions. At 18th level, this aura extends to 30 feet.
 
 **Righteous Aegis (Level 15).** Once per long rest, when you or a creature within 30 feet of you is targeted by a charm, domination, or fear effect, you can use your reaction to negate the effect entirely. The creature or source that attempted the effect takes 4d8 radiant damage (no saving throw).
 
@@ -448,9 +498,7 @@ Playing a sorcerer in the Pax means knowing what your relationship to the Founda
 
 Anarch Blood sorcerers carry the same fundamental ability that the Foundation trains and channels — the capacity to impose will directly on the fabric of Limbo. The difference is that their power arrived untrained, unstructured, and without institutional guidance, and it has developed accordingly. Where Foundation Anarchs learn precision, Anarch Blood sorcerers develop range and instinct. Their magic is less predictable and more responsive; the kind of power that doesn't ask for directions.
 
-**Transmutation of Force (Level 1).** You can spend 1 sorcery point when you cast a spell that deals damage to change its damage type to any damage type of your choice. The change applies to all damage dealt by the spell on that casting.
-
-**Arcane Tether (Level 1).** When you cast a spell that creates a persistent physical effect — a wall, a structure, a terrain feature, a conjured object — the effect lasts twice as long as normal and has twice the normal hit points (if applicable).
+**Transmutation of Force (Level 1).** You can spend 1 sorcery point when you cast a spell that deals damage to change its damage type to any damage type of your choice. The change applies to all damage dealt by the spell on that casting. Additionally, when you cast a spell that creates a persistent physical effect — a wall, a structure, a terrain feature, a conjured object — the effect lasts twice as long as normal and has twice the normal hit points (if applicable).
 
 **Anarch Surge (Level 6).** Once per short rest, you can cast a spell of 1st level or higher without expending a spell slot. When you do, roll a d6. On a 1 or 2, a wild magic surge occurs (roll on the Wild Magic Surge table as per the Wild Magic Sorcerous Origin). On a 3 or higher, the surge is suppressed and the spell is cast normally.
 
@@ -528,7 +576,7 @@ The following backgrounds are specific to the Pax. Use them in addition to the s
 **Languages:** One of your choice
 **Equipment:** A set of fine clothes, a guild membership token, a small Devoti shrine token, a pouch containing 15 gp
 
-**Feature: Guild Network.** You belong to several civic organizations, as all Pax citizens do. Once per session, you can invoke your guild connections to obtain information, a favor, or an introduction. The DM determines the scope of what's available, but citizens of the Pax look out for each other.
+**Feature: Civic Ties.** You belong to several civic organizations, as all Pax citizens do. Once per session, you can invoke your guild connections to obtain information, a favor, or an introduction. The DM determines the scope of what's available, but citizens of the Pax look out for each other.
 
 *Suggested personality:* You believe in the Pax — its institutions, its traditions, its people. Discovering its contradictions will affect you specifically because you had specific faith to lose.
 

@@ -1,7 +1,7 @@
-# IN LIMBO
+# TERMINUS PAX
 ## Player's Guide to the Pax
 
-*A setting guide for players in the In Limbo campaign*
+*A setting guide for players in the Terminus Pax campaign*
 
 ---
 
@@ -17,11 +17,11 @@ The Pax has existed for a thousand years. This fact is the first thing children 
 
 In planar terms, the Pax is what scholars call a *Domain* — a region of Limbo stable enough to sustain permanent habitation, held together against the chaos by sufficient will, power, or circumstance to resist dissolution. Domains are not uncommon in Limbo; what is uncommon is what the Pax has made of one. The largest and most powerful Domains in the plane are embattled things, requiring continuous effort to maintain even basic cohesion. They shift at the edges, lose ground to the chaos, demand their inhabitants' collective attention to keep from collapsing inward. Maintaining a Domain of any meaningful size is a consuming, precarious undertaking — most such communities are perpetually one bad year from losing everything.
 
-The Pax does not appear to struggle at all. This is, if you think about it, the most remarkable thing about it.
+To most of it's residents, the Pax does not appear to struggle at all. This is quite a remarkable thing to say for a realm that exists within a place of pure chaos. 
 
 The plane of Limbo — the chaos — surrounds your home on all sides, above and below, always moving, always consuming. The Githzerai maintain their monasteries through individual will and ancient practice. The Xaositects ride the chaos rather than resisting it. Only the Pax — this island, this community, this particular experiment in ordered living — has persisted for a full millennium as a place where ordinary people can make ordinary lives.
 
-Your character has grown up in this stability. You know the River Constant from childhood. You have looked up at the artificial sun and taken its steady light for granted. You have passed Foundation peacekeepers on your way to market without thinking twice. The Pax is not perfect — no place with a council is perfect — but it is *yours*.
+Your character has grown up in this stability. You know the River Constant from childhood. You have looked up at the artificial sun and taken its steady light for granted. You have passed Foundation peacekeepers on your way to market without thinking twice. The Pax is not perfect — no is — but it is *yours*.
 
 The long success of the Pax is inextricably linked, in most citizens' understanding, to the Autarchs — the realm's mysterious founders and rulers, who have presided over a thousand years of unprecedented stability from their mountain seat. Whatever the Autarchs are doing, it appears to be working. Citizens who have spent time studying planar history tend to stop asking how the Pax holds together and start asking what holds the Autarchs together. It is a question that does not have a public answer.
 
@@ -195,7 +195,7 @@ All officially published 5e races are available to characters native to the Pax.
 
 **Rare but present:** The Created (see below for full racial traits), Kenku, Tortle, and other exotic races (work with your DM on flavor)
 
-**Githzerai characters specifically:** You are a citizen of the Pax — descended from Githzerai who settled here generations ago, or recently emigrated. You probably have some contact with the nearby monastery, even if you chose not to join it. Zerith knows of your family; you know of her reputation.
+**Githzerai characters specifically:** You are a citizen of the Pax — descended from Githzerai who settled here generations ago, or recently emigrated. You probably have some contact with the nearby monastery, even if you chose not to join it. 
 
 ## The Created
 
@@ -429,9 +429,9 @@ Paladins of the Oath of Deliverance have made a specific commitment: not merely 
 
 **Aura of Sovereignty (Level 7) -** Creatures of your choice within 10 feet of you are immune to the charmed and frightened conditions. At 18th level, this aura extends to 30 feet.
 
-**Righteous Aegis (Level 15).** Once per long rest, when you or a creature within 30 feet of you is targeted by a charm, domination, or fear effect, you can use your reaction to negate the effect entirely. The creature or source that attempted the effect takes 4d8 radiant damage (no saving throw).
+**Righteous Aegis (Level 15) -** Once per long rest, when you or a creature within 30 feet of you is targeted by a charm, domination, or fear effect, you can use your reaction to negate the effect entirely. The creature or source that attempted the effect takes 4d8 radiant damage (no saving throw).
 
-**Conviction (Level 20).** As an action, you can enter a state of absolute conviction that lasts for 1 hour. While active: you emit bright light in a 30-foot radius and dim light for an additional 30 feet; you are immune to the charmed and frightened conditions; you can use Break the Chain as a bonus action, affecting all creatures you can see simultaneously; your Aura of Sovereignty expands to 60 feet.
+**Conviction (Level 20) -** As an action, you can enter a state of absolute conviction that lasts for 1 hour. While active: you emit bright light in a 30-foot radius and dim light for an additional 30 feet; you are immune to the charmed and frightened conditions; you can use Break the Chain as a bonus action, affecting all creatures you can see simultaneously; your Aura of Sovereignty expands to 60 feet.
 
 ---
 
@@ -448,15 +448,15 @@ In the Pax's interior, rangers find other roles: game wardens along the Constant
 
 Rangers of the Vanishing Shore have stopped treating the Fraying as a hazard to navigate around and started treating it as terrain to master. They know the behavior of chaos matter — how it shifts, what it responds to, which manifestations are dangerous and which are merely strange. Some came to this knowledge through years of frontier work; others have a temperamental affinity for instability that made them naturals from the start. Either way, they move through dissolving terrain, use chaos itself as cover, and fire through the spaces that ordinary physics pretends don't exist.
 
-**Frontier Expertise (Level 3).** You can always choose Fraying frontier and Limbo environment as favored terrain options, regardless of which terrain types your ranger archetype normally offers. You gain advantage on Wisdom (Survival) checks to navigate, track, or predict conditions in these environments.
+**Frontier Expertise (Level 3) -** You can always choose Fraying frontier and Limbo environment as favored terrain options, regardless of which terrain types your ranger archetype normally offers. You gain advantage on Wisdom (Survival) checks to navigate, track, or predict conditions in these environments.
 
-**Entropic Camouflage (Level 3).** While in Fraying frontier or Limbo environments, you can use a bonus action to briefly dissolve your outline into the surrounding chaos. You become invisible until the start of your next turn or until you make an attack roll, whichever comes first. Once you use this feature, you can't use it again until you finish a short or long rest.
+**Entropic Camouflage (Level 3) -** While in Fraying frontier or Limbo environments, you can use a bonus action to briefly dissolve your outline into the surrounding chaos. You become invisible until the start of your next turn or until you make an attack roll, whichever comes first. Once you use this feature, you can't use it again until you finish a short or long rest.
 
-**Unsteady Ground (Level 7).** You've learned to use the terrain as a weapon. When a creature within 30 feet of you that you can see moves while in Fraying frontier or Limbo terrain, you can use your reaction to destabilize the ground beneath it: the creature must succeed on a Strength saving throw (DC 8 + your proficiency bonus + your Wisdom modifier) or fall prone. You can use this feature a number of times equal to your proficiency bonus, and you regain all uses when you finish a long rest.
+**Unsteady Ground (Level 7) -** You've learned to use the terrain as a weapon. When a creature within 30 feet of you that you can see moves while in Fraying frontier or Limbo terrain, you can use your reaction to destabilize the ground beneath it: the creature must succeed on a Strength saving throw (DC 8 + your proficiency bonus + your Wisdom modifier) or fall prone. You can use this feature a number of times equal to your proficiency bonus, and you regain all uses when you finish a long rest.
 
-**Chaos Arrow (Level 11).** When you make a ranged weapon attack, you can choose to route the projectile through a brief fold in chaos. The attack ignores all cover and can target invisible creatures without disadvantage. On a hit, roll a d10 to determine the type of additional damage dealt (1—Acid, 2—Cold, 3—Fire, 4—Force, 5—Lightning, 6—Necrotic, 7—Poison, 8—Radiant, 9—Psychic, 10—Thunder); the attack deals an additional 1d10 damage of that type. You can use this feature twice, and you regain all uses when you finish a short or long rest.
+**Chaos Arrow (Level 11) -** When you make a ranged weapon attack, you can choose to route the projectile through a brief fold in chaos. The attack ignores all cover and can target invisible creatures without disadvantage. On a hit, roll a d10 to determine the type of additional damage dealt (1—Acid, 2—Cold, 3—Fire, 4—Force, 5—Lightning, 6—Necrotic, 7—Poison, 8—Radiant, 9—Psychic, 10—Thunder); the attack deals an additional 1d10 damage of that type. You can use this feature twice, and you regain all uses when you finish a short or long rest.
 
-**Eyes of the Unraveling (Level 15).** Your time at the edge of existence has sharpened your perception beyond what normal sight allows. You can see normally in magical darkness and through illusions as if they were not present (you do not need to interact with them to notice them). Once per long rest, you can cast *true seeing* without expending a spell slot.
+**Mystic Sight (Level 15) -** Your time at the edge of existence has sharpened your perception beyond what normal sight allows. You can see normally in magical darkness and through illusions as if they were not present (you do not need to interact with them to notice them). Once per long rest, you can cast *true seeing* without expending a spell slot.
 
 ---
 
@@ -473,15 +473,15 @@ Rogues in the Pax are defined by adaptability more than any particular skillset.
 
 A Freelancer's edge isn't any single skill — it's the habit of preparation that makes every other skill more effective. These rogues invest in networks of contacts, favors owed, and contingencies laid down before the job began. When something goes wrong (and something always goes wrong), they already have a plan for it. The Freelancer's Guild fosters this approach: not rules, but a culture of professional competence, mutual aid, and the understanding that your reputation is the only thing worth protecting long-term.
 
-**Guild Network (Level 3).** You have contacts. Once per session, you can invoke your network to acquire one of the following: a piece of local information (recent events, specific rumors, a person's last known whereabouts), a safe house for one night, or a piece of non-magical equipment worth up to 50 gp (increasing to 100 gp at 6th level, 200 gp at 9th level, 400 gp at 12th level, 800 gp at 15th level, and 1,600 gp at 18th level), arriving within the hour. The DM may determine that a specific request is beyond your network's reach in a given location.
+**Guild Network (Level 3) -** You have contacts. Once per session, you can invoke your network to acquire one of the following: a piece of local information (recent events, specific rumors, a person's last known whereabouts), a safe house for one night, or a piece of non-magical equipment worth up to 50 gp (increasing to 100 gp at 6th level, 200 gp at 9th level, 400 gp at 12th level, 800 gp at 15th level, and 1,600 gp at 18th level), arriving within the hour. The DM may determine that a specific request is beyond your network's reach in a given location.
 
-**Discerning Eye (Level 3).** You can use a bonus action to study a creature you can see and identify its most exploitable vulnerability. Learn one of the following (your choice): one damage type the creature is vulnerable to, the creature's current hit point range (healthy, bloodied at roughly half HP, or critical below one-quarter HP), or one condition that the creature is not immune to. You can use this feature once per short rest.
+**Discerning Eye (Level 3) -** You can use a bonus action to study a creature you can see and identify its most exploitable vulnerability. Learn one of the following (your choice): one damage type the creature is vulnerable to, the creature's current hit point range (healthy, bloodied at roughly half HP, or critical below one-quarter HP), or one condition that the creature is not immune to. You can use this feature once per short rest.
 
-**Adaptive Strike (Level 9).** Once per turn when you deal Sneak Attack damage, you can choose the damage type: piercing, slashing, bludgeoning, or psychic. If you used Discerning Eye to identify a damage vulnerability, you can instead deal damage of that vulnerability type.
+**Adaptive Strike (Level 9) -** Once per turn when you deal Sneak Attack damage, you can choose the damage type: piercing, slashing, bludgeoning, or psychic. If you used Discerning Eye to identify a damage vulnerability, you can instead deal damage of that vulnerability type.
 
-**Contingency Plan (Level 13).** When you would fail a saving throw, you can use your reaction to succeed instead. Once you use this feature, you can't use it again until you finish a short rest.
+**Contingency Plan (Level 13) -** When you would fail a saving throw, you can use your reaction to succeed instead. Once you use this feature, you can't use it again until you finish a short rest.
 
-**Inscrutability (Level 17).** You cannot be tracked by magical means unless you choose to be. You are immune to the *zone of truth* spell and to any magical effect that would compel you to speak truthfully. Once per long rest, you can take the Hide action as a free action immediately after making an attack, regardless of whether you have cover or concealment.
+**Inscrutability (Level 17) -** You cannot be tracked by magical means unless you choose to be. You are immune to the *zone of truth* spell and to any magical effect that would compel you to speak truthfully. Once per long rest, you can take the Hide action as a free action immediately after making an attack, regardless of whether you have cover or concealment.
 
 ---
 
@@ -498,13 +498,13 @@ Playing a sorcerer in the Pax means knowing what your relationship to the Founda
 
 Anarch Blood sorcerers carry the same fundamental ability that the Foundation trains and channels — the capacity to impose will directly on the fabric of Limbo. The difference is that their power arrived untrained, unstructured, and without institutional guidance, and it has developed accordingly. Where Foundation Anarchs learn precision, Anarch Blood sorcerers develop range and instinct. Their magic is less predictable and more responsive; the kind of power that doesn't ask for directions.
 
-**Transmutation of Force (Level 1).** You can spend 1 sorcery point when you cast a spell that deals damage to change its damage type to any damage type of your choice. The change applies to all damage dealt by the spell on that casting. Additionally, when you cast a spell that creates a persistent physical effect — a wall, a structure, a terrain feature, a conjured object — the effect lasts twice as long as normal and has twice the normal hit points (if applicable).
+**Transmutation of Force (Level 1) -** You can spend 1 sorcery point when you cast a spell that deals damage to change its damage type to any damage type of your choice. The change applies to all damage dealt by the spell on that casting. Additionally, when you cast a spell that creates a persistent physical effect — a wall, a structure, a terrain feature, a conjured object — the effect lasts twice as long as normal and has twice the normal hit points (if applicable).
 
-**Anarch Surge (Level 6).** Once per short rest, you can cast a spell of 1st level or higher without expending a spell slot. When you do, roll a d6. On a 1 or 2, a wild magic surge occurs (roll on the Wild Magic Surge table as per the Wild Magic Sorcerous Origin). On a 3 or higher, the surge is suppressed and the spell is cast normally.
+**Anarch Surge (Level 6) -** Once per short rest, you can cast a spell of 1st level or higher without expending a spell slot. When you do, roll a d6. On a 1 or 2, a wild magic surge occurs (roll on the Wild Magic Surge table as per the Wild Magic Sorcerous Origin). On a 3 or higher, the surge is suppressed and the spell is cast normally.
 
-**Reality Shaping (Level 14).** Once per long rest, you can use your action to instantly reshape terrain within a cube you can see with dimensions of 10 feet, increasing by 10 feet for each sorcerer level beyond 14th — stone to water, solid ground to open air, earth to dense vegetation, and similar transformations. The change is permanent and requires no concentration. The DM determines the precise limits of what can be transformed in a given casting.
+**Reality Shaping (Level 14) -** Once per long rest, you can use your action to instantly reshape terrain within a cube you can see with dimensions of 10 feet, increasing by 10 feet for each sorcerer level beyond 14th — stone to water, solid ground to open air, earth to dense vegetation, and similar transformations. The change is permanent and requires no concentration. The DM determines the precise limits of what can be transformed in a given casting.
 
-**Relativistic Anchor (Level 18).** While you are in the Pax or in Limbo, all environmental chaos effects — including random terrain transformation, Fraying encounter effects, and chaotic wild magic that would affect you — are automatically negated. Additionally, allies within 30 feet of you are immune to chaos-based environmental hazards.
+**Relativistic Anchor (Level 18) -** While you are in the Pax or in Limbo, all environmental chaos effects — including random terrain transformation, Fraying encounter effects, and chaotic wild magic that would affect you — are automatically negated. Additionally, allies within 30 feet of you are immune to chaos-based environmental hazards.
 
 ---
 
@@ -521,7 +521,7 @@ Playing a warlock in the Pax means knowing which door you walked through and how
 
 A warlock of the Autarch Pact received their compact as something that felt, at the time, like an obvious yes: real power, genuine access, a sense of institutional backing from the most significant authority in the realm. What they perhaps didn't fully consider was that the authority in question has collective interests — and has been quietly shaping the warlock's opportunities in directions that serve those interests. The warlock is aware of this, to a degree. What they do about it is their own affair.
 
-**Expanded Spell List.** The Autarch Pact lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
+**Expanded Spell List -** The Autarch Pact lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
 
 | Spell Level | Spells |
 |---|---|
@@ -531,13 +531,13 @@ A warlock of the Autarch Pact received their compact as something that felt, at 
 | 4th | *arcane eye, confusion* |
 | 5th | *dominate person, modify memory* |
 
-**Mask of Authority (Level 1).** Once per long rest, you can invoke your patrons' authority. For 1 minute, you project an aura of absolute institutional legitimacy. Creatures of a challenge rating equal to or less than your proficiency bonus that fail a Charisma saving throw (DC equal to your spell save DC) treat your words as legitimate official commands — not magical compulsion, simply authority they have no framework for questioning. This feature has no effect on creatures already engaged in combat with you or your allies, and affected creatures must be able to hear and understand you. The effect ends for a particular creature if you or any of your allies deal damage to it, or if you act in a way that obviously contradicts the legitimacy you are projecting.
+**Mask of Authority (Level 1) -** Once per long rest, you can invoke your patrons' authority. For 1 minute, you project an aura of absolute institutional legitimacy. Creatures of a challenge rating equal to or less than your proficiency bonus that fail a Charisma saving throw (DC equal to your spell save DC) treat your words as legitimate official commands — not magical compulsion, simply authority they have no framework for questioning. This feature has no effect on creatures already engaged in combat with you or your allies, and affected creatures must be able to hear and understand you. The effect ends for a particular creature if you or any of your allies deal damage to it, or if you act in a way that obviously contradicts the legitimacy you are projecting.
 
-**I Was Watching (Level 6).** Once per short rest, you can declare that your patrons observed something on your behalf. You retroactively gain one piece of specific information about a person, place, or recent event within the Pax: a location, a recent conversation, a face connected to a name. The information is accurate. The DM determines its precise form and scope.
+**I Was Watching (Level 6) -** Once per short rest, you can declare that your patrons observed something on your behalf. You retroactively gain one piece of specific information about a person, place, or recent event within the Pax: a location, a recent conversation, a face connected to a name. The information is accurate. The DM determines its precise form and scope.
 
-**Protected Asset (Level 10).** When you would be reduced to 0 hit points, you instead drop to 1 hit point and become invisible until the end of your next turn, your patrons briefly redirecting their attention to keep you operational. Once used, this feature cannot recharge until you complete a long rest and have reported recent events to your patrons. The method of reporting is established between you and your patrons. The requirement is not.
+**Protected Asset (Level 10) -** When you would be reduced to 0 hit points, you instead drop to 1 hit point and become invisible until the end of your next turn, your patrons briefly redirecting their attention to keep you operational. Once used, this feature cannot recharge until you complete a long rest and have reported recent events to your patrons. The method of reporting is established between you and your patrons. The requirement is not.
 
-**Telepathic Intervention (Level 14).** Once per long rest, when a creature you can see makes an attack roll, ability check, or saving throw, you can use your reaction to impose subtle influence: the creature must roll again and take the lower result. The effect manifests as a moment of doubt or hesitation and does not appear as magic unless specifically detected. The creature can resist with a DC 18 Wisdom saving throw; on a success, the creature also recognizes it was being manipulated. The Autarchs are aware each time you use this feature.
+**Telepathic Intervention (Level 14) -** Once per long rest, when a creature you can see makes an attack roll, ability check, or saving throw, you can use your reaction to impose subtle influence: the creature must roll again and take the lower result. The effect manifests as a moment of doubt or hesitation and does not appear as magic unless specifically detected. The creature can resist with a DC 18 Wisdom saving throw; on a success, the creature also recognizes it was being manipulated. The Autarchs are aware each time you use this feature.
 
 ---
 
@@ -554,15 +554,15 @@ Arcane Geometry wizards tend to be meticulous, systematic, and comfortable with 
 
 Wizards of the Arcane Geometry tradition specialize in the structural mathematics underlying the Pax's magical infrastructure — planar anchors, chaos suppression wards, boundary maintenance, stabilization protocols. These are not abstract academics. They are called in when something is failing and needed before anyone else knows it's failing, and their work requires a combination of theoretical depth and practical urgency that distinguishes them from scholars who work only in archives. The formulas they study are extraordinarily sophisticated, clearly the product of considerable accumulated knowledge, and contain at least one variable whose source no official text has ever named.
 
-**Structural Assessment (Level 2).** Once per short rest, you can spend 1 minute studying a physical structure, magical field, or planar boundary within reach. You learn its current structural integrity, what is maintaining it, whether it has been recently altered or damaged, and one significant anomaly or point of vulnerability (DM's choice). This feature works on any magical infrastructure within the Pax, including planar anchors, chaos suppression wards, and the Pax-Limbo boundary.
+**Structural Assessment (Level 2) -** Once per short rest, you can spend 1 minute studying a physical structure, magical field, or planar boundary within reach. You learn its current structural integrity, what is maintaining it, whether it has been recently altered or damaged, and one significant anomaly or point of vulnerability (DM's choice). This feature works on any magical infrastructure within the Pax, including planar anchors, chaos suppression wards, and the Pax-Limbo boundary.
 
-**Arcane Annealing (Level 2).** You can cast *mending* as a bonus action rather than an action, and it repairs magical damage as well as physical damage. Once per short rest, you can use this enhanced casting to restore an object weighing up to 10 pounds to complete functionality regardless of the extent of its damage.
+**Arcane Annealing (Level 2) -** You can cast *mending* as a bonus action rather than an action, and it repairs magical damage as well as physical damage. Once per short rest, you can use this enhanced casting to restore an object weighing up to 10 pounds to complete functionality regardless of the extent of its damage.
 
-**Planar Anchor (Level 6).** Once per long rest, you can cast *private sanctum* without expending a spell slot. While concentrating on this spell, the warded area gains additional stability: creatures within it cannot be involuntarily teleported or planeshifted, and all environmental chaos effects — Fraying encounters, terrain transformation, wild magic — are suppressed within the boundary.
+**Planar Anchor (Level 6) -** Once per long rest, you can cast *private sanctum* without expending a spell slot. While concentrating on this spell, the warded area gains additional stability: creatures within it cannot be involuntarily teleported or planeshifted, and all environmental chaos effects — Fraying encounters, terrain transformation, wild magic — are suppressed within the boundary.
 
-**Perfected Formulae (Level 10).** Your internalization of structural formulas allows you to optimize the geometric expression of your own spells. When you cast a wizard spell of 1st level or higher, you can apply one of the following enhancements without expending an additional resource: the spell ignores resistance (but not immunity) to its damage type; the spell's range is doubled; or the spell's duration is doubled (maximum 24 hours). Once you use this feature, you can't use it again until you finish a short rest.
+**Perfected Formulae (Level 10) -** Your internalization of structural formulas allows you to optimize the geometric expression of your own spells. When you cast a wizard spell of 1st level or higher, you can apply one of the following enhancements without expending an additional resource: the spell ignores resistance (but not immunity) to its damage type; the spell's range is doubled; or the spell's duration is doubled (maximum 24 hours). Once you use this feature, you can't use it again until you finish a short rest.
 
-**Geometric Snare (Level 14).** Once per long rest, when an arcane spell whose level is equal to or less than the highest-level spell slot you currently have is cast within 120 feet of you, you can use your reaction to deconstruct its geometric structure before it completes. This feature affects only arcane spells — those from the wizard, sorcerer, warlock, or bard spell lists. It has no effect on divine spells (cleric, druid, paladin, or ranger) or on spell-like abilities. This functions as *counterspell* but requires no spell slot and requires no ability check. After using this feature, you may identify the precise formula of the countered spell; if it was a wizard spell, you may copy it into your spellbook as if you had found a written copy.
+**Geometric Snare (Level 14) -** Once per long rest, when an arcane spell whose level is equal to or less than the highest-level spell slot you currently have is cast within 120 feet of you, you can use your reaction to deconstruct its geometric structure before it completes. This feature affects only arcane spells — those from the wizard, sorcerer, warlock, or bard spell lists. It has no effect on divine spells (cleric, druid, paladin, or ranger) or on spell-like abilities. This functions as *counterspell* but requires no spell slot and requires no ability check. After using this feature, you may identify the precise formula of the countered spell; if it was a wizard spell, you may copy it into your spellbook as if you had found a written copy.
 
 ## Custom Backgrounds
 
@@ -571,36 +571,45 @@ The following backgrounds are specific to the Pax. Use them in addition to the s
 ---
 
 ### Realm Citizen
+
+The Pax is full of citizens who know how it works and have grown comfortable working within it — people embedded in the guild system, networked into the Devoti tradition, familiar with which council members actually respond to correspondence and which do not. Realm Citizens are these people. They have spent their lives in the fabric of the Pax's institutions, accumulating social connections the way others accumulate tools or debts, and they have come to trust the system they inhabit in the way you trust something that has never meaningfully failed you. The adventure ahead will test that trust in ways they did not anticipate. Their prior investment in the Pax's legitimacy is not a weakness — it is what gives everything that follows its weight.
+
 **Skill Proficiencies:** History, Persuasion
 **Tool Proficiencies:** One type of artisan's tools or one gaming set
 **Languages:** One of your choice
 **Equipment:** A set of fine clothes, a guild membership token, a small Devoti shrine token, a pouch containing 15 gp
 
-**Feature: Civic Ties.** You belong to several civic organizations, as all Pax citizens do. Once per session, you can invoke your guild connections to obtain information, a favor, or an introduction. The DM determines the scope of what's available, but citizens of the Pax look out for each other.
+**Feature: Civic Ties -** You belong to several civic organizations, as all Pax citizens do. Once per session, you can invoke your guild connections to obtain information, a favor, or an introduction. The DM determines the scope of what's available, but citizens of the Pax look out for each other.
 
 *Suggested personality:* You believe in the Pax — its institutions, its traditions, its people. Discovering its contradictions will affect you specifically because you had specific faith to lose.
 
 ---
 
 ### Frontier Survivor
+
+The frontier is not where the Pax presents its best face. Out beyond the Heartlands — in the Highlands, the Scrublands, the far delta communities — life has always been harder and more communal, with fewer institutional resources and more direct exposure to what Limbo does when it isn't being held back. Frontier Survivors come from this world. They grew up knowing which signs mean the chaos is advancing and which are routine, learning the names of people in settlements three days' travel away because those relationships are survival. When the Fraying began accelerating, they saw it before the capital did. Many of them are still waiting for the capital to catch up.
+
 **Skill Proficiencies:** Nature, Survival
 **Tool Proficiencies:** Herbalism kit
 **Languages:** One of your choice
 **Equipment:** A traveler's pack, a set of frontier clothes (practical, worn), a map of your home region (possibly partly dissolved), a pouch containing 10 gp
 
-**Feature: Frontier Knowledge.** You know the Pax's border regions better than any city-dweller. You have advantage on Survival and Nature checks in frontier environments. You recognize signs of chaos incursion that others might miss, and frontier settlers trust you more readily than they trust people from the capital.
+**Feature: Frontier Knowledge -** You know the Pax's border regions better than any city-dweller. You have advantage on Survival and Nature checks in frontier environments. You recognize signs of chaos incursion that others might miss, and frontier settlers trust you more readily than they trust people from the capital.
 
 *Suggested personality:* You are practical, self-reliant, and quietly angry at the capital's inadequate response to the frontier crisis. You have seen the dissolution up close. You know it is not being handled.
 
 ---
 
 ### Order Acolyte
+
+The Foundation selects its trainees young and trains them thoroughly: eight years of discipline, philosophy, arcane practice, and the development of whatever Anarch ability a student carries into the order. Most who begin this path complete it. The Order Acolyte did not. They walked away — respectfully, and without incident, in most cases, though the order noted the choice and continues to — from the path most expected of them, carrying a partial education and a particular kind of knowledge that comes only from being inside something long enough to understand how it prefers to present itself. The Foundation treats former trainees with the specific ambivalence reserved for people who were almost one of them. They are used to it.
+
 **Skill Proficiencies:** Arcana, Insight
 **Tool Proficiencies:** Calligrapher's supplies
 **Languages:** One of your choice
 **Equipment:** A Foundation training text (old, personal, well-worn), a white robe (kept, though no longer worn), a small arcane focus, a pouch containing 12 gp
 
-**Feature: Foundation Training.** You underwent eight years of Foundation training and chose not to formally join. You know the order's practices, its publicly-facing culture, and its behavioral patterns. Foundation members recognize you as a former trainee and treat you with a certain ambivalence — respect for the training, uncertainty about the choice. You have advantage on Insight checks when interacting with Foundation members, and you can recognize conditioning-related behavioral signs (with a DC 14 Wisdom check) that others might miss.
+**Feature: Foundation Training -** You underwent eight years of Foundation training and chose not to formally join. You know the order's practices, its publicly-facing culture, and its behavioral patterns. Foundation members recognize you as a former trainee and treat you with a certain ambivalence — respect for the training, uncertainty about the choice. You have advantage on Insight checks when interacting with Foundation members, and you can recognize conditioning-related behavioral signs (with a DC 14 Wisdom check) that others might miss.
 
 *Suggested personality:* You left the Foundation at the hardest moment — when leaving was most difficult and staying most expected. Something in the training didn't sit right. You don't talk about it easily.
 

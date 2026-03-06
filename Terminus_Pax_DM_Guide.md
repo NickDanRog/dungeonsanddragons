@@ -1,4 +1,4 @@
-# IN LIMBO
+# TERMINUS PAX
 ## Dungeon Master's Guide
 
 *A D&D 5th Edition adventure for characters of levels 1–15*

@@ -221,19 +221,197 @@ What the kingdom does have is ethnic diversity — distinct heritage groups with
 
 ---
 
-> **[PLACEHOLDER — Ethnicity Details]**
->
-> *This section will contain 4–6 alternate human ethnicity entries, each with the following format:*
->
-> **[Ethnicity Name]**
->
-> *[2–3 sentences of lore: which strand of Artaxartoi heritage this group represents, where they tend to cluster geographically, how they are perceived within the broader culture]*
->
-> **Ability Score Increase.** Your [Ability Score] score increases by [amount].
->
-> **[Special Feature Name].** [1–2 sentences of mechanical text describing the feature's trigger, effect, and any relevant rules.]
->
-> *The user will supply the ethnicity names, lore, stat increases, and special features. Insert them here when provided.*
+*The following entries are organized into three groups: the native Artaxartoi stock, the neighboring regional peoples, and those descended from other peoples of the former Bandorian Empire. Characters from any of these backgrounds are full citizens of Artaxarta; the groups differ in how recently their ancestors arrived and how thoroughly they have been absorbed into the kingdom's fusion culture.*
+
+---
+
+### The Artaxartoi
+
+The native people of the mountain kingdom — the tribal stock that gave Artaxarta its name, its goddess in her oldest form, and its deep resistance to outside conquest. Most modern Artaxartoi carry mixed heritage from centuries of Xoshan and Bandorian settlement; characters who choose this ethnicity represent those from upland clan families or northern valley communities whose lineage has been least blended with heartlander stock. They are the keepers of the oldest forms: Lhakmana before she was Ilura, the tribal names, and the clan obligations that have structured life in these mountains for longer than written record.
+
+*Medium height and build; range of hair and eye colors. Those from highland communities tend toward darker complexions; those from the valleys toward lighter. Characters of Delian or Bandorian family lineage may use naming conventions from those heritages instead.*
+
+**Male names:** Arslan, Bahram, Ghazin, Mehran, Sarbaz | **Female names:** Brekhna, Hila, Mina, Noora, Parvana | **Clan names:** Bescan, Doran, Keth, Yala Ves, Zadar
+
+**Ability Score Increase.** Your Strength score increases by 1, and your Wisdom score increases by 1.
+
+**Skill Proficiency.** You gain proficiency in your choice of History, Insight, or one tool of your choice.
+
+**Clan Hospitality.** When traveling within the kingdom, you can prevail on members of your clan or known clan allies to provide food and shelter at no cost. This hospitality traditionally holds for three days, after which it is repaid through acts of service on the part of the guest.
+
+---
+
+### Regional Peoples
+
+*The following groups are native to the region immediately surrounding Artaxarta — neighboring peoples whose presence within the kingdom ranges from long-established immigrant communities to more recent arrivals. Most families who spend more than a generation or two here assimilate into Artaxartoi culture, something it excels at; these entries represent individuals who have maintained a clear connection to their heritage.*
+
+---
+
+### Astani
+
+Descended from the horse riders of the great Astani plain, the Astani are found primarily in the neighboring Kingdom of Asta, the Principate of Morna, and the larger Grand Duchy of Asta to the west — all states that share the Artaxartoi border and maintain the Altair worship that makes them cultural enemies of this kingdom. Astani immigrants to Artaxarta tend to set their religious affiliation quietly aside; what they do not set aside is their fiercely competitive nature, their love of horses, and the dueling tradition that structures how their culture resolves insults and disputes. They are met with a wariness tied more to their ancestral religion than to their character, which the Artaxartoi generally find comprehensible.
+
+*Smaller and slighter than average; pale skin, dark hair and eyes.*
+
+**Male names:** Antonio, Guiseppe, Lorenzo, Salvatore, Tommaso | **Female names:** Aurora, Bianca, Lucia, Sofia, Valentina | **Surnames:** Caruso, Colombino, Esposito, Marino, Rossi
+
+**Ability Score Increase.** Your Charisma score increases by 1, and your Dexterity score increases by 1.
+
+**Skill Proficiency.** You gain proficiency in your choice of Intimidation or Insight.
+
+**Demanding Challenge.** When you have been wronged or insulted by a creature that can hear and understand you, you can issue a formal challenge as a bonus action. Make a Charisma (Intimidation) check; the result is the DC for a Wisdom (Insight) check the target must make. On a failed check, the creature must attack you in preference to other targets and has disadvantage on attack rolls against any creature other than you until the start of its next turn. You may only have one creature challenged at a time.
+
+---
+
+### Keshites
+
+The Keshites are the peoples of the great plains and hill country near the eastern ocean — a distinctive group whose culture stretches back over two thousand years to the prophet Re'inam Mulistinabi, and whose religious traditions proved too deeply established for even the Bandorian Empire to meaningfully rewrite. Keshite society is organized around layered obligation — to family first, then clan, then kingdom — and their complex traditions of ritual alliance and arranged bonds have produced a people who are unusually careful and deliberate when entering unfamiliar social territory. In Artaxarta, Keshites are rare but recognizable; the formal courtesy of their social conduct marks them as foreign without making them unwelcome.
+
+*Smaller and slimmer than average; dark brown skin, light or dark eyes.*
+
+**Male names:** Arman, Kabir, Naveen, Rakesh, Sikander | **Female names:** Araana, Diya, Jiya, Myrana, Shakti | **Clan names:** Chakar, Devi, Maharasata, Rao, Shankar
+
+**Ability Score Increase.** Your Wisdom score increases by 1, and one other ability score of your choice increases by 1.
+
+**Skill Proficiency.** You gain proficiency in your choice of Religion or one musical instrument.
+
+**The Everflowing Way.** Accustomed to navigating dense layers of social obligation, you are cautious and precise when entering unfamiliar situations. Once per social interaction, you may take advantage on a single Insight, Investigation, Performance, or Persuasion check.
+
+---
+
+### Former Imperial Peoples
+
+*The following groups represent other major ethnic strands of the Bandorian Empire — peoples whose ancestors came to Artaxarta as soldiers, scholars, merchants, or exiles during the Imperial period, and whose descendants have maintained a thread of their original heritage. Newer arrivals are uncommon; the continent is not particularly safe to travel. Some continue to find Artaxarta a useful destination for those in need of distance from whatever is happening elsewhere.*
+
+---
+
+### Æstorlings
+
+The Æstorlings hail from the northeast of the eastern continent, around the ancient Kingdom of Estmark, and carry with them a culture defined by epic hero traditions — long sagas of great deeds, great losses, and the valor that made both meaningful. They are a people of deep emotion: capable of profound melancholy and sudden passion in roughly equal measure, with a sense of personal honor that expresses itself less in formal dueling and more in the weight they attach to their word and their story. In Artaxarta they are uncommon enough to be interesting, and the Artaxartoi generally find them good company, even if the saga-telling runs long.
+
+*Tall and sturdily built; pale skin, dark eyes, range of hair colors.*
+
+**Male names:** Baldwin, Cuthbert, Edmere, Oswalt, Sigfreid | **Female names:** Athelbret, Guthlid, Myldreth, Saythred, Wylfyrth | **Surnames:** Ambermarle, Bekker, Forbisher, Langley, Steadthorpe
+
+**Ability Score Increase.** Your Wisdom score increases by 1, and your Charisma score increases by 1.
+
+**Skill Proficiency.** You gain proficiency in your choice of Insight, Performance, or one musical instrument.
+
+**In Story and Song.** You have a talent for rising to meet the moment. Once per long rest, when you succeed on a skill check against a DC of 15 or higher without magical assistance, you gain inspiration.
+
+---
+
+### Albani
+
+The Albani are the "middle people" of the continent — Delian settlers who took root in the Eutora River valley region between the heartland city-states and the emerging Bandorian tribal confederacies, developing a meritocratic civic culture distinctly their own. Their great city-states wielded enormous political and economic influence through much of the Imperial era, and the tradition they cultivated — civic participation as both right and obligation — makes Albani well adapted to any institutional environment they enter. In Artaxarta they integrate smoothly, their values of merit and civic responsibility mapping neatly onto the Artaxartoi framework they find here.
+
+*Similar to Delians; slightly lighter skin tone, dark to light hair, light eyes. Red hair is considered lucky among them.*
+
+**Male names:** Arias, Demetrios, Jason, Lysander, Xenos | **Female names:** Alexis, Cassandra, Hermione, Kyra, Thalia | **Surnames:** Ionodis, Kritios, Markos, Samaras, Trianus
+
+**Ability Score Increase.** Your Charisma score increases by 1, and one other ability score of your choice increases by 1.
+
+**Skill Proficiency.** You gain proficiency in your choice of Insight, Persuasion, or one artistic tool or musical instrument.
+
+**Discernment.** Your people have developed a practical sensitivity to deception and manipulation, born from generations of high-stakes commerce and politics. Once per short rest, you may take advantage on a single Insight or Investigation check of your choice.
+
+---
+
+### Bandorians
+
+The Bandorian people are the inheritors of the great Empire itself — the Durasi-Bandorians who built the civilization that shaped most of the known world and whose legacy still structures every kingdom that survived its collapse. Ambitious, stubborn, and driven by a genuine love of knowledge for its own sake, they are a people defined as much by their ability to recover from catastrophic failure as by their capacity to build. In Artaxarta, Bandorian-descended families are a recognized cultural strand — the descendants of Imperial garrison soldiers who stayed and were absorbed into the kingdom at the Empire's end — and while they are now thoroughly Artaxartoi in all practical respects, many maintain a thread of the old traditions.
+
+*Medium height and build; light skin, dark hair and eyes.*
+
+**Male names:** Adrian, Marcus, Michael, Peter, Simon | **Female names:** Claudia, Justina, Rosa, Sophia, Victoria | **Surnames:** Belisarius, Corino, Falco, Maximilian, Pentos
+
+**Ability Score Increase.** Two ability scores of your choice each increase by 1.
+
+**Skill Proficiency.** You gain proficiency in one skill of your choice.
+
+**Luck of the Gods.** Your people are renowned for snatching victory from the jaws of defeat. Once per long rest, after you make a d20 roll but before the DM declares the outcome, you may reroll the die and take either result.
+
+---
+
+### Delians
+
+The Delians are among the oldest and most influential peoples of the continent — migrants from a legendary destruction in the eastern seas who settled the Lake Uriel region over two millennia ago, and whose cultural traditions eventually crystallized into the Temple of the Twelve Divines itself. Artaxarta was founded in its modern form by the Eastern Delian general Alcias of Xosha, and the legacy of Xoshan culture runs through the kingdom's professional military, its civil administration, and its urban planning. Delian-descended families in Artaxarta are common in the professional and scholarly classes, carrying with them a particular love of invention, philosophy, and accumulated knowledge.
+
+*Average height and build; olive complexion, light to dark hair, light eyes.*
+
+**Male names (Eastern/Xoshan):** Alcias, Doros, Lysias, Phocas, Telamon | **Female names:** Callia, Eirene, Kleophe, Melia, Thera | **Family names:** Alcimidias, Aristedes, Heskalo, Mitradanes, Toxamones | *Western Delian families may use Albani-adjacent naming conventions.*
+
+**Ability Score Increase.** Two ability scores of your choice each increase by 1.
+
+**Skill Proficiency.** You gain proficiency in your choice of History, Insight, Medicine, or Persuasion.
+
+**Cultural Savant.** Your upbringing exposed you to broad traditions of art, philosophy, and civic thought. Once per short rest, before making a skill check with an Intelligence or Wisdom skill you are not proficient in, you may add your proficiency bonus to the roll.
+
+---
+
+### Lunari
+
+The Lunari are the peoples of the northern Long Coast — a proud, intensely traditional culture governed by a strict code of conduct regulating combat precedence, forms of address, and obligation across caste and gender. They have a well-earned reputation for haughtiness, but the same code that makes them difficult to deal with informally makes them extraordinarily reliable when commitment is called for; the Lunari do not break oaths, and most people who know them treat this as a practical fact rather than a cultural affectation. In Artaxarta they are uncommon but respected, particularly in military contexts where their sense of personal honor maps well onto the culture they find.
+
+*Medium height and build; pale skin, dark hair and eyes.*
+
+**Male names:** Grigory, Istvan, Kirstof, Lazlo, Verdan | **Female names:** Bela, Fabina, Hana, Illia, Marta | **Surnames:** Astroka, Drozna, Nuuvira, Szokar, Tiklav
+
+**Ability Score Increase.** Your Strength score increases by 1, and one other ability score of your choice increases by 1.
+
+**Skill Proficiency.** You gain proficiency in your choice of Athletics, History, or Insight.
+
+**My Honor is My Life.** Steeped in the honor traditions of your people, you cannot abide defeat at the hands of a worthy foe. You gain inspiration whenever you reduce a creature to 0 hit points whose CR equals or exceeds your current character level. Additionally, you have advantage on saving throws against the **frightened** condition.
+
+---
+
+### Malkiri
+
+The Malkiri of Varnor rose as the Bandorian Empire's most significant rival before conquest transformed them into near-partners in the Imperial enterprise during its middle and late periods. Malkiri society is organized around a strict hierarchy of ranked nobility and common vassalage — a structure that survived Imperial incorporation and continues to define their culture wherever they are found. They are a people who understand power intimately: its forms, its obligations, and the precise way it moves through institutions, knowledge that tends to make them effective in almost any context requiring navigation of authority. In Artaxarta, Malkiri descendants are found in administrative and legal positions in disproportionate numbers.
+
+*Medium height and heavily built; pale skin, dark hair and eyes.*
+
+**Male names:** Hans, Klaus, Mathias, Roland, Ulf | **Female names:** Brunhild, Gertrude, Hertha, Lucia, Ramona | **Surnames:** Dukra, Houten, Reinhardt, Steiner, Voltger
+
+**Ability Score Increase.** Your Charisma score increases by 1, and your Wisdom score increases by 1.
+
+**Skill Proficiency.** You gain proficiency in your choice of Insight, Intimidation, Persuasion, or one tool of your choice.
+
+**Boar in the Thicket.** Your cultural training has taught you to deploy authority — or the threat of it — with precision. Once per short rest, you may take advantage on a single Charisma (Intimidation) check.
+
+---
+
+### Marchani
+
+Once a smattering of warring tribes subject to Bandorian expansion, the Marchani of the far northwest transformed themselves into among the most effective soldiers and merchants in the Empire, achieving a prominence their origins as a conquered people would never have predicted. Their culture is built on personal merit and obligation — to family, clan, and tribe in that order — and they maintain a vibrant oral tradition that preserves clan lineage, great deeds, and the naming conventions that track an individual through their full web of obligations. In Artaxarta, Marchani are found primarily in the legions and the trading communities of the northern cities, where their combination of physical capability and commercial instinct serves them well.
+
+*Tall with a large build; light skin, range of hair and eye colors.*
+
+Marchani naming conventions combine a given name, the name of the individual's same-gender parent, and the name of their clan and tribe. *Example: a woman named Lewellen, daughter of Gwennan, of the Mannix clan of the Venito tribe, would be known as "Lewellen moc Gwennan of the Mannix-Venito."*
+
+**Male names:** Beccán, Finghin, Lugh, Padrig, Rothbart | **Female names:** Gwennan, Lewellen, Moirah, Ríonach, Sibleah | **Clan names:** Culdwhar, Flann, Lochlain, Mannix, Royce | **Tribal names:** Averni, Briganti, Gestae, Trubili, Venito
+
+**Ability Score Increase.** Your Strength score increases by 1, and your Wisdom score increases by 1.
+
+**Skill Proficiency.** You gain proficiency in your choice of Animal Handling, Athletics, or Perception, or one musical instrument.
+
+**Strength of Old.** Once per short rest, you may take advantage on any Strength-based ability check or skill check.
+
+---
+
+### Vexalloi
+
+The Vexalloi of the southern and central Long Coast built their reputation on commercial innovation and bold personal enterprise — city-states organized around the principle that anyone who could produce results was worth backing, regardless of birth. They carry a thin veneer of aristocracy that their own culture mostly ignores in practice, favoring instead the meritocratic adventurism that has made Vexalloi merchants and operators fixtures in every functioning port in the former Empire. In Artaxarta, Vexalloi immigrants find the culture's own emphasis on merit congenial, though they are sometimes perceived as having a relationship with "fair dealing" that is more creative than the Artaxartoi preference for directness would prefer.
+
+*Small and slight; pale skin, light hair and eyes.*
+
+**Male names:** Alan, Felix, Jean, Leon, Renard | **Female names:** Celeste, Eloise, Iseult, Margarete, Sabrine | **Surnames:** Alanor, Duvelle, Ferrett, Germain, Moreau
+
+**Ability Score Increase.** Your Dexterity score increases by 1, and your Intelligence score increases by 1.
+
+**Skill Proficiency.** You gain proficiency in your choice of Performance, Persuasion, Sleight of Hand, or one musical instrument.
+
+**Fox in the Henhouse.** Your upbringing has taught you to take calculated risks at precisely the right moment. Once per short rest, you may take advantage on a single Sleight of Hand or Persuasion check.
 
 ---
 

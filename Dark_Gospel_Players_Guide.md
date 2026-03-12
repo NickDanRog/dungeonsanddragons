@@ -21,9 +21,9 @@ This gives Artaxartoi people a particular quality — a pride that does not anno
 
 ## The Current Moment
 
-For the past three months, the **Brotherhood of Light** — the kingdom's most celebrated holy order, devoted to the goddess Ilura and charged with suppressing the cult of Umgul — has been under siege at its mountain fortress in the southern highlands. The cult that is laying siege to it is larger, better organized, and more persistent than any cult activity in recent memory. It has not broken off. It has not been driven away. The Brotherhood has not asked for help, and the crown has not formally announced that it is providing any.
+An organized force sealed off the **Priory of the White Gates** — the Brotherhood of Light's mountain bastion in the southern highlands — eleven days ago. The cult laying siege to it is larger, better organized, and more persistent than any cult action in recent memory. It has not broken off. The Brotherhood has not asked for help, and the crown has not formally announced that it is providing any.
 
-The official account, distributed through the fifteen ministries, is that an organized resurgence of Umgul worship in the southern highlands is being addressed. Officials speak of "isolated extremists" and "a manageable disturbance." Recruitment notices for the legions have gone up in the five cities. The Kataphractoi have been on elevated readiness for eight weeks. Orestes Sarkhazi, Lord of the Magisterium, gave a lecture at the Scholars' Hall three weeks ago on the historical patterns of cult resurgence and why they always fail. The audience was large. The applause was genuine.
+The official account, distributed through the fifteen ministries, is that an organized resurgence of Umgul worship in the southern highlands is being addressed. Officials speak of "isolated extremists" and "a manageable disturbance." Recruitment notices for the legions have gone up in the five cities. The Kataphractoi have been placed on elevated readiness. Orestes Sarkhazi, Lord of the Magisterium, is scheduled to give a public lecture this week on the historical patterns of cult resurgence. The king has dispatched trusted agents south to assess the situation directly.
 
 Most people find these explanations adequate. A few people find them slightly thin and have not said so out loud. The distinction between those two groups is one you are about to understand.
 
@@ -39,9 +39,7 @@ Artaxarta is home to roughly four million people distributed unevenly across its
 
 ## The Jinsoona
 
-The **Jinsoona** is the great midsummer festival of Artaxarta — the kingdom's most beloved celebration, marking the mythic victory of the goddess Ilura over the forces of Umgul in ancient legend. Cities and towns across the kingdom celebrate for three days and nights: markets, games, torchlight processions, horse races, dramatic performances of the old myths, and communal feasting that crosses every class boundary. For those three days, the distinction between noble and commoner is suspended, and the entire kingdom shares a table.
-
-This year's Jinsoona was the night the king died.
+The **Jinsoona** is the great midsummer festival of Artaxarta — the kingdom's most beloved celebration, marking the mythic victory of the goddess Ilura over the forces of Umgul in ancient legend. Cities and towns across the kingdom celebrate for three days and nights: markets, games, torchlight processions, horse races, dramatic performances of the old myths, and communal feasting that crosses every class boundary. For those three days, the distinction between noble and commoner is suspended, and the entire kingdom shares a table. The Jinsoona falls eight days from now.
 
 ---
 
@@ -87,13 +85,13 @@ Artaxarta is an absolute monarchy, and its people are broadly comfortable with t
 
 The king's authority is administered through **fifteen ministries**, each led by a minister selected by the crown and serving at the crown's pleasure. The ministries manage everything from the legions to the tax system to the courts to the official regulation of magical practice. They are deliberately lean organizations — the Artaxartoi preference for function over form is visible in every ministry's staffing — and they are subject to oversight by the **Office of the Special Inspector**, one of the fifteen, which is specifically charged with investigating corruption among the other fourteen.
 
-King **Telamon Aristedes Alcimidias II** was the kingdom's ruler until this year. His death on the night of the Jinsoona left the throne to his son and heir, **Prince Eurimedos Toxamones Alicimidia**, who is eight years old. The regency arrangements are being formalized. In the immediate crisis, military and administrative authority rests with the royal council, including **General Tanos Mitradanes Heskalo** — the Commanding General of the Royal Guard, known to the public as the Laughing Lion for the ease with which he presents even difficult news — and the other senior ministers.
+King **Telamon Aristedes Alcimidias II** rules Artaxarta. He is the seventeenth of the Alician line, the most experienced military commander in the kingdom, and by general assessment one of the most effective rulers the country has had in living memory. His heir, **Prince Eurimedos Toxamones Alicimidia**, is eight years old — a small, intensely focused child who has spent more time among books than training yards, but who possesses an encyclopedic knowledge of military history that regularly startles the adults around him. The king believes his son will make a great king someday. **General Tanos Mitradanes Heskalo** — the Commanding General of the Royal Guard, known publicly as the Laughing Lion for the ease with which he presents even difficult news — commands the military response to the current situation.
 
-The **Kataphractoi** — the King's Heavy Horse, the royal cavalry guard — are the most visible symbol of royal authority in the capital. Nine hundred soldiers in their distinctive silver-and-gold scale armor, drawing from the noble families and trained almost from birth, they are the military elite of Artaxarta and the envy of every cavalry commander in the eastern kingdoms. In the current crisis, a select unit of Kataphractoi has been assigned to the prince's personal guard, supplemented by other sworn members of the royal household.
+The **Kataphractoi** — the King's Heavy Horse, the royal cavalry guard — are the most visible symbol of royal authority in the capital. Nine hundred soldiers in their distinctive silver-and-gold scale armor, drawing from the noble families and trained almost from birth, they are the military elite of Artaxarta and the envy of every cavalry commander in the eastern kingdoms. A select unit of Kataphractoi serves as the prince's standing personal guard — an assignment that predates the current crisis — supplemented by sworn members of the royal household.
 
 ## The Crisis
 
-**What you observe:** The Brotherhood of Light's fortress in the southern mountains has been under siege for approximately three months. This is unprecedented — the Brotherhood has defended against cult activity for generations, but never at this scale, and never for this long. The crown is mobilizing; recruitment has accelerated; the ministries are in something resembling a controlled heightened state. Reliable information from the southern highlands is scarce, and the official accounts have a quality of studied reassurance that your instincts may be reading differently than your reason.
+**What you observe:** The Brotherhood of Light's fortress in the southern mountains has been under siege for eleven days — long enough to be alarming, short enough that no one yet knows what it means. The force laying siege is larger than any cult action in living memory, and it has not broken off. The crown is mobilizing; recruitment has accelerated; the ministries are operating with an urgency that the official statements do not fully account for. Reliable information from the southern highlands is scarce, and the official reassurances have a quality that your instincts may be reading differently than your reason.
 
 **What the official account says:** A resurgence of organized Umgul worship in the southern highlands — larger than previous instances, but categorically the same kind of threat. The Brotherhood is holding. The legions are being positioned. The situation is being managed. Citizens are encouraged to report suspicious activity and to continue their normal lives.
 
@@ -107,7 +105,7 @@ The **Kataphractoi** — the King's Heavy Horse, the royal cavalry guard — are
 
 **Morna** borders Artaxarta to the west — a militaristic dictatorship with an ongoing territorial claim to a large portion of western Artaxarta and a history of losing border wars over it. Most Artaxartoi regard Morna as dangerous and faintly ridiculous, which is an attitude that requires updating periodically when the Mornai do something more dangerous than ridiculous. The practice of large-scale slavery in Morna is considered a mark of moral bankruptcy by the Artaxartoi, and this view is not diplomatic code — it is genuine.
 
-**Kyrexos** to the northwest is Artaxarta's most significant rival — a Delian state of roughly equal size and strength, with powerful northern allies and an unstable history of border conflict with the kingdom. The current king believed, before his death, that Kyrexos was preparing an invasion. Relations have been in a watchful deterioration for the past decade. Despite the tension, both states share cultural roots through their Delian heritage and are not without a grudging mutual respect.
+**Kyrexos** to the northwest is Artaxarta's most significant rival — a Delian state of roughly equal size and strength, with powerful northern allies and an unstable history of border conflict with the kingdom. The king believes Kyrexos is preparing an invasion. Relations have been in a watchful deterioration for the past decade. Despite the tension, both states share cultural roots through their Delian heritage and are not without a grudging mutual respect.
 
 **Kesh** to the north is large, populous, and culturally foreign in ways that Artaxartoi find genuinely difficult to parse. The two states have strong trading ties and a generally peaceful relationship; social relations between Artaxartoi and Keshites are pleasant and slightly baffled on both sides.
 
@@ -121,7 +119,7 @@ The **Brotherhood of Light** is the most admired institution in Artaxarta that y
 
 The result of this extraordinary filtration is an organization of 250 people who are, by any reasonable measure, among the most capable warriors in the world — and who are bound by a code of conduct that makes them nearly as famous for their moral weight as for their martial prowess. The word of a member of the Brotherhood is considered unimpeachable. Their chivalry is not a performance; it is the result of a selection process that eliminates those for whom it would be.
 
-In practical terms, the Brotherhood serves as the kingdom's primary institution for the suppression of Umgul worship. They have done this work for generations. The current siege of their fortress is, therefore, not merely a military problem — it is a challenge to the institution that has made Artaxarta safe from the cult in every living memory.
+In practical terms, the Brotherhood serves as the kingdom's primary institution for the suppression of Umgul worship. They have done this work for generations. A cult force capable of besieging their mountain fortress is something that has not happened before; what it means for the institution, and for the kingdom's safety, is a question that does not yet have an answer.
 
 The Brotherhood's insignia is the golden lance cross — an Artaxartoi letter shaped like a "P" with a crossbar, in gold on white. Their armor is white-enameled plate trimmed with real gold. They are recognizable from a considerable distance and intended to be.
 
@@ -169,17 +167,17 @@ In practical terms: a wizard trained under Guild-descended methods — meaning a
 
 ## The Crown and Royal Guard
 
-**What they are:** The legitimate governing authority of Artaxarta, currently operating in the shadow of a dynastic crisis. The young prince is eight years old. The royal council is managing the country in his name, with **General Heskalo** as the primary military authority and the fifteen ministers maintaining their institutional functions. The Kataphractoi unit assigned to the prince's personal guard is the most visible expression of royal protective power in the current moment.
+**What they are:** The legitimate governing authority of Artaxarta — an absolute monarchy under King Telamon, administered through fifteen ministries and enforced by the Kataphractoi and the seven legions. The king rules directly; the royal council advises him. **General Heskalo** commands the Royal Guard. The fifteen ministers manage the administrative infrastructure of the kingdom, from the tax system to the Magisterium to the Office of the Special Inspector. Institutional function is normal.
 
-**How they relate to the crisis:** The crown is the primary force attempting to address the Brotherhood siege and suppress the cult resurgence. Its capacity to do so is constrained by the assassination of the king, the youth of the heir, and the disruption of normal institutional function. The royal council is functional; it is not undamaged.
+**How they relate to the crisis:** The crown has dispatched trusted agents to the southern highlands to assess the Brotherhood siege directly. This is not publicly announced; officially, the situation is being handled. The king takes the Brotherhood's safety seriously — the order has been a loyal arm of the kingdom's security infrastructure for generations — and a cult capable of mounting this kind of operation warrants a response that goes beyond what the legions alone can provide.
 
-**Membership:** Characters who serve the crown — in the royal guard, the legions, or the ministries — understand themselves as part of a chain of obligation that runs from their specific post up through the hierarchy to the throne itself. The oath matters. The fact that the person on the throne is eight years old does not change what the oath means.
+**Membership:** Characters who serve the crown — in the royal guard, the legions, or the ministries — understand themselves as part of a chain of obligation that runs from their specific post up through the hierarchy to the throne itself. The oath to the king is not incidental; it is the thing that structures everything else.
 
 ## The Brotherhood of Light
 
 **What they are:** The kingdom's foremost holy order — 250 adepts sworn to Ilura, whose principal mission has been the suppression of Umgul worship for generations. They operate independently of the crown's chain of command, answering ultimately to the High Priest of the Temple. They have rarely needed the crown's help and have rarely asked for it.
 
-**How they relate to the crisis:** They are the crisis. The Brotherhood fortress is where the cult chose to strike first, and the fact that it has held for three months says something about the quality of the people inside it. The Brotherhood has been the kingdom's shield against Umgul worship for living memory. Characters who have trained with them, who have family there, or who have a professional relationship with the order will be feeling the weight of the current silence from that fortress.
+**How they relate to the crisis:** They are the crisis. The Brotherhood fortress is where the cult chose to strike first, and the fact that it has held says something about the quality of the people inside it. The Brotherhood has been the kingdom's shield against Umgul worship for living memory. Characters who have trained with them, who have family there, or who have a professional relationship with the order will be feeling the weight of the current silence from that fortress.
 
 **Membership:** No one joins the Brotherhood as an adult adventurer. But characters may have a meaningful connection to the order — a sibling who is an adept, a former teacher, a period of training at one of the outer chapter houses before the player's path diverged. The Brotherhood's code of conduct — chivalry, piety, absolute honesty — is something that rubs off on people who spend time near the order, even those who never took the final vows.
 
@@ -187,15 +185,15 @@ In practical terms: a wizard trained under Guild-descended methods — meaning a
 
 **What they are:** The kingdom's intelligence service. Everyone knows it exists. No one discusses it, especially not with strangers. The Kryptea has historically maintained operatives embedded throughout the court, the noble class, the ministries, and the institutional life of the five cities. Its reach was once considered comprehensive.
 
-**How they relate to the crisis:** The Kryptea's network has not been communicating since approximately three weeks after the Jinsoona. Whether this means the network was neutralized, has gone to ground, or is operating under a silence protocol that no one in your circle has the keys to is not publicly known. What is known — to those who were close enough to the network to notice — is that the dead drops have gone dark, the contacts have stopped responding, and the institutional resource that would normally be supporting a crisis of this magnitude appears to be unavailable.
+**How they relate to the crisis:** The Kryptea is present, as it always is. Its operatives have not made public statements about the siege, which is consistent with how the Kryptea operates. Whether the service has intelligence bearing on the cult's resurgence, or on what is happening inside the Brotherhood fortress, is not something anyone outside the organization would be told. Characters with Kryptea backgrounds know that the service is watching — they simply do not know what it has seen, or whether what it has seen has reached the people who need to act on it.
 
-**Membership:** Characters with a background in Kryptea work understand themselves as operating in a world where the normal support structure has been removed. Assets they cultivated may still be reachable. Protocols they learned may still function in their immediate area. The institution itself is not available to call on. Whether they continue to operate by the service's old methods, or by the methods of people who no longer have a service, is a question the adventure will put to them.
+**Membership:** Characters with a background in Kryptea work operate according to the service's discipline: they do not discuss their affiliation, they maintain their cover, and they use the protocols they were trained in. The network exists. Assets exist. Whether any of that infrastructure will prove adequate to the scale of what is developing is a question the adventure will put to them.
 
 ## The Sadars
 
 **What they are:** The tribal leaders of Artaxarta's twenty-three recognized tribes — figures of cultural authority who serve as the king's representatives in the uplands and as the voice of the tribal communities to the crown. They are not feudal lords; they hold no land grants and command no permanent armies. They hold moral authority — which, in Artaxarta's tribal culture, translates into the willingness of the Zavra-Prag to muster when called.
 
-**How they relate to the crisis:** The annual **Jurga** — the month-long council session where the Sadars meet with the king — was disrupted by the Jinsoona events. It has not been formally reconvened. Some Sadars have been in contact with the royal council through unofficial channels; others have been in contact with each other in ways that fall outside the normal Jurga structure. The uplands communities are watching the crisis from a distance and making their own assessments. Whether the crown can count on the Zavra-Prag depends on whether it can bring the Sadars to an agreement — which depends on reaching them, earning their trust, and giving them a reason to believe that the crown's cause is also theirs.
+**How they relate to the crisis:** The annual **Jurga** — the month-long council session where the Sadars meet with the king — is several months away. But the siege has reached the highlands as news, and the Sadars are already making their own assessments. Their formal authority does not activate until the Jurga convenes, but their informal influence is continuous — they are always in contact with each other, always in communication with their communities, and always forming opinions about what the crown is doing and whether it deserves the support of the Zavra-Prag. Whether that support will materialize when it is needed depends on whether the crown can reach them, earn their trust, and give them a reason to believe that its cause is also theirs.
 
 **Membership:** Characters from upland backgrounds have relationships with the Sadar network that valley-born characters do not. For those characters, the Sadars are not an abstract institutional resource but specific individuals — people with names, histories, grievances, and loyalties that character knowledge can navigate in ways that formal diplomacy cannot.
 
@@ -680,13 +678,13 @@ You were raised in one of the highland clans — the pastoral communities that c
 
 Answer the following questions when building your character. Your answers are shared with the DM and will be plot-relevant. There are no wrong answers — only answers that are more or less interesting to play.
 
-1. **The night the king died:** Where were you when the Jinsoona attack began, and what did you see or hear in those first hours? Is there something you noticed that you haven't told anyone — not because you hid it deliberately, but because you weren't sure what it meant?
+1. **The first contact:** What is the earliest you can recall having any connection to this situation — not the siege, but what came before it? A person you encountered who didn't quite add up, a piece of information that seemed unimportant at the time, a decision you made that now, looking back, placed you exactly where you are. When did this actually begin for you?
 
 2. **The Brotherhood:** Name someone connected to the Brotherhood of Light — an adept, a lay servant, a chapter house contact — who you have not been able to reach since the siege began. How long have you known them, and what does their silence mean to you?
 
 3. **The first sign:** What is the first thing you noticed that didn't add up — not the siege, but something smaller, something closer to your own life? A colleague whose behavior changed, a routine that was quietly altered, a question that got an answer you didn't quite believe? What did you tell yourself to explain it at the time?
 
-4. **The prince:** Prince Eurimedos has been in your orbit, in some capacity, since before the crisis. What is your honest impression of him? What worries you about the way he is handling what has happened to his family?
+4. **The prince:** Prince Eurimedos has been in your orbit, in some capacity, before this situation began. What is your honest impression of him? He is young, closely watched, and being introduced to a crisis that has no comfortable resolution. What do you think he understands about what is happening, and what do you think he has not yet grasped?
 
 5. **The institution:** Is there a figure in the kingdom's power structure — a minister, an official, a respected scholar, a senior officer — whose reassurances have started to feel slightly thin to you? You have not acted on this feeling. Why not?
 
@@ -702,17 +700,17 @@ The following things are known to every native character without explanation. Th
 
 - **The cult of Umgul is a capital offense.** Membership, facilitation, and active worship are all punishable by death. The Brotherhood of Light is the primary institutional force responsible for suppressing the cult, and has been for generations. The prohibition is not controversial.
 
-- **The Brotherhood's fortress is under siege.** The **Priory of the White Gates** in the southern mountains has been surrounded by cult forces for approximately three months. This is unprecedented. The Brotherhood does not ask for help. The crown has not formally announced that it is providing any. The official account calls it a manageable disturbance.
+- **The Brotherhood's fortress is under siege.** The **Priory of the White Gates** in the southern mountains has been surrounded by cult forces for approximately eleven days. This is unprecedented. The Brotherhood does not ask for help. The crown has not formally announced that it is providing any. The official account calls it a manageable disturbance.
 
-- **King Telamon is dead.** He was killed on the night of the Jinsoona festival. The official account says he died in the opening hours of a coordinated cult attack. Prince Eurimedos, his son, is eight years old. The regency is being organized.
+- **King Telamon is the kingdom's ruler.** He has held the throne for over twenty years and is broadly respected. He has dispatched agents to investigate the siege, as the king is expected to do when the Brotherhood goes silent. Prince Eurimedos, his son, is eight years old and has a dedicated Kataphractoi guard assigned to his protection — standard protocol for an heir.
 
 - **Orestes Sarkhazi is the Lord of the Magisterium.** He has held the post for thirty years. He is one of the most respected scholars in the five cities — a man of genuine breadth and well-documented achievement. He gave a public lecture on cult resurgence patterns three weeks ago. It was well-received.
 
-- **The Kryptea exists.** Everyone knows this. No one discusses it, especially not with strangers, especially not now.
+- **The Kryptea exists.** Everyone knows this. No one discusses it, especially not with strangers.
 
 - **How you came by your power matters.** Magic is uncommon in Artaxarta, and the source of magical ability is a social fact. A wizard with Magisterium certification is a licensed professional. A cleric or paladin carries divine sanction. A druid practices ancient tradition. A sorcerer is something that no one announces they are, in this kingdom, unless they are prepared for what follows.
 
-- **The Sadars hold the Zavra-Prag.** The crown cannot mobilize the tribal militia without Sadar cooperation. The annual Jurga was disrupted by the crisis. The Sadars have not been formally convened since.
+- **The Sadars hold the Zavra-Prag.** The crown cannot mobilize the tribal militia without Sadar cooperation. The annual Jurga — the great council of tribal leaders — is months away. Whether the tribes will answer if called before then depends entirely on the Sadars, and the Sadars are their own counsel.
 
 - **Artaxarta has never been successfully conquered.** This is not sentiment. It is the bedrock fact of the national identity. The kingdom has survived the Xoshans, the Bandorian Empire, and every border conflict since. Whatever is happening now is not the thing that will break it. This is what every Artaxartoi believes, and most of them believe it correctly.
 
@@ -722,12 +720,12 @@ Before the adventure begins, roll 1d12 three times. Two of the results you roll 
 
 | d12 | Rumor |
 |-----|-------|
-| 1 | *"The Brotherhood fortress hasn't fallen — three months and those walls still stand. Either they've been resupplied somehow, or the goddess herself is keeping them. I don't know which answer should worry me more."* |
+| 1 | *"Eleven days and those walls still hold. Either the Brotherhood planned for something like this, or the goddess herself is keeping them. I don't know which answer should worry me more."* |
 | 2 | *"The cult's leadership isn't Artaxartoi. Someone in Asta is pulling the strings — one of the Altair-worshipping temples with money and connections. This whole thing is a foreign operation and the crown is looking in the wrong direction."* |
-| 3 | *"There were more attacks that night than the official count. I know someone in Phocis — she says there was an attack on the garrison there too. Five soldiers dead. The authorities told them to call it a brawl."* |
+| 3 | *"The cult forces at the siege aren't local. I've talked to people who got close enough to look — wrong accents, wrong equipment, don't know the roads. Somebody moved a lot of bodies a long way without anyone noticing. That doesn't happen by accident."* |
 | 4 | *"The Magisterium lost three researchers in the past year. Illness, transfer, that's the official word. I worked in that building for six years. It doesn't lose three scholars in twelve months to illness."* |
 | 5 | *"The prince hasn't been sleeping. His attendants say he talks at night — just one voice, his own, but to someone. His rooms are on the third floor. Nobody can explain where the conversation is going."* |
-| 6 | *"The Kryptea is gone. Not damaged — gone. Someone I know was a courier, low level, just moving packages. Three weeks after Jinsoona every dead drop she knew about went dark. All of them, at the same time."* |
+| 6 | *"I had a contact — nothing official, just someone who passed things along. She went quiet four days ago. No explanation, no warning. That's not how it works unless someone told her to go quiet. Someone above both of us."* |
 | 7 | *"The Brotherhood takes no women. Everyone knows that. So you tell me who the woman in white and gold was — four different witnesses, in the market district, the week before Jinsoona. Nobody knows her name. Nobody saw her come or go."* |
 | 8 | *"The cult's been in Alcidea for years. This wasn't a sudden incursion — someone let them in and kept them fed. Someone with access. Think about who has access."* |
 | 9 | *"Lord Sarkhazi hasn't been at the Magisterium in two weeks. His staff says he's been called to attend the prince. In three years of visiting that building, he was always there. Something is different."* |
@@ -737,9 +735,97 @@ Before the adventure begins, roll 1d12 three times. Two of the results you roll 
 
 ---
 
+# APPENDIX: THE TWELVE DIVINES
+
+*A reference for characters who practice divine magic, maintain personal devotion, or simply want to understand the religious landscape of the kingdom.*
+
+The **Temple of the Twelve Divines** is the state religion of Artaxarta and of the former Bandorian Empire. The Twelve are acknowledged throughout the known world under various names; what follows is a brief account of each as understood within the kingdom's borders.
+
+---
+
+### Ilura
+
+Goddess of love, home, and elemental light — and by far the most venerated deity in Artaxarta. In the heartlander tradition she is primarily a goddess of romantic love and artistic beauty; in Artaxarta she is a warrior goddess who leads righteous people to victory, protects households from harm, and ensures the fertility of both fields and families. The Artaxartoi identify her with **Lhakmana**, the mother-goddess of the old faith, and the synthesis runs deep enough that they are functionally understood as the same figure. The **Brotherhood of Light** is sworn to her service. Characters who take Ilura as their patron are working within the kingdom's deepest spiritual current.
+
+---
+
+### Altair *(also: Astra)*
+
+God of stars, prophecy, and arcane magic. His worship is concentrated in the neighboring kingdom of Asta and maintained in small, secretive congregations throughout the former Empire. His oracles are said to still function; his power over prophecy is acknowledged as genuine; and his association with magic makes him perpetually suspect in territories where the Temple has suppressed sorcery. In Artaxarta, he is regarded with active distrust: the official theology of the Temple identifies **Umgul** as a dark aspect of Altair's nature, a position that has never been successfully challenged in public discourse. Open Altair worship is politically uncomfortable within the kingdom's borders. Clerics and paladins of Altair are rarely encountered here.
+
+---
+
+### Arluna *(also: Selene)*
+
+Goddess of the moons and the night — patroness of hunters, powerful women, and those who work outside the law's reach. She is said to be a sorceress, though her powers are bound to the moon cycles and fail entirely when both moons are dark. Hunters and those who travel at night observe her rites with quiet regularity. She is understood to be fond of tricks and mischief, and is credited with playing them on the other gods at her leisure. In Artaxarta she is acknowledged more than venerated, though highland hunters who set out before dawn have been known to invoke her name.
+
+---
+
+### Comar
+
+God of darkness and the evil in men's hearts — and nonetheless one of the Twelve, present in the official theology as a warning about what the gods permit themselves. He is understood as a patron of revenge and, in extremity, a protector against forces more dangerous still. His worship is outlawed throughout most of the former Empire, including Artaxarta, and no temple to him stands within the kingdom's borders. He is not worshiped here. He is acknowledged: named in the theology, present in the moral framework, and invoked privately by those whose circumstances have pushed them to the edge of what the sanctioned gods will help with.
+
+---
+
+### Kai
+
+The sun god and ruler of the day. He is a healer and teacher, said to have invented poetry and music, and understood to be impossible to look upon directly. Kai is venerated in Artaxarta in a broadly ambient way — his power acknowledged in the rituals of sunrise, in the blessings of physicians, and in the artistic traditions of the five cities. He is closely associated with Ilura in Artaxartoi theology: where she is the light of the home, he is the light of the sky. His priesthood maintains several significant temples in the valley cities, and physicians in particular maintain a formal devotion to him.
+
+---
+
+### Kary *(also: Kylani, Sosti)*
+
+Goddess of fire, invention, and the forge. She is depicted as half woman, half serpent, and is associated with the civilizing gifts of flame: metalwork, artifice, and the drive to build and create. She is revered particularly among the kingdom's blacksmiths, engineers, and highland tribal communities. Her association with fire magic has made some of the more cautious Temple authorities watchful, but her role as a goddess of craft rather than raw sorcery has generally protected her standing. The great volcano **Sosti**, deep in the Barrier Mountains, is said to be her house.
+
+---
+
+### Kaelhest *(also: Kael, Kal)*
+
+The god of war — ancient, wrathful, and known to every people of the world in one form or another. His aspect is the ritual discipline of warfare: not the love of killing, but the study of battle, the soldier's code, and the veneration of skill at arms. He is one of the most actively worshiped deities in the kingdom's military institutions, alongside Ilura. There is a persistent and unresolved theological dispute throughout the former Empire about whether a newer, more savage deity called **Khil** has displaced or replaced him; the Temple of the Twelve Divines does not acknowledge Khil's existence, though soldiers of Kala'Nari descent have been known to make Khil's offerings quietly.
+
+---
+
+### Kozar *(also: Kozan, Kozen)*
+
+God of elemental air, storms, and wind. He is a patron of sailors, farmers who depend on weather, and wanderers of all kinds — and by extension of adventurers, who belong to none of the settled categories. He is mercurial by nature: his favor is worth seeking before long journeys and uncertain undertakings, because his anger is as devastating as the storms he commands. In the highlands of Artaxarta he is venerated at the passes and in the high meadows, where the winds make his presence felt in practical terms. His favorite animal is the hawk.
+
+---
+
+### Maximus
+
+The deified **Simon Duras** — warrior king, founder of the Durasi dynasty, and divine patron of the Bandorian Empire. He is a god of justice, rulership, strategy, and the soldier's code of honor. Oaths sworn on his name carry the greatest legal weight in Imperial tradition. He remains widely venerated in Artaxarta, particularly among families of Bandorian descent and among officers in the kingdom's military institutions. His aspect as a god of promises and pledges makes him a natural patron for characters bound by codes of conduct, institutional loyalty, or the kind of personal oath that defines who they are.
+
+---
+
+### Mora
+
+Goddess of wisdom, knowledge, and civilization. She is said to have taught humanity reading, writing, the sciences, and philosophy, and is accordingly the patron of scholars, teachers, and practitioners of arcane magic. The **Mage's Guild** in its various regional forms maintains a formal relationship with her temple. She is the most approachable of the Twelve in theological terms: where other gods are distant or terrible, Mora is said to move among people and to have a genuine interest in what they make of themselves. Among the Xoshan-descended population of Artaxarta, she is venerated almost as intensely as Ilura.
+
+---
+
+### Quoros *(also: Kuros)*
+
+God of earth, agriculture, and growing things. He is the patron of miners, builders, farmers, and vintners — an ancient civilizing deity who, with Mora, is credited with teaching humanity how to farm and build in stone. He is somewhat mischievous for a god of such fundamental importance, and is said to prefer manipulating his enemies into destroying themselves rather than confronting them directly. His worship is widespread and generally quiet: the kind of faith practiced in kitchens, fields, and mine shafts rather than grand temples, present everywhere as ambient cultural practice.
+
+---
+
+### Uriel *(also: Umma)*
+
+Goddess of the seas, rivers, and lakes — and, like her brother Kai, a deity with significant healing associations. She is understood as friendly but volatile, her moods tied to the movements of water, and those who depend on rivers or coastal resources observe her rites carefully. She is depicted as half woman, half fish or otter, and is said to be attended in battle by a school of enormous sharks. The **Lake Uriel** region to the east, from which many Artaxartoi trace their Delian and Xoshan heritage, takes its name from her, and maintains some of the most active centers of her worship in the known world.
+
+---
+
+## The Cult of Umgul
+
+**Umgul** is not one of the Twelve. The official theological position of the Temple is that Umgul represents the darkest aspect of Altair's power — a splinter of divine corruption that acquired its own name, its own worship, and its own persistent following. This is the answer the Temple provides when asked why the cult keeps returning despite centuries of suppression: because Altair permits it, or cannot prevent it, or because this is the nature of a god who touches prophecy and madness in equal measure.
+
+Whether this theology is correct is a question that matters rather less than the practical reality: the cult exists, its followers seek destruction, and its forces have surrounded the Brotherhood of Light's mountain fortress for eleven days. What it wants beyond the fall of the Brotherhood — and whether what it wants has anything to do with Altair at all — is not publicly understood.
+
+---
+
 # CLOSING
 
 ---
 
-*Player's guide compiled: The year of the Interrupted Jinsoona*
+*Player's guide compiled: The year of the Northern Siege*
 *For player use — no DM-only content is present in this document*

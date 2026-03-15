@@ -1,0 +1,28 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:drive.google.com)",
+      "Bash(gh auth status)",
+      "Bash(git --version)",
+      "Bash(git -C \"c:/Users/nroge/OneDrive/Documents/PROJECT/In Limbo\" remote -v)",
+      "Bash(git -C \"c:/Users/nroge/OneDrive/Documents/PROJECT/In Limbo\" status)",
+      "Bash(git -C \"c:/Users/nroge/OneDrive/Documents/PROJECT/In Limbo\" add DM_Guide.md Design_Document.md Players_Guide.md)",
+      "Bash(git -C:*)",
+      "Bash(git add Players_Guide.md)",
+      "Bash(git commit:*)",
+      "Bash(git push origin main)",
+      "Bash(git push)",
+      "Bash(mv \"c:/Users/nroge/OneDrive/Documents/PROJECT/Dark Gospel/Dark_Gospel_Design_Document.md\" \"c:/Users/nroge/OneDrive/Documents/PROJECT/In Limbo/\")",
+      "Bash(rmdir \"c:/Users/nroge/OneDrive/Documents/PROJECT/Dark Gospel\")",
+      "Bash(rm \"c:/Users/nroge/OneDrive/Documents/PROJECT/Dark Gospel/artaxarta.md\")",
+      "Bash(where python:*)",
+      "Bash(where python3:*)",
+      "Bash(/c/Users/nroge/AppData/Local/Microsoft/WindowsApps/python --version)",
+      "Bash(powershell.exe -Command \"Get-Content ''c:\\\\Users\\\\nroge\\\\OneDrive\\\\Documents\\\\PROJECT\\\\Campaigns\\\\Talumh_1.rtf'' -Raw | Out-String | Select-String -Pattern ''[A-Z][a-zA-Z ]{10,}'' -AllMatches | ForEach-Object { $_.Matches } | Select-Object -First 100 -ExpandProperty Value\")",
+      "Bash(powershell.exe -File:*)",
+      "Bash(pandoc --version)",
+      "Bash(powershell.exe -Command \"pandoc --version 2>&1 | Select-Object -First 1\")",
+      "Bash(powershell.exe -Command \":*)"
+    ]
+  }
+}

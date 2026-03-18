@@ -1,7 +1,7 @@
-# D&D ADVENTURE MODULE CREATION GUIDE
-## A Process Reference for Building Original 5e Modules
+# ADVENTURE MODULE CREATION GUIDE
+## A Process Reference for Building Original Campaign Modules
 
-*Based on the Terminus Pax development process. Examples throughout draw from that campaign.*
+*Based on the Terminus Pax (D&D 5e) and Rainbow Road (Pathfinder 1e) development processes. Examples throughout draw from those campaigns.*
 
 ---
 
@@ -15,7 +15,7 @@ A complete adventure module is built across three documents, written in this ord
 
 2. **The DM Guide** — The complete adventure. Expands every section of the Design Document into full content: world-building, chapter-by-chapter scenes, mechanical systems, stat blocks, tables.
 
-3. **The Player's Guide** — The player-facing document. Draws selectively from the DM Guide, removes secrets, and rewrites everything from the perspective of a native character. Adds custom mechanical content (races, subclasses, backgrounds) not present in the DM Guide.
+3. **The Player's Guide** — The player-facing document. Draws selectively from the DM Guide, removes secrets, and rewrites everything from the perspective of a native character. Adds custom mechanical content (races, subclasses, and backgrounds in 5e; races, prestige classes, and campaign traits in PF1e) not present in the DM Guide.
 
 ## Why This Order
 
@@ -46,8 +46,9 @@ Think of it less as a document and more as a conversation you're having with you
 
 ### Adventure Overview
 A brief spec sheet. Include:
-- **System:** D&D 5e (specify 2014 or 2024 ruleset)
+- **System:** D&D 5e (specify 2014 or 2024 ruleset) *or* Pathfinder 1st Edition (specify if using Mythic Adventures)
 - **Level Range:** e.g., Levels 1–15 across 9 chapters
+- **Mythic Tier Range:** *(PF1e with Mythic Adventures only)* e.g., Mythic Tiers 1–10
 - **Structure:** Number of chapters, number of acts
 - **Tone:** 1–2 sentences. This guides all prose choices downstream. (*Terminus Pax: philosophical and mysterious, in the Planescape tradition*)
 - **Player Character Type:** Who are the PCs in relation to the setting? Native inhabitants? Outsiders? This determines the Player's Guide's entire voice.
@@ -91,6 +92,8 @@ Act-by-act breakdown, then chapter list. For each chapter: title, level range, o
 - *Act I: Introduction and escalation (Chapters 1–2, Levels 1–4)*
 - *Act II: Complication and revelation (Chapters 3–5, Levels 4–9)*
 - *Act III: Confrontation and resolution (Chapters 6–9, Levels 9–15)*
+
+*For PF1e Mythic campaigns, note mythic tier progression alongside levels: e.g., "Act II: Chapters 3–5, Levels 5–12, Mythic Tiers 2–6."*
 
 ### Possible Endings
 Define 2–4 distinct outcomes. For each, specify: what player choices lead to it, what faction standings are required, and what the outcome means for the setting and its inhabitants. Endings that are purely good or bad are less interesting than endings that involve genuine trade-offs.
@@ -147,11 +150,22 @@ The complete adventure, for the DM's eyes only. The DM Guide expands every secti
 ### Front Matter
 
 **Title block:**
+
+##### For D&D 5e
 ```
 # CAMPAIGN TITLE
 ## Dungeon Master's Guide
 
 *A D&D 5th Edition adventure for characters of levels X–Y*
+```
+
+##### For Pathfinder 1e
+```
+# CAMPAIGN TITLE
+## Game Master's Guide
+
+*A Pathfinder 1st Edition adventure for characters of levels X–Y*
+*Mythic Tiers X–Y (if using Mythic Adventures)*
 ```
 
 **About This Adventure** — 2–3 paragraphs covering: the setting, the central premise (stated plainly for the DM), the two or three major antagonists, and a statement about player agency. This is where you frame the adventure's dramatic shape for the DM before they read anything else.
@@ -223,6 +237,8 @@ Any rules unique to this adventure's environment. Examples: navigation rules in 
 **Optional PC Mechanics**
 If the setting has abilities specific to certain character types (e.g., innate powers tied to the setting's nature), describe them here. Label as optional and explain how to introduce them.
 
+*In PF1e Mythic campaigns, the mythic tier progression and mythic path selection are setting-specific mechanics and should be documented in this section. Include: when mythic tiers are gained, which mythic paths are available, and any restrictions or modifications specific to the adventure.*
+
 **Managing the Revelation of Secrets**
 Guidance on pacing. When should the central truth emerge? What triggers it? What happens to the NPCs the players trust when it does? This section gives DMs the tools to handle the story's emotional climax.
 
@@ -275,7 +291,9 @@ Leveling milestone (if applicable) and transition to the next chapter. 1–2 sen
 ### Appendices
 
 #### Appendix A: Monster Stat Blocks
-All new or custom creatures. Use standard 5e stat block format:
+All new or custom creatures. Use the stat block format appropriate to the adventure's system.
+
+##### D&D 5e Stat Block Format
 
 ```
 ## Creature Name
@@ -316,13 +334,80 @@ The creature can take X legendary actions, choosing from the options below. Only
 **Option Name (Costs 2 Actions).** Description.
 ```
 
+##### Pathfinder 1e Stat Block Format
+
+```
+## Creature Name                                          CR X
+**XP** X,XXX
+*[Race] [Class] [Level]*
+[Alignment] [Size] [Type] ([Subtypes])
+**Init** +X; **Senses** [senses]; Perception +X
+
+---
+
+**DEFENSE**
+**AC** X, touch X, flat-footed X (+X armor, +X Dex, +X natural, +X size)
+**hp** X (XdY+Z)
+**Fort** +X, **Ref** +X, **Will** +X
+**Defensive Abilities** [if any]; **DR** X/[type]; **Immune** [if any]; **Resist** [if any]; **SR** X
+
+---
+
+**OFFENSE**
+**Speed** X ft.
+**Melee** [weapon] +X (XdY+Z/crit range)
+**Ranged** [weapon] +X (XdY+Z/crit range)
+**Space** X ft.; **Reach** X ft.
+**Special Attacks** [list]
+**Spell-Like Abilities** (CL Xth; concentration +X)
+  At will — [spell list]
+  3/day — [spell list]
+  1/day — [spell list]
+**Spells Prepared** (CL Xth; concentration +X)
+  Xth — [spell list] (DC X)
+  ...
+  0 (at will) — [spell list]
+
+---
+
+**STATISTICS**
+**Str** X, **Dex** X, **Con** X, **Int** X, **Wis** X, **Cha** X
+**Base Atk** +X; **CMB** +X; **CMD** X
+**Feats** [list]
+**Skills** [skill] +X, [skill] +X
+**Languages** [list]
+**SQ** [special qualities]
+
+---
+
+**SPECIAL ABILITIES**
+**Ability Name (Ex/Su/Sp).** Description.
+
+---
+
+**ECOLOGY**
+**Environment** [terrain]
+**Organization** [solitary, pair, group, etc.]
+**Treasure** [standard, double, NPC gear, etc.]
+```
+
+For mythic creatures, add after the DEFENSE block:
+
+```
+**Mythic Rank** X; **Mythic Power** X/day (surge dX)
+```
+
+And add a **MYTHIC ABILITIES** section after SPECIAL ABILITIES.
+
 #### Appendix B: NPC Stat Blocks
-Combatant NPCs. Same format as Appendix A. Include only NPCs the party is likely to fight; social NPCs do not need stat blocks.
+Combatant NPCs. Same format as Appendix A. Include only NPCs the party is likely to fight; social NPCs do not need stat blocks. For PF1e, NPC stat blocks follow the same format as Appendix A, with full class levels, gear, and feat selections listed in the STATISTICS block.
 
 #### Appendix C: Magic Items and Treasures
 Three subsections:
 
 **Setting-Specific Items** — Custom magic items unique to the adventure:
+
+##### D&D 5e Magic Item Format
 ```
 ### Item Name
 *Wondrous item, rarity (requires attunement by [condition] if applicable)*
@@ -332,6 +417,25 @@ One sentence describing appearance. Mechanical effects, including charges, recha
 *Where/how this item is obtained in the adventure.*
 ```
 
+##### Pathfinder 1e Magic Item Format
+```
+### Item Name
+**Aura** [strength] [school]; **CL** Xth
+**Slot** [slot]; **Price** X,XXX gp; **Weight** X lbs.
+
+---
+
+DESCRIPTION
+
+One sentence describing appearance. Full mechanical effects, including activation method, uses per day, saving throw DCs, caster level checks, and durations.
+
+---
+
+CONSTRUCTION
+
+**Requirements** [Craft feat], [spell(s)], [other prerequisites]; **Cost** X,XXX gp
+```
+
 **Selected SRD Items** — A table of standard items appropriate to the adventure, with rarity and chapter found:
 
 | Item | Rarity | Found In |
@@ -339,6 +443,8 @@ One sentence describing appearance. Mechanical effects, including charges, recha
 | Example Item | Uncommon | Chapter 3, Scene 2 |
 
 **Custom Spells** — Any new spells introduced by the adventure:
+
+##### D&D 5e Spell Format
 ```
 ### Spell Name
 *Xth-level [school]*
@@ -346,6 +452,20 @@ One sentence describing appearance. Mechanical effects, including charges, recha
 **Casting Time:** 1 action · **Range:** X feet · **Components:** V, S, M (description) · **Duration:** Concentration, up to X minutes
 
 Description of effect. Mechanical text including saving throws, damage, and conditions.
+```
+
+##### Pathfinder 1e Spell Format
+```
+### Spell Name
+**School** [school] ([subschool]); **Level** [class] X, [class] X
+**Casting Time** 1 standard action
+**Components** V, S, M (description)
+**Range** [close/medium/long] (X ft.)
+**Target/Area/Effect** [as applicable]
+**Duration** X rounds/minutes (D)
+**Saving Throw** [type] [negates/partial/half]; **Spell Resistance** [yes/no]
+
+Description of effect. Full mechanical text.
 ```
 
 #### Appendix D: Random Tables
@@ -472,7 +592,11 @@ For planar settings, label this **Factions of the Planes**. For other settings, 
 
 #### Races
 
-Open with: *"All officially published 5e races are available to characters native to [the Setting]. [The Setting] has been drawing people from across [wherever] for [however long]; there is no 'unusual' race here, only more and less common ones."*
+Open with a statement of racial availability appropriate to the system:
+
+**For 5e:** *"All officially published 5e races are available to characters native to [the Setting]. [The Setting] has been drawing people from across [wherever] for [however long]; there is no 'unusual' race here, only more and less common ones."*
+
+**For PF1e:** *"All Pathfinder 1e core and featured races are available to characters native to [the Setting]. [The Setting] has been drawing people from across [wherever] for [however long]; there is no 'unusual' race here, only more and less common ones."*
 
 Then: rarity tiers (very common → rare) with examples at each tier.
 
@@ -486,6 +610,14 @@ For any custom races specific to the setting, add a full entry below the tiers:
    - *Personality, gender, names:* How do they relate to biological concepts? How do names work?
 2. **Racial traits block** — Standard 5e format: Ability Score Increase, Age, Alignment, Size, Speed, named traits with mechanical text, Languages.
 
+**For PF1e,** replace the racial traits block with PF1e racial trait format:
+- **Type:** [Humanoid (subtype)]
+- **Size:** [Medium/Small]
+- **Base Speed:** [Normal (30 ft.) / Slow (20 ft.)]
+- **Ability Score Modifiers:** [e.g., +2 Dex, +2 Wis, –2 Str]
+- **Languages:** [starting languages + bonus language options]
+- **Racial Traits:** Named traits with mechanical text (Alternate Racial Traits optional)
+
 #### Classes
 
 One H2 per class. Each entry:
@@ -496,6 +628,15 @@ One H2 per class. Each entry:
   - Feature list by level, following the subclass's level progression for the class
   - Each feature: bold name + level in parentheses, then mechanical text
   - Mechanical design principle: **custom features should reinforce setting themes, not just add power**
+
+##### PF1e Class Entries
+
+PF1e class entries follow the same structure: 2–3 paragraphs placing the class in the setting, followed by optional custom content. However, PF1e does not use subclasses. The equivalent mechanical options are:
+
+- **Archetypes:** Replacement class feature packages. List replaced and replacement features with level gained.
+- **Prestige Classes:** 5- or 10-level classes with entry requirements. Format: Requirements block, then feature-by-level table, then feature descriptions.
+
+The same design principle applies: **custom mechanical content should reinforce setting themes, not just add power.**
 
 #### Custom Backgrounds
 
@@ -519,6 +660,24 @@ they're about to enter — what they believe, what they stand to lose, what they
 ```
 
 The suggested personality line is the most important part of a background entry. It is the point of contact between the player's character and the adventure's themes.
+
+##### PF1e: Campaign Traits (replaces Custom Backgrounds)
+
+Pathfinder 1e does not use backgrounds as a mechanical system. The equivalent is **campaign traits** — minor mechanical bonuses tied to a character's history and relationship to the adventure. Design 4–6 campaign traits. Each entry:
+
+```
+### Trait Name (Campaign)
+
+[One paragraph of prose: who is this character, what is their relationship to the setting,
+what narrative weight does this trait carry?]
+
+**Benefit:** [Mechanical text: a +1 trait bonus to a specific skill or save, a class skill addition,
+or a minor situational ability. Campaign traits should be roughly equivalent in power to other PF1e traits.]
+
+*Suggested personality:* [1–2 sentences framing the character's emotional relationship to the adventure.]
+```
+
+The suggested personality line serves the same purpose as in 5e backgrounds: it is the point of contact between the player's character and the adventure's themes.
 
 #### Character Hooks
 
@@ -573,13 +732,13 @@ Frame uncertainty as thematic rather than accidental. When you don't want to rev
 
 Economy of language. Every sentence should earn its place. Long paragraphs are fine when the content warrants them; padding is not.
 
-## Mechanical Sections (Classes, Backgrounds, Stat Blocks)
+## Mechanical Sections (Classes, Backgrounds/Campaign Traits, Stat Blocks)
 
 State rules completely and without ambiguity. Specify: the trigger, the effect, the duration, the DC (if any), the recharge condition (if any). Don't leave anything to interpretation.
 
-Lead with flavor before mechanics in class and subclass write-ups. Players should understand what a character with this subclass is and feels like before they understand what the features do.
+Lead with flavor before mechanics in class and subclass write-ups. Players should understand what a character with this subclass or archetype is and feels like before they understand what the features do.
 
-Design principle: **custom mechanics should reinforce setting themes, not just add power.** A subclass for a setting about free will should feel different to play than a subclass for a setting about survival. The mechanics are an argument about the setting.
+Design principle: **custom mechanics should reinforce setting themes, not just add power.** A subclass or archetype for a setting about free will should feel different to play than one for a setting about survival. The mechanics are an argument about the setting.
 
 ## DM Guidance (Notes, Chapter Framing)
 
@@ -609,9 +768,14 @@ Name NPC motivations explicitly so DMs can improvise consistently. A DM who know
 | NPC, place, faction names | `**bold**` on first use |
 | Mechanical keywords | `**bold**` |
 | Tables | Markdown pipe tables |
-| Stat block ability scores | Pipe table (6 columns) |
-| Stat block actions section | `#### Actions` |
-| Stat block legendary actions | `#### Legendary Actions` |
+| Stat block ability scores (5e) | Pipe table (6 columns) |
+| Stat block actions section (5e) | `#### Actions` |
+| Stat block legendary actions (5e) | `#### Legendary Actions` |
+| Stat block sections (PF1e) | `**DEFENSE**`, `**OFFENSE**`, `**STATISTICS**`, `**SPECIAL ABILITIES**` |
+| Stat block abilities (PF1e) | Inline: `**Str** X, **Dex** X`, etc. |
+| Mythic notation (PF1e) | `**Mythic Rank** X` after DEFENSE |
+| Item aura/CL (PF1e) | `**Aura** [strength] [school]; **CL** Xth` |
+| Game Master reference (PF1e) | Use "Game Master" (not "Dungeon Master") for PF1e campaigns |
 
 ---
 
@@ -641,9 +805,9 @@ Every NPC in the Design Document becomes a full entry with personality, secrets,
 - Adventure hooks → transformed into character backgrounds and character hooks
 
 New content added in the Player's Guide that does not appear in the DM Guide:
-- Custom subclasses (mechanical content designed for players)
+- Custom subclasses / archetypes / prestige classes (mechanical content designed for players)
 - Custom race entries (if applicable)
-- Custom backgrounds (with mechanical features)
+- Custom backgrounds (5e) or campaign traits (PF1e)
 - The Rumors Table
 - Character Hooks
 

@@ -600,7 +600,7 @@ At will — *daze* (DC 14), *lullaby* (DC 14)
 ### Janavariseng
 *CR 6 — Medium — "Brute"*
 
-A horned, ape-like creature with elongated arms and a skinny frame that makes it appear far less threatening than it truly is. Janavariseng possess freakish strength wildly disproportionate to their size — the lanky arms can tear through reinforced doors and hurl armored warriors across rooms. Their signature ability causes observers' attention to slide past them as though they were part of the scenery, allowing them to close to melee range before anyone realizes the danger. By the time a janavariseng is noticed, it is already swinging.
+A horned, ape-like creature with elongated arms and a skinny frame that makes it appear far less threatening than it truly is. The janavariseng possess freakish strength wildly disproportionate to their size — the lanky arms can tear through reinforced doors and hurl armored warriors across rooms. Their signature ability causes observers' attention to slide past them as though they were part of the scenery, allowing them to close to melee range before anyone realizes the danger. By the time a janavariseng is noticed, it is already swinging.
 
 **Janavariseng — CR 6**
 **XP** 2,400
@@ -641,7 +641,7 @@ At will — *greater teleport* (self plus 50 lbs. of objects only)
 ### Mautchidaya
 *CR 8 — Large — "Terminator"*
 
-A bird-like creature the size of a warhorse, with broad dirt-colored wings, a twisted humanoid visage set in a permanent snarl, and a segmented tail ending in a thick paralytic stinger. Mautchidaya are aerial assault and pursuit specialists. They circle above the battlefield at range, select the most dangerous target, lock it in place with their paralyzing gaze, then dive to deliver the stinger. They are tactically intelligent — they prioritize healers, spellcasters, and commanders, and withdraw if outmatched rather than fighting to death. Nexian rangers consider a mautchidaya sighting a sign that a major demon raid is imminent, as they typically serve as advance scouts for larger forces.
+A bird-like creature the size of a warhorse, with broad dirt-colored wings, a twisted humanoid visage set in a permanent snarl, and a segmented tail ending in a thick paralytic stinger. Mautchidaya are aerial assault and pursuit specialists. They circle above the battlefield at range, select the most dangerous target, lock it in place with their paralyzing gaze, then dive to deliver the stinger. They are tactically intelligent — they prioritize healers, spellcasters, and commanders, and withdraw if outmatched rather than fighting to death. Nexian rangers consider a mautchidaya sighting a sign that a major demon raid is imminent, as they typically serve as heavy advance scouts for larger forces.
 
 **Mautchidaya — CR 8**
 **XP** 4,800
@@ -673,7 +673,7 @@ At will — *greater teleport* (self plus 50 lbs. of objects only)
 **Languages** Common, Infernal; telepathy 100 ft.
 
 **SPECIAL ABILITIES**
-**Pinning Gaze (Su):** Three times per day as a standard action, a mautchidaya can fix its gaze on a single creature within 60 ft. The target must succeed at a Fortitude save (DC 18) or be rooted in place for 1 round, unable to move from its current position (as though affected by *hold person*, but affecting any creature type). The target can still attack, cast spells, and take other actions that don't require movement. Freedom of movement negates this effect. The save DC is Charisma-based.
+**Pinning Gaze (Su):** Three times per day as a standard action, a mautchidaya can fix its gaze on a single creature within 60 ft. The target must succeed at a Will save (DC 18) or be rooted in place for 1 round, unable to move from its current position (as though affected by *hold person*, but affecting any creature type). The target can still attack, cast spells, and take other actions that don't require movement. Freedom of movement negates this effect. The save DC is Wisdom-based.
 **Diving Strike (Ex):** If a mautchidaya flies at least 30 ft. before making a sting attack, the attack deals an additional 2d6 damage and the save DC of its poison increases by 2 for that strike.
 **Poison (Ex):** Sting — injury; Fort DC 19; frequency 1/round for 6 rounds; effect 1d4 Dexterity damage and staggered for 1 round; cure 2 consecutive saves. The save DC is Constitution-based.
 
@@ -733,7 +733,7 @@ At will — *greater teleport* (self plus 50 lbs. of objects only)
 ### Tkamaarana
 *CR 13 — Huge — "Juggernaut"*
 
-A massive six-legged lizard-centaur monstrosity — the lower body is a broad, armored hexapod, the upper body a twisted humanoid torso with long arms and a large arrowhead-shaped bone growth crowning its head. Despite its bestial appearance, a tkamaarana is deeply intelligent, choosing targets with theological precision. The bone crest resonates with a frequency that unravels divine protections on contact, making the creature a living siege weapon deployed specifically against consecrated ground, wardstones, and temple fortifications. Tkamaarana approach their work with a craftsman's patience, circling fortifications to identify the point of greatest divine investment before striking.
+A massive six-legged lizard-centaur monstrosity — the lower body is a broad, armored hexapod, the upper body a twisted humanoid torso with long arms and a large arrowhead-shaped bone growth crowning its head. Despite its bestial appearance, a tkamaarana is deeply intelligent, choosing targets with precision. Its bone crest resonates with a frequency that unravels divine protections on contact, making the creature a living siege weapon deployed specifically against consecrated ground, wardstones, and temple fortifications. Tkamaarana approach their work with a craftsman's patience, circling fortifications to identify the point of greatest divine investment before striking.
 
 **Tkamaarana — CR 13**
 **XP** 25,600

@@ -80,7 +80,7 @@ At will — *feather fall*
 ---
 
 ### Vayuphak
-*CR 5 — Medium*
+*CR 5 — Medium — "Stormcrow"*
 
 Winged asuras with wind-based defenses and psychic magic. Vayuphaks serve as scouts and skirmishers, using their flight and Enveloping Winds to avoid ranged retaliation while harassing enemy positions. Their mental static aura disrupts concentration in their vicinity.
 
@@ -125,7 +125,7 @@ At will — *greater teleport* (self plus 50 lbs. of objects only)
 ---
 
 ### Adhukait
-*CR 7 — Medium*
+*CR 7 — Medium — "Butcher"*
 
 Dual-bodied asuras — two fused humanoid forms sharing a single entity with two minds. Adhukaits are shock troops and garrison commanders that fight with terrifying speed, weaving through combat with their Dance of Disaster ability. Their dual minds grant exceptional resilience against mental effects, and their all-around vision makes them immune to flanking.
 
@@ -172,7 +172,7 @@ At will — *feather fall*, *greater teleport* (self plus 50 lbs. of objects onl
 ---
 
 ### Upasunda
-*CR 9 — Medium*
+*CR 9 — Medium — "Cleaver"* 
 
 Six-armed martial perfectionists devoted to physical destruction. Upasundas are the elite warriors of the asura hierarchy — fast, precise, and devastatingly lethal in melee. Their Multiweapon Mastery allows them to fight with three weapons simultaneously without penalty, and their infused weapons bypass damage reduction. All-around vision and improved evasion make them exceptionally difficult to outmaneuver.
 
@@ -218,7 +218,7 @@ At will — *disguise self*, *greater teleport* (self plus 50 lbs. of objects on
 ---
 
 ### Aghasura
-*CR 11 — Huge*
+*CR 11 — Huge — "Python"*
 
 Serpentine ambush predators with a supernatural attraction aura that compels creatures to approach. Aghasuras are patient hunters that remain motionless until prey wanders within range, then strike with poisoned scimitars and a crushing bite. Their ability to swallow creatures whole and their *cloudkill* spell-like ability make them devastating in enclosed spaces.
 
@@ -266,7 +266,7 @@ At will — *greater teleport* (self plus 50 lbs. of objects only)
 ---
 
 ### Japalisura
-*CR 12 — Medium*
+*CR 12 — Medium — "Huntress"*
 
 Six-armed archer asuras with corrupted divination abilities. Japalisuras wield two bows simultaneously and generate their own infernal ammunition. They operate through intermediaries, feeding false prophecies to cultists and mortal agents through their Hateful Prophecy ability — twisting genuine divinations to incite violence against the asura's chosen enemies. They rarely confront threats directly, preferring to manipulate from concealment.
 
@@ -317,7 +317,7 @@ At will — *augury*, *flame arrow*
 ---
 
 ### Nikaramsa
-*CR 14 — Large*
+*CR 14 — Large — "Corrupter"*
 
 Twin lion-headed corruptors that specialize in the subversion and collapse of organized faith. Nikaramsas are religious saboteurs — their Pervert Miracle ability allows them to intercept and invert healing and protective spells cast in their vicinity, and their Savor Heresy grants them enhanced combat prowess against those who have abandoned their faith. They infiltrate religious communities using their extensive illusion spell-like abilities and systematically dismantle belief from within.
 
@@ -365,7 +365,7 @@ At will — *greater teleport* (self plus 50 lbs. of objects only), *invisibilit
 ---
 
 ### Hishandura
-*CR 15 — Large*
+*CR 15 — Large — "Despoiler"*
 
 Two-faced, four-armed melee specialists born from champions wrongfully abandoned by their gods. Hishanduras are siege-breakers and destroyers whose Destructive Blades ignore most hardness and deal doubled damage to structures. Their Scent of Carnage grants them blindsense against wounded creatures, and their Repentant Rain blinds nearby enemies after critical hits. They are solitary engines of destruction deployed against fortified positions.
 
@@ -414,7 +414,7 @@ At will — *gaseous form*
 ---
 
 ### Asurendra
-*CR 20 — Huge*
+*CR 20 — Huge — "Battlelord"*
 
 The most powerful non-unique asuras. Asurendras are generals and overlords of the asura hierarchy — vast, multi-limbed horrors whose Spirit Blades, Curse of False Wisdom, and access to *time stop* make them among the most dangerous outsiders in existence. Their dimensional lock aura prevents enemies from escaping, and their summon ability can call any asura of CR 19 or lower with certainty. Asurendras come in several variants, some of which can create new asuras from consumed creatures.
 

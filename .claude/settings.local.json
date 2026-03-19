@@ -22,7 +22,14 @@
       "Bash(powershell.exe -File:*)",
       "Bash(pandoc --version)",
       "Bash(powershell.exe -Command \"pandoc --version 2>&1 | Select-Object -First 1\")",
-      "Bash(powershell.exe -Command \":*)"
+      "Bash(powershell.exe -Command \":*)",
+      "Bash(git add:*)",
+      "WebFetch(domain:www.d20pfsrd.com)",
+      "WebSearch",
+      "WebFetch(domain:pf2.d20pfsrd.com)",
+      "WebFetch(domain:www.aonprd.com)",
+      "WebFetch(domain:aonprd.com)",
+      "WebFetch(domain:pathfinderwiki.com)"
     ]
   }
 }

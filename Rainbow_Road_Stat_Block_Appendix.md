@@ -819,3 +819,241 @@ At will — *greater teleport* (self plus 50 lbs. of objects only), *enervation*
 **Environment** any (Hell or Nine Worlds)
 **Organization** solitary (usually with 3–6 linked asura subordinates)
 **Treasure** double
+
+---
+
+---
+
+# Non-Asura Creatures
+
+The following creatures are unique to the Rainbow Road campaign and cannot be sourced from standard Pathfinder bestiaries. They are organized by Challenge Rating.
+
+---
+
+### Beast Blavin
+*CR 5 — Large — Casomir's Corrupted Form*
+
+The Beast Blavin is the corrupted manifestation of Casomir's mythic power, forced to the surface when the last of his control fails. What emerges is not a separate entity but a distortion of Casomir himself — his body enlarged, twisted, and driven by the corruption that has been consuming him for five centuries. The transformation progresses through three phases as Casomir's resistance erodes and the Beast takes full control. The creature has no intelligence of its own; it is instinct wrapped in corrupted flesh, acting on impulse and rage. Casomir remains partially present during the early stages of the transformation, fighting the Beast from within and providing what aid he can to the party before his consciousness is submerged entirely.
+
+This is a phased encounter. The stat block below covers the Beast's baseline capabilities; phase-specific modifications are noted after the core statistics.
+
+**Beast Blavin — CR 5**
+**XP** 1,600
+NE Large aberration (corrupted, mythic)
+**Init** +2; **Senses** darkvision 60 ft.; **Perception** +6
+
+**DEFENSE**
+**AC** 16, touch 11, flat-footed 14 (+2 Dex, +5 natural, –1 size)
+**hp** 55 (6d8+24)
+**Fort** +6, **Ref** +4, **Will** +3
+**DR** 5/—
+
+**OFFENSE**
+**Speed** 30 ft.
+**Melee** 2 claws +7 (1d8+4), bite +7 (1d6+4)
+**Space** 10 ft.; **Reach** 10 ft.
+
+**STATISTICS**
+**Str** 18, **Dex** 14, **Con** 18, **Int** 2, **Wis** 10, **Cha** 6
+**BAB** +4; **CMB** +9; **CMD** 21
+
+**SPECIAL ABILITIES**
+**Casomir's Resistance (Ex):** During Phase 1, the Beast suffers a –2 penalty to attack rolls and Reflex saves as Casomir's will impedes its movements. This penalty is removed at the start of Phase 2.
+**Casomir's Aid (Ex):** During Phase 1, once per round as a free action, Casomir reasserts control momentarily — the Beast hesitates, lowers its guard, or exposes a weak point. The next PC to attack gains a +2 circumstance bonus to their attack roll. If Casomir triggered the transformation early (rather than the party agreeing), this bonus is reduced to +1. This ability ceases to function at the start of Phase 2.
+**Weak Points (Ex):** A called shot to the shoulder tendons (attack at –4, or a successful Knowledge [nature] or Heal check DC 15 to identify the target without penalty) deals an additional 1d6 damage and reduces the Beast's claw attack bonus by 1 (cumulative, to a minimum of +3).
+
+**PHASE MODIFICATIONS**
+
+**Phase 1: Half-Emerged (Rounds 1–3).** Use the statistics as written above. If Casomir triggered the transformation early, Phase 1 lasts only 2 rounds instead of 3.
+
+**Phase 2: Full Emergence (Rounds 4–6).** The Beast's hp increases by 20 (to a maximum of 75 minus damage already dealt). All attack bonuses increase by +2. DR improves to 5/good. The Beast gains a slam attack at +9 (2d6+6). Speed increases to 40 ft. Casomir's Resistance and Casomir's Aid cease to function. The suppression crystal system imposes a –1 penalty to the Beast's attack rolls and saving throws. The Beast can destroy one crystal array per round as a full-round action (hardness 8, 15 hp per section, 4 sections total). If all four sections are destroyed, the penalty is removed and the Beast gains fast healing 2.
+
+**Phase 3: Killswitch (Conditional).** At 30 hp or fewer, the Beast attempts to escape — destroying remaining suppression crystals and breaking down the iron doors (hardness 10, 60 hp). If a character adjacent to the central platform pulls the killswitch lever (standard action), amber gas fills the chamber: all creatures take 2d6 nonlethal damage per round (Fort DC 15 half). The Beast takes –4 to attack rolls, –2 to AC, half speed, and fast healing (if active) is suppressed. The gas disperses after 5 rounds or immediately if the ventilation grate on the staircase is opened (full-round action, Str DC 12).
+
+**ECOLOGY**
+**Environment** Casomir's suppression chamber (Alfheim)
+**Organization** unique
+**Treasure** none
+
+---
+
+### Enforcer Construct
+*CR 8 — Large — Magitek Police Unit*
+
+The Enforcers are the visible instruments of Vatra's construct hierarchy — seven-foot humanoid constructs of dark metal and magitek alloy, built for surveillance and crowd control. Their design is functional rather than elegant: heavy limbs, reinforced torsos, sensor arrays where a face would be. They move with mechanical precision, their footfalls striking in perfect unison, and they speak Common in a flat, inflectionless voice that organizes sound into words with no intention behind them. Enforcers are not intelligent. They follow protocols — detection, identification, detention, escalation — and their response to unresolvable anomalies is to detain the anomaly and route it to the nearest Majestic for processing. They are the most frequently encountered construct type on Vatra, and the primary enforcement mechanism for the no-past rule.
+
+**Enforcer Construct — CR 8**
+**XP** 4,800
+N Large construct (magitek)
+**Init** +0; **Senses** darkvision 60 ft., sensor array 120 ft.; **Perception** +0
+
+**DEFENSE**
+**AC** 21, touch 9, flat-footed 21 (+12 natural, –1 size)
+**hp** 90 (10d10+30 [size])
+**Fort** +3, **Ref** +3, **Will** +3
+**Hardness** 10; **Immune** construct immunities
+
+**OFFENSE**
+**Speed** 30 ft.
+**Melee** 2 slams +15 (1d8+6 plus 1d6 electricity)
+**Space** 10 ft.; **Reach** 10 ft.
+**Special Attacks** electrical discharge, restraint protocol
+
+**STATISTICS**
+**Str** 22, **Dex** 10, **Con** —, **Int** —, **Wis** 10, **Cha** 1
+**BAB** +10; **CMB** +17 (+19 grapple); **CMD** 27
+
+**SPECIAL ABILITIES**
+**Electrical Discharge (Ex):** Each slam attack deals an additional 1d6 electricity damage from the Enforcer's integrated magitek baton.
+**Restraint Protocol (Ex):** On a successful grapple check (CMB +19), the Enforcer locks its target in articulated metal bands. An immobilized creature can escape with an Escape Artist check (DC 25) or a Strength check (DC 28). The Enforcer can restrain one creature at a time without releasing its grapple; restrained creatures are treated as pinned.
+**Sensor Array (Ex):** The Enforcer detects motion and heat within 120 feet. Non-Tiefling humanoids within sensor range register as anomalies and are flagged for identification. The sensor array functions through smoke and fog but not through solid barriers thicker than 6 inches.
+**Escalation Protocol (Ex):** If an Enforcer is destroyed, all Enforcers within 500 feet receive an alert signal. Additional units converge on the location within 1d4+2 rounds. If the party has been flagged as a hostile intrusion (by destroying Enforcers on the highway), all subsequent Enforcer patrols on Vatra double in size and response times decrease by 1 round.
+
+**ECOLOGY**
+**Environment** Vatra (highways, forge-cities, Korvaal)
+**Organization** patrol (4), squad (8), or garrison (12–20)
+**Treasure** none
+
+---
+
+### Garl the Howler
+*CR 10 — Variable Size — The Howler*
+
+Garl the Even-Handed was a Forest Gnome Druid and the moral center of the ten heroes who built the Rainbow Road. Five centuries of corruption have consumed his druidic abilities entirely — the connection to nature that defined him has been twisted into something unrecognizable. What remains is a mutated wild shape capacity that produces nightmare versions of natural animals, each form warped by the Contamination that has saturated the Murk. Garl retains no spellcasting. His primary assets are his enormously enhanced Strength, his damage reduction (the corruption absorbs physical harm), and his ability to direct the Contamination itself as a weapon within the ziggurat. He does not fight tactically — he is in too much pain to strategize, attacking the nearest threat with whatever form he is wearing and shifting when one form takes significant damage. Between attacks, he screams, and in the screams the party can hear fragments of coherent speech: pleas for help, apologies, half-remembered names.
+
+**Base Statistics (apply across all forms unless overridden)**
+Forest Gnome Druid 10 / Mythic tier 3 (corrupted)
+CE Small humanoid (gnome, mythic) [base form; rarely seen in combat]
+**Init** +3; **Senses** low-light vision, scent; **Perception** +16
+**DR** 10/good (corruption absorption); **Immune** disease, poison
+**Mythic Power** 5/day, surge +1d6
+**Fort** +13, **Ref** +6, **Will** +10
+
+**Bear Form (Default Combat Form)**
+Large aberration (shapechanger)
+**AC** 22, touch 10, flat-footed 21 (+1 Dex, +12 natural, –1 size)
+**hp** 145 (10d8+90 [Con 26 in this form])
+**Speed** 40 ft.
+**Melee** 2 claws +16 (2d6+9), bite +16 (1d8+9)
+**Space** 10 ft.; **Reach** 5 ft.
+**Str** 28, **Dex** 12, **Con** 26
+**BAB** +7; **CMB** +17; **CMD** 28
+
+**Serpent Form**
+Medium aberration (shapechanger)
+**AC** 24, touch 14, flat-footed 20 (+4 Dex, +10 natural)
+**hp** 145
+**Speed** 30 ft., climb 30 ft.
+**Melee** bite +14 (1d8+6 plus grab), constrict (2d6+9)
+**Str** 22, **Dex** 18, **Con** 22
+**BAB** +7; **CMB** +14 (+18 grapple); **CMD** 28
+
+**Swarm Form**
+Diminutive aberration (shapechanger, swarm)
+**AC** 20, touch 18, flat-footed 16 (+4 Dex, +4 size, +2 natural)
+**hp** 145
+**Speed** 10 ft., fly 30 ft. (good)
+**Swarm Attack** 4d6 plus distraction (Fort DC 18)
+Swarm traits (immune to weapon damage, vulnerable to area effects)
+
+**SPECIAL ABILITIES**
+**Form Shifting (Su):** As a move action, Garl shifts between his three combat forms. Each shift provokes an attack of opportunity. He shifts involuntarily when reduced below 50% hp in his current form (this involuntary shift does not provoke).
+**Contamination Pulse (Su):** Bear form only. 15-ft. radius burst centered on Garl, 2d6 acid damage plus Fort DC 18 or nauseated for 1 round. Usable once per 1d4 rounds.
+**Spore Spray (Su):** Serpent form only. 30-ft. cone, Fort DC 18 or blinded for 1d4 rounds.
+**Distraction (Ex):** Swarm form only. Any creature that takes swarm damage must succeed at a Fort save (DC 18) or be nauseated for 1 round.
+**Contamination Control (Su):** While within the ziggurat, Garl can direct the Contamination as a standard action, choosing one of the following effects each round: fungal tendrils (15-ft. reach, +12 melee touch, 1d8+4 plus grab), spore burst (10-ft. radius at a point within 30 ft., 2d6 acid, Fort DC 16 half), or animate 1d3 fungal zombies from the floor (act on Garl's initiative, use standard zombie statistics).
+
+**ECOLOGY**
+**Environment** the Murk ziggurat (Gaia)
+**Organization** unique
+**Treasure** none
+
+---
+
+### Dragon Construct
+*CR 15 — Huge — Renara's Vault Guardian*
+
+A masterwork of magitek artifice — a dragon rendered in dark metal and mirror-polished alloy with the precision of a master jeweler working at architectural scale. The body is serpentine, armored in overlapping plates inscribed with fine technical script, and the wings are articulated frameworks of metal and crystal that channel magitek energy in visible arcs across the construct's surface. The eye sockets hold not fire but plasma — superheated energy contained in magnetic fields, the same technology that powers the lava canals but refined to a degree the Techpriests above could not comprehend. Built by Renara, the greatest artificer Vatra ever produced, the construct has guarded her vault and the blade within it for five hundred years, maintaining itself through integrated self-repair systems. It is not intelligent in the way the Overmind is intelligent; it has no personality, no speech, no capacity for negotiation. It has a directive — protect the vault — and it executes that directive with the relentless precision of a machine designed by a genius and optimized over five centuries.
+
+**Dragon Construct — CR 15**
+**XP** 51,200
+N Huge construct (magitek)
+**Init** +3; **Senses** darkvision 120 ft., tremorsense 60 ft., *see invisibility*; **Perception** +20
+
+**DEFENSE**
+**AC** 32, touch 11, flat-footed 29 (+3 Dex, +21 natural, –2 size)
+**hp** 210 (20d10+100); fast healing 10
+**Fort** +6, **Ref** +9, **Will** +8
+**DR** 15/adamantine; **Immune** fire, electricity, construct immunities; **SR** 26
+
+**OFFENSE**
+**Speed** 40 ft., fly 60 ft. (poor)
+**Melee** bite +28 (2d8+10), 2 claws +28 (2d6+10), tail slap +23 (2d6+5)
+**Space** 15 ft.; **Reach** 10 ft. (15 ft. with bite)
+**Special Attacks** plasma breath, wing buffet
+
+**STATISTICS**
+**Str** 30, **Dex** 16, **Con** —, **Int** —, **Wis** 14, **Cha** 1
+**BAB** +20; **CMB** +32; **CMD** 45
+
+**SPECIAL ABILITIES**
+**Plasma Breath (Su):** 60-ft. cone, 12d6 fire plus 6d6 force damage, Reflex DC 22 half. Usable once every 1d4 rounds. The breath weapon is not fire in the conventional sense — it is superheated plasma contained in a magnetic envelope, and the force damage component bypasses fire resistance and fire immunity.
+**Wing Buffet (Ex):** All creatures within 15 feet must succeed at a Reflex save (DC 22) or be knocked prone. The construct can use this ability as a free action once per round after making a full attack.
+**Self-Repair (Ex):** The construct has fast healing 10. This ability ceases to function if the construct is reduced below 0 hp.
+**Vault Tether (Ex):** The construct does not pursue targets beyond 120 feet of the vault door. If all targets move beyond this range, the construct returns to the vault entrance and waits. Its fast healing functions normally during this time.
+
+**ECOLOGY**
+**Environment** Renara's Vault, Korvaal deep forges (Vatra)
+**Organization** solitary
+**Treasure** none (guards Renara's Blade)
+
+---
+
+### Blackfire (Kerlin Whitemane)
+*CR 15 — Medium — The Fifth Warlock*
+
+Kerlin Whitemane was once the most skilled artificer the Nine Worlds had ever produced — a Tiefling Magus whose mastery of magitek and arcane theory made him the natural architect of the Rainbow Road's mechanical systems. Five centuries of corruption have degraded his abilities to a shadow of their former scope. His higher-level spells are gone, consumed by the corruption. His mythic abilities function at reduced capacity. His spell resistance, once formidable, has been eroded by the same force that sustains him. What remains is a combat-focused Magus with a heavy magitek hammer that was once a tool of creation and is now a weapon of desperation, a handful of reliable combat spells, and an intimate knowledge of the workshop systems that can be turned into environmental hazards. He fights with reckless aggression, spending resources he cannot recover, and if pressed below half his hit points he begins a cascading overload of the workshop itself — willing to destroy everything rather than lose it.
+
+This stat block covers the combat path only. The turning path does not require combat statistics.
+
+**Blackfire (Kerlin Whitemane) — CR 15**
+**XP** 51,200
+CE Medium outsider (native, mythic) [Tiefling Magus 15]
+**Init** +6; **Senses** darkvision 60 ft.; **Perception** +18
+
+**DEFENSE**
+**AC** 28, touch 14, flat-footed 25 (+8 armor [magitek forge plate], +3 Dex, +1 dodge, +4 natural, +2 deflection)
+**hp** 180 (15d8+105); mythic recuperation
+**Fort** +15, **Ref** +10, **Will** +13
+**DR** 5/— (mythic); **Resist** fire 10 (racial); **SR** 22 (degraded)
+
+**OFFENSE**
+**Speed** 30 ft.
+**Melee** *magitek hammer* +18/+13/+8 (2d6+9/×3 plus 1d6 fire) or spell combat: *magitek hammer* +16/+11/+6 (2d6+9/×3 plus 1d6 fire) and spellstrike touch
+**Special Attacks** spell combat, spellstrike, arcane pool (9 points), magitek forge manipulation
+
+**Spells Prepared** (CL 15th; concentration +21)
+Key combat spells: *shocking grasp* (intensified, 10d6 electricity, delivered via spellstrike), *displacement*, *haste*, *fireball* (forge-enhanced — ambient gases add +2 damage per die), *greater invisibility* (3-round duration, corruption-degraded)
+Higher-level spells are unavailable — the corruption has consumed them.
+
+**STATISTICS**
+**Str** 20, **Dex** 16, **Con** 22, **Int** 22, **Wis** 14, **Cha** 12
+**BAB** +11; **CMB** +16; **CMD** 30
+**Feats** Combat Casting, Intensified Spell, Power Attack, Dodge, Improved Initiative, Weapon Focus (hammer)
+**Skills** Craft (magitek) +24, Knowledge (arcana) +24, Spellcraft +24
+**Mythic Abilities** mythic recuperation, mythic power (6/day), surge +1d8
+
+**SPECIAL ABILITIES**
+**Magitek Forge Manipulation (Su):** As a move action while in his workshop, Blackfire can activate one of the following hazards. Each hazard can be activated only once — the workshop's systems are not designed for combat, and each activation damages the equipment beyond repair.
+- *Forge vents:* 15-ft. cone, 3d6 fire damage, Reflex DC 18 half.
+- *Conduit overload:* 20-ft. radius, 4d6 electricity damage, Reflex DC 20 half.
+- *Molten channels:* Opens floor channels creating difficult terrain in a 15-ft. line; creatures in affected squares take 2d6 fire damage per round.
+
+**Cascading Overload (Su):** When reduced below 50 hp, Blackfire activates all remaining unused hazards simultaneously. He takes damage from these hazards equally with the party.
+**Mythic Recuperation (Su):** At the start of each of his turns, Blackfire expends one use of mythic power to regain one use of a spell he has already cast. He prioritizes *shocking grasp* and *displacement*.
+**Corruption (Su):** If Blackfire is killed, the campaign corruption score increases by +2. The corruption that held him is released and disperses into the world.
+
+**ECOLOGY**
+**Environment** Blackfire's workshop, Korvaal deep forges (Vatra)
+**Organization** unique
+**Treasure** magitek hammer (functions as a *+2 flaming warhammer* with the ×3 critical multiplier of a magitek weapon), magitek forge plate (functions as *+2 full plate* with fire resistance 5)

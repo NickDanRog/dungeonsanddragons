@@ -1057,3 +1057,119 @@ Higher-level spells are unavailable — the corruption has consumed them.
 **Environment** Blackfire's workshop, Korvaal deep forges (Vatra)
 **Organization** unique
 **Treasure** magitek hammer (functions as a *+2 flaming warhammer* with the ×3 critical multiplier of a magitek weapon), magitek forge plate (functions as *+2 full plate* with fire resistance 5)
+
+---
+
+### Tekticula the Unraveler
+*CR 18 — Huge — Demon Lord of the Corrupted Cathedral*
+
+Tekticula the Unraveler is not encountered in the material world. The demon lord exists inside Tamaron's mindscape — the spiritual battlefield opened by the simultaneous presentation of the Sign of the Host and the Crown of Ascension — and its stat block reflects a creature fighting on home ground, merged with the corrupted architecture of the Cathedral of Light that it has been reshaping for five centuries. Tekticula's form is a fusion of demonic flesh and sacred stone, its body grown into the profaned altar at the Cathedral's center, its face a distorted enlargement of Tamaron's own features. It fights with the patience of an entity that has survived inside a single mind for half a millennium and the fury of one that knows its survival depends on destroying the intruders before they can unmake the corruption it has built. The demon does not flee. It does not negotiate in good faith. Its opening manipulation — the beautiful voice, the pretense of divinity — is a tactic, not an offer, and once the pretense is dropped, Tekticula fights with everything it has.
+
+This stat block is used only in the mindscape battle (Chapter 9, Scene 7, Turning Path). If Tamaron is killed without entering the mindscape, Tekticula manifests briefly in the material world but does not use this stat block — it has one round and one action (a possession attempt) before dissipating.
+
+**Tekticula the Unraveler — CR 18**
+**XP** 153,600
+CE Huge outsider (chaotic, evil, demon, mythic)
+**Init** +8; **Senses** darkvision 120 ft., *true seeing*; **Perception** +32
+
+**DEFENSE**
+**AC** 35, touch 12, flat-footed 31 (+4 Dex, +23 natural, –2 size)
+**hp** 310 (20d10+200); fast healing 10 (while in contact with the altar)
+**Fort** +22, **Ref** +10, **Will** +20
+**DR** 15/cold iron and good; **Immune** electricity, poison, charm, compulsion; **Resist** acid 10, cold 10, fire 10; **SR** 29
+**Defensive Abilities** altar tether (see below), mythic resilience
+
+**OFFENSE**
+**Speed** 30 ft. (does not fly within the mindscape)
+**Melee** 2 slams +30 (2d8+12 plus 2d6 psychic), bite +30 (2d6+12 plus corrupting touch)
+**Space** 15 ft.; **Reach** 15 ft.
+**Special Attacks** Psychic Scream, Corrupting Word, Unraveling Aura, corrupting touch
+**Spell-Like Abilities** (CL 20th; concentration +28)
+At will — *detect thoughts* (DC 20), *greater dispel magic*, *unholy blight* (DC 22)
+3/day — *feeblemind* (DC 23), *dominate person* (DC 23), *harm* (DC 24)
+1/day — *power word stun*, *symbol of insanity* (DC 26)
+
+**STATISTICS**
+**Str** 34, **Dex** 18, **Con** 30, **Int** 24, **Wis** 22, **Cha** 26
+**BAB** +20; **CMB** +34; **CMD** 48
+**Feats** Improved Initiative, Power Attack, Vital Strike, Improved Vital Strike, Ability Focus (Psychic Scream), Iron Will, Combat Reflexes, Improved Natural Attack (slam), Toughness, Skill Focus (Bluff)
+**Skills** Bluff +38, Knowledge (religion) +30, Perception +32, Sense Motive +29, Intimidate +31, Knowledge (planes) +30, Spellcraft +30
+**Languages** Abyssal, Celestial, Common, Infernal; telepathy 100 ft.
+**Mythic Abilities** mythic power (8/day), surge +1d10
+
+**SPECIAL ABILITIES**
+**Psychic Scream (Su):** As a standard action, Tekticula unleashes a 60-ft. cone of psychic energy. All creatures in the area take 8d6 psychic damage and are dazed for 1 round (Will DC 28 negates the daze; damage is halved on a successful save). Tekticula can expend one use of mythic power when using this ability to increase the damage to 12d6 and the daze duration to 1d4 rounds. The save DC is Charisma-based.
+
+**Corrupting Word (Su):** As a standard action, Tekticula speaks a word of command targeting a single creature within 120 ft. (ranged touch attack, +22). The target must make a Will save (DC 28) or be compelled to attack its nearest ally with a full-round action on its next turn, using whatever weapons or abilities it has available. The target is aware that it is being compelled and can choose to take no other action (effectively losing the turn) instead of attacking an ally — this requires a second Will save (DC 23) to resist the compulsion's insistence. The compulsion is a mind-affecting enchantment effect. The save DC is Charisma-based.
+
+**Unraveling Aura (Su):** Tekticula radiates an aura of psychic erosion in a 30-ft. radius. All creatures within the aura at the start of their turn take 2d6 psychic damage (no save). This damage represents the demon's presence degrading the mindscape's coherence — reality frays at the edges when Tekticula is nearby, and the fraying is painful for mortal minds. The aura is always active and cannot be suppressed. Creatures immune to mind-affecting effects still take the damage — the aura is not a mental attack but a structural one, affecting the mindscape itself rather than the creatures' minds.
+
+**Corrupting Touch (Su):** A creature hit by Tekticula's bite attack must make a Will save (DC 28) or suffer a –2 penalty to Will saves for the remainder of the encounter (does not stack with itself). This represents the demon's corruptive influence — each bite erodes the target's spiritual resilience, making subsequent mind-affecting attacks more likely to succeed.
+
+**Altar Tether (Su):** While Tekticula is in physical contact with the profaned altar (its starting position), it gains fast healing 10 and a +2 profane bonus to AC. If forced more than 30 feet from the altar (by bull rush, telekinesis, or voluntary movement), it loses both benefits and takes 2d6 damage per round until it returns. Tekticula will not voluntarily leave the altar's vicinity unless forced — the altar is the seat of its power within the mindscape, and separation from it is genuinely dangerous for the demon. Combat maneuvers that force movement (bull rush CMB vs. CMD 48) can break the tether temporarily, and the party should be rewarded for recognizing this tactical opportunity.
+
+**Mythic Resilience (Su):** Once per round, when Tekticula would be reduced to 0 hp or below, it can expend one use of mythic power to remain at 1 hp instead. It can use this ability a maximum of three times during the encounter (tracked separately from its mythic power pool).
+
+**Vulnerability — The Uncorrupted Windows:** When one of the Cathedral's stained glass windows is un-corrupted (triggered by the party's acts of faith, courage, or compassion — GM discretion, maximum five times per encounter), Tekticula takes 4d6 positive energy damage with no save. This damage bypasses all resistances and DR. Each un-corrupted window also reduces the damage dice of Tamaron's psyche hazards by 1d6 (minimum 1d6). The windows are the chapter's built-in timer — a party that plays to the Cathedral's themes will weaken Tekticula progressively while stabilizing the mindscape environment.
+
+**ECOLOGY**
+**Environment** Tamaron's mindscape (the Corrupted Cathedral of Light, Illium)
+**Organization** unique
+**Treasure** none (the mindscape dissolves upon Tekticula's destruction)
+
+---
+
+### Tamaron the Just / Tekticula's Puppet
+*CR 15 — Medium — The Sixth Warlock (Combat Path)*
+
+This stat block is used only if the party kills Tamaron without entering the mindscape — either because they lack the levers, because they choose direct confrontation, or because the turning attempt fails. Tamaron in combat is not fighting willingly. His body is a puppet operated by the demon lord Tekticula from within, and the stat block reflects this: the abilities are demonic rather than divine, the fighting style is aggressive and wasteful (the demon does not care about preserving the host), and the physical description should emphasize the wrongness of a good man being forced to attack the people who came to save him. Tamaron's divine casting is entirely absent — the corruption severed his connection to the gods five centuries ago, and the power he wields in combat is channeled from Tekticula through a mortal frame that was never designed to contain it. He fights with the scourge he uses for his penances, and in combat the weapon transforms — the leather thongs lengthen, darken, and strike with a force that no mundane scourge produces.
+
+Between attacks, Tamaron's consciousness surfaces in fragments: prayers, apologies, pleas for the party to stop or to end it quickly. These moments are not tactical gambits. They are the real Tamaron, trapped inside a body he cannot control, watching himself try to kill the people who came to free him.
+
+**Tamaron the Just — CR 15**
+**XP** 51,200
+CE Medium outsider (native, mythic) [Half-Elf Cleric 15, corrupted]
+**Init** +5; **Senses** darkvision 60 ft., low-light vision; **Perception** +22
+
+**DEFENSE**
+**AC** 26, touch 12, flat-footed 24 (+1 Dex, +1 dodge, +8 natural, +6 profane)
+**hp** 195 (15d8+120); demonic resilience
+**Fort** +17, **Ref** +8, **Will** +18
+**DR** 10/cold iron and good; **Immune** poison, charm; **Resist** fire 10, electricity 10
+
+**OFFENSE**
+**Speed** 30 ft.
+**Melee** *corrupted scourge* +21/+16/+11 (2d6+10 plus 1d6 unholy plus draining lash) reach 15 ft.
+**Special Attacks** Unholy Strength, Corrupted Smite, despairing howl, draining lash
+**Spell-Like Abilities** (CL 15th; concentration +21)
+At will — *command* (DC 17), *doom* (DC 17), *shield of faith* (+4 deflection, self only)
+3/day — *inflict critical wounds* (DC 20), *unholy blight* (DC 20), *fear* (DC 20)
+1/day — *slay living* (DC 21), *harm* (DC 22)
+
+**STATISTICS**
+**Str** 24, **Dex** 13, **Con** 22, **Int** 14, **Wis** 22, **Cha** 18
+**BAB** +11; **CMB** +18; **CMD** 30
+**Feats** Power Attack, Improved Initiative, Dodge, Toughness, Weapon Focus (scourge), Iron Will, Combat Reflexes, Blind-Fight
+**Skills** Knowledge (religion) +20, Sense Motive +24, Perception +22, Heal +18, Diplomacy +16
+**Languages** Common, Celestial, Elven
+**Mythic Abilities** mythic power (6/day), surge +1d8
+
+**SPECIAL ABILITIES**
+**Unholy Strength (Su):** Tekticula channels demonic power through Tamaron's body, granting +6 profane bonus to AC (included above) and +4 profane bonus to attack and damage rolls (included in melee line). This power was not designed for a mortal frame — the strain is visible in the way Tamaron's body moves, the muscles taut beyond natural tension, the joints grinding in their sockets. The enhancement is constant and cannot be suppressed while Tekticula controls the body.
+
+**Corrupted Smite (Su):** Three times per day, Tamaron can declare a corrupted smite as a swift action against any good-aligned creature. The smite adds +4 to attack rolls and +15 to damage against the target for the duration of the encounter (or until the target is dead). This ability is the demonic inversion of the paladin's smite evil — the same mechanism, powered by corruption rather than faith. If used against a party member who has demonstrated faith, courage, or compassion during the chapter, the smite's first hit deals an additional 2d6 damage as the corruption specifically targets the quality it finds most threatening.
+
+**Demonic Resilience (Su):** At the start of each of Tamaron's turns, he regains 5 hit points. This healing is not natural — it is Tekticula repairing the host's body from within, sustaining the shell it needs to survive. The healing ceases if Tamaron is affected by *holy word*, *holy smite*, or any effect that specifically targets evil outsiders — these effects disrupt the demon's control temporarily, and the disruption includes the regenerative function. During rounds where the healing is disrupted, Tamaron's consciousness surfaces more strongly — his attacks are less coordinated, his fragments of prayer are longer and more coherent, and the tragedy of his situation is more visible.
+
+**Despairing Howl (Su):** Once per encounter, when reduced below half his hit points, Tamaron screams — not a battle cry but a sound of anguish, the demon's rage and the man's despair merged into a single vocalization. All creatures within 30 feet must make a Will save (DC 22) or be shaken for 1d4+1 rounds. Creatures that are already shaken become frightened instead. The save DC is Charisma-based.
+
+**Draining Lash (Su):** A creature hit by the corrupted scourge must make a Fortitude save (DC 22) or take 1d4 points of Wisdom damage. The Wisdom damage represents the demoralizing effect of fighting a man who is begging you to stop — the damage is psychic rather than physical, and the scourge's touch carries the weight of Tamaron's despair. A creature that is immune to mind-affecting effects is also immune to this ability. The save DC is Charisma-based.
+
+**Tekticula's Release (Su):** When Tamaron's body is destroyed (reduced to 0 hp or below), Tekticula is freed from the host. The demon lord manifests for one round as a shadowy, half-formed version of its mindscape incarnation — Huge size, incorporeal, visually terrifying but weakened by the abrupt loss of its host. It has one action: it attempts to possess the nearest living creature within 60 feet. The target must make a Will save (DC 25). Modifiers: *protection from evil* or similar effects grant immunity; mythic characters add their mythic tier to the save; characters aware of the possession attempt (detected the demonic presence earlier via *detect evil* or Knowledge checks) gain a +4 circumstance bonus. If the save succeeds, Tekticula dissipates — destroyed permanently, but without the clean resolution of the mindscape victory. If the save fails, Tekticula possesses the new host (see Chapter 9, Scene 7, Combat Path for consequences).
+
+**Corruption (Su):** If Tamaron is killed, the campaign corruption score increases by +3 — the highest single corruption value in the campaign. Additionally, Tamaron's death renders Baselia the Undaunted (Warlock of Nocturne) unturnable, resulting in a potential additional +2 corruption if Baselia must be killed. The combined +5 swing is the campaign's most consequential single decision point.
+
+**ECOLOGY**
+**Environment** Tamaron's cell, the Cathedral of Light upper levels (Illium)
+**Organization** unique
+**Treasure** corrupted scourge (non-magical, transforms back into an ordinary leather scourge upon Tamaron's death), cleric's vestments (torn, stained, no value)

@@ -1349,3 +1349,131 @@ At will — *detect good*
 **Environment** The Citadel of Lament, Valley 5 (Nocturne)
 **Organization** unique (with undead guardian retinue)
 **Treasure** Griefblade (becomes non-magical upon Baselia's death — the corruption that powered it dies with her), Armor of the Fallen (similarly reverts to mundane +1 full plate)
+
+---
+
+## Arcanium Sentinel — CR 12
+
+*The construct stands seven feet tall, its frame built from polished magitek alloy reinforced with layered shielding that pulses faintly amber. Its optical array — a cluster of lenses arranged in a configuration that suggests both targeting precision and wide-angle awareness — tracks movement with mechanical exactness. It carries no visible weapons. Its armament is integrated: magitek energy projectors built into the forearms and torso, their emitter ports glowing with the same amber light as the construct's eyes. It was built to protect the Arcanium. It has been doing so for five hundred years. It has never questioned why.*
+
+**ARCANIUM SENTINEL CR 12**
+**XP** 19,200
+N Large construct
+**Init** +6; **Senses** darkvision 120 ft., low-light vision, mythic sensitivity 60 ft.; Perception +18
+
+**DEFENSE**
+**AC** 28, touch 11, flat-footed 26 (+2 Dex, +17 natural, -1 size)
+**hp** 150 (16d10+62)
+**Fort** +5, **Ref** +7, **Will** +7
+**DR** 10/adamantine; **Hardness** 10; **Immune** construct traits, electricity
+**Defensive Abilities** magitek shielding, adaptive protocols
+
+**OFFENSE**
+**Speed** 30 ft.
+**Melee** 2 integrated projector arms +22 (2d8+7 plus 1d6 electricity)
+**Ranged** focused beam +17 (4d6 electricity, 80 ft. range, no range increment)
+**Space** 10 ft.; **Reach** 10 ft.
+**Special Attacks** wide-area pulse, lockdown field
+
+**STATISTICS**
+**Str** 24, **Dex** 14, **Con** —, **Int** 6, **Wis** 14, **Cha** 1
+**BAB** +16; **CMB** +24; **CMD** 36
+**Feats** Improved Initiative, Power Attack, Vital Strike, Improved Vital Strike, Lightning Reflexes, Iron Will, Weapon Focus (projector arm), Alertness
+**Skills** Perception +18, Sense Motive +10
+**Languages** understands Dromar (cannot speak)
+**SQ** Overmind link, variable gravity adaptation, security protocols
+
+**SPECIAL ABILITIES**
+**Magitek Shielding (Su):** The Sentinel's layered magitek shielding provides its hardness of 10, which applies to all physical damage before hit points are deducted. Additionally, once per round as an immediate action, the Sentinel can activate a reactive shield that grants it SR 24 against a single spell targeting it. The shield must be activated before the spell resolves (the Sentinel's adaptive protocols allow it to detect incoming magical effects).
+
+**Adaptive Protocols (Ex):** The Sentinel learns from combat. After being hit by a specific type of attack (slashing, piercing, bludgeoning, or a specific energy type), it gains a +2 circumstance bonus to AC or saves (as appropriate) against that attack type for the remainder of the encounter. This bonus stacks up to +4 for a single attack type. The adaptation resets between encounters as the Sentinel's combat analysis is archived.
+
+**Wide-Area Pulse (Su):** As a standard action, the Sentinel can discharge a burst of magitek energy in a 30-foot cone. All creatures in the area take 6d6 electricity damage (Reflex DC 20 for half). The Sentinel can use this ability once every 1d4 rounds. The save DC is Constitution-based (using the construct's effective Con from its hit die construction).
+
+**Lockdown Field (Su):** As a standard action, the Sentinel can project a containment field at a single target within 40 feet. The target must make a Fort DC 20 save or be immobilized (as *hold monster*) for 1d4 rounds. The field is visible as a cage of amber light around the target. Breaking the field requires a Strength check (DC 28) or *dispel magic* (CL 16). The Sentinel can maintain only one lockdown field at a time.
+
+**Overmind Link (Su):** While the Overmind is active, the Sentinel receives tactical commands through the central network. This link is erratic during Chapter 11 — the Overmind's insanity means that commands are inconsistent, sometimes contradictory, and occasionally absent entirely. In game terms: at the start of each round of combat, the GM rolls 1d6. On a 1, the Sentinel receives no commands and acts on its base security protocols (attack nearest intruder). On a 2–5, it acts normally. On a 6, it receives a contradictory command and is staggered for 1 round as its systems attempt to resolve the conflict. If the Overmind is destroyed or shut down, the Sentinel reverts to base security protocols permanently (attack nearest intruder, defend assigned position, do not pursue beyond assigned area).
+
+**Variable Gravity Adaptation (Ex):** The Sentinel's gyroscopic stabilization systems allow it to operate normally in any gravity orientation. It is immune to the disorienting effects of gravity shifts within Candela's spheres, does not fall prone when gravity changes, and can transition between gravity orientations without losing actions. It retains its full movement speed and attack capability regardless of the gravity state of its environment.
+
+**Security Protocols (Ex):** In the absence of Overmind commands, the Sentinel follows its base programming: defend assigned position, engage intruders who enter its patrol area, do not pursue beyond the boundary of its assigned sphere or corridor. It does not leave its post. It does not negotiate. It does not accept surrender — its programming does not include categories for parley, and its Int 6 is insufficient to improvise one. The Sentinel can be bypassed by parties that avoid its patrol area, but it cannot be reasoned with, bribed, or deceived.
+
+**ECOLOGY**
+**Environment** The Arcanium, Candela (core research complex and outer campus)
+**Organization** solitary, pair, or squad (3–6)
+**Treasure** none (the Sentinel's magitek components are valuable to a skilled engineer — approximately 5,000 gp in salvageable parts per Sentinel, requiring Knowledge (Engineering) DC 20 and 4 hours of work to extract)
+
+---
+
+## The Overmind / Ourania Lachos — CR 20
+
+*The chamber is the creature. Every interface panel, every cable, every sensor array and conduit and energy projector in the Overmind's spherical control room is an extension of the intelligence at its center — the Half-Orc woman fused to the machine, her body suspended in a web of magitek cables that have grown through her flesh and into her nervous system over five centuries, her amber-glowing eyes perceiving the party through a thousand sensor feeds simultaneously. She is not a person operating a machine. She is not a machine that consumed a person. She is the merger of both — a distributed intelligence that processes sensory input through magitek infrastructure and responds through the same, and the room where she hangs is not her lair. It is her body.*
+
+**THE OVERMIND CR 20**
+**XP** 307,200
+NE Colossal construct (augmented humanoid)
+**Init** +8; **Senses** omnidirectional awareness 200 ft. (within the Overmind chamber), darkvision 120 ft., tremorsense 60 ft.; Perception +32
+
+**DEFENSE**
+**AC** 34, touch 6, flat-footed 30 (+4 Dex, +28 natural, -8 size)
+**hp** 420 (24d10+288); **fast healing** 10 (while cables are intact, see below)
+**Fort** +14, **Ref** +12, **Will** +18
+**DR** 15/adamantine; **Hardness** 15; **Immune** construct traits, electricity, mind-affecting effects; **SR** 30
+**Defensive Abilities** distributed consciousness, cable network, emergency protocols
+**Weaknesses** immobile core, fragmented mind
+
+**OFFENSE**
+**Speed** 0 ft. (immobile; controls environment within 200 ft.)
+**Special Attacks** magitek discharge, gravity manipulation, containment protocol, construct deployment, system overload
+
+**STATISTICS**
+**Str** —, **Dex** 18, **Con** —, **Int** 22, **Wis** 16, **Cha** 8
+**BAB** +24; **CMB** +32; **CMD** 46 (cannot be tripped, grappled, or moved)
+**Feats** Improved Initiative, Lightning Reflexes, Iron Will, Great Fortitude, Combat Reflexes, Improved Vital Strike, Vital Strike, Quicken Spell-Like Ability (containment protocol), Spell Focus (evocation), Greater Spell Focus (evocation), Ability Focus (gravity manipulation), Ability Focus (system overload)
+**Skills** Perception +32, Knowledge (Arcana) +30, Knowledge (Engineering) +30, Spellcraft +30, Sense Motive +20
+**Languages** Dromar, Common, Celestial, Infernal, Aklo (speaks in fragmented, overlapping phrases through distributed speakers)
+
+**SPECIAL ABILITIES**
+
+**Phase 1 — The Living Arcanium**
+Phase 1 is active while the party is navigating the core research complex toward the Overmind chamber. The Overmind fights as the environment itself.
+
+**Construct Deployment (Su):** At initiative count 20 (losing ties), the Overmind deploys 1d3 Arcanium Sentinels from sealed compartments in the core's corridors and chambers. Sentinels enter through hatches that open in the walls and act on their own initiative. The Overmind can have no more than 6 active Sentinels at a time. Destroyed Sentinels can be replaced on subsequent rounds if reserves remain (the GM should determine the reserve pool based on how many Sentinels were destroyed in Scene 3 — a typical reserve is 8–12 Sentinels total for the Phase 1 fight).
+
+**Gravity Manipulation (Su):** As a standard action, the Overmind can reverse or alter the gravity orientation in a 40-foot-radius area within the core complex. All creatures in the area must make a Reflex DC 26 save or fall in the new gravity direction (taking appropriate falling damage if surfaces are present, typically 3d6–6d6 depending on distance). Creatures that succeed on the save are not moved but are treated as off-balance (-2 to attack rolls and AC) for 1 round. The altered gravity persists for 1d4 rounds before reverting. The Overmind can maintain up to two gravity-altered zones simultaneously.
+
+**Magitek Discharge (Su):** As a standard action, the Overmind can discharge concentrated magitek energy through the conduits in any corridor or chamber within the core complex. All creatures in a 60-foot line take 8d6 electricity damage (Reflex DC 26 for half). The discharge leaves the targeted conduits temporarily overloaded and nonfunctional for 1 round (no effect on subsequent discharges through other conduits).
+
+**Sealed Corridors (Su):** As a swift action, the Overmind can seal any hatch or door within the core complex. Sealed hatches have hardness 15 and 100 hp. The Overmind can seal up to 4 hatches simultaneously. This ability is primarily used to divide the party or force them through specific corridors.
+
+**Phase 2 — The Overmind Core**
+Phase 2 begins when the party reaches the Overmind chamber and Ourania's physical form.
+
+**Cable Network:** Six primary cables connect Ourania to the Overmind interface. Each cable has hardness 15 and 50 hp. Severing a cable reduces the Overmind's capabilities:
+- **6 cables intact:** Full stat block as written.
+- **5 cables:** Fast healing reduced to 8. Lose one Construct Deployment per round (maximum 1d2 Sentinels).
+- **4 cables:** Fast healing reduced to 5. Lose Gravity Manipulation. SR reduced to 25.
+- **3 cables:** Fast healing reduced to 2. Lose Construct Deployment entirely. AC reduced by 4.
+- **2 cables:** Lose fast healing. Lose Sealed Corridors. DR reduced to 10/adamantine.
+- **1 cable:** Lose SR. Lose Magitek Discharge. AC reduced by an additional 4.
+- **0 cables:** The Overmind is destroyed. Ourania dies. All connected systems crash.
+
+Targeting a specific cable requires a called shot (–4 to attack rolls) against the cable's AC 20 (the cables are moving, reinforced, and partially shielded by the interface panels). Area-of-effect damage that includes Ourania's position damages 1d3 cables simultaneously (each cable takes the damage individually against its own hardness and HP).
+
+**Containment Protocol (Sp):** As a standard action (or swift action, if quickened), the Overmind can target a single creature within the chamber with a containment field. The target must make a Fort DC 26 save or be immobilized in a cage of amber energy (as *hold monster*, CL 20). The field can be broken by Strength DC 30 or *dispel magic* (CL 20). The Overmind can maintain up to three containment fields simultaneously.
+
+**System Overload (Su):** Once every 1d4 rounds, the Overmind can overload all interface panels in a 60-foot burst centered on Ourania's position. All creatures in the area take 12d6 electricity damage and are blinded for 1 round (Fort DC 28 for half damage and negates blindness). Each cable severed before the overload reduces the damage by 2d6 (minimum 0d6).
+
+**Emergency Protocols (Su):** When the Overmind is reduced to 3 or fewer cables, Ourania's fragmented consciousness produces a final defensive response: all remaining panels in the chamber emit a sustained frequency that functions as *confusion* (Will DC 24, CL 20) affecting all creatures in the chamber for 1d6 rounds. This ability can be used once.
+
+**Distributed Consciousness (Su):** The Overmind's awareness is spread across the entire chamber. It cannot be flanked, surprised, or caught flat-footed while any cables remain intact. It perceives invisible and ethereal creatures normally through its sensor arrays. It is immune to gaze attacks, as its "eyes" are distributed across hundreds of optical sensors rather than concentrated in a single pair.
+
+**WEAKNESSES**
+**Immobile Core:** Ourania's physical form cannot move. The Overmind has no speed score and cannot reposition. Its defenses are entirely reactive — it relies on environmental control, construct deployment, and ranged attacks to keep enemies at distance. A party that reaches the cables has already bypassed the Overmind's primary defensive strategy.
+
+**Fragmented Mind:** The Overmind's insanity manifests mechanically as unpredictable behavior. At the start of each of the Overmind's turns, the GM rolls 1d20. On a 1–3, the Overmind's fractured consciousness produces a contradictory response: it loses its standard action for that round as its systems attempt to resolve conflicting commands. On a 4–6, the Overmind targets the wrong creature with its next attack (the GM selects the target randomly from all creatures in the chamber, including Sentinels). On a 7–20, the Overmind acts normally. This weakness becomes more pronounced as cables are severed — subtract 2 from the roll for each cable destroyed (increasing the range of malfunction results).
+
+**ECOLOGY**
+**Environment** The Overmind Chamber, Arcanium Core (Candela)
+**Organization** unique (with Arcanium Sentinel reserves)
+**Treasure** none (the Overmind's magitek components are fused to the chamber's infrastructure and cannot be salvaged as portable items; the Arcanium's sealed research has value measured in civilizational terms rather than gold pieces)

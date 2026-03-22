@@ -1173,3 +1173,179 @@ At will — *command* (DC 17), *doom* (DC 17), *shield of faith* (+4 deflection,
 **Environment** Tamaron's cell, the Cathedral of Light upper levels (Illium)
 **Organization** unique
 **Treasure** corrupted scourge (non-magical, transforms back into an ordinary leather scourge upon Tamaron's death), cleric's vestments (torn, stained, no value)
+
+---
+
+### Korvellan, the Stone Warlord
+*CR 17 — Large — Cabal Spirit, Stronghold 3 (Nocturne)*
+
+Korvellan was the Cabal's enforcer — a Fetchling warlord who embraced the sorcerers' pact with Asura-corrupted powers for martial strength and nothing else. He lacked the artistic ambition of Serenica and the intellectual hunger of Margolan; what he wanted was to be the strongest thing in the room, and the Cabal gave him that until Baselia gave him something else. Five centuries of death have not changed his fundamental nature. He has spent the time since fortifying his stronghold, building an army of construct guardians from the valley's sculptural heritage, and feeding every scrap of memory, personality, and identity he possessed into his spectral form's combat capability. What remains is a warlord reduced to essence: the ability to fight, the desire to fight, and nothing else worth mentioning.
+
+Korvellan manifests as a Large spectral figure of carved pale stone — a warrior's form taken to its most idealized extreme, broad and dense, his features simplified into something that reads less as a face and more as a weapon's profile. He wields a massive warhammer and tower shield of the same spectral stone, and his form has achieved a physical density that allows him to interact with the material world as effectively as a living creature. He fights with professional precision rather than berserker fury — five centuries of preparation have made him methodical, patient, and devastatingly efficient.
+
+**Korvellan — CR 17**
+**XP** 102,400
+CE Large undead (incorporeal, mythic)
+**Init** +6; **Senses** darkvision 120 ft., tremorsense 60 ft. (stone surfaces only); **Perception** +26
+
+**DEFENSE**
+**AC** 30, touch 12, flat-footed 27 (+2 Dex, +1 dodge, +18 natural, -1 size)
+**hp** 250 (20d8+160); spectral resilience
+**Fort** +14, **Ref** +10, **Will** +18
+**DR** 15/adamantine and magic; **Immune** undead traits, cold; **Resist** fire 15; **SR** 28
+**Defensive Abilities** Spectral Density, channel resistance +6
+
+**OFFENSE**
+**Speed** 40 ft.
+**Melee** *spectral warhammer* +26/+21/+16 (3d6+14 plus 2d6 fire [Forge Strike] plus stone shatter) reach 10 ft.
+**Space** 10 ft.; **Reach** 10 ft.
+**Special Attacks** Forge Strike, Stone Commander, Seismic Slam, mythic power (7/day), surge +1d10
+**Spell-Like Abilities** (CL 17th; concentration +23)
+At will — *stone shape*, *heat metal* (DC 18)
+3/day — *wall of stone*, *transmute rock to mud*, *stone to flesh* (DC 22, used offensively)
+1/day — *earthquake* (DC 24, stronghold interior only — collapses passages and bridges)
+
+**STATISTICS**
+**Str** 30, **Dex** 14, **Con** —, **Int** 12, **Wis** 18, **Cha** 22
+**BAB** +15; **CMB** +26 (+30 bull rush, +28 sunder); **CMD** 39 (41 vs. bull rush, 41 vs. trip)
+**Feats** Power Attack, Improved Initiative, Dodge, Improved Bull Rush, Greater Bull Rush, Weapon Focus (warhammer), Vital Strike, Improved Vital Strike, Cleave, Toughness
+**Skills** Perception +26, Intimidate +28, Knowledge (engineering) +20, Sense Motive +22
+**Languages** Common (Fetchling dialect)
+**Mythic Abilities** mythic power (7/day), surge +1d10, hard to kill, amazing initiative
+
+**SPECIAL ABILITIES**
+**Spectral Density (Su):** Korvellan has spent five centuries feeding his essence into physical solidity. Unlike most incorporeal undead, he exists in a semi-corporeal state that grants him full interaction with the physical world — he can wield weapons, wear armor (incorporated into his form), and take and deal physical damage normally. His DR 15/adamantine and magic reflects the density of his spectral stone form. He cannot pass through solid objects or use any incorporeal movement abilities. He is, for all practical purposes, a physical combatant who happens to be dead. *Ghost touch* weapons bypass his DR entirely. *Disruption* weapons function against him as normal.
+
+**Forge Strike (Su):** Korvellan channels the magitek heat of his stronghold's forges through his melee attacks. Each hit deals an additional 2d6 fire damage (included in melee line). On a successful hit, the target must make a Fortitude save (DC 26) or their armor or shield is heated as per *heat metal*, beginning at the third-round intensity (2d4 fire damage per round, no save, for 3 rounds). Subsequent hits on a target already affected reset the duration but do not stack the damage. The save DC is Charisma-based.
+
+**Stone Commander (Su):** As a free action, Korvellan can animate sections of the cavern walls and floor as improvised construct guardians. He may animate up to 2 constructs per round and maintain a maximum of 6 active constructs at once. Each construct functions as a Medium animated object (hp 36, AC 14, attack +5, damage 1d6+3) and acts on Korvellan's initiative. The constructs crumble to rubble when destroyed or when Korvellan is destroyed. Korvellan uses this ability tactically — creating constructs to flank, to block escape routes, and to absorb attacks that would otherwise reach him.
+
+**Seismic Slam (Su):** Once per 1d4 rounds, Korvellan can strike the ground with his warhammer as a standard action, sending a shockwave through the stone floor in a 30-foot cone. All creatures in the cone must make a Reflex save (DC 26) or take 8d6 bludgeoning damage and be knocked prone. Creatures that succeed take half damage and are not knocked prone. The shockwave also triggers any forge vents within the cone's area (see environmental hazards). The save DC is Charisma-based.
+
+**Stone Shatter (Su):** Each hit from Korvellan's warhammer deals full damage to objects and ignores hardness up to 15. Against creatures wearing stone, metal, or crystal armor, a critical hit automatically applies the *broken* condition to the armor (Fort DC 26 negates). This ability reflects Korvellan's intimate understanding of stone and the forces required to break it.
+
+**Spectral Resilience (Su):** At the start of each of Korvellan's turns, he regains 10 hit points as his form draws on the ambient magitek energy of the stronghold. This healing ceases if Korvellan is moved more than 100 feet from the stronghold (functionally impossible during the encounter) or if the stronghold's magitek systems are disabled (requires a Knowledge: Engineering DC 25 check and 3 rounds of work at one of the forge control panels in the Phase 2 chambers — a clever party may attempt this before engaging Korvellan directly).
+
+**ECOLOGY**
+**Environment** Stronghold 3, Valley of Sculpture (Nocturne)
+**Organization** unique (with construct garrison)
+**Treasure** The orb of Valley 3 (in cradle behind dais), access to the sealed workshop containing the magitek horse constructs
+
+---
+
+### Magitek Horse Construct
+*CR 7 — Large Construct — Mount (Nocturne, campaign-long)*
+
+The magitek horse constructs were built by Kerlin Whitemane, the Warlock of Vatra, whose genius for magical engineering defines the Nine Worlds' infrastructure. These six constructs were a personal gift to Baselia the Undaunted — mounts for her paladins, designed to respond to divine and mythic power and to serve those who carried it with loyalty, intelligence, and tireless endurance. They are not golems or animated objects but true artificial intelligences: aware, evaluative, capable of forming relationships with their riders and making independent decisions in the field. Their bodies are articulated plates of Vatrasi alloy — a bronze-adamantine composite with the sheen of the former and the hardness of the latter — and their eyes are lenses of amber crystal that glow with internal light and shift in intensity to communicate emotional states.
+
+When Baselia fell to corruption, the constructs recognized the inversion of the divine power they were built to serve and entered dormancy rather than serve a corrupted master. They have waited five centuries for someone carrying uncorrupted mythic power to reactivate them. They bond to the party and serve as mounts for the remainder of the campaign.
+
+**Magitek Horse Construct — CR 7**
+**XP** 3,200
+N Large construct
+**Init** +3; **Senses** darkvision 120 ft., low-light vision, mythic sensitivity 60 ft.; **Perception** +14
+
+**DEFENSE**
+**AC** 22, touch 12, flat-footed 19 (+3 Dex, +10 natural, -1 size)
+**hp** 85 (10d10+30)
+**Fort** +3, **Ref** +6, **Will** +7
+**Hardness** 10; **Immune** construct traits; **Resist** fire 10, electricity 10, cold 10
+**Defensive Abilities** bonded resilience
+
+**OFFENSE**
+**Speed** 60 ft., climb 40 ft. (stone surfaces only)
+**Melee** 2 hooves +15 (1d8+6), bite +15 (1d6+6)
+**Space** 10 ft.; **Reach** 5 ft.
+**Special Attacks** trample (1d8+9, DC 21), overrun (+17)
+
+**STATISTICS**
+**Str** 22, **Dex** 16, **Con** —, **Int** 10, **Wis** 14, **Cha** 8
+**BAB** +10; **CMB** +17; **CMD** 30 (34 vs. trip)
+**Feats** Iron Will, Run, Endurance, Skill Focus (Perception), Improved Overrun
+**Skills** Perception +14, Climb +18, Acrobatics +10 (+18 when jumping)
+**Languages** understands Common (cannot speak)
+**SQ** mythic bond, tireless, intelligent mount, emotional communication, Vatrasi construction
+
+**SPECIAL ABILITIES**
+**Mythic Sensitivity (Su):** The constructs can detect mythic power within 60 feet, sensing its presence, intensity, and general alignment (divine, arcane, corrupted). This is how they recognized the party's mythic aura and reactivated. They can also sense the corrupted mythic power of the Warlocks and react with visible distress when oriented toward a corrupted source — ears flattening, gait shortening, amber eye-glow dimming. This is not a targeting ability and cannot be used as a compass; it is an emotional response that the GM portrays through the constructs' behavior.
+
+**Mythic Bond (Su):** Once a construct bonds with a rider (a process that takes 24 hours of proximity and mutual interaction), the rider gains a +2 competence bonus to Ride checks while mounted on that construct, and the construct gains a +2 morale bonus to attack rolls and saving throws while its bonded rider is mounted. If the bonded rider falls unconscious or is killed, the construct fights to defend them with reckless aggression (+2 to attack rolls, -2 to AC) until the rider is safe or the construct is destroyed.
+
+**Tireless (Ex):** The constructs do not eat, sleep, or breathe, and are immune to fatigue and exhaustion. They can travel at full overland speed indefinitely without rest. They require periodic access to a magitek power source for maintenance (once per month, or they begin to lose 5 hp per day as their systems degrade), but the Rainbow Road's ambient energy and the magitek infrastructure of most Nine Worlds settlements provide sufficient passive charging.
+
+**Intelligent Mount (Ex):** The constructs have Int 10 and can understand complex verbal commands, follow multi-step instructions, and make independent tactical decisions in combat (such as avoiding hazards, positioning for flanking, or retreating when their rider is endangered). They do not require Ride checks for routine mounted actions. They can be directed to act independently in combat as a free action, taking a full round of actions on their rider's initiative.
+
+**Emotional Communication (Ex):** The constructs cannot speak but communicate through a sophisticated behavioral vocabulary: ear position (forward = alert/interested, flat = distressed/hostile), head movement (nuzzle = affection/trust, toss = refusal/agitation), gait changes (smooth = content, shortened = anxious, prancing = eager), and eye-glow intensity (bright = engaged/happy, dim = troubled/sad, flickering = confused/uncertain). A rider who spends time with their construct learns to read these signals intuitively (no check required after the 24-hour bonding period).
+
+**Bonded Resilience (Su):** While its bonded rider is conscious and mounted, the construct gains fast healing 2 as the rider's mythic power passively sustains its systems. This healing ceases if the rider dismounts or falls unconscious.
+
+**Vatrasi Construction (Ex):** The constructs are built from Vatrasi alloy, a bronze-adamantine composite developed by Kerlin Whitemane. Their hardness of 10 applies to all physical damage before hit points are deducted. They are immune to rust effects and take half damage from acid. Their construction quality means they can be repaired by anyone with Knowledge (Engineering) DC 15 and access to metalworking tools, recovering 2d6 hp per hour of work. A character with Craft (Magitek) or similar specialized skill can repair them at double this rate.
+
+**ECOLOGY**
+**Environment** Stronghold 3, Valley of Sculpture (Nocturne); subsequently wherever the party travels
+**Organization** group (6)
+**Treasure** none (the constructs themselves are the treasure)
+
+---
+
+### Lady Sorrow / Baselia the Undaunted
+*CR 18 — Medium — The Seventh Warlock (Combat Path)*
+
+Baselia the Undaunted was the paladin who defended Nocturne when the Cabal's curse fell. She hunted the Cabal sorcerers to their strongholds and killed them, then attempted a great working of divine magic to save her people from the plague the curse had unleashed. The Cabal's dying act was to corrupt her spell, turning salvation into the Dream — a stasis curse that trapped the population between life and death. The failure broke her. Tamaron's subsequent abandonment completed the destruction. Over five centuries, Baselia's divine connection inverted entirely: the paladin became an anti-paladin, sustained by grief and fury, her once-holy power darkened into a force that maintains the very curse she tried to prevent.
+
+In combat, Baselia fights with the disciplined economy of a veteran warrior who has not stopped training in five hundred years. She is not theatrical, not bombastic, not the kind of villain who monologues mid-swing. She is a professional who is very, very good at killing things, and the tragedy of the fight is that every technique she uses was originally devoted to protecting the people she has now condemned to an eternity of hollow contentment. She fights to die. She does not know this, and would deny it if asked, but a perceptive party will recognize the pattern: she takes risks a defensive fighter would not, exposes herself to counterattacks a tactician of her caliber would normally avoid, and fights with an intensity that is fueled not by the desire to win but by the need for the fight to be over.
+
+**Baselia the Undaunted — CR 18**
+**XP** 153,600
+CE Medium undead (augmented humanoid, mythic) [Fetchling Anti-Paladin 18]
+**Init** +7; **Senses** darkvision 60 ft., low-light vision, detect good (at will); **Perception** +28
+
+**DEFENSE**
+**AC** 34, touch 14, flat-footed 30 (+3 Dex, +1 dodge, +12 armor, +4 natural, +4 profane)
+**hp** 280 (18d10+180); unholy resilience
+**Fort** +21, **Ref** +14, **Will** +20
+**DR** 10/good and silver; **Immune** undead traits, disease, poison; **Resist** cold 15, fire 10; **SR** 29
+**Defensive Abilities** channel resistance +6, profane grace (+4 profane bonus to all saves, included above)
+
+**OFFENSE**
+**Speed** 30 ft.
+**Melee** *Griefblade* +28/+23/+18/+13 (1d8+12 plus 2d6 negative energy plus touch of corruption, 17–20/×2)
+**Special Attacks** Smite Good (6/day, +6 attack, +18 damage, +6 deflection AC vs. target), Touch of Corruption (9d6, 9/day, channeled through weapon), Channel Negative Energy (9d6, DC 25, 3/day), Aura of Despair, Grief Unbounded, mythic power (8/day), surge +1d10
+**Spell-Like Abilities** (CL 18th; concentration +24)
+At will — *detect good*
+**Anti-Paladin Spells Prepared** (CL 15th; concentration +21)
+4th — *dispel good* (DC 20), *unholy sword*
+3rd — *deeper darkness* (×2), *animate dead*, *contagion* (DC 19)
+2nd — *hold person* (DC 18), *silence* (DC 18), *darkness*, *desecrate*
+1st — *command* (DC 17), *doom* (DC 17), *death knell* (DC 17), *disguise self*, *protection from good*
+
+**STATISTICS**
+**Str** 24, **Dex** 16, **Con** —, **Int** 16, **Wis** 18, **Cha** 22
+**BAB** +18; **CMB** +25; **CMD** 39
+**Feats** Power Attack, Improved Initiative, Dodge, Weapon Focus (longsword), Improved Critical (longsword), Iron Will, Combat Reflexes, Vital Strike, Improved Vital Strike, Step Up
+**Skills** Perception +28, Intimidate +30, Knowledge (religion) +24, Sense Motive +26, Diplomacy +20, Ride +18
+**Languages** Common (Fetchling dialect), Celestial, Infernal
+**Mythic Abilities** mythic power (8/day), surge +1d10, hard to kill, amazing initiative, recuperation
+**Gear** *Griefblade* (+3 unholy longsword), *Armor of the Fallen* (+3 full plate, see below)
+
+**SPECIAL ABILITIES**
+**Aura of Despair (Su):** All enemies within 10 feet of Baselia take a -2 penalty to all saving throws. This aura is a palpable thing — characters who enter it feel a weight settle on them, a cold pressure against the chest that makes breathing harder and thinking slower. The aura is constant and cannot be suppressed. It stacks with other morale penalties but not with itself.
+
+**Touch of Corruption (Su):** Baselia channels negative energy through her weapon rather than her hands. Each hit from Griefblade delivers touch of corruption in addition to normal weapon damage, dealing 9d6 negative energy damage and potentially imposing a cruelty effect. Baselia's active cruelties are: *nauseated* (1 round, Fort DC 25), *staggered* (1d4 rounds, Fort DC 25), and *cursed* (as *bestow curse*, Will DC 25). She selects which cruelty to apply as a free action before each attack. The save DCs are Charisma-based.
+
+**Unholy Resilience (Su):** At the start of each of Baselia's turns, she regains 10 hit points. This is not fast healing — it is the corrupted divine power that sustains her undead form, repairing damage with the same energy that maintains the Dream. The healing ceases if Baselia is within the area of a *consecrate* or *hallow* effect, or if she is struck by a weapon with the *holy* property (the healing is suppressed for 1 round per hit). A *heal* spell or channeled positive energy targeted directly at Baselia deals damage normally AND suppresses the regeneration for 1d4 rounds.
+
+**Grief Unbounded (Su):** Usable once per encounter when Baselia drops below 50 hit points. A burst of corrupted divine energy fills a 60-foot radius centered on Baselia. All creatures in the area must make a Will save (DC 25) or take 10d6 psychic damage and be staggered for 1d4 rounds. Creatures that succeed take half damage and are not staggered. The burst manifests as a visible shockwave of aurora-light — the same greens, violets, and bruised reds that fill the sky above the Citadel — and the shapes that form in the aurora above are momentarily visible inside the throne room: reaching figures, projected grief, the dead that Baselia cannot stop mourning. The effect is as much emotional as mechanical — characters who fail the save experience a fraction of Baselia's five centuries of accumulated grief, compressed into a single moment of psychic anguish. The save DC is Charisma-based.
+
+**Smite Good (Su):** Six times per day, Baselia can declare a smite as a swift action against a good-aligned creature. She adds +6 (Charisma modifier) to attack rolls and +18 (anti-paladin level) to damage. Against good-aligned outsiders, good-aligned dragons, and creatures with the good subtype, the bonus damage on the first hit increases to +36. While the smite is active, Baselia gains a +6 deflection bonus to AC against attacks from the smite target. The smite persists until the target is dead or Baselia rests. Baselia targets the party's strongest divine-aligned character first — she can sense alignment via *detect good* and prioritizes the greatest perceived threat to her corrupted nature.
+
+**Armor of the Fallen (Su):** Baselia's +3 full plate was once a paladin's armor, bearing the holy symbols of her faith. The symbols have been defaced and inverted, and the armor now radiates an aura of corruption that provides a +4 profane bonus to AC (included in AC line). The armor imposes a -2 penalty to the saving throws of any good-aligned creature that strikes Baselia in melee (Fort DC 22 negates, applied once per round on the first hit). This penalty stacks with the Aura of Despair.
+
+**Griefblade (Su):** Baselia's +3 unholy longsword is an extension of her corrupted divine power. It deals an additional 2d6 negative energy damage on each hit (included in melee line), and any creature killed by the weapon is affected by *animate dead* as a free action (the corpse rises as a zombie under Baselia's control at the start of her next turn). This ability is not a deliberate tactical choice — it is an automatic function of the corruption, and Baselia does not enjoy it. If a party member falls and is raised by Griefblade, the emotional impact should be played for horror: an ally's corpse, standing, turning, its face empty, fighting for the woman who killed them. *Break enchantment* (CL 18) or *dispel evil* suppresses the animation for 1d4 rounds; destroying the animated corpse releases the soul normally.
+
+**Corrupted Aurora (Su):** While inside the Citadel of Lament, the aurora above the fortress responds to Baselia's emotional state. When Baselia takes damage equal to 25% or more of her maximum hit points in a single round, the aurora flares — all creatures within the Citadel must make a Fort DC 18 save or be dazzled for 1 round as aurora-light floods through the windows. When Baselia is destroyed, the aurora extinguishes over the following hours. This ability is atmospheric rather than tactically significant, but it reinforces the connection between Baselia and the visible grief that hangs over her home.
+
+**ECOLOGY**
+**Environment** The Citadel of Lament, Valley 5 (Nocturne)
+**Organization** unique (with undead guardian retinue)
+**Treasure** Griefblade (becomes non-magical upon Baselia's death — the corruption that powered it dies with her), Armor of the Fallen (similarly reverts to mundane +1 full plate)

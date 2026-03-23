@@ -6674,7 +6674,7 @@ The turned Warlocks gather in the orrery chamber over the hours that follow — 
 
 *Tanis* heals. The contamination that poisoned the land since the apocalypse — the wound that would not close, the sickness that the Healer's Road could slow but never reverse — begins, for the first time in five centuries, to recede. Garl's death was a mercy killing — he chose it, the party granted it — and his spirit's release does what his living presence could not: it frees the druidic network that maintained the land to redirect its full power toward restoration rather than containment. The dwarven wall-cities open their gates. The forests, grey and sick for generations, show the first green growth that anyone alive has seen. Recovery will take decades. But it begins.
 
-*Auzra* dismantles. Tana White-Lightning returns to the world they built into a three-tiered surveillance state and begins taking it apart — systematically, methodically, with the same precision they used to build it, because Tana does everything with precision or not at all. The Directorate is dissolved. The Hawkmen — the avian people who resisted Tana's regime from their island strongholds in the mist layer, who fought a centuries-long guerrilla campaign against the Directorate's enforcers and never broke — are recognized at last. The alliance between Hawkmen and Grey Elves that existed before the corruption begins to reform, cautiously, the trust that Tana's paranoia destroyed being rebuilt by the same people it was taken from. The Grey Elf academies reopen. Auzra was a beautiful world made ugly by the systems designed to control it, and the beauty returns as the systems are removed.
+*Auzra* dismantles. Tana White-Lightning returns to the world they built into a three-tiered surveillance state and begins taking it apart — systematically, methodically, with the same precision they used to build it, because Tana does everything with precision or not at all. The Directorate is dissolved. The Hawkmen — the avian people who resisted Tana's regime from their island strongholds in the mist layer, who fought a centuries-long guerrilla campaign against the Directorate's enforcers and never broke — are recognized at last. The alliance between Hawkmen and Grey Elves that existed before the corruption begins to reform, cautiously, the trust that Tana's paranoia destroyed being rebuilt by the same people it was taken from. The Grey Elf academies reopen. The poisionus fog begins to retreat from the lowest tiers. Auzra was a beautiful world made ugly by the systems designed to control it, and the beauty returns as the systems are removed.
 
 *Arlune* thrives. Garm was the most human of the Warlocks, the one who wanted to be turned, and his world reflects it — Arlune's recovery is fast, chaotic, and commercial. The sandship fleets resume long-distance trade runs between the desert cities. The criminal cartels that flourished under Garm's Trademaster persona reform into something that resembles a merchant guild, which is what they always were underneath the corruption's distortions. The desert remains the desert — hot, vast, unforgiving — but the cities pulse with activity, and the paddle wheels turn, and Arlune does what Arlune has always done: it trades, and it profits, and it survives.
 
@@ -6708,7 +6708,7 @@ If any PCs died in the Underworld, the epilogue addresses them last. Their names
 
 **Final Passage**
 
-> *The Song is heard across the Nine Worlds simultaneously — on Diaspola's thawing shores and Tanis's healing forests, in Auzra's opening skies and Arlune's turning paddle wheels, through Vatra's relighting forges and Illium's reforming churches, across Nocturne's waking valleys and Candela's relighting spheres. Nine themes at full strength. Foundation and Hope and Loss and Freedom and Mystery and Creation and Devotion and Memory and Understanding, woven into a single melody that was written before the apocalypse and preserved through five centuries of ruin and carried across the Rainbow Road by the champions the system was built to produce. The Song does not fade. It becomes part of the worlds — woven into the stone and the ice and the sand and the light, present in the way that gravity is present, felt by everyone and owned by no one. The Nine Worlds are not what they were before the apocalypse. They are not what they were during the five centuries of ruin. They are something new — built on the foundation of what was preserved and shaped by the choices of the people who walked the Road and did not turn away. The system works. The system has always worked. It just took five hundred years to find the right people.*
+> *The Song is heard across the Nine Worlds simultaneously — on Diaspola's thawing shores and Tanis's healing forests, in Auzra's opening skies and in Arlune's turning paddle wheels, through Vatra's relighting forges and Illium's reforming churches, across Nocturne's waking valleys and Candela's relighting spheres. Nine themes at full strength. Foundation and Hope and Loss and Freedom and Mystery and Creation and Devotion and Memory and Understanding, woven into a single melody that was written when the worlds were formed, preserved through five centuries of ruin, and carried across the Rainbow Road by the champions the system was built to produce. The Song does not fade. It becomes part of the worlds again — woven into the stone and the ice and the sand and the light, present in the way that gravity is present, felt by everyone and owned by no one. The Nine Worlds are not what they were before the apocalypse. They are not what they were during the five centuries of ruin. They are something new — built on the foundation of what was preserved and shaped by the choices of the people who walked the Road and did not turn away. The system works. The system has always worked. It just took five hundred years to find the right people.*
 
 ---
 
@@ -6863,3 +6863,255 @@ This chapter — and this campaign — ends where it began: in the Great Ancilla
 The GM should close the session after reading the appropriate Final Passage. There is no post-credits scene, no sequel hook, no mechanical resolution left to complete. The campaign is over. The story is told. The Song — triumphant or grieving or fractured or silent — says everything that needs to be said.
 
 Thank the players. They earned whatever ending they received.
+
+---
+
+# APPENDICES
+
+## Appendix A: Stat Block Reference
+
+All unique creatures and key NPCs have full PF1e stat blocks in the separate **Stat Block Appendix** document. The table below provides a quick cross-reference organized by chapter of first appearance.
+
+### Asura Types (SRD)
+
+| Creature | CR | Type | First Appearance |
+|---|---|---|---|
+| Tripurasura | 2 | Outsider (asura) | Ch. 1 — Foundry sub-basement |
+| Vayuphak | 5 | Outsider (asura) | Ch. 2 — Oracle approach |
+| Adhukait | 7 | Outsider (asura) | Ch. 3 — Beast arena environs |
+| Upasunda | 9 | Outsider (asura) | Ch. 4 — Diaspola wilderness |
+| Aghasura | 11 | Outsider (asura) | Ch. 5 — Tanis contamination zone |
+| Japalisura | 12 | Outsider (asura) | Ch. 7 — Arlune underworld |
+| Nikaramsa | 14 | Outsider (asura) | Ch. 8 — Vatra forge complex |
+| Hishandura | 15 | Outsider (asura) | Ch. 10 — Nocturne shrine |
+| Asurendra | 20 | Outsider (asura) | Ch. 12 — Battle of Nexus |
+
+### Asura Types (Custom)
+
+| Creature | CR | Type | First Appearance |
+|---|---|---|---|
+| Phankhonvrani | 1 | Outsider (asura) | Ch. 1 — Foundry sub-basement |
+| Hatyararata | 3 | Outsider (asura) | Ch. 2 — Oracle approach |
+| Aakarshaki | 4 | Outsider (asura) | Ch. 4 — Diaspola fey sentinels |
+| Janavariseng | 6 | Outsider (asura) | Ch. 5 — Tanis wilderness |
+| Mautchidaya | 8 | Outsider (asura) | Ch. 6 — Auzra middle tier |
+| Khalahathi | 10 | Outsider (asura) | Ch. 8 — Vatra forge complex |
+| Tkamaarana | 13 | Outsider (asura) | Ch. 9 — Illium Cathedral |
+| Ramjagodar | 16 | Outsider (asura) | Ch. 13 — Underworld gauntlet |
+| Varajaksha, the Shaper | 19 | Outsider (asura, unique) | Ch. 13 — Underworld gauntlet |
+| Nivrkalpa, the Breaker | 21 | Outsider (asura, unique) | Ch. 13 — Underworld gauntlet |
+
+### Non-Asura Creatures and NPCs
+
+| Creature / NPC | CR | Type | First Appearance |
+|---|---|---|---|
+| Beast Blavin | 5 | Aberration (unique) | Ch. 3 — Sealed arena |
+| Enforcer Construct | 8 | Construct | Ch. 8 — Vatra forge complex |
+| Magitek Horse Construct | 10 | Construct | Ch. 9 — Illium overland |
+| Garl the Howler | 12 | Humanoid (gnome, unique) | Ch. 5 — Tanis ziggurat |
+| Dragon Construct | 15 | Construct (unique) | Ch. 8 — Vatra secret vault |
+| Blackfire (Kerlin Whitemane) | 15 | Humanoid (tiefling, unique) | Ch. 8 — Vatra confrontation |
+| Korvellan, the Stone Warlord | 15 | Outsider (unique) | Ch. 9 — Illium approach |
+| Maranthe Soldati | 16 | Humanoid (half-orc, unique) | Ch. 12 — Battle of Nexus |
+| Tamaron the Just / Tekticula's Puppet | 15 | Humanoid (human, unique) | Ch. 9 — Illium (killed path) |
+| Tekticula the Unraveler | 18 | Outsider (unique) | Ch. 9 — Illium mindscape |
+| Lady Sorrow / Baselia the Undaunted | 18 | Humanoid (half-elf, unique) | Ch. 10 — Nocturne citadel |
+| The Overmind / Ourania Lachos | 20 | Humanoid (half-orc, unique) | Ch. 11 — Candela Arcanium |
+| Arcanium Sentinel | 12 | Construct | Ch. 11 — Candela defenses |
+| Asurendra, High General of the Host | 20 | Outsider (asura, unique) | Ch. 12 — Battle of Nexus |
+| Tornsoul (Sarena Tal) | 25 | Outsider (unique) | Ch. 13 — Underworld |
+
+*Note: Sona Brightspring (Ch. 4), Tana White-Lightning (Ch. 6), Garm the Honest (Ch. 7), and the Cabal Spirits (Ch. 10) do not have formal stat blocks. For Sona and Garm, use the encounter descriptions in their respective chapters. Tana's encounter uses the guidelines in Chapter 6, Scene 7. The Cabal Spirits use the advanced allip template (Bestiary 3) with modifications described in Chapter 10.*
+
+---
+
+## Appendix B: Magic Items and Treasures
+
+This appendix collects the significant named items the party encounters during the campaign. Items are organized by function: Warlock levers, Song of Heaven fragments, and unique treasures. Standard PF1e magic items (potions, scrolls, +X weapons and armor) distributed as treasure throughout the chapters are not listed here — the GM should use the standard wealth-by-level guidelines for PF1e and distribute level-appropriate treasure at each milestone.
+
+### Warlock Levers
+
+The eight Warlock levers are the linchpin of the campaign's choice architecture. Each lever is a personal object tied to the Warlock's pre-corruption identity — the thing that can reach the person buried beneath five centuries of corruption and open the possibility of turning. Levers are not weapons, not tools, and not — with one exception — mechanically useful items. Their power is entirely narrative: they work because of who the Warlock was, not because of what the lever does.
+
+The levers share several common properties:
+
+- **Detection.** Each lever radiates magic appropriate to its nature when examined with *detect magic* or similar divination. The aura is faint to moderate and does not reveal the lever's true purpose — only that the item is magical and old. *Identify* and *analyze dweomer* provide physical properties (school, caster level, basic function) but do not reveal the lever's role in the turning process. The Oracle, turned Warlocks, and Casomir's journals are the sources that connect specific objects to specific Warlocks.
+- **Indestructibility.** Levers cannot be destroyed by any means available to the party or the Warlocks. They are sustained by the same mythic resonance that powers the places of power and the Song of Heaven — each lever is, in a sense, an anchor point for the person the Warlock used to be, and the system preserves what it needs.
+- **No combat function.** Levers do not grant bonuses, deal damage, or provide mechanical advantages in combat. They are used in the turning scene and nowhere else. The one exception is Renara's Blade, which functions as a weapon before its transformation into the Sword Imperishable.
+
+**Ivory Music Box** *(Diaspola — Sona Brightspring)*
+A small wooden box of dark grain, inlaid with ivory in a pattern of individually distinct snowflakes. Inside, a porcelain figure of a dancer in a pale dress, poised at the beginning of a turn. The spring mechanism is self-winding and still functional after five centuries. The music box was made by Sona's father as a gift; its tune is a lullaby she heard throughout her childhood. When played in Sona's presence, the melody pierces Khaga's web of fear and deception, restoring Sona to clarity. Faint aura of enchantment (CL 3rd). Located in Sona's old tower on a far island in the frozen sea, guarded by corrupted fey sentinels.
+
+**Rerox Figurine** *(Tanis — Garl the Even-Handed)*
+A small stone figurine of a grizzly bear, carved with obvious skill and great affection — a portrait, not a stylized representation, with a notch in one ear and a scar across the muzzle. The figurine is warm to the touch, radiating the impression of a living presence: something patient and trusting, an animal's faith that the person who put it to sleep will come back. The figurine contains Rerox, Garl's animal companion, preserved in suspended animation at the moment before death. It can only be activated by Garl — the bond between druid and companion is the key. Moderate aura of conjuration (CL 12th). Located in the satchel of a Forest Gnome skeleton in Garl's childhood home, deep in the Contamination zone.
+
+**Tana's Original Spellbook** *(Auzra — Tana White-Lightning)*
+A standard wizard's traveling spellbook, leather-bound and well-worn, containing the spells Tana prepared as a young scholar before the corruption. The spellbook is academically unremarkable — first through fourth-level spells, annotated in a precise hand with marginal notes that reveal a teacher's instinct for clarity. Its significance is personal: it represents the person Tana was before paranoia consumed them, the great teacher who shared knowledge freely. Presenting it to Tana forces a confrontation with that person. Faint aura of universal magic (CL 1st — the spellbook itself, not its contents). Located in a hidden ruin on the lower tier of Auzra, accessible only by descending into the toxic atmosphere, behind a mechanism triggered by pulling a specific book in Tana's pre-war laboratory.
+
+**The Lucky Coin** *(Arlune — Garm the Honest)*
+A small silver coin, old and worn smooth by generations of handling. The obverse shows a Dwarf's face caught mid-laugh — a portrait, specific and individual. The reverse shows a pile of treasure rendered with an engraver's obsessive precision. The coin was made by Casomir for Garm as a personal gift and has been passed down through Garm's family for five centuries. It radiates a faint aura of transmutation magic (CL 20th) — not a functional enchantment, but the residual imprint of Casomir's craftsmanship. The coin has no game effect. Its significance is entirely social: it marks the bearer as someone connected to the person Garm was before the corruption, and it opens the chain of contacts in the Nightmarket that leads to the Trademaster. Obtained from Torgun Ironfold, Garm's great-great-grandson, during the Lucky Coin side quest (Chapter 7, Scene 3).
+
+**Renara's Blade** *(Vatra — Kerlin Whitemane)*
+A longsword of dark metal, forged by Renara — Vatra's greatest pre-war artificer — as a masterwork of magitek craftsmanship. Veins of white light run through the blade's grain, pulsing with a slow heartbeat rhythm. The sword hums faintly when held, a vibration felt in the hand rather than heard. As a weapon, Renara's Blade functions as a *+2 keen longsword* with the *ghost touch* property (CL 15th). Unlike other levers, Renara's Blade is mechanically useful in combat — it is a fine weapon in its own right, and the party may wield it freely before using it in the turning scene. Its deeper significance is as the key to Kerlin's restoration: the blade represents the tradition of creation that Kerlin destroyed when the corruption turned him from artificer to tyrant. Located in a secret vault beneath the forge complex, guarded by a dragon construct (CR 15).
+
+*Note: If Solace is present when the Flame Imperishable activates (Chapter 8, Scene 9), Renara's Blade merges with the Flame to become the Sword Imperishable (see below). The blade ceases to exist as a separate item.*
+
+**Sign of the Host** *(Illium — Tamaron the Just)*
+A small pendant in the shape of a sunburst mounted on outstretched wings — Tamaron's personal holy symbol from before the corruption. The pendant is silver, tarnished but intact, and radiates a moderate aura of divination and abjuration (CL 10th). It is warm to the touch in the same way the Oracle's token is warm — both carry the residual connection to Heaven that Tamaron's genuine faith sustained before Tekticula's corruption severed it. The Sign does not function as a holy symbol for spellcasting, but a character who holds it while casting *detect evil* receives a +4 sacred bonus to the check's caster level for the purpose of penetrating Tekticula's concealment within Tamaron. The Sign is used in the turning scene to anchor the party's *sign of the host* ceremony in the Cathedral, opening the door to Tamaron's mindscape. Located in a reliquary on the rebel island in Illium, among dozens of pre-war religious artifacts. Identifying which pendant is the lever requires prior knowledge from the Oracle's token, Tana's description, the civic hall painting, or Casomir's sketches.
+
+*Note: The Sign of the Host is paired with the Crown of Ascension in the turning process. The Crown is not a lever in itself — it is the instrument of Tekticula's control, and its enchantment is severed as a consequence of the turning, not a condition of it.*
+
+**Dew in the Morning Grass** *(Candela — Ourania Lachos)*
+A much-abused paperback volume of poetry, its spine cracked and pages dog-eared, the kind of book that has been read hundreds of times by someone who loved it. The front cover is inscribed: "For my Ourania, who works too hard and forgets to see the beautiful things. Auntie." The book has no magical properties whatsoever — it does not radiate magic, it is not indestructible (though it has survived five centuries through luck and the sealed environment of Ourania's personal sphere), and *identify* reveals nothing of interest. Its power is entirely sentimental. When read aloud to Ourania in the Overmind control room, the connection to who she was before the machine is strong enough to break the interface. Located in Ourania's personal sphere at the outer edge of Candela, accessible only with Casomir's key.
+
+### The Sword Imperishable
+
+*Mythic Artifact — Longsword*
+
+**Aura** overwhelming evocation and transmutation; **CL** 20th; **Mythic Tier** 6th
+**Slot** none; **Weight** 4 lbs.
+
+The Sword Imperishable is the fusion of Renara's Blade and the Flame Imperishable — the mythic forge-fire that powered the greatest workshop in the Nine Worlds. The weapon formed spontaneously when the Flame recognized its creation, drawing blade and fire together in a union that was always intended and never planned for. The dark metal carries the Flame's white-gold radiance in its grain — not as inlay but as an intrinsic quality of the material, as though the sword was forged from light rather than merely touched by it.
+
+The Sword Imperishable is carried by Solace, Kerlin's apprentice, unless the party requests it for the Descent (Chapter 13, Scene 1). Solace does not resist — the weapon goes where it is needed.
+
+**Properties:**
+- Functions as a *+5 holy keen longsword*
+- Deals an additional 2d6 radiant damage on each hit (this damage bypasses all damage reduction and resistance)
+- The wielder gains a +4 sacred bonus on saves against death effects, energy drain, and negative energy while holding the sword
+- Against creatures with the evil subtype or undead, the sword's critical threat range is doubled (stacking with *keen* for a total threat range of 15–20)
+- Against Tornsoul specifically, the sword's radiant damage bypasses her regeneration and the Consumed Essence aura does not affect the wielder (the Flame's presence shields them)
+- The sword functions at full power within the Underworld's suppressive environment — it is a piece of the Nine Worlds' mythic infrastructure, and the Underworld's corruption cannot touch it
+
+**Mythic Properties (requires mythic tier 6+):**
+- The wielder may expend one use of mythic power as a swift action to add their mythic tier to all damage rolls with the sword for one round
+- Once per day, the wielder may expend two uses of mythic power to cast *heal* (CL 20th) on a creature struck by the blade — the Flame restores as well as destroys
+
+**Destruction:** The Sword Imperishable can only be destroyed by returning it to the place where the Flame Imperishable originally burned and extinguishing the Flame. Since the Flame was reactivated by the sword's creation, this would require destroying both simultaneously — an act that no known power in the Nine Worlds can accomplish, and that no one has reason to attempt.
+
+### Other Notable Items
+
+**Oracle's Token**
+A small disc of polished wood bearing a sunburst mounted on outstretched wings. The Oracle of Nexus gives this token to those she judges worthy of the Rainbow Road. Casomir carries an identical token from the original expedition. The token radiates faint aura of divination (CL 5th) and is warm to the touch. It has no mechanical function but serves as proof of the Oracle's endorsement — the celestials recognize it during the Chapter 3 ceremony, and its sunburst-and-wings device matches Tamaron's personal holy symbol (the Sign of the Host), providing a critical clue for identifying the Illium lever.
+
+**Casomir's Key**
+A magitek key crafted by Casomir during his pre-war friendship with Ourania Lachos. The key opens the magical defenses on Ourania's personal sphere in Candela — the sphere where *Dew in the Morning Grass* is stored. The key is labeled with sphere coordinates in Casomir's hand. Located in Casomir's study in the Nexus citadel; Maranthe can grant access. The party must either know to look for it (a turned Warlock can suggest checking Casomir's effects for anything related to Ourania) or discover it during a thorough search of the study (Investigation DC 15). Faint aura of transmutation (CL 12th).
+
+**Crown of Ascension** *(Not a party item)*
+A relic created by Tamaron under Tekticula's influence — the instrument that placed a compulsive *geas* on every person who underwent the Church Ascendant's coming-of-age ceremony on Illium. The Crown is not a lever and cannot be used by the party. It is relevant to the campaign as the mechanism of Tekticula's population-wide control. When Tekticula is destroyed (whether through the turning's mindscape battle or through Tamaron's death and the demon's subsequent dissipation), the Crown's enchantment loses its sustaining power and the geas on the population fades over the following weeks.
+
+### Song of Heaven Fragments
+
+The nine Song of Heaven fragments are not physical items. They are carried in the party's mythic essence — absorbed at each place of power, accumulated across the journey, and expressed as a growing harmonic presence that the party can feel but not hear until the Song is performed. Each fragment carries a theme that reflects the world where it was acquired:
+
+| Fragment | World | Chapter | Theme |
+|---|---|---|---|
+| 1st | Nexus (Great Ancillary) | 3 | Foundation |
+| 2nd | Diaspola (Mother of Rivers) | 4 | Hope |
+| 3rd | Tanis (Gaia's Navel) | 5 | Loss |
+| 4th | Auzra (The Overlook) | 6 | Freedom |
+| 5th | Arlune (The Moonstone) | 7 | Mystery |
+| 6th | Vatra (Flame Imperishable) | 8 | Creation |
+| 7th | Illium (Well of Light) | 9 | Devotion |
+| 8th | Nocturne (Womb of Darkness) | 10 | Memory |
+| 9th | Candela (Stellar Oracle) | 11 | Understanding |
+
+The Song's primary functions are:
+
+1. **Rainbow Road progression.** Each fragment opens the path to the next world in the fixed sequence. The party cannot skip ahead or revisit previous worlds during Phase 2.
+2. **Mythic tier advancement.** Each fragment corresponds to a mythic tier granted at the associated place of power.
+3. **Celestial ceremony.** The complete Song (all nine fragments) is performed at the Great Ancillary to summon the celestials for the Final Meeting (Chapter 13), which grants Mythic Tier 10.
+4. **Underworld return.** The Song performed at the Underworld terminus reopens the Ancillary gate, carrying the surviving party members home. This is the Song's final and most important function — the melody that opened the Road, completed the journey, and summoned the celestials now brings the survivors back.
+
+---
+
+## Appendix C: Random Tables
+
+The following tables provide supplementary content for the GM to use when improvising encounters, populating scenes with incidental NPCs, or introducing environmental variety. They are organized by function and designed to be used across multiple worlds with minor reskinning.
+
+### Table 1: World Hazards (d8)
+
+Roll on this table when the party is traveling through wilderness or hostile territory on any world. Reskin the hazard to match the local environment — a sinkhole on Tanis is a contamination pocket; on Nocturne, it is a crevasse between valley walls; on Candela, it is a failed sphere junction.
+
+| d8 | Hazard | Effect |
+|---|---|---|
+| 1 | **Unstable ground** | 20-ft. square area. Reflex DC 15 or fall 10 ft. (1d6 damage). Perception DC 14 to spot. |
+| 2 | **Toxic atmosphere pocket** | 30-ft. radius. Fort DC 16 or nauseated 1d4 rounds. Perception DC 18 to detect (odor/shimmer). |
+| 3 | **Magitek residue surge** | 15-ft. cone from magitek debris. 3d6 force damage, Reflex DC 16 half. Triggered by proximity (10 ft.). |
+| 4 | **Collapsing structure** | Overhead debris. 4d6 bludgeoning, Reflex DC 17 half. 5-ft. radius. Perception DC 16 to spot creaking. |
+| 5 | **Ambient enchantment** | Will DC 15 or *confused* for 1d4 rounds. Single target (first to enter area). Detect Magic reveals it. |
+| 6 | **Extreme weather** | Heavy precipitation, high wind, or temperature extreme. Visibility reduced to 30 ft., ranged attacks at –4, Fly checks DC 20. Lasts 1d4 hours. |
+| 7 | **Corrupted ground** | 40-ft. square. Negative energy. 1d6 damage per round to living creatures. Heal check DC 15 to identify. |
+| 8 | **Wild magic zone** | 30-ft. radius. Any spell cast in the area triggers a wild magic surge: roll d% — 01–25 spell fizzles, 26–50 spell affects random target, 51–75 spell functions normally, 76–100 spell is empowered. Lasts until party leaves the area. |
+
+### Table 2: Incidental Encounters (d12)
+
+Use this table for encounters during overland travel, urban exploration, or downtime between major scenes. These are not combat encounters by default — most present an opportunity for roleplay, information gathering, or moral choice. The GM should adjust details to fit the current world.
+
+| d12 | Encounter |
+|---|---|
+| 1 | **Refugees.** A group of 2d6 civilians fleeing a nearby settlement. They carry what they could grab. They know rumors about the local Warlock's forces and will share information in exchange for food, healing, or protection. |
+| 2 | **Patrol.** A Warlock's enforcement squad (3–5 soldiers or constructs, CR appropriate to tier) on routine patrol. Avoidable with Stealth vs. their Perception. If confronted, they fight to subdue rather than kill — the Warlock wants to know who is moving through the territory. |
+| 3 | **Merchant.** A traveling trader who has survived by being useful to everyone and loyal to no one. Sells basic supplies at 150% markup. Knows the location of one side quest objective (GM's choice) and will share it for 200 gp or a favor. |
+| 4 | **Shrine.** An abandoned place of worship, partially defaced. A Perception DC 15 check reveals a hidden compartment containing a minor magic item (potion or scroll, level-appropriate). A Knowledge (religion) DC 12 check identifies the shrine's original deity and provides a +2 insight bonus on the next Knowledge check related to the current world's history. |
+| 5 | **Wounded creature.** An animal or beast native to the current world, injured and hostile. Can be calmed with Handle Animal DC 18 or Wild Empathy. If healed, it does not follow the party but avoids them in future encounters and does not raise alarms. |
+| 6 | **Local guide.** A resident of the current world who offers to lead the party through dangerous terrain in exchange for help with a personal problem (rescue a family member, recover a stolen item, destroy a specific enemy). The guide's knowledge is genuine and saves 1d4 hours of travel. The personal problem is a minor side encounter (CR party level –2). |
+| 7 | **Trap.** An old defensive installation — magical ward, mechanical trap, or magitek alarm — left over from the pre-war era or placed by the Warlock's forces. Perception DC 16 to detect, Disable Device DC 18 to disarm. If triggered: 2d6 damage (type appropriate to world) and alerts nearby enemies. |
+| 8 | **Asura scouts.** 1d3 low-CR Asuras (tripurasuras in humanoid form or phankhonvrani) observing the party from concealment. Perception DC 20 to spot. If detected and confronted, they flee. If undetected, the next encounter in the current chapter occurs with the enemies aware of the party's approach (no surprise round, enemies pre-buffed). |
+| 9 | **Historical site.** The ruins of a pre-apocalypse structure — a school, a workshop, a home. A Search or Perception DC 14 check turns up a journal, letter, or personal effect that provides context about the current world's pre-corruption culture. This information has no mechanical value but enriches the party's understanding of what was lost and what the Warlock's turning could restore. |
+| 10 | **Rival faction.** Representatives of a local power group (resistance, criminal, religious, or governmental, depending on the world) who are suspicious of the party's intentions. Diplomacy DC 18 or a demonstration of shared purpose converts suspicion to cautious cooperation. Failure means the faction works against the party indirectly for the remainder of the chapter (–2 on Gather Information checks, increased patrol frequency). |
+| 11 | **Natural phenomenon.** Something beautiful or strange that has nothing to do with the Warlock, the corruption, or the mission — a flock of birds in an unusual formation, a geological oddity, a sunrise (where applicable) of unusual color. No mechanical effect. The point is to remind the party — and the players — that the worlds they are fighting to save have value beyond their strategic importance. |
+| 12 | **Messenger from Nexus.** Maranthe has sent word via the Rainbow Road — a brief update on the state of Nexus, any intelligence gathered from previously turned Warlocks, or a request for the party's assessment of the current world. This is an opportunity for the GM to deliver information the party needs, remind them of the larger stakes, or simply let Maranthe's voice provide a moment of connection to the hub world between chapters. |
+
+### Table 3: NPC Traits (d10 + d10)
+
+Roll twice — once for disposition, once for detail — to generate an incidental NPC with enough specificity to make a brief interaction memorable.
+
+**Disposition (d10)**
+
+| d10 | Disposition |
+|---|---|
+| 1 | Helpful but nervous — wants to assist, afraid of being seen doing it |
+| 2 | Gruff and direct — no patience for pleasantries, reliable if respected |
+| 3 | Obsequious — flatters the party, may be genuinely impressed or may be angling for protection |
+| 4 | Suspicious — assumes the party is working for the Warlock until proven otherwise |
+| 5 | Grieving — has lost someone recently, answers questions but is distracted by sorrow |
+| 6 | Pragmatic — will deal with anyone who offers a fair exchange, no loyalty beyond the transaction |
+| 7 | Defiant — actively resists the Warlock's authority, may be reckless about it |
+| 8 | Resigned — has given up hope for change, goes through the motions of survival |
+| 9 | Curious — fascinated by the party as outsiders, asks more questions than they answer |
+| 10 | Haunted — carries a specific guilt or secret, may share it if the party earns trust |
+
+**Detail (d10)**
+
+| d10 | Detail |
+|---|---|
+| 1 | Carries a pre-war artifact (non-magical) that they believe is lucky |
+| 2 | Has a visible injury from a recent encounter with the Warlock's forces |
+| 3 | Speaks in proverbs and idioms specific to the current world |
+| 4 | Is secretly literate in a world where literacy has been suppressed |
+| 5 | Knows a safe route through a dangerous area and will draw a map |
+| 6 | Has a family member working for the Warlock's forces (unwillingly) |
+| 7 | Was once a person of importance (scholar, soldier, priest) and retains the bearing |
+| 8 | Collects stories about the pre-apocalypse world and will trade information for new ones |
+| 9 | Recognizes something about the party (a symbol, a weapon, a racial trait) that triggers a reaction |
+| 10 | Is dying — of disease, poison, or injury — and has one last request |
+
+### Table 4: Rumors and Hooks (d12)
+
+Roll on this table during the Orientation phase of any world chapter when the party is gathering information. Each rumor is written generically; the GM should attach specific names, locations, and details appropriate to the current world.
+
+| d12 | Rumor |
+|---|---|
+| 1 | The Warlock has not been seen in person for years. Everything comes through intermediaries. Some believe the Warlock is dead and the intermediaries are running things. |
+| 2 | A resistance group operates in the wilderness. They are small, poorly supplied, and divided on strategy — some want to fight, others want to flee, none want to negotiate. They could use help. |
+| 3 | A pre-war vault or repository exists somewhere in the region. Its contents are unknown. The Warlock's forces have been searching for it, which suggests it contains something valuable. |
+| 4 | A specific location is taboo — no one goes there, and the Warlock's forces avoid it too. The reason varies: cursed, haunted, sacred, or simply dangerous beyond what anyone can handle. |
+| 5 | A local figure was recently arrested, exiled, or killed by the Warlock's forces for possessing a forbidden object. The object was confiscated. No one knows what it was, but the punishment was disproportionate. |
+| 6 | The place of power is known to the locals by a different name — a holy site, a natural wonder, a forbidden zone. Stories about it are contradictory, but everyone agrees it is real and dangerous. |
+| 7 | Trade caravans from another region have stopped arriving. The last one that came through carried refugees who spoke of something new — a change in the Warlock's behavior, an escalation, a shift. |
+| 8 | An old song or story, passed down orally, describes the world before the apocalypse. Its details contradict what the Warlock's forces teach about history. |
+| 9 | Someone in the settlement claims to have met the Warlock face to face and survived. Their account is detailed and terrifying and may contain useful tactical information buried in the fear. |
+| 10 | A natural resource — water, food, fuel, light — is controlled by a faction loyal to the Warlock. The population depends on this resource. Disrupting the faction's control would cause short-term hardship but break a lever of power. |
+| 11 | The Warlock's forces recently increased patrols in a specific area for no apparent reason. Locals speculate about what they are guarding — or what they are looking for. |
+| 12 | A traveler from Nexus passed through recently — the first contact with the hub world in living memory. The traveler left behind a message, a map, or a token. No one has been able to make sense of it. |

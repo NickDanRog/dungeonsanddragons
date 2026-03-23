@@ -1879,3 +1879,34 @@ The Eidolon takes over. Tornsoul charges the nearest PC with Pounce (full attack
 **Environment** Tornsoul's crater stronghold, the Grey Plain (Underworld)
 **Organization** unique (possibly with 1d4+1 Upasundas, summoned mid-combat at corruption 14)
 **Treasure** *+1 unholy greatsword* (dissolves on death), no other treasure (five centuries in the Underworld accumulates power, not possessions)
+
+---
+
+## The Sword Imperishable — Mythic Artifact
+
+*Aura* overwhelming evocation and transmutation; *CL* 20th; *Mythic Tier* 6th
+*Slot* none; *Price* — (artifact); *Weight* 4 lbs.
+
+**DESCRIPTION**
+
+The Sword Imperishable is the fusion of Renara's Blade and the Flame Imperishable — forged spontaneously when the mythic forge-fire at Vatra's Temple of the Eternal Flame recognized its creation and drew blade and fire together. The dark metal carries the Flame's white-gold radiance in its grain as an intrinsic quality of the material. The weapon was not crafted by any hand; it formed itself from the union of a masterwork and the power that made it possible.
+
+The Sword is carried by Solace, Kerlin Whitemane's apprentice, unless the party requests it for the Descent into the Underworld. Solace does not resist — the weapon goes where it is needed.
+
+**STATISTICS**
+
+The Sword Imperishable functions as a *+5 holy keen longsword*.
+
+- Deals an additional 2d6 radiant damage on each hit. This damage bypasses all damage reduction and energy resistance.
+- The wielder gains a +4 sacred bonus on saves against death effects, energy drain, and negative energy while holding the sword.
+- Against creatures with the evil subtype or undead, the sword's critical threat range is doubled (stacking with *keen* for a total threat range of 15–20/×2).
+- Against Tornsoul specifically: the sword's radiant damage bypasses her regeneration, and the Consumed Essence aura does not affect the wielder (the Flame's presence shields them).
+- The sword functions at full power within the Underworld's suppressive environment. It is a piece of the Nine Worlds' mythic infrastructure, and the Underworld's corruption cannot touch it.
+
+**Mythic Properties (requires mythic tier 6+):**
+- The wielder may expend one use of mythic power as a swift action to add their mythic tier to all damage rolls with the sword for one round.
+- Once per day, the wielder may expend two uses of mythic power to cast *heal* (CL 20th) on a creature struck by the blade — the Flame restores as well as destroys.
+
+**DESTRUCTION**
+
+The Sword Imperishable can only be destroyed by returning it to the place where the Flame Imperishable originally burned and extinguishing the Flame. Since the Flame was reactivated by the sword's creation, this would require destroying both simultaneously — an act that no known power in the Nine Worlds can accomplish.

@@ -6257,3 +6257,609 @@ The party stands in the orrery chamber. The mechanism turns above them — the w
 When the party is ready, they step into the rune circle and perform the Song. Chapter 13 opens with the Final Meeting — the celestials at the Ancillary for the second and last time, the granting of Mythic Tier 10, and the choice that follows: the celestials can open the gate to the Underworld, where Tornsoul waits. The party must ask. Everything the party has done — every world, every Warlock, every choice, every consequence — leads to this moment, and the moment is a question, and the question is theirs.
 
 > *The orrery turns above you. The rune circle glows beneath your feet. The Song hums in your bones — nine fragments, nine worlds, nine pieces of a melody that was written before the apocalypse and preserved through five centuries of ruin because someone believed it would be needed again. You have stood in this circle before. You were different then — untested, uncertain, carrying a dead king's faith and little else. You are different now. The Song proves it. The power in your blood proves it. The eight worlds you crossed and the choices you made on each one prove it. Behind you, Nexus burns or stands or endures, and Maranthe Soldati walks toward the fires, and the alliance you built holds or fractures or clings to what remains. Ahead of you, the light gathers. The celestials are coming. The last meeting begins.*
+
+---
+
+## Chapter 13: The Descent *(Level 20, Mythic Tier 9 → 10)*
+
+*In which the party completes the Song of Heaven, receives the full measure of mythic power, descends into the Underworld, and ends Tornsoul's reign — or dies in the attempt.*
+
+**Chapter Summary:** The celestials appear at the Great Ancillary for the second and final time, granting Mythic Tier 10 and offering to open the gate to the Underworld. The party descends through the grey plain, fights through two Asura Rana strongholds, and confronts Tornsoul in her crater fortress. The campaign ends with one of four epilogues determined by the corruption score, ally strength, world restoration, and PC survival.
+
+**Scenes:**
+1. The Final Meeting — Celestial ceremony, Mythic Tier 10, the gate opens, Warlock farewells
+2. The Grey Plain — Underworld environment, corruption mechanic introduction
+3. The Gauntlet — Two progressive Asura Rana encounters (CR 19, CR 21)
+4. Tornsoul — Final encounter, corruption-scaled (CR 21–25)
+5. The Return and Epilogue — Song carries survivors home, four endings with full epilogues
+
+---
+
+### GM Guidance
+
+This chapter is the culmination of the entire campaign. The choices the party made across eight worlds determine the difficulty of the final encounter, the state of the world they return to, and the ending they reach. Before running this chapter, the GM should review the Corruption Mechanic section, the Ally-Tracking section, and the Managing Multiple Endings section, then read the guidance below.
+
+**Permanent Death**
+
+Death in the Underworld is permanent. No resurrection magic functions in this place — not *raise dead*, not *resurrection*, not *true resurrection*, not *breath of life*, not *wish*. The Vessel of the Song does not function. The mythic ability Immortal does not trigger. If a PC's hit points are reduced to a value that would kill them, they are dead, and no power available to the party or anyone else can reverse it.
+
+This rule applies equally to Tornsoul and to every Asura the party encounters in the Underworld. Death is death, and the Underworld collects what it is owed.
+
+The GM must communicate this clearly to the players before the Descent begins. The celestials state it explicitly during the Final Meeting (Scene 1), and the GM should reinforce it in plain, out-of-character language: "Death in the Underworld is permanent. There is no resurrection. If your character dies down there, that character is gone." Do not soften this. Do not hedge. Players who lose a character in the final session of a campaign deserve to have been warned in terms that left no room for misunderstanding.
+
+If a TPK occurs, proceed to Ending 4 (The Silence). The GM should not improvise a rescue, deus ex machina, or narrative workaround. The campaign's stakes are real, and the TPK ending is written to honor the party's effort even in total failure. A TPK is not a failure of the GM or the players — it is the outcome that the corruption score, the encounter design, and the dice produced, and it has its own weight and meaning.
+
+If a single PC dies, the remaining party members continue. The dead PC's player should be given the option to observe the remainder of the session or to step away — the GM should handle this with sensitivity and without pressure. The fallen PC's fate is addressed in the epilogue.
+
+**Corruption Scaling**
+
+Before running this chapter, the GM must calculate the party's final corruption score and adjust Tornsoul's stat block accordingly. The Gauntlet encounters (Scene 3) do not scale with corruption — the Underworld's baseline hostility is constant regardless of the party's choices. Only Tornsoul scales.
+
+Review the corruption mechanic and apply the following adjustments to Tornsoul's stat block:
+
+- **Hit points:** Reduce maximum HP by 5% per point of corruption below 14. At corruption 0, Tornsoul has 70% of her listed HP (the floor — she is still a merged Summoner/Eidolon with five centuries of consumed essence).
+- **Mythic abilities:** For every 3 full points below 14, remove one mythic ability, starting from the top of the list: Unmaking Touch first, then Stolen Surge, then Soul Anchor, then Warden's Judgement. At corruption 0, she loses all four. At corruption 14, she retains all four.
+- **Eidolon damage:** At corruption 0–7, the Eidolon's natural attacks deal 50% damage (floor). At corruption 8–14, scale linearly from 57% to 100%.
+- **Legendary actions:** At corruption 9–14, Tornsoul has 3 legendary actions. At corruption 5–8, reduce to 2. At corruption 1–4, reduce to 1. At corruption 0, she has no legendary actions.
+
+The GM should write these adjusted values onto a copy of the stat block before the session begins. Do not calculate scaling mid-combat.
+
+**The Irony of the Ancillary Gate**
+
+The gate to the Underworld has always existed. It is part of the Great Ancillary's original design — a passage built by the celestials as part of the system, accessible through the Song of Heaven with the celestials' direct permission. The original ten heroes could have used this gate to reach the Underworld. They did not think to ask. They did not tell the celestials of their plan. They built their own portal, and the ritual that opened it killed Sarena Tal and triggered the apocalypse that shattered the Nine Worlds.
+
+The irony should land at the Final Meeting, when the celestials open the gate and the party realizes — or is told — that it was always here, beneath the orrery, part of the mechanism they have stood in twice before. The apocalypse was unnecessary. Five hundred years of ruin, corruption, and suffering followed from a decision made in haste by heroes who did not trust the system they served to provide what they needed.
+
+The GM should not belabor this point. State it once, clearly, and let the players process it. If a turned Warlock is present for the farewell (Scene 1), they may be the one to voice it — they were there, they remember, and the knowledge of what they could have done differently is part of the weight they carry. The celestials do not say "you should have asked us." They say "the gate has always been here." The difference matters.
+
+**Underworld Corruption**
+
+The Underworld's ambient corruption affects the PCs. The Song of Heaven resonates in their mythic essence and holds the corruption at bay as long as they are advancing toward their goal — moving with purpose protects them. Stopping, lingering, or wandering invites the corruption in.
+
+This mechanic is enforced when the party strays from the path — launching side ventures unrelated to defeating Tornsoul, or attempting a long rest. For every 2 hours spent in the Underworld not directed toward their goal, each PC must make a Will save or take Wisdom damage:
+
+| Interval | Will DC | Wisdom Damage |
+|---|---|---|
+| First (2 hours) | 20 | 1d4 |
+| Second (4 hours) | 25 | 1d6 |
+| Third (6 hours) | 30 | 2d6 |
+| Fourth (8 hours) | 35 | 3d6 |
+| Each subsequent | +5 | +1d6 |
+
+The celestials warn the party during the Final Meeting: the Underworld will try to claim them the way it claimed Sarena. The GM explains the mechanic in Scene 2, when the party first feels the corruption pressing against them: "The Song holds the corruption at bay while you move with purpose. If you stop, linger, or wander, you will begin making Will saves against escalating Wisdom damage. The Underworld wants to keep you."
+
+The mechanic serves two design purposes. First, it prevents the party from nova-resting-nova through the Gauntlet and Tornsoul — a long rest in the Underworld is not merely inadvisable but actively dangerous. Second, it reinforces the narrative urgency of the Descent — the party is not exploring, they are advancing through hostile territory on a clock that they cannot see but can feel.
+
+The GM should not weaponize this against reasonable tactical pauses. Buffing before Tornsoul, taking a short breather between Gauntlet encounters, discussing strategy — these are purposeful actions directed toward the goal, and the Song recognizes them as such. The corruption mechanic triggers only against genuine time-wasting or deliberate attempts to game the resource attrition through extended rest.
+
+**Tone by Ally Tier**
+
+The emotional register of this chapter shifts with the ally tier established in Chapter 12.
+
+At **Full Strength or Strong** (13–24 ally points), the tone is purposeful. The party descends from a city that is standing, backed by allies who held the line, carrying the weight of a mission that feels achievable. The celestials speak with something approaching hope. The Gauntlet encounters are dangerous but not desperate. The party has earned the right to face Tornsoul with confidence — not certainty, but the quiet assurance of champions who have been tested across eight worlds and not found wanting.
+
+At **Weak** (7–12 ally points), the tone is grim determination. The party descends from a city that is damaged, with allies who held but at cost, carrying a mission that feels necessary rather than triumphant. The celestials are more somber. The Gauntlet encounters feel like attrition — every resource spent is a resource that will not be available against Tornsoul. The party knows the odds are narrower.
+
+At **Minimal** (0–6 ally points), the tone is desperate. The party descends from a city that is falling, with no allies left above ground who can hold for long, carrying a mission that may be the last act of a world that is already dying. The celestials speak with grief that borders on farewell. The Gauntlet encounters are the same difficulty, but they feel heavier — the party cannot afford to lose anyone before Tornsoul, and every hit taken is a step closer to an ending that no one wants. This is the last gambit of the last champions of a broken system, and the party should feel the weight of that with every step.
+
+---
+
+### Scene 1: The Final Meeting
+
+The party stands in the rune circle of the Great Ancillary — the same circle they stood in when the celestials first granted them mythic power at the end of Chapter 3. The orrery turns above them. The complete Song of Heaven resonates in the chamber, not as audible music but as a harmonic presence that has been building across nine worlds and now stands complete: Foundation, Hope, Loss, Freedom, Mystery, Creation, Devotion, Memory, Understanding — nine themes woven into a single composition that the party carries in their mythic essence.
+
+When the party performs the Song, the celestials appear.
+
+**The Celestial Ceremony**
+
+The ceremony mirrors the first meeting in structure — three presences resolving from light, the same Archon, Angel, and Agathion — but the tone is different. The celestials know what the party has done. They have watched across eight worlds, and their response reflects the journey's cost.
+
+> *The light gathers in the rune circle the way it gathered once before — slowly, with weight, as though the air itself is remembering how to hold something sacred. Three presences resolve. You know them. You knew them when you were just begining your journey and frightened and carrying a dead king's faith, and you know them now at the far end of a road that has taken you across eight worlds and changed you in ways that the people you were at the beginning would not recognize. The Archon. The Angel. The Agathion. Law and mercy and the patient wildness of things that grow without being told to. They are the same. You are not.*
+
+The celestials acknowledge the journey. They name each turned Warlock by their true name — Sona, Garl, Tana, Garm, Kerlin, Tamaron, Baselia, Ourania — speaking the names as acts of restoration, returning to each Warlock the identity that five centuries of corruption tried to erase. They name each killed Warlock by their corrupted title — the Snow Queen, the Howler, the Gray Eminence, the Trademaster, the Blackfire, the Just, the Lady Sorrow, the Overmind — speaking the titles as acknowledgments of what was lost, not as accusations. The celestials do not judge. They grieve.
+
+The tone of the acknowledgment varies with corruption:
+
+At **corruption 0–3**, the celestials speak with something that approaches joy — restrained, ancient, but unmistakable. The system worked. The champions it was built to produce arrived at last, and they walked the full path, and they were not consumed by it. The celestials' grief is still present — Sarena Tal is still in the Underworld, the original ten still fell, the five centuries still happened — but it is grief tempered by the knowledge that what was broken can be mended.
+
+At **corruption 4–7**, the celestials speak with gratitude and sorrow in equal measure. Some Warlocks were saved. Others were not. The system produced champions, and those champions did what they could, and what they could was not everything. The celestials acknowledge both the turnings and the killings without distinguishing between them in value — every confrontation carried weight, every outcome was earned.
+
+At **corruption 8–11**, the celestials' sorrow is deeper. Most of the Warlocks are dead. The power that was meant to be reclaimed remains with Tornsoul. The celestials do not say that the party failed — the party reached this circle, which is more than anyone has done in five hundred years — but their warnings are more pointed and their hope is thinner.
+
+At **corruption 12–14**, the celestials speak with grief that borders on farewell. Nearly every Warlock is dead. Tornsoul retains almost all of the borrowed mythic power, and the celestials know what that means for the encounter ahead. They do not say "you will die." They say what needs to be said with the composure of beings who have watched civilizations fall and who understand that sometimes the last act of a failing system is the most important one.
+
+**Mythic Tier 10**
+
+The celestials bestow the tenth and final mythic tier — the capstone, the full measure of power the system was designed to produce. The GM should describe this as a completion: the power that entered the party as a seed in Chapter 3 reaches its full expression. Every tier gained at every place of power across eight worlds was a step toward this moment, and the moment is the culmination of all of them.
+
+> *The power comes. It does not surge — it completes. Nine shards of mythic energy, gathered one by one across eight worlds and the Ancillary itself, settle into their final configuration like the last piece of a mechanism clicking into place. You have carried this power since the celestials first placed it in your hands — carried it through frozen courts and poisoned forests, through police states and criminal underworlds, through burning temples and dreaming valleys and the silence of dead observatories. It has grown with you. It has been tested with you. And now it reaches the form it was always meant to take, and you understand, with a certainty that goes deeper than knowledge, that this is what you were made for. Not chosen — made. The system that created the Nine Worlds, that laid the Rainbow Road, that placed the places of power and wrote the Song of Heaven, made you for this moment. Everything else was preparation.*
+
+Each PC gains their mythic tier 10 abilities. The GM should give the players time to review their capstone powers — this is the last mechanical advancement of the campaign, and the players should understand what they have before the Descent begins.
+
+**The Complete Song**
+
+The nine fragments of the Song of Heaven — Foundation, Hope, Loss, Freedom, Mystery, Creation, Devotion, Memory, Understanding — resolve into a single composition. The Song is no longer a collection of fragments carried in mythic essence; it is a complete work, and its completeness changes its nature. The individual themes are still present, but they are woven together now, each one informing and being informed by the others, and the whole is greater than the sum of its parts in a way that the party can feel but not articulate.
+
+The celestials confirm what the Song does: it is the key that opens the Rainbow Road, the mechanism that activates the places of power, and — now, at completion — the means by which the Ancillary gate can be opened. The Song has one final function: performed at the Underworld's terminus, it will reopen the gate and carry the survivors home. The same melody that opened the Road, completed the journey, and opened the gate now serves as the path back. If the party falls, the Song falls silent, and the gate does not reopen.
+
+**The Offer**
+
+The celestials can open the gate to the Underworld. They do not volunteer this. They wait for the party to ask.
+
+This is deliberate. The system was designed to produce champions, not conscripts. The celestials will not send the party into the Underworld — the party must choose to go. The celestials answer questions, provide what guidance they can, and wait. If the party asks, the gate opens. If the party does not ask — which will not happen at most tables, but might at a table where the players are genuinely frightened by the permanent death warning — the celestials wait, and the Underworld waits, and Tornsoul waits. The campaign does not proceed until the party chooses to descend.
+
+**The Warning**
+
+Before the gate opens, the celestials deliver a warning. It is explicit, direct, and unambiguous.
+
+> *"Hear us clearly. The Underworld is a place of ending. No power of restoration functions within its borders — not the spells you carry, not the gifts we have given you, not the grace of any force in the Nine Worlds. If you fall in that place, you are lost. Permanently. Irreversibly. There is no return from death in the Underworld. This is true for you as it is true for the one you go to destroy."*
+>
+> *"Sarena Tal — the one called Tornsoul — cannot be saved. The woman who descended five centuries ago no longer exists. What remains is a being of consumed essence and borrowed power, merged with an Eidolon that has become indistinguishable from her own flesh. She cannot be turned. She cannot be reasoned with. The only resolution is destruction."*
+>
+> *"We tell you this not to discourage you but to ensure that you descend with clear sight. You have earned the right to face her. You have earned the right to know what you face."*
+
+The GM should reinforce this warning in out-of-character terms if there is any ambiguity at the table. The players must understand: no resurrection, no Immortal, no safety net. Tornsoul cannot be turned. The only way through is through.
+
+**The Gate Opens**
+
+When the party asks the celestials to open the gate, the rune circle responds.
+
+> *The rune circle shifts. The patterns you have stood on twice — once as strangers, once as champions — rearrange themselves with a grinding resonance that you feel in your teeth and your sternum and the deepest parts of your mythic essence. The floor within the circle does not open so much as reveal — stone panels sliding apart to expose a staircase that descends into grey light, carved from the same ancient material as the Ancillary itself. It has been here the entire time. Beneath the orrery, beneath the rune circle, beneath the chamber where the celestials granted you power and the Song was first placed in your hands — the gate to the Underworld has waited, sealed and patient, since the day the Ancillary was built. The original ten could have used it. They chose to build their own, and the world burned for that choice. You are using the one that was always here.*
+
+The staircase descends into grey light — not darkness, not fire, but a flat, diffuse illumination that carries no warmth and casts no shadows. The air from below is still and carries a faint mineral scent, like stone that has never known weather.
+
+**The Gate Closes**
+
+The celestials explain: the gate is two-way. It must close behind the party to prevent the Underworld's denizens from ascending through it. The Asura army above — whatever remains of it — cannot be allowed a direct passage to the Ancillary and the heart of Nexus. The gate closes when the last party member descends.
+
+The way home is the Song. The celestials instruct the party: when Tornsoul is destroyed, perform the Song of Heaven at the Underworld terminus — the point where the staircase meets the grey plain. The Song will reopen the gate and carry the survivors back to the Ancillary. If no one survives to perform the Song, the gate remains closed. The celestials cannot open it from their side without the Song's resonance to guide them.
+
+**Turned Warlocks Cannot Follow**
+
+Any turned Warlocks present at the Ancillary — for the farewell, for the ceremony, because they came to see the party off — cannot descend. The celestials state this, or the Warlocks state it themselves: the Underworld is the source of the corruption that held them for five centuries. The turning freed them from that corruption on the surface, but entering the Underworld — the place where the corruption originates, where it saturates every particle of the grey plain — would undo the turning. They would be re-corrupted immediately, and everything the party did to save them would be erased.
+
+This is not an arbitrary restriction. It is the logical consequence of what the Underworld is and what the turning means. The Warlocks understand this. Some of them understood it before the celestials said it. The farewell is final — the Warlocks know that the party is descending into a place from which they may not return, and the Warlocks cannot follow to help.
+
+**Farewells**
+
+The turned Warlocks present say their goodbyes. The GM should keep these brief — a sentence or two per Warlock, no more. The farewell's emotional weight comes from the context, not from length. These are people the party saved across eight worlds, people who were corrupted for five hundred years and freed by the party's choices, and they are watching the party descend into the place that corrupted them, and they cannot follow.
+
+The specific content of each farewell depends on the Warlock's personality and their relationship with the party, which varies by table. The GM should improvise within character. Some suggestions:
+
+- **Sona** speaks formally, as befits the woman who ruled Diaspola's frozen court. She thanks the party with the precision of someone who has learned that words carry weight and should be chosen carefully.
+- **Tana** says little. They were the Gray Eminence, the architect of Auzra's three-tiered surveillance state, and they have never been comfortable with sentiment. A nod, a look, the sense that they will remember the party — that is enough.
+- **Garm** grins. He was the Trademaster of Arlune's criminal underworld, and he has always been the most human of the Warlocks, the one who wanted to be turned, who asked for it. He says something that is probably a joke and is definitely a goodbye.
+- **Kerlin** does not say goodbye. He was never good with words — he was good with his hands, with forge-fire and metal and the precise application of skill to material. What he offers instead is practical: if Solace survived and the Sword Imperishable was forged, he asks Solace to present it to the party for the Descent. Solace does so without ceremony — she holds the blade out, and the white-gold light in its grain pulses in the warmth of the orrery chamber, and the offering is the farewell. If Solace did not survive or the Sword was not forged, Kerlin simply stands at the edge of the circle and watches them go, and the expression on his face is the expression of a man who has nothing left to give except the knowledge that what he destroyed, they may yet restore.
+- **Tamaron** speaks with the gravity of a man who once held a world in the grip of divine law and now understands the cost. If Baselia was also turned, they stand together — the Illium-Nocturne pair, the cascade that the party's choices on one world made possible on the next.
+- **Ourania** is precise. She was the Overmind of Candela, the scholar who perfected the Arcanium's defense network and was consumed by it, and her farewells carry the clarity of someone whose mind was recently restored and who values every lucid thought.
+
+If Garl was turned, Rerox is present — the grizzly bear released from his figurine after five centuries, standing beside the ghost of the bond that his druid carried through corruption and death. Rerox cannot follow the party into the Underworld, but the bear presses his head against each PC in turn, and the gesture carries the weight of everything Garl would have said if he had lived to say it.
+
+Warlocks who were killed are not present. Their absence is its own statement.
+
+**The Sword Imperishable**
+
+If Solace survived and the Sword Imperishable was forged on Vatra (Chapter 8, Scene 9), the party may carry it into the Underworld. The Sword is a mythic artifact — the fusion of Renara's Blade and the Flame Imperishable — and its properties are detailed in the Stat Block Appendix. Against Tornsoul, the Sword's good-aligned radiant damage bypasses her regeneration, and its mythic nature allows it to function at full power within the Underworld's suppressive environment. The wielder should be the party's most capable melee combatant. Solace does not descend — she remains on Nexus with the other turned Warlocks — but the weapon she forged goes where she cannot.
+
+> *The staircase descends. The grey light rises to meet you, flat and featureless and carrying nothing — no warmth, no scent, no sound. Behind you, the orrery's warm glow fades with each step, and the turned Warlocks stand at the circle's edge and watch you go, and they do not call after you because there is nothing left to say. The gate closes above you — stone sliding into stone with a finality that you feel in your chest. The orrery's light vanishes. The Song hums in your bones, the only warmth in a place that has none. Below you, the grey plain waits. Ahead of you, somewhere in that featureless expanse, Tornsoul waits. You descend.*
+
+---
+
+### Scene 2: The Grey Plain
+
+The staircase ends. The party steps out onto the Underworld.
+
+> *The staircase opens onto nothing. Not darkness — nothing. A grey plain stretches in every direction without limit, without feature, without horizon. The ground beneath your feet is smooth stone, the color of ash, and it extends outward until distance itself becomes meaningless. There is no sky. Above you is a flat, diffuse grey light that comes from everywhere and nowhere, casting no shadows, suggesting no sun, offering no orientation. The silence is absolute — not the silence of an empty room but the silence of a place that has never known sound and resents its introduction. The air is still, dry, and faintly mineral, carrying the scent of stone that has never been touched by weather or life or anything that could be mistaken for either.*
+>
+> *In the distance — the only distance that matters, the only feature in a world without features — something dark rises from the plain. It is far away. It is large. It has the solidity of a mountain and the wrongness of a wound, as though the grey plain was not built to contain it and has been forced to accommodate it through violence. Tornsoul's stronghold. The place where five centuries of consumed essence and borrowed power have been gathered into a single point, waiting for something worth destroying.*
+
+The Underworld is not a dungeon. It is an environment — vast, featureless, oppressive in its emptiness. The party's mythic senses can perceive the grey plain extending beyond the range of any mortal detection, and Tornsoul's stronghold is the only significant landmark. Between the party and the stronghold, the terrain is not entirely empty: the strongholds of lesser Asura Ranas rise from the plain at intervals, serrated formations of shaped stone that the Ranas have forced into existence through will and power. These strongholds are the Gauntlet encounters (Scene 3).
+
+The party also perceives signs of the Underworld's nature as they cross the plain. Dissolved Asura remnants — residual spiritual matter from lesser Asuras destroyed in the ancient wars or consumed by their betters — drift across the ground like grey mist, dissipating when touched. Ancient battle residue is visible in places: scored stone, impact craters, the geometric scars of magical warfare preserved in the unchanging environment of a place where nothing decays because nothing has ever lived. The Underworld is a prison, and it looks like one — not a dungeon with walls and doors but an infinite flatness from which there is no direction worth fleeing because every direction is the same.
+
+**The Corruption Pressure**
+
+The party feels the Underworld pressing against them from the moment they step onto the plain. It is not a physical sensation — it is a pressure on the edges of their mythic essence, a sense that the grey plain is aware of them and is testing them, pressing inward the way deep water presses against a diver. The Song of Heaven pushes back. The resonance that the party has carried since the first fragment is active here, responding to the Underworld's corruption the way a living immune system responds to an invading pathogen — automatically, constantly, without requiring conscious effort.
+
+The GM should explain the Underworld Corruption mechanic here, in plain terms: "The Underworld's corruption is pressing against you. The Song holds it at bay as long as you move with purpose toward Tornsoul. If you stop to rest, wander off the path, or spend extended time on anything unrelated to reaching and destroying Tornsoul, you will begin making Will saves against escalating Wisdom damage. The clock is running. Move with purpose."
+
+This is also the moment to establish that the party can feel every Asura in the Underworld aware of their presence. The mythic power the party carries is alien to this place — a beacon of divine intent in a prison built to contain its opposite. The lesser Asuras scatter before them, unwilling to challenge mythic tier 10 champions directly. The Asura Ranas do not scatter. They wait.
+
+> *You walk. The grey plain offers nothing — no landmarks, no variation, no measure of progress except the slow growth of the dark mass ahead and the slow diminishment of the staircase behind. The silence presses. The corruption presses. The Song in your bones hums steady and warm, the only living thing in a world that has never been alive, and you feel it working — holding something back, keeping something at bay, a constant low-grade effort like walking into a headwind that you cannot see but that you would notice the moment it stopped. You have fought demons on eight worlds. You have stood in their presence and felt their malice and their hunger and the cold mathematical hatred that drives them. This is different. The demons you fought were visitors to the worlds above — exiles, infiltrators, agents of a distant influence. This is the source. This is where the influence lives. And it knows you are here.*
+
+The scene is brief. The GM should not stretch the crossing into a prolonged travel sequence — the Grey Plain establishes the environment, introduces the corruption pressure, and builds tension before the Gauntlet encounters. The party sees the Rana strongholds ahead, understands that the path to Tornsoul runs through them, and advances. The Underworld does not reward lingering.
+
+---
+
+### Scene 3: The Gauntlet
+
+Two encounters stand between the party and Tornsoul's stronghold — the outer and inner strongholds of Asura Ranas who have carved domains from the grey plain along the approach to Tornsoul's crater. These encounters are designed for resource depletion and dramatic tension: the party must expend abilities, spell slots, and consumables to reach Tornsoul, and the encounters must be dangerous enough to make those expenditures meaningful without being so punishing that the party arrives at the final encounter unable to function.
+
+The Gauntlet encounters do not scale with corruption. The Underworld's baseline hostility is constant — these Ranas are not powered by the corruption mechanic, they are powered by centuries of consumed essence and territorial dominance in a prison where power is the only currency. A party at corruption 0 faces the same Gauntlet as a party at corruption 14. The difference is what waits at the end.
+
+**Encounter 1: The Outer Stronghold — Varajaksha, the Shaper (CR 19)**
+
+The first Rana stronghold is visible from a distance as a formation of grey stone rising from the plain — angular, deliberate, the kind of structure that could only have been shaped by intelligence. As the party approaches, they realize that the stronghold is not a building. It is a body.
+
+> *The stronghold moves. The walls shift — not collapsing, not falling, but rearranging, stone flowing like liquid and resolving into new configurations with a grinding deliberation that is worse than speed. The ground beneath your feet tilts. A corridor that was open a moment ago narrows to a gap that a human could not pass through. A wall that was solid stone sprouts geometric protrusions that reshape the space into something that does not match the room you entered. The stronghold is alive. The stronghold is the demon.*
+
+Varajaksha is a battlefield controller. Its body is the stronghold itself — a Rana that has shaped the grey plain's stone into an extension of its physical form, inhabiting the terrain the way a hermit crab inhabits a shell, except that the shell reshapes itself at the Rana's will. The party is not attacking a creature inside a building; they are attacking the building, which is the creature, which is rearranging itself around them while they fight.
+
+**Tactical Identity:** Spatial puzzle under pressure. The encounter is fundamentally different from Chapter 12's direct-combat Asurendra — Varajaksha does not charge the party or trade blows. It reshapes the environment: raising walls to split the party, dropping floors to create pits, narrowing corridors to funnel PCs into kill zones, and expanding spaces to force ranged combatants into its preferred engagement range. The party must identify the Rana's actual body within the shifting terrain (a core of denser stone at the stronghold's center, visible to mythic senses or high-DC Perception) and reach it while the terrain works against them.
+
+**Retinue:** 2 Hishanduras (CR 15). These two-faced, four-armed Asuras serve as Varajaksha's enforcers — they know the stronghold's rhythms and move through its shifting corridors without impediment, appearing in the spaces that the Rana creates to flank and pin isolated PCs. Their Destructive Blades ability (ignore hardness, doubled damage vs. structures) is not relevant here — Varajaksha's body is not a structure for purposes of that ability — but their Scent of Carnage blindsense and melee pressure make them dangerous hunters in the shifting terrain.
+
+**Key Mechanics:**
+- **Terrain Manipulation (Su):** As a move action, Varajaksha reshapes a 30-ft. area within its stronghold — raising walls, dropping floors, creating or removing corridors. Creatures in the affected area must make Reflex saves (DC 25) or be moved to an adjacent unaffected space of Varajaksha's choice. This is the Rana's primary action economy advantage: it controls the battlefield every round.
+- **Crush (Ex):** Any creature caught between shifting walls takes bludgeoning damage (8d6, Reflex DC 25 half) and is pinned until it escapes (CMB vs. CMD) or the terrain shifts again.
+- **Distributed Anatomy:** Varajaksha's vital organs are distributed throughout the stronghold. It takes half damage from attacks that target a single point (normal attacks); area effects and attacks that target the core deal full damage. The core has an AC 5 points lower than the stronghold's exterior.
+- **Regeneration 10 (good weapons and spells):** Standard for Asura Ranas.
+
+**Resolution:** When Varajaksha dies, the stronghold collapses — not explosively but gradually, the shaped stone losing its animating intelligence and settling into an inert pile over the course of a minute. The party can rest briefly amid the rubble (buffing, healing, short tactical pause — the corruption mechanic does not trigger for purposeful preparation) before advancing to the inner stronghold.
+
+Full stat block: Stat Block Appendix.
+
+---
+
+**Encounter 2: The Inner Stronghold — Nivrkalpa, the Breaker (CR 21)**
+
+The second Rana stronghold is smaller than the first — a low, dense formation of dark stone with none of Varajaksha's architectural complexity. It looks like a bunker. It feels like a trap.
+
+> *The inner stronghold does not move. It does not shift or reshape or announce itself with grinding stone and flowing walls. It sits on the grey plain like a clenched fist — low, dense, deliberate, radiating an attention that you feel pressing against your mythic essence the way the Underworld's corruption presses against your bones. Something inside this place has been studying you. Something inside this place has been studying things like you for a very long time.*
+
+Nivrkalpa is an anti-mythic specialist. Where Varajaksha was a terrain controller that fought through spatial manipulation, Nivrkalpa was designed — by centuries of observation, by the study of Sarena Tal's mythic power, by the dissection of the original ten heroes' techniques preserved in the Underworld's unchanging memory — to counter mythic champions. The party has spent twelve chapters growing accustomed to their mythic abilities as reliable, defining tools. Nivrkalpa takes those tools away.
+
+**Tactical Identity:** Anti-mythic combat with kill-priority decisions. The party must choose: focus Nivrkalpa and endure the Ramjagodars' force-multiplying support, or clear the Ramjagodars first and risk the Psychic Backlash death trigger while Nivrkalpa suppresses their mythic abilities. There is no clean answer — only trade-offs, which is the point.
+
+**Retinue:** 2 Ramjagodars (CR 16). These partially incorporeal Asuras are battlefield commanders and force multipliers — they link to Nivrkalpa, enhancing the Rana's combat effectiveness while projecting their own offensive pressure. Their defining feature is the Psychic Backlash death trigger: when a Ramjagodar dies, it releases a 60-ft. burst of psychic energy that deals damage and inflicts confusion on failed saves. Asuras currently linked to the dead Ramjagodar take a penalty on this save — including Nivrkalpa, if still linked. This creates a genuine tactical puzzle: killing the Ramjagodars weakens Nivrkalpa's support structure and may stun the Rana with confusion, but the backlash is dangerous and the party is spending resources they will need against Tornsoul.
+
+**Key Mechanics:**
+- **Suppress Mythic Surge (Su):** When a creature within 60 ft. uses a mythic surge, Nivrkalpa may attempt to negate it as an immediate action (opposed mythic tier check: Nivrkalpa's effective tier 8 vs. the PC's tier 10, +1d20 each). On success, the surge is negated and the PC loses the use. On failure, the surge proceeds normally. This ability is usable at will — Nivrkalpa can attempt to suppress every surge the party uses, though it only gets one immediate action per round.
+- **Mythic Disruption Aura (Su):** 30-ft. aura. Mythic abilities used within the aura have their effective tier reduced by 2 for purposes of duration, damage, DCs, and other tier-dependent variables. This does not prevent mythic abilities from functioning — it weakens them.
+- **Drain Mythic Power (Su):** On a successful melee attack, Nivrkalpa may force the target to make a Fortitude save (DC 28) or lose one daily use of a mythic ability (random selection). Uses lost this way return after 24 hours — assuming the PC survives 24 hours. This ability can trigger once per round.
+- **Anti-Mythic Strikes (Ex):** Nivrkalpa's natural attacks bypass all forms of mythic damage reduction and deal additional damage to creatures with mythic tiers (+2d6 per attack vs. mythic creatures).
+- **Regeneration 15 (good weapons and spells):** Stronger than Varajaksha, reflecting the Breaker's greater power.
+
+> *The thing inside the stronghold stands when you enter. It is not large — not by the standards of the demons you have fought, not by the standards of the demon general you killed on the walls of Nexus. It is medium-sized, humanoid in outline, with a body that is all sharp angles and dense musculature, built like a weapon that has been refined over centuries until nothing unnecessary remains. Its eyes — four of them, arranged in a diamond pattern across a face that is more geometry than expression — fix on you with an attention that is different from hatred. It is assessment. It is the look of something that has spent a very long time thinking about how to kill things exactly like you.*
+
+**Resolution:** When Nivrkalpa and its retinue are destroyed, the inner stronghold is secure. The party stands at the threshold of Tornsoul's crater — the dark mass they have been walking toward since they first stepped onto the grey plain.
+
+The GM should allow a brief preparation period here. The party has fought two hard encounters and is about to face the most dangerous opponent of the campaign. Buffing, healing, and tactical discussion are purposeful activities directed toward the goal — the corruption mechanic does not trigger. A full long rest is not possible (the corruption mechanic would escalate rapidly), but the party should have every reasonable opportunity to prepare. The GM should be generous with this pause. The players know what is coming. Let them ready themselves.
+
+Full stat block for Nivrkalpa: Stat Block Appendix.
+
+---
+
+### Scene 4: Tornsoul
+
+The crater is visible from a distance — a depression in the grey plain, roughly circular, perhaps a quarter mile across, with edges that rise like the rim of an impact site. The stone is darker here, stained by centuries of concentrated essence that has seeped into the ground and changed its color from ash-grey to something closer to charcoal. The air above the crater shimmers faintly, not with heat but with power — the accumulated mythic energy of nine heroes, consumed essence beyond reckoning, and the merged strength of a Summoner and Eidolon who have been a single being for five hundred years.
+
+At the center of the crater is a platform — flat, open, roughly a hundred feet across. No cover. No terrain advantage. No tactical features that would benefit an attacking party. The platform is Tornsoul's arena, and it is built for Tornsoul.
+
+She is sitting.
+
+> *The crater opens before you — a wound in the grey plain, a place where the featureless stone darkens and the air thickens and the corruption that has been pressing against you since you descended intensifies until the Song inside you is working harder than it has worked since you first set foot in this place. At the center, on a platform of dark stone that is smooth and bare and offers nothing, a figure sits. She is not hiding. She is not preparing. She is sitting on the stone with the patience of someone who has been waiting for a very long time and knows that the wait is almost over. She is too tall. Her limbs are wrong — too many, too long, jointed in places where joints should not exist. Her skin shifts between human and something darker, something that has the texture of chitin and the color of deep bruising, and the transition between the two is not clean but jagged, as though two things are occupying the same space and neither has won. She is human and she is not. She is Sarena Tal and she is not. She is the Eidolon and the woman and the five centuries between them, and when she lifts her head and looks at you, what you see in her eyes is not madness and not hatred but recognition. She knows what you are. She has been waiting for what you are.*
+
+Tornsoul does not attack immediately. She stands — slowly, with the deliberate economy of a being that has not needed to hurry in centuries — and faces the party. The pre-combat dialogue varies by corruption tier.
+
+**Pre-Combat Dialogue**
+
+At **corruption 0–3** (most Warlocks turned), Tornsoul speaks with something that might, in a being less destroyed, be called respect:
+
+> *"You turned them. I felt it — each one, a piece of me dying. Not the power — the power is nothing. The connection. For five hundred years they were mine. My anchor. My last proof that what I did mattered. And you walked into their worlds and you gave them back themselves, one by one, and I felt the threads cut, and I felt what was left of the woman I was diminish with each severing. You are what the system was built to produce. I know this. And I am what the system was built to destroy."*
+
+At **corruption 4–7** (mixed results):
+
+> *"Some of them you saved. Some of them you killed. I felt both — the turnings like amputations, the deaths like meals. Do you understand what you have done? Each turning weakened me. Each killing fed me. You are the system's champions and the system's contradiction, and you have walked a road that made me both less and more with every world you crossed. I do not know what you are. I know what I am. I am the thing at the end of the road."*
+
+At **corruption 8–11** (most Warlocks killed):
+
+> *"You killed them. Most of them. I felt their power return to me — not as it was when they gave it willingly, but changed, corrupted by the passage through death and the Underworld's claim on what remains. You made me stronger. Not on purpose. Not with understanding. But the result is the same. I have what they carried, and what they carried was meant for me, and I am more than I was when you began."*
+
+At **corruption 12–14** (all or nearly all killed):
+
+She does not speak. She looks at the party. She looks at them for a long time. Then she stands, and the Eidolon surges through her skin like something breaking the surface of dark water, and the silence is its own statement.
+
+**If the party attempts to reason with her,** regardless of corruption, Tornsoul listens. She listens with the attention of someone who remembers being the kind of person who could be reasoned with. Then:
+
+> *"I cannot be saved. I do not want to be saved. I want this to end."*
+
+The GM should let this land. This is not a villain monologue — it is the last honest statement of a woman who volunteered to die five hundred years ago, who was corrupted by the prison she was meant to guard, who has spent centuries consuming the souls of lesser Asuras to maintain power she never wanted for a purpose that stopped making sense long before the party was born. Sarena Tal is gone. What remains knows it. The mercy the party can offer is the only mercy left: destruction.
+
+**The Encounter**
+
+Tornsoul is CR 25 at corruption 14 — the most dangerous opponent the campaign can produce. Her stat block is presented at full power in the Stat Block Appendix; the GM should have pre-adjusted it according to the corruption scaling rules before the session.
+
+The encounter takes place on the open platform. There is no cover, no difficult terrain, no environmental features that the party can exploit. The arena is Tornsoul's, and she has shaped it over centuries to serve a single purpose: a killing ground with no advantage for anyone except the most powerful being present. At corruption 14, that being is her. At corruption 0, the calculus shifts — but the arena does not.
+
+**Phase 1: The Warden (100%–40% HP)**
+
+In Phase 1, Tornsoul fights with controlled intelligence. She is a 20th-level Summoner merged with her Eidolon, and she has centuries of combat experience against mythic-tier opponents — she fought alongside the original heroes, she has fought Asura Ranas for dominance of the Underworld, and she has been preparing for this encounter since the party first set foot on the Rainbow Road. She does not waste actions, she does not posture, and she does not underestimate.
+
+Her primary tools in Phase 1 are Summoner spellcasting (up to 6th level), the Consumed Essence aura (30 ft., 2d6–4d6+10 negative energy per round depending on corruption, no save), and legendary actions for repositioning and opportunistic strikes. She uses battlefield control spells to separate the party, targets the most dangerous PC with Warden's Judgement (1/day, double damage vs. a designated target) at roughly 70% HP, and relies on her natural attack suite (2 claws, bite, tail) plus weapon attacks to punish anyone who enters melee range.
+
+At corruption 14, she summons Upasundas via *gate* when it becomes clear the party is a genuine threat — typically when she drops below 80% HP. The Upasundas (CR 9 each, six-armed martial perfectionists) are not individually dangerous to a level 20/mythic tier 10 party, but they are additional targets that divide attention and action economy. At lower corruption levels, she does not summon reinforcements — her diminished power does not extend to calling the Underworld's lesser inhabitants to her aid.
+
+If the party's damage output is sufficient to push her past Phase 1 quickly, the GM should ensure that Phase 1 lasts at least 3–4 rounds — long enough for the spellcasting and tactical elements to register before the shift to Phase 2. Tornsoul should not feel like a damage sponge in Phase 1; she should feel like an intelligent opponent using every tool available to her.
+
+**Phase 2: The Eidolon (40%–0% HP)**
+
+At 40% HP, the Eidolon surges. The controlled Summoner recedes and the merged Eidolon takes over — the creature that was bonded to Sarena Tal before the corruption, the entity that the Asuras targeted and corroded over centuries until the boundary between it and its Summoner dissolved entirely.
+
+> *Something changes. The controlled precision that has marked the fight so far — the tactical repositioning, the spell selection, the intelligent use of the terrain she shaped for herself — fractures. The skin-shift that has been moving across her body accelerates, and the human elements lose ground. Her frame expands — not dramatically, but enough. The extra limbs extend. The claws lengthen. Her eyes, which have been calculating and aware, go flat and predatory, and the sound she makes is not a word but a vibration that you feel in the stone beneath your feet, low and resonant and carrying five centuries of hunger.*
+
+In Phase 2, Tornsoul loses access to spells of 4th level and above — the Eidolon's dominance disrupts the higher-order magical cognition required for advanced Summoner casting. In exchange, her physical capabilities surge: natural attack damage increases by 50%, her speed doubles, and she gains Pounce (full attack at the end of a charge). She becomes a melee predator — fast, violent, relentless, closing distance with the party's casters and support characters while absorbing punishment through regeneration and the Consumed Essence aura.
+
+The shift from Phase 1 to Phase 2 should feel like a different fight. Phase 1 is a battle against a tactical opponent; Phase 2 is a battle against something that has stopped thinking and started consuming. The party's strategy must adapt — the casters who were dealing with her spellcasting pressure can breathe, but the melee characters are now facing a dramatically more dangerous combatant in close quarters.
+
+**At 20% HP**
+
+When Tornsoul reaches 20% HP, she speaks — or does not speak, depending on corruption.
+
+At **corruption 0–3:** Recognition. The human surfaces for a moment — not Sarena Tal restored, but a flash of the woman she was, visible in the eyes and the posture and the way the Eidolon's dominance wavers for a single round. She does not ask for mercy. She says: *"Finish it."*
+
+At **corruption 4–7:** A command, directed at the Eidolon as much as at the party: *"Let go."* The Eidolon does not let go. The fight continues.
+
+At **corruption 8–11:** Silence. She fights. There is nothing left to say.
+
+At **corruption 12–14:** Laughter. Not madness — recognition of a different kind. She knows what she is. She knows what they are. The encounter was always going to end this way. The laughter is the last expression of a being that has consumed enough power to know exactly how the mathematics resolve, and finds the precision of it — the system producing champions designed to destroy exactly her — worthy of acknowledgment.
+
+**Death**
+
+When Tornsoul reaches 0 HP, her regeneration fails. The consumed essence that has sustained her for five centuries — drawn from lesser Asuras, from the borrowed mythic power of the nine heroes, from the Eidolon's corrupted bond — reaches the end of its capacity to hold her together.
+
+> *The Eidolon dissolves first. The chitin recedes, the extra limbs retract, the dark shifting texture of something inhuman pulls away from the surface like a tide going out. What remains is smaller. Human. A woman — young, unremarkable, with dark hair and a face that carries no trace of the power that has defined her for five hundred years. She is standing on the platform of her own stronghold, and she is bleeding from wounds that a human body was never meant to absorb, and for one moment — one breath, one heartbeat, one flicker of consciousness in a being that has been something other than conscious for centuries — Sarena Tal is present. Not restored. Not saved. Present. The way a person is present in the instant before they are gone. She does not speak. She does not reach for you. She looks at the grey plain that was her prison and her kingdom and the source of everything that destroyed her, and then she is gone. The body falls. It does not dissolve. It does not vanish in a flash of light or a surge of released energy. It falls, and it lies still, and the woman who volunteered to die five hundred years ago finally succeeds.*
+
+The stronghold begins to dissolve. Without Tornsoul's will to sustain it, the shaped stone loses cohesion, the crater walls settling and flattening, the platform crumbling at the edges. The process is slow — minutes, not seconds — and the party has time to act, to collect themselves, to grieve or celebrate or simply stand in the silence of a place where the most dangerous being in the Nine Worlds no longer exists.
+
+The Consumed Essence aura ceases. The corruption pressure that has been pressing against the party since they entered the Underworld diminishes — not vanishing, because the Underworld is still the Underworld, but reduced. The Song of Heaven resonates more strongly in their bones. The path back is clear.
+
+Full stat block for Tornsoul: Stat Block Appendix.
+
+---
+
+### Scene 5: The Return and Epilogue
+
+**The Song Carries Them Home**
+
+The surviving PCs must perform the Song of Heaven at the Underworld terminus — the point where the staircase from the Ancillary meets the grey plain. The walk back across the plain is quiet. The Asura Ranas' strongholds are dissolving or abandoned — Tornsoul's death saps the Underworld's organizational structure, and the lesser Ranas who depended on her dominance are retreating into the deeper reaches of the prison. The grey plain is not less hostile, but it is less directed. The corruption pressure fades to a background hum.
+
+When the party reaches the terminus and performs the Song, the gate responds.
+
+The quality of the Song — and the gate's response — varies by ending.
+
+At **Ending 1 (Worlds Reborn):** The Song is triumphant. All nine themes at full strength — Foundation, Hope, Loss, Freedom, Mystery, Creation, Devotion, Memory, Understanding — woven into a composition that fills the grey plain with sound the Underworld has never known. The gate opens wide. The warm light of the Ancillary pours down the staircase like a sunrise.
+
+At **Ending 2 (Long Dawn):** The Song is beautiful, but grief runs through it. Some notes carry the weight of what was lost — killed Warlocks, fallen allies, worlds that will rebuild slowly. The gate opens. The light is warm but muted.
+
+At **Ending 3 (Price of Victory):** The Song is fractured. The surviving PCs may be wounded, diminished, carrying the loss of companions who fell in the Underworld. The melody is there — it functions, it opens the gate — but it is spare, honest, stripped of everything except the bare necessity of what it must accomplish. The gate opens narrowly. The light beyond is there, but it has to be reached.
+
+At **Ending 4, survivors:** The Song is a whisper. One or two PCs, battered, alone, singing a melody written for a chorus. It is barely enough. The gate opens, and the Song falls silent the moment they pass through, as though it had exactly enough strength for this last act and nothing more.
+
+At **Ending 4, TPK:** No Song. No return. The gate remains closed. The Ancillary waits in silence. The orrery stops turning.
+
+**The Reunion**
+
+The surviving PCs emerge from the staircase into the orrery chamber. Maranthe is there. The turned Warlocks who remained at Nexus are there. The warm light of the orrery — the same light that has been a constant since Chapter 3, the mechanism that maps the Nine Worlds and the Rainbow Road — fills the chamber, and after the grey plain's emptiness it feels like stepping into a living thing.
+
+The reunion is brief. This is the exhale, not the climax — the climax was Tornsoul's death, and what follows is the slow settling of a world that has been holding its breath for five centuries. Maranthe does not make a speech. She looks at the party — counts them, notes who is present and who is not — and her expression says what her words do not. If all PCs survived, the expression is relief that borders on something she will never name. If some PCs fell, the expression is the same relief, carrying grief alongside it, because Maranthe Soldati has been counting the cost of victories her entire life and she knows that the count is not finished until you know what you paid.
+
+The GM should give the players this moment. Let them speak with Maranthe, with the turned Warlocks, with each other. Let them sit in the orrery chamber and look at the mechanism that maps the worlds they saved or failed to save. The epilogue follows, but it is read to the players, not played — the campaign's interactive portion ends here, in the orrery chamber, with the people who survived.
+
+---
+
+### Epilogue
+
+The GM should read or paraphrase the appropriate ending to the players after the reunion scene concludes. Each ending follows the same template: Immediate Aftermath, The Nine Worlds, Heaven and the Underworld, The Rainbow Road, Surviving Characters, The Fallen (if any), and a Final Passage read-aloud. The epilogue is the campaign's coda — the place where the choices the party made across thirteen chapters resolve into consequences that extend beyond the scope of the adventure.
+
+---
+
+**Ending 1: The Worlds Reborn**
+
+*The system works. The champions it was built to produce have arrived at last.*
+
+*Conditions: Corruption 0–3. Battle of Nexus won decisively (Full Strength or Strong). Most or all PCs survive the Underworld.*
+
+**Immediate Aftermath**
+
+The news travels the Rainbow Road faster than any messenger could carry it. The Road itself carries it — the restored pathways between worlds, dormant for five centuries and fully active for only weeks, transmit the resonance of Tornsoul's death like a harmonic through a tuning fork. On eight worlds simultaneously, the people who fought and bled and held their ground against the demon assault feel the change — a lifting, a lightening, the sense that the weight pressing down on the Nine Worlds since before any of them were born has been removed.
+
+On Nexus, the Asura army breaks. Not immediately — the lesser Asuras are not connected to Tornsoul the way the Ranas were — but within hours the coordination dissolves, the gating nexuses that sustained the invasion lose their anchor, and the remaining Asuras either flee through what portals they can find or are destroyed by the allied forces. Maranthe's perimeter holds until it does not need to hold, and then the soldiers sit down where they stand, and some of them weep, and some of them stare at nothing, and none of them can quite believe that the thing they have been fighting for as long as they can remember is over. The city is damaged — outer districts scarred, walls breached, districts that will need rebuilding — but the city stands. The Ancillary is intact. The Rainbow Road is open. The system works.
+
+The turned Warlocks gather in the orrery chamber over the hours that follow — those who were at Nexus already and those who arrive through the Rainbow Road as the news reaches them. Eight people who were corrupted for five centuries, freed by the party's choices, and now standing in a room they have not entered since before the apocalypse. They do not celebrate. They stand in the warm light of the orrery and look at each other and at the party and at the mechanism that maps the worlds they once ruled and are now being asked to rebuild, and the silence in the room is not grief but recognition — the recognition that something impossible has happened and that the people responsible for it are standing among them.
+
+**The Nine Worlds**
+
+*Diaspola* thaws. Sona Brightspring returns to the frozen court and begins the work that five centuries of corruption prevented — undoing the ice that her own mythic power, manipulated by Khaga's fey, spread across a world that was once warm. Diaspola was not always frozen. It was a pastoral realm of small lakes and picturesque villages, warm rain and gentle hills, considered by many to be the most beautiful of the Nine Worlds. The ice was Sona's doing, channeled through her in response to fabricated threats that never existed, and its removal is the first act of her restoration. The thaw is slow — centuries of mythic ice do not melt in a season — but the southern reaches warm first, and the halfling settlements that clung to survival in the cold discover that the land beneath the frost is rich and fertile and waiting. The fey courts, freed from Khaga's compulsions, discover that they have opinions about governance that do not align with Sona's, and the negotiations that follow are messy and productive and entirely unlike anything Diaspola has known. The freshwater sea begins to break free of its ice sheet. The islands that once served as retreats for heroes from across the Nine Worlds emerge from the fog. Diaspola will be warm again. It will take time, but the warmth is returning.
+
+*Tanis* heals. The contamination that poisoned the land since the apocalypse — the wound that would not close, the sickness that the Healer's Road could slow but never reverse — begins, for the first time in five centuries, to recede. Garl's death was a mercy killing — he chose it, the party granted it — and his spirit's release does what his living presence could not: it frees the druidic network that maintained the land to redirect its full power toward restoration rather than containment. The dwarven wall-cities open their gates. The forests, grey and sick for generations, show the first green growth that anyone alive has seen. Recovery will take decades. But it begins.
+
+*Auzra* dismantles. Tana White-Lightning returns to the world they built into a three-tiered surveillance state and begins taking it apart — systematically, methodically, with the same precision they used to build it, because Tana does everything with precision or not at all. The Directorate is dissolved. The Hawkmen — the avian people who resisted Tana's regime from their island strongholds in the mist layer, who fought a centuries-long guerrilla campaign against the Directorate's enforcers and never broke — are recognized at last. The alliance between Hawkmen and Grey Elves that existed before the corruption begins to reform, cautiously, the trust that Tana's paranoia destroyed being rebuilt by the same people it was taken from. The Grey Elf academies reopen. Auzra was a beautiful world made ugly by the systems designed to control it, and the beauty returns as the systems are removed.
+
+*Arlune* thrives. Garm was the most human of the Warlocks, the one who wanted to be turned, and his world reflects it — Arlune's recovery is fast, chaotic, and commercial. The sandship fleets resume long-distance trade runs between the desert cities. The criminal cartels that flourished under Garm's Trademaster persona reform into something that resembles a merchant guild, which is what they always were underneath the corruption's distortions. The desert remains the desert — hot, vast, unforgiving — but the cities pulse with activity, and the paddle wheels turn, and Arlune does what Arlune has always done: it trades, and it profits, and it survives.
+
+*Vatra* rebuilds. Kerlin Whitemane returns to the world he burned and begins the work of restoring it — not to what it was before the corruption, because what it was before was a civilization of free artificers and Kerlin is honest enough to know that he cannot recreate what he destroyed, but to something new. The forges relight. The construct workforce, freed from the religious hierarchy that the corruption imposed, operates under new directives — building, not enforcing. The Tiefling communities that survived the burning emerge from hiding and reclaim their place in a society that has spent five centuries pretending they did not exist. At the world's center, in the great burned forest — the rainforest that Kerlin destroyed in a jealous rage, killing thousands, the act that defined his corruption more than any other — the first new growth appears. Saplings push through the ash and the scored earth, fed by the same mythic energy that once powered the Flame Imperishable, and the forest that was Vatra's heart before Kerlin burned it begins, slowly, to return. Vatra was a world of creation before it was a world of control, and creation returns.
+
+*Illium* reforms. The Crown of Ascension — the relic Tamaron created under Tekticula's influence, the instrument that placed a compulsive geas on every person who underwent the Church's coming-of-age ceremony — is inert, its enchantment severed at the source when Tekticula was destroyed in Tamaron's mindscape. The geas on the population fades over the weeks that follow, individual enchantments weakening and dissolving as the power that sustained them dissipates. The people of Illium discover, one by one, that the devotion they felt toward the Church is still present — but it is theirs now, a choice rather than a compulsion, and the difference changes everything. The paladins and clerics who served the Crown discover that faith without the geas is harder and more honest than faith with it, and the reformation that follows is the most significant religious event Illium has known. Tamaron leads the reformation — not as the divine authority he appeared to be under Tekticula's control, but as the cleric he was before the possession, a man of genuine faith whose five centuries of captivity within his own mind gave him a perspective on devotion that no one else possesses. The rebellion, no longer needed, dissolves into the reformed Church and the secular government that emerges alongside it. Illium was always a world of devotion, and devotion directed toward something genuine is more powerful than devotion coerced.
+
+*Nocturne* wakes. The Dream — the curse that the corrupted Cabal placed on the Fetchling population in the guise of saving them, the spell that trapped an entire people between life and death for five centuries — begins to fade. Baselia does not lift it in a single act; the curse was woven too deeply for that. But with Tamaron beside her, his restored divine power reinforcing what remains of her own, the curse's grip weakens over the months that follow. The Fetchlings, translucent and faintly luminous for as long as anyone can remember, begin to solidify — their edges sharpening, their substance returning, the ghostly half-presence of the Dream giving way to flesh and weight and the full sensory experience of being alive. They can create again. The artistic culture that defined Nocturne before the curse — the literature, the music, the opera, the visual arts that were celebrated across the Nine Worlds — stirs in a population that has spent five centuries producing the best renditions they could of existing works and has forgotten what it means to make something new. The sun does not rise on Nocturne — it never has. The realm's perpetual twilight is its nature, not a symptom of the curse, and the brief brightening of the horizon that passes for near-dawn each day is all the light Nocturne has ever known. But the twilight feels different now — warmer, less oppressive, a darkness that holds possibility rather than grief. Baselia stays. She stays because she was the one who failed to protect her people from the Cabal, and because Tamaron — standing beside her, the Illium-Nocturne pair that the party's choices made possible — tells her that staying is the beginning, not the penance.
+
+*Candela* reawakens. Ourania restores the Arcanium's automated defense network — the Sentinels, the magitek constructs, the layered ward systems that she helped perfect during her mortal lifetime and that have been decaying for five centuries without maintenance. The Overmind, the control interface that trapped her for those centuries, is dismantled — carefully, methodically, the way a scholar dismantles something she understands too well to hate. The depopulated spheres fill slowly — scholars, artificers, researchers drawn from across the Nine Worlds by the prospect of working with the greatest university the realms have ever produced. The Arcanium's laboratories reopen. The tram system hums back to life, carrying passengers between hub spheres for the first time since the evacuation. Candela was always the quietest world, the smallest, the most unusual — a realm of suspended spheres glowing in a featureless void, built for scholarship and contemplation. Ourania's sanity, restored by the party's efforts, allows her to see her world clearly for the first time in centuries, and what she sees is worth rebuilding.
+
+**Heaven and the Underworld**
+
+The balance restores. Tornsoul's death breaks the Underworld's capacity for organized aggression — the Ranas retreat into their individual domains, the lesser Asuras scatter, and the prison returns to its original function: a containment, not a staging ground. The Asuras are not destroyed — the Underworld is too deeply woven into the fabric of the Nine Worlds for that — but their ability to project power into the realms above is broken for generations.
+
+Heaven, damaged by five centuries of diminished worship and severed connections, begins to heal. The celestial representatives — the Archon, the Angel, the Agathion — withdraw from direct interaction with the mortal worlds, their role fulfilled, their system validated. The relationship between Heaven and the Nine Worlds returns to what it was before the apocalypse: distant, supportive, expressed through the places of power and the Rainbow Road rather than through direct intervention. The celestials trust the system again. The system earned it.
+
+**The Rainbow Road**
+
+The Rainbow Road is fully restored — nine spokes of light connecting Nexus to the eight outer worlds, the hub-and-spoke network that the celestials designed as the backbone of an interplanar civilization. For five centuries it was dark. Now it blazes with the power of the complete Song of Heaven, and the people of the Nine Worlds can travel between realms for the first time since the apocalypse. Trade, diplomacy, migration, cultural exchange — everything that was lost when the original ten broke the system begins again. The Rainbow Road is not a monument. It is a road. People walk it.
+
+**Surviving Characters**
+
+*Maranthe Soldati* remains on Nexus as regent — the role she assumed when Casomir died and that she has held through the Battle of Nexus and the Descent. She governs the way she commands: practically, efficiently, with a fierce protectiveness that she expresses through infrastructure and logistics rather than sentiment. Nexus rebuilds under her direction. She does not seek a title beyond the one the party knows her by. She is Maranthe. It is enough.
+
+The *turned Warlocks* return to their worlds — or most of them do. Their fates are shaped by their personalities and the choices the party made on their worlds. The GM should address each turned Warlock briefly, referencing the relationship the party built with them. These are the people the party saved, and their futures are the most personal consequences of the party's choices.
+
+**The Fallen**
+
+If any PCs died in the Underworld, the epilogue addresses them last. Their names are spoken in the orrery chamber by the people who survived — by Maranthe, by the turned Warlocks, by the PCs who walked out of the Underworld carrying the knowledge of who did not. The dead are not forgotten. They are woven into the Song — not literally, but in the way that the Nine Worlds remember: through the consequences of what they did, through the worlds that exist because they fought, through the absence that the living carry and do not put down.
+
+**Final Passage**
+
+> *The Song is heard across the Nine Worlds simultaneously — on Diaspola's thawing shores and Tanis's healing forests, in Auzra's opening skies and Arlune's turning paddle wheels, through Vatra's relighting forges and Illium's reforming churches, across Nocturne's waking valleys and Candela's relighting spheres. Nine themes at full strength. Foundation and Hope and Loss and Freedom and Mystery and Creation and Devotion and Memory and Understanding, woven into a single melody that was written before the apocalypse and preserved through five centuries of ruin and carried across the Rainbow Road by the champions the system was built to produce. The Song does not fade. It becomes part of the worlds — woven into the stone and the ice and the sand and the light, present in the way that gravity is present, felt by everyone and owned by no one. The Nine Worlds are not what they were before the apocalypse. They are not what they were during the five centuries of ruin. They are something new — built on the foundation of what was preserved and shaped by the choices of the people who walked the Road and did not turn away. The system works. The system has always worked. It just took five hundred years to find the right people.*
+
+---
+
+**Ending 2: The Long Dawn**
+
+*The threat is ended. The cost was real. The recovery will take generations.*
+
+*Conditions: Corruption 4–7. Battle of Nexus won (any tier above Minimal). Tornsoul defeated. Most PCs survive.*
+
+**Immediate Aftermath**
+
+The Asura army breaks, but the breaking is slower than in Ending 1 — the remaining gating nexuses take longer to collapse, and pockets of organized resistance persist in the outer districts for days. Maranthe's forces, depleted by the battle, grind through the cleanup with the methodical exhaustion of soldiers who have been fighting too long and cannot stop yet. The city survives. The walls will need rebuilding. Districts that housed thousands are rubble. The human cost is tallied in lists that grow longer each day, and Maranthe reads every name because she is the kind of commander who reads every name.
+
+The turned Warlocks gather — those who survived, those whose worlds sent forces, those who came in person. Their number is smaller than in Ending 1, and the gaps are felt. The Warlocks who were killed are not present, and the worlds they left behind have sent no one or have sent token delegations that carry the weight of knowing why their world could not contribute more. The orrery chamber holds a reunion that is incomplete, and the incompleteness is the point. The party did what it could. What it could was not everything. The Long Dawn begins.
+
+**The Nine Worlds**
+
+For each world, the GM should read the paragraph corresponding to the Warlock's fate — turned or killed. Worlds with turned Warlocks rebuild as described in Ending 1, though the process is slower and harder without the support of a fully restored interplanar network. Worlds with killed Warlocks face the consequences described below.
+
+*A killed Warlock's world* does not collapse — the people who live there are resilient, and five centuries of hardship have produced communities that know how to endure. But the power vacuum is real. Without the Warlock's restoration, the structures of control or corruption that the Warlock imposed persist in degraded form — Diaspola's fey courts splinter into competing factions, Tanis's contamination continues its slow spread, Auzra's Directorate fragments into regional strongmen, Arlune's cartels war for control of the sandship routes, Vatra's forges produce without direction, Illium's Crown geas lingers until clerics strong enough to break it emerge from the next generation, Nocturne's Dream persists as a fading curse that will take decades to lift naturally, Candela's systems decay further without the expertise to maintain them. These worlds are not doomed. They are diminished, and their recovery will be measured in generations rather than years.
+
+**Heaven and the Underworld**
+
+The balance shifts toward restoration, but incompletely. Tornsoul's death breaks the Underworld's capacity for organized assault, but the mythic power that remained with her — the portions from killed Warlocks that were never reclaimed — dissipates into the Underworld's fabric rather than returning to the system. That power is lost. Heaven heals, but the healing is slower, the connections weaker, the celestials' withdrawal tinged with a sorrow that acknowledges what might have been alongside what was accomplished.
+
+**The Rainbow Road**
+
+The Rainbow Road is restored, but its light is uneven. The spokes connecting Nexus to worlds with turned Warlocks blaze with full power. The spokes connecting to worlds with killed Warlocks are dimmer — functional, traversable, but lacking the resonance that a restored place of power provides. The Road works. It works imperfectly, and the imperfections are reminders.
+
+**Surviving Characters**
+
+Maranthe governs. The turned Warlocks rebuild. The spaces where the killed Warlocks should be standing are occupied by the people who stepped into the vacuum — local leaders, surviving faction heads, the pragmatic and the ambitious and the genuinely good, all trying to govern worlds that were designed to be led by mythic champions and are now led by mortals. Some of these successors are worthy. Some are not. The Long Dawn is long because recovery without the right leaders is slow, and the party's choices about who lived and who died determined which worlds have the right leaders and which do not.
+
+**The Fallen**
+
+As Ending 1. The dead are honored. Their absence is felt.
+
+**Final Passage**
+
+> *The Song carries grief alongside beauty. You can hear it — not in the melody itself but in the spaces between the notes, the places where a theme should resolve and instead hangs suspended, unfinished, waiting for a voice that is not there. Some notes are missing. Some themes are incomplete. The Song is not what it would have been if every Warlock had been saved, if every world had been restored, if every choice had produced its best possible outcome. It is what it is — honest, earned, carrying the weight of everything that was accomplished and everything that was lost. Dawn is coming to the Nine Worlds. It is a long dawn. The light is slow, and the shadows are deep, and some of those shadows will persist for generations. But the light is real, and it is advancing, and the people who walk the Rainbow Road in the years to come will know that the dawn was purchased by the people who descended into the Underworld and came back carrying this Song.*
+
+---
+
+**Ending 3: The Price of Victory**
+
+*Victory is a fact, not a feeling.*
+
+*Conditions: Corruption 8–11. Battle of Nexus won at great cost. Tornsoul defeated, possibly with PC deaths.*
+
+**Immediate Aftermath**
+
+Nexus survives. That is the word the histories will use — survives, not triumphs, not endures, not overcomes. The Asura army broke when Tornsoul died, but the breaking came too late to save the outer districts, too late to save the soldiers who held positions that should have been reinforced hours ago, too late to save the civilians who did not reach the Ancillary shelters in time. Maranthe's cleanup is less a military operation than a recovery effort — counting the dead, stabilizing the wounded, clearing rubble from streets that were neighborhoods this morning. The city that Casomir held for five hundred years through siege and curse and the slow erosion of hope is standing, in the sense that a building is standing when the walls remain upright and the roof has caved in.
+
+The party emerges from the Ancillary to this. The turned Warlocks — if there are any, and at this corruption level there are few — stand in the orrery chamber alongside the absences of the many who were killed. The chamber is not full. The chamber may be nearly empty. The celebration that Ending 1 earns and Ending 2 attempts does not happen here. What happens here is a gathering of survivors who look at each other and understand, without saying it, that the cost of what they accomplished will take longer to calculate than the accomplishment itself.
+
+**The Nine Worlds**
+
+Most of the eight worlds are broken. Their Warlocks are dead, their places of power restored but their leadership structures shattered, their populations emerging from five centuries of corruption into power vacuums that no one was prepared to fill. The GM should describe each world briefly — the turned Warlock worlds rebuilding as in Ending 1 (rare at this corruption level), the killed Warlock worlds facing the same consequences described in Ending 2 but with less support, fewer allies, and a Rainbow Road whose light is dim enough that travel between worlds is possible but not easy.
+
+The Nine Worlds will recover. They will recover slowly, unevenly, with setbacks and false starts and the kind of generational trauma that shapes cultures for centuries. Some worlds will produce leaders who rise to the challenge. Others will struggle. The system that the celestials built produced champions — the party — and those champions destroyed the threat. The system did not, could not, address what came after. That is left to the people who remain.
+
+**Heaven and the Underworld**
+
+The Underworld is contained. Tornsoul is destroyed, the Ranas are scattered, the gating infrastructure is broken. But most of the borrowed mythic power — the portions from eight or nine killed Warlocks — dissipated into the Underworld's fabric, and the prison is stronger for it in ways that the celestials did not intend. The Underworld will not project power for centuries, but when it does, the power it projects will carry the residue of what was lost. Heaven heals, but the healing is partial, and the celestials' withdrawal carries a finality that the party may read as grief or resignation or acceptance, depending on how they feel about what they accomplished.
+
+**The Rainbow Road**
+
+The Rainbow Road is open. Most of its spokes are dim — functional but weakened, carrying traffic between wounded worlds through pathways that feel less like roads and more like scars. The Road is not a symbol of triumph. It is infrastructure. It connects ruins to ruins, and the people who walk it walk it because they must, not because they want to.
+
+**Surviving Characters**
+
+Maranthe governs a damaged city. She does it well. She does it the way she does everything — without complaint, without self-pity, with the fierce pragmatic loyalty that defined her before the party met her and that defines her now. The few turned Warlocks return to their worlds. The many killed Warlocks' absences are filled by whoever can fill them. Some of these replacements are adequate. Some are not.
+
+**The Fallen**
+
+If PCs died — and at this corruption level, PC deaths are likely — the epilogue addresses them with the weight they deserve. These are not glorious deaths celebrated in song. They are losses — permanent, irreversible, felt by every person who survived and who will carry the knowledge of who did not for the rest of their lives. The dead bought the victory. The living carry the receipt.
+
+**Final Passage**
+
+> *The Song is a whisper. You can hear it if you listen, but you have to listen, and the people of the Nine Worlds are not listening because they are burying their dead and rebuilding their walls and doing the thousand necessary things that survival demands of the survivors. The Song is there. It hums in the places of power, in the Rainbow Road's dim spokes, in the orrery's turning arms. It is quiet. It is honest. It does not pretend that what happened was anything other than what it was — a victory purchased at a price that the purchasers are still calculating, a threat ended by people who paid for the ending with parts of themselves that they will not get back. Victory is a fact. The Nine Worlds exist because of it. The Song endures because of it. The people who walk the Road and rebuild the worlds and fill the empty spaces will know, if they ask, that the fact was earned by specific people who made specific choices and paid specific prices. It is enough. It has to be enough. It is.*
+
+---
+
+**Ending 4: The Silence**
+
+*The Song of Heaven falls silent.*
+
+*Conditions: Corruption 12–14. Battle of Nexus barely survived or lost. Tornsoul at full or near-full power. TPK is a real possibility.*
+
+This ending has two versions: one where at least one PC survives, and one where all PCs die.
+
+**Ending 4a: Survivors**
+
+*Conditions: Tornsoul destroyed. One or more PCs survive. Most or all PCs may have died in the Underworld.*
+
+**Immediate Aftermath**
+
+The survivors emerge from the Ancillary into a city that is being held together by will and discipline and nothing else. Nexus is — at best — barely standing, its outer and inner districts devastated, Maranthe's perimeter reduced to the Ancillary complex and the immediate surrounding blocks. At worst, Nexus has fallen, and the party emerges into occupied territory, the Asura army still present in the streets though leaderless and disorganized in the wake of Tornsoul's death. Either way, the scene that greets the survivors is not a reunion. It is a reckoning.
+
+The turned Warlocks — if any exist at this corruption level, and there may be none or one — stand in the orrery chamber. The chamber is empty. The warm light of the orrery is the same light it has always been, unchanged by the devastation above, and the contrast between the orrery's steady glow and the ruin of everything surrounding it is the sharpest image in the campaign.
+
+**The Nine Worlds**
+
+Nearly every world is broken. The Warlocks are dead — all or almost all of them. The power vacuums are total. The populations of eight worlds emerge from five centuries of corruption into a landscape where every structure of leadership, governance, and protection has been removed and nothing has been put in its place. Some worlds will recover. Some will not. The GM should be honest about this — at this corruption level, the epilogue is not about hope deferred but about survival at the most basic level. The Nine Worlds exist. Many of their people do not. The recovery, if it comes, will be the work of generations who are not yet born.
+
+**Heaven and the Underworld**
+
+The Underworld is contained, but at maximum cost. Nearly all of the borrowed mythic power dissipated into the prison's fabric. Heaven heals, but the healing is measured in centuries, and the celestials' withdrawal is total — they have given everything the system can give, and the system produced champions, and the champions destroyed the threat, and the cost of that destruction is borne by everyone who remains. The relationship between Heaven and the mortal worlds enters a period of silence that the theologians of future generations will debate and the people of the present will simply endure.
+
+**The Rainbow Road**
+
+The Rainbow Road is open. Its light is the barest flicker — functional in the technical sense, in the way that a road is functional when it connects one devastated place to another devastated place. The Road is not a symbol of anything. It is a fact, like the victory that opened it.
+
+**Surviving Characters**
+
+Maranthe governs what remains. She does it because someone must, and because she promised the party she would do everything she could, and she keeps promises. The city — or what is left of it — rebuilds slowly, painfully, one stone at a time. If a single turned Warlock exists, they return to their world and do what they can. The rest is silence.
+
+**The Fallen**
+
+The PCs who died in the Underworld are addressed here, and at this ending, the list may be long. The survivors carry these names out of the Underworld and into a world that will never fully understand what they cost. The dead are not forgotten — but the worlds they saved are too damaged to celebrate them, too exhausted to mourn them properly, too focused on the immediate work of survival to do anything except note that specific people died so that the world could continue to exist, and that the debt is unpayable.
+
+**Final Passage**
+
+> *The Song falls silent. It carried you home — barely, fractured, a melody sung by too few voices for a composition written for a chorus — and then it stopped. The silence that follows is not the silence of the Underworld. It is the silence of a world that has survived something it does not yet understand, a silence that will fill slowly with the sounds of rebuilding and grieving and the ordinary business of living, but that will never entirely go away. You survived. The Nine Worlds survived. The Song carried you this far and no farther, and what comes next is not a song but a road — long, unlit, winding through the ruins of the worlds you fought to save, traveled by people who do not know your name and will not learn it for years, if they learn it at all. The Song of Heaven falls silent. What remains is the road. Walk it.*
+
+---
+
+**Ending 4b: Total Party Kill**
+
+*Conditions: All PCs die in the Underworld. Tornsoul may or may not have been destroyed.*
+
+If the PCs destroyed Tornsoul before the last of them fell, the outcome mirrors Ending 4a in its broad strokes — the Underworld is contained, the Nine Worlds survive in their damaged state, and the recovery begins without the champions who made it possible. But no one performs the Song. No one returns through the gate. The Ancillary waits in silence, and Maranthe Soldati stands at the edge of the rune circle and watches the closed gate and understands, eventually, that it will not open. The turned Warlocks, if any, grieve in the ways their natures allow. The worlds begin the long work of recovery without knowing, for certain, whether the threat was ended or merely interrupted.
+
+If the PCs fell before Tornsoul was destroyed, the Nine Worlds fall. Tornsoul's army, still directed by its master, completes the assault on Nexus. The Ancillary is breached. Heaven is destroyed. The Rainbow Road goes dark. The system the celestials built — designed to produce champions, maintained for millennia, activated one last time — fails. The Song of Heaven is silenced. The Nine Worlds enter an age of darkness from which there is no planned recovery, because the plan was the system, and the system's last champions are dead.
+
+The GM should not soften this. The TPK ending exists because the campaign's stakes are real, and real stakes require real consequences. The party fought. They reached the Underworld, which is more than anyone has done in five hundred years. They faced Tornsoul at her full power and they did not win, and the failure is not a moral judgment — it is the outcome that the corruption score, the encounter design, and the dice produced. The campaign honors their effort by acknowledging what their failure means, not by pretending it does not mean anything.
+
+**Final Passage (Tornsoul destroyed, TPK)**
+
+> *The orrery turns. It has always turned — since the Ancillary was built, since the Nine Worlds were created, since the celestials placed the mechanism at the heart of the system and set it in motion. It turns now, in an empty chamber, mapping worlds that are damaged and a Road that is dim and a Heaven that is healing and an Underworld that is quiet. The gate beneath the rune circle is closed. It will remain closed. The Song of Heaven is silent — not silenced, because no one was silenced, but silent, because the voices that carried it are gone and no new voices have learned it yet. The champions fell. The worlds survive. The orrery turns, and the light it casts across the empty chamber is the same warm light it has always cast, and it will continue to cast it, patiently, steadily, until someone comes to this place and stands in this circle and carries a melody that the mechanism recognizes. The system was built to produce heroes. It produced them. It will produce them again. It has time.*
+
+**Final Passage (Tornsoul not destroyed, TPK)**
+
+> *The orrery turns in an empty chamber. The rune circle is dark. The gate beneath it is closed and will not open. Above the Ancillary, the city of Nexus falls — not slowly, not with the dignity of a last stand, but completely, the way a candle goes out when the air is taken from the room. The Rainbow Road goes dark. The Song of Heaven — nine fragments, nine worlds, nine themes woven into a melody that was written before the apocalypse and preserved through five centuries of ruin — is silenced. Not silent. Silenced. The difference is a world. The system that created the Nine Worlds, that laid the Rainbow Road, that designed the places of power and wrote the Song and built the Ancillary and waited, patiently, for five hundred years for the right champions to walk through the door — the system failed. The champions came. They walked the Road. They carried the Song. They descended. They did not return. In the Underworld, Tornsoul sits on the platform of her crater stronghold, and around her the Asuras gather, and above her the worlds that were meant to be saved await the end that the system was designed to prevent. The orrery turns. It will turn until there is no one left to see it. The system failed.*
+
+---
+
+### Conclusion
+
+This chapter — and this campaign — ends where it began: in the Great Ancillary, with the orrery turning and the Song of Heaven present or absent and the consequences of every choice the party made across thirteen chapters expressed in the state of the Nine Worlds, the fate of the Warlocks, and the lives of the characters who walked the Rainbow Road.
+
+The GM should close the session after reading the appropriate Final Passage. There is no post-credits scene, no sequel hook, no mechanical resolution left to complete. The campaign is over. The story is told. The Song — triumphant or grieving or fractured or silent — says everything that needs to be said.
+
+Thank the players. They earned whatever ending they received.

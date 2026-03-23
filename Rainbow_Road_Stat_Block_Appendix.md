@@ -1623,3 +1623,259 @@ The Asurendra becomes more aggressive — targeting the weakest PC, spending rem
 **Environment** Ancillary plaza, Nexus (Chapter 12 only)
 **Organization** unique (with 2 Upasunda escort, pre-summoned)
 **Treasure** double (the Asurendra's personal treasures are insignificant compared to its tactical value; the GM may place appropriate CR 20 treasure on its body if desired, but the campaign does not require it)
+
+---
+
+## Varajaksha, the Shaper — CR 19 (Unique Asura Rana)
+
+*The first guardian of Tornsoul's approach is a Rana that has merged with its stronghold — a sentient fortress of shaped grey stone that rearranges itself around invaders. Varajaksha does not fight within terrain; Varajaksha IS the terrain. The party is not storming a building; they are attacking a building that is attacking them back.*
+
+*This is a custom creature designed for Chapter 13, Scene 3 (Gauntlet, Encounter 1). Varajaksha is a battlefield controller that forces the party to solve a spatial puzzle under combat pressure — fundamentally different from the direct-combat encounters of earlier chapters. The Rana's body is distributed throughout the stronghold; its core is the vulnerable target.*
+
+**VARAJAKSHA, THE SHAPER CR 19**
+**XP** 204,800
+LE Huge outsider (asura, evil, extraplanar, lawful)
+**Init** +6; **Senses** all-around vision (tremorsense through stronghold), darkvision 120 ft., tremorsense 120 ft.; **Perception** +32; **Aura** elusive (75 ft.)
+
+**DEFENSE**
+**AC** 34, touch 14, flat-footed 28 (+6 Dex, +20 natural, –2 size)
+**hp** 310 (20d10+200); regeneration 10 (good weapons, good spells)
+**Fort** +22, **Ref** +18, **Will** +16; +2 vs. enchantments
+**DR** 15/good; **Immune** curse effects, disease, flanking, poison; **Resist** acid 10, electricity 10; **SR** 30
+**Defensive Abilities** distributed anatomy (half damage from single-target attacks; area effects and attacks targeting the core deal full damage)
+
+*Note: The core has AC 29 (5 points lower than exterior). The core is identifiable with a DC 30 Perception check or any mythic sense ability.*
+
+**OFFENSE**
+**Speed** 0 ft. (immobile; the stronghold does not move, but the interior reshapes)
+**Melee** 4 stone slams +28 (3d6+10 plus grab)
+**Space** see Stronghold Body; **Reach** 15 ft. (any point within the stronghold)
+**Special Attacks** crush (8d6 bludgeoning, Reflex DC 25 half, pinned until escape), terrain manipulation, engulf (see Stronghold Body)
+**Spell-Like Abilities** (CL 19th; concentration +25)
+Constant — *stone shape* (at will, as a free action within the stronghold)
+At will — *greater teleport* (self plus 50 lbs. of objects only — note: Varajaksha never uses this; it will not abandon its stronghold), *wall of stone*, *transmute rock to mud/mud to rock*
+3/day — *earthquake* (centered within stronghold only), *move earth* (accelerated, 1 round casting time)
+1/day — *summon* (level 7, 1d3 Hishanduras or 1d4+1 Nikaramsa, 100%)
+
+**SPECIAL ABILITIES**
+
+**Terrain Manipulation (Su):** As a move action, Varajaksha reshapes a 30-ft. cube within its stronghold — raising or lowering floors (up to 20 ft.), creating or removing walls, opening or closing corridors, and generating difficult terrain. Creatures within the affected area must succeed on a Reflex save (DC 25) or be displaced to an adjacent unaffected space of Varajaksha's choice. Creatures that fail by 5 or more are moved to a space of Varajaksha's choice within 30 ft. This is a supernatural ability that does not provoke attacks of opportunity. Varajaksha uses this every round.
+
+**Crush (Ex):** When terrain manipulation closes a space occupied by a creature, that creature takes 8d6 bludgeoning damage (Reflex DC 25 half). On a failed save, the creature is pinned between shifting stone surfaces and must succeed on a combat maneuver check (CMB vs. Varajaksha's CMD of 42) or an Escape Artist check (DC 30) to free itself. Pinned creatures take 4d6 bludgeoning damage at the start of each of Varajaksha's turns.
+
+**Stronghold Body (Ex):** Varajaksha's physical form encompasses the entire stronghold — a structure roughly 120 ft. × 120 ft. × 40 ft. high. The stronghold's interior consists of corridors, chambers, and open spaces that Varajaksha reshapes at will. Creatures inside the stronghold are functionally inside Varajaksha's body. The Rana can perceive everything within the stronghold via tremorsense and can make slam attacks from any surface (wall, floor, ceiling) within reach. The stronghold's exterior walls have hardness 8 and 300 hp per 10-ft. section; breaching a wall creates an opening but does not damage Varajaksha (the Rana is the entire structure, not any single wall). Destroying the core kills Varajaksha.
+
+**Distributed Anatomy (Ex):** Varajaksha's vital organs are distributed throughout the stronghold. Single-target attacks (melee, ranged, single-target spells) deal half damage unless they target the core directly. Area effects and attacks specifically directed at the core deal full damage. The core is a 10-ft. sphere of denser stone located somewhere within the stronghold (typically at the center, but Varajaksha can reposition it as a swift action to anywhere within its body). The core can be identified with a DC 30 Perception check, a DC 25 Knowledge (planes) check, or any mythic sensory ability.
+
+**STATISTICS**
+**Str** 30, **Dex** 22, **Con** 30, **Int** 21, **Wis** 19, **Cha** 23
+**BAB** +20; **CMB** +32 (+36 grapple); **CMD** 48
+**Feats** Awesome Blow, Combat Reflexes, Dodge, Great Fortitude, Improved Initiative, Improved Bull Rush, Improved Natural Attack (slam), Iron Will, Lightning Reflexes, Power Attack
+**Skills** Bluff +29, Knowledge (engineering) +28, Knowledge (planes) +28, Perception +32, Sense Motive +27, Stealth +21, Survival +27
+**Languages** Common, Infernal; telepathy 100 ft.
+**SQ** stone communion (can communicate with any stone surface within 1 mile; this is how it detects approaching creatures long before they enter the stronghold)
+
+**TACTICAL NOTES**
+
+**Opening:** The party enters the stronghold through what appears to be a corridor. Varajaksha allows them to advance 40–60 ft. inside before the terrain shifts for the first time — walls closing behind them, floor tilting, the corridor they entered through ceasing to exist. The Hishanduras attack from corridors that open specifically to facilitate their approach.
+
+**Mid-combat:** Varajaksha's priority is splitting the party. It uses terrain manipulation to isolate the weakest PC (typically a caster or healer) and sends a Hishandura to engage them while the rest of the party deals with shifting terrain, slam attacks from walls and floors, and the second Hishandura. It repositions its core away from the most dangerous melee PC.
+
+**Desperation (below 25% HP):** Varajaksha attempts to collapse the stronghold on the party — a final terrain manipulation that brings the ceiling down across the entire structure. This is a one-time event: all creatures inside take 12d6 bludgeoning damage (Reflex DC 25 half) and must succeed on a second Reflex save (DC 25) or be buried (pinned, taking 4d6 damage per round until freed). The collapse also exposes the core, making it directly attackable by any surviving PC. This is Varajaksha's last resort — it would rather risk the collapse than die slowly.
+
+**ECOLOGY**
+**Environment** the Grey Plain (Underworld), outer approach to Tornsoul's stronghold
+**Organization** unique (with 2 Hishandura retinue)
+**Treasure** none (Asura Ranas of the Underworld accumulate power, not possessions)
+
+---
+
+## Nivrkalpa, the Breaker — CR 21 (Unique Asura Rana)
+
+*The inner guardian of Tornsoul's approach is a Rana designed over centuries to counter mythic champions. Nivrkalpa studied the original ten heroes — their techniques, their mythic paths, their dependencies on divine power — and evolved countermeasures. Where Varajaksha is a spatial puzzle, Nivrkalpa is a tactical puzzle: the party must fight an opponent that suppresses the abilities they have spent twelve chapters learning to rely on.*
+
+*This is a custom creature designed for Chapter 13, Scene 3 (Gauntlet, Encounter 2). Nivrkalpa is an anti-mythic specialist — it reduces the party's effective power by negating mythic surges, weakening mythic abilities, and draining mythic uses. The retinue of Ramjagodars creates a kill-priority decision: clearing the support exposes the party to Psychic Backlash, but leaving them alive enhances Nivrkalpa's combat effectiveness.*
+
+**NIVRKALPA, THE BREAKER CR 21**
+**XP** 409,600
+LE Medium outsider (asura, evil, extraplanar, lawful)
+**Init** +12; **Senses** all-around vision, darkvision 120 ft., *true seeing*; **Perception** +35; **Aura** elusive (75 ft.), mythic disruption (30 ft.)
+
+**DEFENSE**
+**AC** 38, touch 22, flat-footed 28 (+4 deflection, +8 Dex, +2 dodge, +4 insight, +10 natural)
+**hp** 350 (21d10+231); regeneration 15 (good weapons, good spells)
+**Fort** +23, **Ref** +20, **Will** +22; +2 vs. enchantments
+**DR** 15/chaotic and good; **Immune** curse effects, disease, flanking, poison; **Resist** acid 10, electricity 10; **SR** 32
+**Defensive Abilities** mythic resistance (treat effective mythic tier as 8 for all opposed mythic checks; +4 bonus on saves against mythic spells and abilities)
+
+**OFFENSE**
+**Speed** 50 ft.
+**Melee** 4 claws +30 (2d8+9/19–20 plus anti-mythic strikes), bite +30 (2d6+9 plus drain mythic power)
+**Special Attacks** anti-mythic strikes, drain mythic power, suppress mythic surge
+**Spell-Like Abilities** (CL 21st; concentration +28)
+Constant — *true seeing*, *freedom of movement*
+At will — *greater teleport* (self plus 50 lbs. of objects only), *greater dispel magic*, *dimensional anchor* (DC 21)
+3/day — *antimagic field* (10-ft. radius, centered on self, 3 rounds duration — Nivrkalpa's SLAs are suppressed but its extraordinary and supernatural abilities continue to function), *feeblemind* (DC 22)
+1/day — *summon* (level 8, 1d3 Upasundas, 100%), *mage's disjunction* (DC 26)
+
+**SPECIAL ABILITIES**
+
+**Mythic Disruption Aura (Su):** All creatures within 30 ft. of Nivrkalpa have their effective mythic tier reduced by 2 for purposes of duration, damage, DCs, and other tier-dependent variables of mythic abilities and mythic spells. This does not prevent mythic abilities from functioning — it weakens them. The aura is constant and cannot be suppressed. It does not affect Nivrkalpa.
+
+**Suppress Mythic Surge (Su):** When a creature within 60 ft. uses a mythic surge, Nivrkalpa may attempt to negate it as an immediate action. Both Nivrkalpa and the surging creature roll 1d20 + their effective mythic tier (Nivrkalpa's effective tier is 8). If Nivrkalpa's result equals or exceeds the surging creature's result, the surge is negated and the creature loses that use of mythic surge. On failure, the surge proceeds normally. Nivrkalpa can use this ability at will but is limited to one immediate action per round.
+
+**Anti-Mythic Strikes (Ex):** Nivrkalpa's natural attacks bypass all forms of mythic damage reduction and ignore the benefits of mythic abilities that increase AC, grant miss chances, or provide damage resistance (e.g., Mythic Toughness bonus hp are still reduced, but Mythic Dodge bonus does not apply against Nivrkalpa's attacks). Additionally, each claw attack deals +2d6 bonus damage against creatures with mythic tiers. This bonus damage is precision damage and is not multiplied on a critical hit.
+
+**Drain Mythic Power (Su):** On a successful bite attack, Nivrkalpa forces the target to make a Fortitude save (DC 28). On failure, the target loses one daily use of a randomly selected mythic ability (mythic spells, mythic feats, path abilities with daily uses, mythic power/surge uses). The lost use returns after 24 hours. This ability triggers automatically on each successful bite but can only drain one use per round per target.
+
+**Mythic Resistance (Ex):** Nivrkalpa has studied mythic champions for centuries. It treats its effective mythic tier as 8 for all opposed mythic checks (including Suppress Mythic Surge). It gains a +4 bonus on saving throws against spells and abilities enhanced by mythic power. This is an extraordinary ability and functions normally in an *antimagic field*.
+
+**STATISTICS**
+**Str** 28, **Dex** 26, **Con** 32, **Int** 23, **Wis** 27, **Cha** 25
+**BAB** +21; **CMB** +30; **CMD** 52
+**Feats** Blind-Fight, Combat Expertise, Combat Reflexes, Critical Focus, Dodge, Improved Critical (claw), Improved Initiative, Iron Will, Lightning Reflexes, Mobility, Spring Attack
+**Skills** Bluff +31, Intimidate +31, Knowledge (arcana) +30, Knowledge (planes) +30, Knowledge (religion) +27, Perception +35, Sense Motive +32, Spellcraft +30, Stealth +32
+**Languages** Common, Infernal, Celestial, Abyssal; telepathy 100 ft.
+**SQ** mythic scholar (Nivrkalpa can identify any mythic ability, mythic path feature, or mythic spell as a free action upon observing it used; this grants it tactical awareness of the party's capabilities after 1–2 rounds of combat)
+
+**TACTICAL NOTES**
+
+**Opening:** Nivrkalpa assesses the party for 1 round, using mythic scholar to identify their mythic paths and most dangerous abilities. The Ramjagodars engage immediately, linking to Nivrkalpa and projecting offensive pressure. On round 2, Nivrkalpa engages the PC it has identified as most mythic-dependent — typically a Hierophant, Archmage, or Marshal whose effectiveness drops most sharply under the Mythic Disruption Aura.
+
+**Mid-combat:** Nivrkalpa's priority is attrition. It uses Suppress Mythic Surge every round (targeting the surge most likely to change the encounter's trajectory), Drain Mythic Power on every successful bite, and its aura to passively weaken every mythic action the party takes. It uses *greater dispel magic* to strip protective buffs and *dimensional anchor* on any PC it suspects might attempt to teleport for tactical advantage. If a PC is particularly reliant on a single mythic ability, Nivrkalpa focuses Drain Mythic Power on that PC.
+
+**Kill-priority decision:** The Ramjagodars are force multipliers — while alive, they enhance Nivrkalpa's effective combat performance (the GM may represent this as a +2 morale bonus to attack and damage while at least one Ramjagodar is alive and linked). However, killing a Ramjagodar triggers its Psychic Backlash: a 60-ft. burst dealing 8d6 psychic damage (Will DC 24 half) and inflicting confusion for 1d6 rounds on failed saves. Creatures currently linked to the dying Ramjagodar take a –4 penalty on this save — including Nivrkalpa, if still linked. Savvy parties will recognize that killing a Ramjagodar while Nivrkalpa is linked can potentially confuse the Rana for multiple rounds, creating a window. This is the intended tactical solution.
+
+**Desperation (below 25% HP):** Nivrkalpa uses *antimagic field* centered on itself, then charges the party's most dangerous PC. Within the field, Nivrkalpa loses its SLAs and supernatural abilities but retains all extraordinary abilities (Anti-Mythic Strikes, Mythic Resistance) and its full melee suite. The party loses all magic and most mythic abilities within the field's radius. This forces a raw physical confrontation that Nivrkalpa is well-equipped to win against casters and poorly-equipped to win against martial PCs — the choice of target determines whether this gambit succeeds.
+
+**ECOLOGY**
+**Environment** the Grey Plain (Underworld), inner approach to Tornsoul's stronghold
+**Organization** unique (with 2 Ramjagodar retinue)
+**Treasure** none
+
+---
+
+## Tornsoul (Sarena Tal) — CR 25 (Unique)
+
+*The final antagonist of the Rainbow Road campaign. Sarena Tal was a human Summoner whose bond with her Eidolon was among the strongest ever recorded. She was the only one of the original ten heroes who died during the apocalypse — her death was deliberate, part of the plan. She cast the spell that opened the portal to the Underworld and descended as its Warden, merging her physical form with her Eidolon and carrying a portion of the mythic power willingly granted by each of the other nine heroes. The reservoir of strength was meant to sustain and protect her. Instead, the Asuras wore at the Eidolon's soul over centuries, creating an opening through which corruption seeped. Sarena responded by turning on her charges — torturing and consuming Asuras to maintain her fading abilities. The consumption deepened the corruption. Each century saw her sink further. Nothing remains of the woman who willingly gave her life.*
+
+*This stat block presents Tornsoul at full power (corruption 14 — all eight Warlocks killed). For corruption values below 14, apply the scaling rules described in Chapter 13's GM Guidance section: reduce HP by 5% per point below 14 (floor 70% at corruption 0), remove mythic abilities starting from the top of the list (1 per 3 full points below 14), reduce Eidolon natural attack damage proportionally (50% floor at corruption 0–7, scaling to 100% at corruption 14), and reduce legendary actions (3 at corruption 9–14, 2 at 5–8, 1 at 1–4, 0 at corruption 0). See the Corruption Scaling Quick Reference table below for pre-calculated values.*
+
+**TORNSOUL (SARENA TAL) CR 25**
+**XP** 1,638,400
+NE Large outsider (augmented humanoid, evil) — *Note: Tornsoul is technically a merged Summoner/Eidolon and no longer registers as fully human or fully outsider. She is treated as both a humanoid and an outsider for effects that target either type. She is not an Asura and does not have the asura subtype, despite her long residence in the Underworld.*
+**Init** +11; **Senses** darkvision 120 ft., blindsight 60 ft. (Eidolon senses), *true seeing*; **Perception** +38; **Aura** consumed essence (30 ft.)
+
+**DEFENSE**
+**AC** 42, touch 20, flat-footed 35 (+7 Dex, +7 deflection, +4 insight, +16 natural, –1 size, –1 Phase 2 penalty)
+**hp** 800 (effective; see Corruption Scaling); regeneration 15 (good weapons, good spells)
+**Fort** +30, **Ref** +22, **Will** +28
+**DR** 20/good and cold iron; **Immune** death effects, energy drain, fear, negative energy, poison; **Resist** acid 20, cold 20, electricity 20, fire 20; **SR** 36
+**Defensive Abilities** merged form (cannot be separated into Summoner and Eidolon by any effect; *banishment*, *dismissal*, and similar effects fail automatically), legendary resistance (3/day, automatically succeed on a failed save)
+
+**OFFENSE**
+**Speed** 40 ft. (Phase 1), 80 ft. (Phase 2)
+**Melee** 2 claws +35 (3d6+14/19–20 plus 2d6 negative energy), bite +35 (2d8+14 plus grab), tail slap +33 (2d6+7 plus trip), +1 *unholy greatsword* +36/+31/+26/+21 (3d6+22/17–20 plus 2d6 vs. good)
+**Space** 10 ft.; **Reach** 10 ft.
+**Special Attacks** consumed essence aura, mythic abilities (see below), Pounce (Phase 2 only)
+
+**Mythic Abilities (remove in order as corruption decreases):**
+1. **Unmaking Touch (Su) — removed first (corruption 11 or below):** 3/day, as a melee touch attack. The target must succeed on a Fortitude save (DC 32) or be permanently destroyed — body, soul, and essence annihilated. This is not death; it is cessation. *Resurrection*, *true resurrection*, and *wish* cannot restore a creature destroyed by Unmaking Touch. Only *miracle* cast by a deity or direct divine intervention can reverse it. On a successful save, the target instead takes 15d6 negative energy damage.
+2. **Stolen Surge (Su) — removed second (corruption 8 or below):** When a creature within 60 ft. uses a mythic surge, Tornsoul may negate it as an immediate action (automatic success — no opposed check) and gain a +5 bonus on her next attack roll, save, or skill check. Usable at will, limited to one immediate action per round.
+3. **Soul Anchor (Su) — removed third (corruption 5 or below):** No creature within 300 ft. of Tornsoul can use *teleport*, *dimension door*, *plane shift*, *banishment*, or any similar translocation effect. This is a constant aura that cannot be suppressed. It does not prevent normal movement. *Note: the Ancillary gate is already closed; Soul Anchor prevents dimensional tricks within the fight, not escape.*
+4. **Warden's Judgement (Su) — removed fourth (corruption 2 or below):** 1/day, as a swift action, Tornsoul designates one creature she can see. For the next minute, all of Tornsoul's attacks against the designated creature deal double damage (before DR). Tornsoul uses this at roughly 70% HP against the PC she has identified as most dangerous.
+
+**Summoner Spellcasting:** Tornsoul casts as a 20th-level Summoner (spell list: Summoner class, Pathfinder 1e). She has access to spells up to 6th level on the Summoner list. Key prepared spells include:
+- 6th: *greater heroism* (self, pre-cast), *planar binding* (backup summoning)
+- 5th: *dismissal* (DC 26), *teleport* (nonfunctional within Soul Anchor but available if Anchor is removed by corruption scaling), *wall of stone*
+- 4th: *black tentacles*, *dimension door* (nonfunctional within Soul Anchor), *greater invisibility*
+- 3rd: *haste* (self), *displacement*, *magic circle against good*
+- 2nd: *blur*, *glitterdust* (DC 23), *see invisibility*, *summon eidolon* (nonfunctional — Eidolon is merged)
+- 1st: *grease* (DC 22), *shield*, *enlarge person* (nonfunctional — already Large)
+
+*In Phase 2, Tornsoul loses access to spells of 4th level and above as the Eidolon's dominance disrupts higher-order magical cognition.*
+
+**At corruption 14 — Gate Reinforcements:** When Tornsoul drops below 80% HP, she uses *gate* (SLA, 1/day) to summon 1d4+1 Upasundas (CR 9 each) as immediate reinforcements. The Upasundas appear within 30 ft. and act on Tornsoul's initiative count. At lower corruption levels, Tornsoul does not summon reinforcements.
+**Spell-Like Abilities** (CL 20th; concentration +31)
+Constant — *true seeing*, *freedom of movement*
+At will — *greater teleport* (nonfunctional within Soul Anchor), *greater dispel magic*
+3/day — *blade barrier* (DC 27), *harm* (DC 27)
+1/day — *gate* (summoning only, corruption 14 only)
+
+**SPECIAL ABILITIES**
+
+**Consumed Essence Aura (Su):** All living creatures within 30 ft. of Tornsoul take negative energy damage at the start of each of Tornsoul's turns. No save. The damage scales with corruption:
+| Corruption | Damage |
+|---|---|
+| 0–3 | 2d6 |
+| 4–7 | 3d6 |
+| 8–11 | 4d6 |
+| 12–14 | 4d6+10 |
+
+This damage is negative energy and does not heal undead (Tornsoul is not undead; the energy is consumed essence, not channeled negative energy). Creatures immune to negative energy are unaffected.
+
+**Merged Form (Ex):** Tornsoul is a single entity — Summoner and Eidolon occupying the same body. She cannot be separated, banished, or dismissed by any effect that targets outsiders or summoned creatures. She is treated as both a humanoid and an outsider for all effects. Her natural attacks (claws, bite, tail) are the Eidolon's; her weapon attacks and spellcasting are the Summoner's.
+
+**Phase Shift (Ex):** At 40% HP, Tornsoul enters Phase 2. This is an automatic, involuntary transformation:
+- Speed doubles (40 ft. → 80 ft.)
+- Natural attack damage increases by 50% (applied to the dice results)
+- Gains Pounce (full attack at the end of a charge)
+- Loses access to spells of 4th level and above
+- AC decreases by 1 (frenzy reduces defensive awareness)
+- The Eidolon's physical features become more pronounced — extra limbs extend, claws lengthen, the human elements recede
+
+**Legendary Actions (3/round at corruption 14; 2/round at corruption 5–8; 1/round at corruption 1–4; 0 at corruption 0):**
+Tornsoul can take legendary actions at the end of other creatures' turns. Each costs 1 legendary action unless noted.
+- **Reposition (1 action):** Tornsoul moves up to her speed without provoking attacks of opportunity.
+- **Claw Strike (1 action):** Tornsoul makes one claw attack against a creature within reach.
+- **Casting (2 actions):** Tornsoul casts a spell of 3rd level or lower. (Phase 1 only.)
+- **Essence Pulse (2 actions):** The Consumed Essence aura's damage is applied immediately to all creatures within range, in addition to its normal triggering at the start of Tornsoul's turn. This effectively doubles the aura's damage output for one round.
+
+**STATISTICS**
+**Str** 38, **Dex** 24, **Con** 36, **Int** 20, **Wis** 26, **Cha** 32
+**BAB** +20; **CMB** +35 (+39 grapple); **CMD** 52
+**Feats** Blind-Fight, Cleave, Combat Reflexes, Critical Focus, Dodge, Great Fortitude, Improved Critical (claw), Improved Critical (greatsword), Improved Initiative, Iron Will, Lightning Reflexes, Mobility, Power Attack, Spring Attack, Staggering Critical, Vital Strike
+**Skills** Bluff +34, Intimidate +34, Knowledge (arcana) +28, Knowledge (planes) +28, Perception +38, Sense Motive +31, Spellcraft +28, Use Magic Device +34
+**Languages** Common, Infernal, Celestial, Abyssal; telepathy 300 ft.
+**Gear** *+1 unholy greatsword* (manifested from Eidolon essence; dissolves on Tornsoul's death)
+
+**CORRUPTION SCALING QUICK REFERENCE**
+
+| Corruption | HP | Mythic Abilities Retained | Eidolon Damage | Legendary Actions | Aura Damage |
+|---|---|---|---|---|---|
+| 14 | 800 | All 4 | 100% | 3 | 4d6+10 |
+| 13 | 760 | All 4 | 93% | 3 | 4d6 |
+| 12 | 720 | All 4 | 86% | 3 | 4d6 |
+| 11 | 680 | 3 (no Unmaking Touch) | 79% | 3 | 4d6 |
+| 10 | 640 | 3 | 71% | 3 | 4d6 |
+| 9 | 600 | 3 | 64% | 3 | 4d6 |
+| 8 | 560 | 2 (no Stolen Surge) | 57% | 2 | 3d6 |
+| 7 | 560 | 2 | 50% | 2 | 3d6 |
+| 6 | 560 | 2 | 50% | 2 | 3d6 |
+| 5 | 560 | 1 (no Soul Anchor) | 50% | 2 | 3d6 |
+| 4 | 560 | 1 | 50% | 1 | 2d6 |
+| 3 | 560 | 1 | 50% | 1 | 2d6 |
+| 2 | 560 | 0 | 50% | 1 | 2d6 |
+| 1 | 560 | 0 | 50% | 1 | 2d6 |
+| 0 | 560 | 0 | 50% | 0 | 2d6 |
+
+*Note: HP floor is 560 (70% of 800). At corruption 7 and below, the 5% per point reduction would bring HP below the floor; use 560 instead.*
+
+**TACTICAL NOTES**
+
+**Phase 1 (100%–40% HP):**
+Tornsoul opens with *haste* (pre-cast or round 1) and *displacement*. She assesses the party for 1 round, then engages the PC she identifies as the primary damage dealer — typically a Champion or martial character. She uses Warden's Judgement at 70% HP on this target, doubling all damage against them for a minute. Battlefield control spells (*black tentacles*, *wall of stone*, *blade barrier*) separate the party. Legendary actions provide repositioning between turns and opportunistic claw strikes against flanking PCs. At corruption 14, she summons Upasundas via *gate* at 80% HP to divide the party's action economy.
+
+**Phase 2 (40%–0% HP):**
+The Eidolon takes over. Tornsoul charges the nearest PC with Pounce (full attack: 2 claws, bite, tail at +50% damage), then uses legendary actions to reposition and strike again. She targets casters and support characters — the Eidolon's instinct is to eliminate the weakest physically, not the most dangerous tactically. She loses access to higher-level spells but retains *haste*, *displacement*, and lower-level options. The fight becomes a melee grind — the party must outlast her regeneration and HP pool while surviving the Consumed Essence aura's constant damage.
+
+**Optimal party strategy (which the GM should not volunteer but which thoughtful parties will discover):**
+- Focus fire on Tornsoul's HP to push Phase 2 quickly, then kite with mobility advantages (Tornsoul's Phase 2 speed is 80 ft., but Pounce requires a charge, and clever positioning can deny charge lanes)
+- Prioritize suppressing regeneration (good weapons and spells) — without regeneration suppression, Tornsoul heals 15 HP/round indefinitely
+- Kill summoned Upasundas quickly to prevent action economy drain
+- At low corruption, the fight is manageable for a prepared level 20/MT10 party. At high corruption, survival requires excellent resource management, creative mythic ability use, and willingness to accept that some PCs may fall.
+
+**ECOLOGY**
+**Environment** Tornsoul's crater stronghold, the Grey Plain (Underworld)
+**Organization** unique (possibly with 1d4+1 Upasundas, summoned mid-combat at corruption 14)
+**Treasure** *+1 unholy greatsword* (dissolves on death), no other treasure (five centuries in the Underworld accumulates power, not possessions)

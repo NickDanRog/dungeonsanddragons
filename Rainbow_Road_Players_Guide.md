@@ -236,6 +236,28 @@ All standard Pathfinder classes are available in the Rainbow Road campaign. The 
 
 **Wizard.** The scholarly tradition on Nexus is concentrated in the Foundry's research wing and a smaller collection of private academies that have maintained libraries through five centuries of periodic crisis. Nexian wizards tend toward specialization in areas of immediate practical value — combat magic, divination, and the arcane theory underlying magitek — because those are the areas that have attracted funding and produced practitioners willing to teach. The purely theoretical tradition is smaller but real, sustained by scholars who believe that understanding how the Nine Worlds were built is more important than any immediate application of that understanding. They are probably right. They are also difficult to fund.
 
+The following hybrid classes are also available, each drawing on the traditions already present in Nexus.
+
+**Arcanist.** The arcanist tradition appeals to practitioners who find the distinction between sorcerous intuition and wizardly rigor less interesting than the question of what happens when the two are treated as one. Nexian arcanists tend to emerge from the Foundry's research wing, where the pressure of practical application has always encouraged flexibility over orthodoxy. They are valued precisely because they refuse to be categorized.
+
+**Bloodrager.** The bloodrager is, in the estimation of the Nexian militia, a shock unit that occasionally catches fire — an assessment the bloodragers themselves find accurate and not particularly objectionable. The combination of a warrior's ferocity with bloodline power manifesting under combat stress has produced fighters whose effectiveness in demon raids is undeniable, if difficult to formally incorporate into standard tactical doctrine.
+
+**Brawler.** The brawler tradition on Nexus is exactly what the name suggests: a fighting discipline developed by people who have been in enough situations where the available weapons were their own hands and their own bodies to have formalized that experience into something teachable. It is not glamorous, and its practitioners are generally comfortable with that.
+
+**Hunter.** Hunters occupy a role adjacent to the Nexian ranger tradition — wilderness operatives who work alongside a dedicated animal companion rather than relying primarily on technical augmentation. Their druidic sensibility gives them a relationship with the land beyond the walls that rangers, with their focus on observation and extraction, sometimes lack. They are not common. The terrain beyond Nexus does not encourage casual naturalism.
+
+**Investigator.** The investigator's combination of alchemical preparation and analytical acuity has found consistent employment on Nexus in roles that few other traditions fill well: identifying demon infiltration before it becomes visible, reconstructing events at the sites of unusual incidents, and answering questions that the court wants answered without being seen to ask them. The work is quiet, the demand is steady, and the mortality rate is lower than most comparable professions.
+
+**Shaman.** The shaman tradition draws on spiritual forces that most of Nexus's institutional frameworks — the Host of Heaven faith, the Foundry's technical tradition, the militia's practical doctrine — have difficulty accommodating, and it has accordingly remained outside all of them. Nexian shamans tend to be individuals who found their way to the tradition by circumstance rather than training, and whose relationship to the spirits they commune with is more personal than doctrinal.
+
+**Skald.** The skald occupies the space between the bard's cultural role and the barbarian's martial one, and on Nexus that space has proven genuinely useful. A skald in a demon raid is simultaneously a rallying presence and a combatant — someone who understands that the morale of the people around her is as tactically significant as her own fighting ability, and who has developed both accordingly. The militia uses them. The militia does not fully understand them.
+
+**Slayer.** Where the ranger monitors and the rogue operates, the slayer eliminates. The tradition on Nexus is precise and unsentimental: individuals trained to locate, track, and remove specific threats with minimal collateral disruption. Their relationship to the broader institutional structures of the city — the militia, the court, the investigator networks — is one of contracted utility rather than formal integration. They take work where they find it.
+
+**Swashbuckler.** The swashbuckler tradition flourishes wherever cities are old enough to have developed the particular social conditions that reward flair alongside capability — and Nexus, five centuries into its compressed and occasionally desperate existence, has developed them thoroughly. Swashbucklers on Nexus are found in the militia's officer ranks, in the court's less formal corners, and in the shadow economy's upper tier, where the ability to resolve a confrontation with style rather than blood is a genuine professional advantage.
+
+**Warpriest.** The warpriest is the Host of Heaven's working soldier — a devotion to the celestials expressed not through ceremony or scholarship but through combat, maintained continuously for five centuries by the families that kept the faith when the institutional structures around them declined. Where the paladin embodies the faith's ideals, the warpriest embodies its persistence: the understanding that Heaven has not spoken, that the Asuras have not stopped, and that someone has to hold the line in the interval.
+
 ---
 
 ## Custom Archetypes

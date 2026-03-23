@@ -1388,7 +1388,7 @@ N Large construct
 
 **Adaptive Protocols (Ex):** The Sentinel learns from combat. After being hit by a specific type of attack (slashing, piercing, bludgeoning, or a specific energy type), it gains a +2 circumstance bonus to AC or saves (as appropriate) against that attack type for the remainder of the encounter. This bonus stacks up to +4 for a single attack type. The adaptation resets between encounters as the Sentinel's combat analysis is archived.
 
-**Wide-Area Pulse (Su):** As a standard action, the Sentinel can discharge a burst of magitek energy in a 30-foot cone. All creatures in the area take 6d6 electricity damage (Reflex DC 20 for half). The Sentinel can use this ability once every 1d4 rounds. The save DC is Constitution-based (using the construct's effective Con from its hit die construction).
+**Wide-Area Pulse (Su):** As a standard action, the Sentinel can discharge a burst of magitek energy in a 30-foot cone. All creatures in the area take 6d6 force damage (Reflex DC 20 for half). The Sentinel can use this ability once every 1d4 rounds. The save DC is Constitution-based (using the construct's effective Con from its hit die construction).
 
 **Lockdown Field (Su):** As a standard action, the Sentinel can project a containment field at a single target within 40 feet. The target must make a Fort DC 20 save or be immobilized (as *hold monster*) for 1d4 rounds. The field is visible as a cage of amber light around the target. Breaking the field requires a Strength check (DC 28) or *dispel magic* (CL 16). The Sentinel can maintain only one lockdown field at a time.
 
@@ -1477,3 +1477,149 @@ Targeting a specific cable requires a called shot (–4 to attack rolls) against
 **Environment** The Overmind Chamber, Arcanium Core (Candela)
 **Organization** unique (with Arcanium Sentinel reserves)
 **Treasure** none (the Overmind's magitek components are fused to the chamber's infrastructure and cannot be salvaged as portable items; the Arcanium's sealed research has value measured in civilizational terms rather than gold pieces)
+
+---
+
+## Maranthe Soldati — CR 16
+
+*Maranthe Soldati is the seneschal of Nexus — the woman who inherited the city's defense from Casomir and who has held it together in the years since his death. She is a Half-Orc soldier of extraordinary competence, trained in the Tactician tradition: a school of martial command that replaces individual weapon mastery with the ability to make every fighter around her more effective. She does not deal the most damage in any encounter. She is not designed to. She is designed to make the party deal more damage, land more hits, resist more saves, and coordinate more effectively than they would without her. Her presence on the battlefield is a force multiplier — the difference between a group of powerful individuals fighting near each other and a unit fighting together.*
+
+*Maranthe joins the party as an allied NPC in the High General encounter (Chapter 12, Scene 5) and is controlled by the GM. She should be run with her support abilities as the priority and her personal attacks as secondary. She does not steal the spotlight. She holds it for the PCs.*
+
+**MARANTHE SOLDATI CR 16**
+**XP** 76,800
+Female Half-Orc Fighter (Tactician) 18
+LN Medium humanoid (human, orc)
+**Init** +9; **Senses** darkvision 60 ft.; **Perception** +20
+
+**DEFENSE**
+**AC** 29, touch 14, flat-footed 26 (+9 armor [*+3 mithral breastplate*], +3 Dex, +1 dodge, +4 shield [*+2 heavy steel shield*], +2 natural [*amulet of natural armor +2*])
+**hp** 171 (18d10+72)
+**Fort** +17, **Ref** +12, **Will** +14 (+2 vs. fear)
+**Defensive Abilities** armor training 4 (reduces ACP by 4, increases max Dex by 4), bravery +5
+
+**OFFENSE**
+**Speed** 30 ft.
+**Melee** *+3 longsword* +27/+22/+17/+12 (1d8+12/19–20) or *+3 longsword* +25/+20/+15/+10 (1d8+12/19–20) with shield
+**Special Attacks** weapon training (heavy blades +4, close +2), tactician 4/day, battle insight 7/day
+
+**STATISTICS**
+**Str** 20, **Dex** 16, **Con** 18, **Int** 18, **Wis** 14, **Cha** 12
+**BAB** +18; **CMB** +23; **CMD** 37
+**Feats** Combat Expertise, Combat Reflexes, Dodge, Improved Initiative, Iron Will, Lightning Reflexes, Power Attack, Shield Focus, Toughness, Weapon Focus (longsword), Weapon Specialization (longsword), Greater Weapon Focus (longsword), Greater Weapon Specialization (longsword)
+**Teamwork Feats** Precise Strike, Outflank, Shake It Off, Coordinated Defense, Swap Places
+**Skills** Diplomacy +19, Intimidate +22, Knowledge (engineering) +16, Knowledge (history) +13, Perception +20, Profession (soldier) +20, Sense Motive +20
+**Languages** Common, Orc, Celestial, Infernal
+**SQ** tactical awareness, cooperative combatant, orc ferocity
+**Gear** *+3 mithral breastplate*, *+2 heavy steel shield*, *+3 longsword*, *amulet of natural armor +2*, *cloak of resistance +3*, *belt of giant strength +4*, *headband of vast intelligence +2* (linked skill: Sense Motive), *ring of protection +2*
+
+**SPECIAL ABILITIES**
+
+**Tactical Awareness (Ex):** Maranthe adds +5 to her initiative checks. This is already factored into her Init line.
+
+**Tactician (Ex):** As a standard action, Maranthe can grant one teamwork feat she knows to all allies within 30 feet who can see and hear her. Allies do not need to meet the feat's prerequisites. The granted feat functions for 9 rounds (3 + 1/2 Fighter level). Maranthe can use this ability 4 times per day. The default combat choices:
+- **Precise Strike:** Allies flanking a foe deal +1d6 precision damage. Use when melee PCs are flanking the Asurendra.
+- **Outflank:** Allies flanking a foe gain +4 flanking bonus (instead of +2) and grant each other free attacks of opportunity on confirmed criticals. Use when the party has multiple melee attackers.
+- **Shake It Off:** Each adjacent ally grants +1 to all saving throws (stacking). Use when the party is clustered and facing save-or-die effects.
+- **Coordinated Defense:** Each adjacent ally grants +2 CMD (stacking). Use against the Asurendra's grab and grapple.
+- **Swap Places:** As a swift action, Maranthe can swap positions with an adjacent willing ally. No attacks of opportunity. Use to reposition a PC out of danger or into flanking.
+
+**Battle Insight (Ex):** As a swift action, Maranthe can grant her Intelligence modifier (+4) as an insight bonus to a single ally's attack roll, saving throw, or ability check. She can use this ability 7 times per day (3 + Int modifier). This is her most important round-by-round ability. Prioritize it on the PC facing the most critical roll — a saving throw against *baleful polymorph*, an attack roll on a critical hit confirmation, a concentration check on a spell that must land.
+
+**Cooperative Combatant (Ex):** When Maranthe uses the aid another action, she can grant the bonus to all adjacent allies instead of one. The bonus is +3 (base +2, increased by her Fighter level). Use when the party needs defensive support rather than offensive pressure.
+
+**ECOLOGY**
+**Environment** Nexus (citadel, war room, Ancillary plaza)
+**Organization** unique
+**Treasure** NPC gear (see Gear above)
+
+---
+
+## The Asurendra, High General of the Host — CR 20 (Mythic-Modified)
+
+*The Asurendra that commands the assault on Nexus is the apex of the Asura hierarchy present on the material plane — a CR 20 battlelord that has served as Tornsoul's high general since the apocalypse, coordinating the Asura forces across the Nine Worlds for five centuries. It is ancient, patient, and strategic. It does not fight like a beast. It fights like a general who happens to be capable of killing anything on the battlefield personally and who considers direct combat a strategic tool rather than a default response.*
+
+*This stat block is a campaign-modified version of the standard Asurendra (see the SRD Asurendra entry earlier in this appendix for the base creature). The modifications represent Tornsoul's direct empowerment — mythic abilities granted by the same corrupted power that sustains the Warlocks, channeled through the Asura hierarchy's greatest remaining commander. The base Asurendra stat block is reproduced here with all campaign modifications integrated so that the GM does not need to cross-reference during play.*
+
+**THE ASURENDRA, HIGH GENERAL OF THE HOST CR 20**
+**XP** 307,200
+LE Huge outsider (asura, evil, extraplanar, lawful)
+**Init** +14 (Mythic Improved Initiative); **Senses** all-around vision, darkvision 60 ft., low-light vision, scent, *true seeing*; **Perception** +34; **Aura** dimensional lock (20 ft., enemies only), elusive (100 ft.)
+
+**DEFENSE**
+**AC** 35, touch 25, flat-footed 26 (+5 deflection, +8 Dex, +1 dodge, +3 insight, +10 natural, –2 size)
+**hp** 385 (22d10+264); regeneration 10 (good weapons, good spells)
+**Fort** +25, **Ref** +17, **Will** +20; +2 vs. enchantments
+**DR** 15/chaotic and good; **Immune** curse effects, disease, flanking, poison, polymorph; **Resist** acid 10, electricity 10; **SR** 31
+
+**OFFENSE**
+**Speed** 50 ft., climb 50 ft., fly 50 ft. (perfect), swim 50 ft.
+**Melee** bite +28 (2d6+6 plus grab and poison), 6 claws +33 (2d6+13 plus curse of false wisdom)
+**Space** 15 ft.; **Reach** 15 ft.
+**Special Attacks** curse of false wisdom, spirit blades (+27, 3d6+7/19–20), swallow whole (4d6+19 bludgeoning plus 4d8+12 acid, AC 15, 34 hp), Tornsoul's Gift
+**Spell-Like Abilities** (CL 20th; concentration +30)
+Constant — *dimensional lock* (enemies only), *freedom of movement*, *tongues*, *true seeing*
+At will — *death knell* (DC 22), *greater dispel magic*, *greater scrying*, *greater teleport* (self plus 50 lbs. of objects only)
+3/day — quickened *baleful polymorph* (DC 25), quickened *blade barrier* (DC 26), *blasphemy* (DC 27), quickened *death knell* (DC 22), *deeper darkness*, *demand* (DC 28)
+1/day — *power word stun*, *time stop*
+
+**STATISTICS**
+**Str** 36, **Dex** 26, **Con** 34, **Int** 25, **Wis** 25, **Cha** 31
+**BAB** +22; **CMB** +37 (+41 grapple); **CMD** 61
+**Feats** Awesome Blow, Cleave, Combat Reflexes, Critical Focus, Deflect Arrows, Dodge, Great Cleave, Improved Bull Rush, Improved Initiative, Lightning Reflexes, Mobility, Mythic Improved Initiative, Power Attack, Quicken Spell-Like Ability (*baleful polymorph*, *blade barrier*, *death knell*), Snatch Arrows, Spring Attack
+**Skills** Acrobatics +31 (+39 when jumping), Bluff +33, Climb +21, Diplomacy +30, Escape Artist +14, Fly +35, Intimidate +33, Knowledge (arcana) +27, Knowledge (history) +13, Knowledge (planes) +30, Knowledge (religion) +27, Perception +34, Perform (dance) +33, Sense Motive +30, Spellcraft +27, Stealth +23, Swim +21, Use Magic Device +30
+**Languages** Common, Infernal; *tongues*, telepathy 100 ft.
+
+**SPECIAL ABILITIES**
+
+**Curse of False Wisdom (Su):** Claw — contact; save Will DC 31; frequency 1/day; effect 1d6 Wisdom drain.
+
+**Poison (Ex):** Bite — injury; Fort DC 33; frequency 1/round for 6 rounds; effect 1d6 Constitution damage; cure 2 consecutive saves.
+
+**Spirit Blades (Su):** As a swift action, the Asurendra can call forth up to six longsword-shaped force effects that float near it until directed. The Asurendra directs blades using a standard action (one blade) or full-attack action (all blades). Once directed, blades attack that target each round on the Asurendra's turn until redirected or the target moves beyond 50 feet. Blades use the Asurendra's BAB modified by its Wisdom modifier and deal 3d6 force damage plus Wisdom modifier (3d6+7). Only *disintegrate*, a *sphere of annihilation*, or a *rod of cancellation* (touch AC 25) can destroy a spirit blade. Blades vanish if their target dies, moves beyond 50 feet without retargeting, or the blade itself exceeds 50 feet from the Asurendra.
+
+**Dimensional Lock Aura (Su):** 20-foot radius, enemies only. No teleportation, dimensional travel, or planar travel within the aura. This is a constant effect and cannot be suppressed. The Asurendra is committed to every fight it enters — and so is anyone within 20 feet of it.
+
+**CAMPAIGN MODIFICATIONS**
+
+The following abilities are additions to the standard Asurendra stat block, representing Tornsoul's direct empowerment of her high general.
+
+**Mythic Improved Initiative:** The Asurendra's initiative modifier is +14 (base +12 from Improved Initiative and Dex, +2 from mythic feat). This is already factored into the Init line. The practical effect: the Asurendra acts before almost every PC in the party, which means its *time stop* can reshape the battlefield before the party has acted.
+
+**Tornsoul's Gift (Su):** 3/day as a swift action, the Asurendra can add 2d6 to a single attack roll, saving throw, or ability check. This is a limited mythic surge — a fragment of Tornsoul's power invested in her most valued commander. The Asurendra uses it at critical moments:
+- To land a *baleful polymorph* against a PC with high saves (adding 2d6 to the spell's DC by increasing the concentration check, forcing a higher save)
+- To resist a critical *dispel magic* or *greater dispel magic* targeting its spell-like abilities
+- To ensure a killing blow connects on a badly wounded PC
+- To pass a saving throw against a PC's save-or-die effect
+
+The Asurendra does not waste Tornsoul's Gift on trivial rolls. It saves the charges for moments that matter.
+
+**Pre-Expended Summon:** The Asurendra's 1/day summon ability (which normally calls any CR 19 or lower Asura with 100% success) has already been used before the encounter begins. It summoned two Upasundas (CR 9) as its escort force. These Upasundas may or may not still be active when the party arrives — see Ally Tier Scaling in Chapter 12, Scene 5.
+
+**Summon ability removed from available actions.** The Asurendra cannot summon additional Asuras during the encounter. This is a deliberate design choice — the encounter is the Asurendra itself, not an escalating wave of reinforcements.
+
+**TACTICAL NOTES**
+
+**Round 1 (acts first due to Mythic Improved Initiative):**
+The Asurendra opens with *time stop* (1/day). During the stopped time, it:
+1. Casts *blade barrier* to split the party, placing the wall between the melee fighters and the casters
+2. Casts *deeper darkness* centered on the party's primary arcane caster
+3. Redirects all six Spirit Blades to optimal targets (three on the most dangerous PC, two on the healer, one on Maranthe)
+4. Repositions to engage the most isolated PC
+
+The party experiences this as a sudden, disorienting shift — one moment the general stands before them, the next the battlefield has changed entirely.
+
+**Subsequent rounds:**
+- Spirit Blades provide sustained damage without requiring actions (once directed, they attack automatically)
+- Quickened *baleful polymorph* targets martial PCs whose Will saves are weakest — the most efficient way to remove a mythic Fighter or Champion from the fight
+- *Power word stun* (1/day) targets whichever PC is below 150 hp — no save, immediate stun for 1d4 rounds
+- Claws with Curse of False Wisdom drain Wisdom on contact — devastating to divine casters and Wisdom-dependent mythic paths
+- The Asurendra uses *greater dispel magic* to strip long-duration buffs, prioritizing *haste*, *freedom of movement*, and protective polymorph effects
+
+**Below half HP:**
+The Asurendra becomes more aggressive — targeting the weakest PC, spending remaining Tornsoul's Gift charges on attacks rather than saves, pressing the advantage of its action economy. It does not retreat. Its own Dimensional Lock prevents it. The general designed the encounter to be to the death.
+
+**ECOLOGY**
+**Environment** Ancillary plaza, Nexus (Chapter 12 only)
+**Organization** unique (with 2 Upasunda escort, pre-summoned)
+**Treasure** double (the Asurendra's personal treasures are insignificant compared to its tactical value; the GM may place appropriate CR 20 treasure on its body if desired, but the campaign does not require it)

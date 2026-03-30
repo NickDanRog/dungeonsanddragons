@@ -694,7 +694,7 @@ If both are present and the party creates the moment in the final confrontation,
 
 # CHAPTERS
 
-## Chapter 1: A Summons and a Silence *(Levels 3–4)*
+## Chapter 1: Dispatches from the Front *(Levels 3–4)*
 
 ### Chapter Summary
 

@@ -196,7 +196,7 @@ The party crosses the mountains and enters Aldenmere. The historical revelations
 
 **Reinja's Test.** The elven sorceress evaluates the party's worthiness. If satisfied, she grants them access to the five ordeals.
 
-**The Five Ordeals.** Scattered across Aldenmere, the ordeals were designed by Reinja at Cuthbert's direction to test qualities he considered essential in a Redeemer. The five trials test: **Courage, Wisdom, Strategy, Piety, and Sacrifice.** Specific locations, mechanics, and structure to be designed in the GM Guide.
+**The Five Ordeals.** Reached through a passage in the lower reaches of Reinja's castle, the ordeals were designed by Reinja at Cuthbert's direction to test qualities he considered essential in a Redeemer. Each occupies its own impossible space — a self-contained world of magical construction, linked to the others by short corridors of plain stone. The five trials test: **Courage, Wisdom, Insight, Piety, and Sacrifice.** Specific mechanics and structure to be designed in the GM Guide.
 
 **Cuthbert's Spirit.** After the ordeals, the Sword passes to the party. Cuthbert's spirit appears — briefly, without theater. He is not triumphant. He is a man who has had two centuries to think about what he did and why. He tells the truth about his reasons for leaving. He will answer questions if asked. He will not tell the party what to do.
 
@@ -249,7 +249,7 @@ The adventure's design does not foreclose player creativity. A fourth outcome �
 
 3. **Historical Revelation Tracker:** A framework for tracking how much of the true history the party has learned. Each major revelation (the goblinoid displacement, Wotan's true role, the Sorceress's legitimate grievance, Cuthbert's actual reasons for leaving) has implications for how the party approaches the endings. The GM should track what the party knows and let it inform NPC interactions.
 
-4. **The Five Ordeals System:** Mechanical framework for the five trials in Aldenmere. Each ordeal tests a specific quality (Courage, Wisdom, Strategy, Piety, Sacrifice) through scenario design rather than skill checks alone. Specific mechanics to be designed in the GM Guide.
+4. **The Five Ordeals System:** Mechanical framework for the five trials, accessed through a passage within Reinja's castle. Each ordeal tests a specific quality (Courage, Wisdom, Insight, Piety, Sacrifice) through scenario design rather than skill checks alone. Specific mechanics to be designed in the GM Guide.
 
 5. **Winter Downtime Framework (Act II):** Structured downtime period during the mountain pass winter. Activities available vary by choice of shelter. Resources and relationships gained here carry forward into Act III.
 

@@ -45,7 +45,7 @@ The player characters are elevated to royal service by King Harold II, the young
 The characters journey east across the continent in search of the Sword of the Redeemer, Haven's founding artifact, borne east three centuries ago by King Cuthbert and left at a shrine at the far end of the world. The journey takes them through the Wild — the great forested wilderness at Haven's eastern border and deep into the unmapped interior. At the midpoint, early-closing weather forces them to winter on the western side of a great mountain range. On the far side of the mountains, they enter Aldenmere: a land Haven's people have never seen and whose people remember things Haven would rather forget.
 
 **Act III: The Shrine in the East** *(Chapters 5–7, Levels 9–11)*
-The characters arrive in Aldenmere and discover that the people there know Cuthbert not as a perfect hero but as a man who left his kingdom because he was ashamed of what it was becoming. They meet Signi, the current Redeemer, who believes the time has come to return the Sword to the west. They are sent to Reinja — Cuthbert's elven wife, still living, still guarding the approach to the five ordeals she designed. If they prove worthy, they undergo those ordeals across five sites scattered through Aldenmere's eastern reaches. At the end, the Sword passes to them, and Cuthbert's bound spirit speaks the truth of his departure — the truth that Haven has never known.
+The characters arrive in Aldenmere and discover that the people there know Cuthbert not as a perfect hero but as a man who left his kingdom because he was ashamed of what it was becoming. They meet Signi, the current Redeemer, who believes the time has come to return the Sword to the west. They are sent to Reinja — Cuthbert's elven wife, still living, still guarding the approach to the five ordeals she designed. If they prove worthy, she takes them to a passage deep in her castle that descends into a metaphorical underworld — five successive trials, each a self-contained world of its own, linked by corridors of ordinary stone. At the end of the last ordeal, the Sword passes to them, and Cuthbert's bound spirit speaks the truth of his departure — the truth that Haven has never known.
 
 **Act IV: Truth and Consequences** *(Chapters 8–9, Level 12)*
 The characters return to Haven. The crises of Act I have escalated in their absence. Factions press from every side. The Sword's return is not a secret, and everyone with power in the kingdom has a position on what should be done with it. The characters must decide: give the Sword to the king, give it to a noble house, use it to rally the common people, or find a fourth path that the adventure does not anticipate but cannot foreclose.
@@ -488,7 +488,7 @@ The five ordeals in Aldenmere are the structural core of Act III. Each tests a s
 |---|---|---|
 | The Dragon | The Ordeal of Courage | To act despite fear |
 | The Sorceress | The Ordeal of Wisdom | To see truly |
-| The Countess | The Ordeal of Strategy | To act rightly under complexity |
+| The Countess | The Ordeal of Insight | To see clearly what is truly at stake |
 | The Priest | The Ordeal of Piety | To hold to what is real |
 | The Dark Knight | The Ordeal of Sacrifice | To give what cannot be reclaimed |
 
@@ -498,7 +498,9 @@ Specific ordeal mechanics are detailed in Chapter 7.
 
 **Access Conditions**
 
-Reinja controls access to the ordeal sites. The party cannot proceed without her sanction. Her assessment takes the form of an extended conversation. She is determining whether the party's engagement with their work in Acts I and II indicates the quality of attention the ordeals require. Parties who have received Historical Revelations and can speak to what they learned will find her more forthcoming. Parties who have not will find her less so — not as punishment, but because she genuinely does not know if they are ready.
+Reinja controls access to the ordeals. The party cannot proceed without her sanction. Her assessment takes the form of an extended conversation. She is determining whether the party's engagement with their work in Acts I and II indicates the quality of attention the ordeals require. Parties who have received Historical Revelations and can speak to what they learned will find her more forthcoming. Parties who have not will find her less so — not as punishment, but because she genuinely does not know if they are ready.
+
+When the party proves worthy, Reinja does not send them to distant sites. She leads them to a passage within the castle itself — a door in the lower reaches that opens onto a descending corridor. The corridor leads down into the ordeals: five successive trials, each occupying its own space of impossible size and character, separated by ordinary stone passageways. The party does not travel between them; the passage connects them directly, one after the next, and the only way out is through.
 
 ---
 
@@ -576,7 +578,7 @@ The chapter's structure is unusual: a fixed opening, a fixed close, and a flexib
 
 **The Quest Pool's Themes**
 
-The five Act I quests each foreshadow one of the five ordeals in Act III. This correspondence is not something the party will discover for some time, but the GM should hold it in mind: a party that approaches the Countess quest as a test of strategic thinking, the Priest quest as a test of genuine piety, and the Dark Knight quest as a test of what one person is willing to give up alone has been learning the Sword's requirements without knowing it.
+The five Act I quests each foreshadow one of the five ordeals in Act III. This correspondence is not something the party will discover for some time, but the GM should hold it in mind: a party that approaches the Countess quest as a test of insight — of seeing clearly what is truly at stake beneath the surface of a political problem — the Priest quest as a test of genuine piety, and the Dark Knight quest as a test of what one person is willing to give up alone has been learning the Sword's requirements without knowing it.
 
 ---
 
@@ -628,7 +630,7 @@ Harold provides the following information on each situation.
 
 ### Quest 1: The Countess
 
-*The Test of Strategy — Level 1–2*
+*The Test of Insight — Level 1–2*
 
 ---
 
@@ -1842,7 +1844,7 @@ Signi herself is the chapter's culmination: a woman who carries the weight of th
 
 ### A Week Through Aldenmere
 
-From Lord Wustan's manor to the Shrine is approximately seven days of travel along paths that are well-maintained without being engineered. The party is never lost; there is always a settlement within a few hours, always someone willing to offer directions, food, and a great many questions. Aldenmere is not a place where strangers are treated with suspicion.
+From Lord Wustan's manor to the Shrine is approximately seven days of travel along paths that are well-maintained without being engineered. The party is never lost; there is always a settlement within a few hours, always someone willing to offer directions, food, and a great many questions. Aldenmere is a place where strangers are treated with curiosity instead of suspicion.
 
 **The Settlements**
 
@@ -1852,9 +1854,9 @@ The largest settlement the party will pass through has perhaps two hundred resid
 
 **The People**
 
-Aldenmere's population is, as the party will observe over the week, a thoroughly mixed one: humans with obvious fey ancestry (the elven features, the coloring, the particular quality of movement that comes from multiple generations of mixed heritage), and fey who seem entirely comfortable living alongside humans without apparent distinction in social standing. A gnome farmer, a half-elven carpenter, a green hag who keeps bees, an elderly elf who is clearly the village's informal historian — these figures are not remarkable in Aldenmere. They simply live here.
+Aldenmere's population is, as the party will observe over the week, a thoroughly mixed one: humans with obvious fey ancestry (the elven features, the coloring, the particular quality of movement that comes from multiple generations of mixed heritage), and fey who seem entirely comfortable living alongside humans without apparent distinction in social standing. A gnome farmer, a half-elven carpenter, a pixie who keeps bees, an elderly elf who is clearly the village's informal historian — these figures are not remarkable in Aldenmere, they simply live here.
 
-The party is remarkable. Haven's people have not crossed the mountains in three centuries, and whatever Aldenmere knows of Haven comes from secondhand accounts and the occasional traveler like Lord Wustan who has passed news eastward over the decades. The party will be treated as an interesting anomaly — not a threatening one, not a reverent one, but the kind that Aldenmere has seen before, in various forms, and has learned to greet with genuine curiosity and unprompted assistance.
+The party is remarkable. Haven's people have not crossed the mountains in three centuries, and whatever Aldenmere knows of Haven comes from secondhand accounts and the occasional traveler. The party will be treated as an interesting anomaly — not a threatening one, not a reverent one, but the kind that Aldenmere has seen before, in various forms, and has learned to greet with genuine curiosity and unprompted assistance.
 
 This takes the form of:
 - Being stopped on the path by people who have heard there are Haven-folk in the area and want to look at them
@@ -1872,7 +1874,7 @@ The following scenes are worth developing during the week's travel:
 
 *The girl and the dogs.* On a hillside above a long valley, a girl of perhaps twelve years is tending a flock of sheep. She is seated on the back of a dog the size of a draft horse — a colossal mastiff of some kind, white-coated, utterly calm. Two other dogs of the same breed and size move at the flock's edges, herding without noise. The girl watches the party pass with an expression of complete composure. If greeted, she will wave, and if the party stops to speak with her, she will be politely conversational but clearly more interested in her work than in Haven-folk, and will eventually excuse herself because the eastern edge of the flock is drifting and she needs Bramble (the dog she's riding) to go sort it out.
 
-*The market argument.* In the village market, a gnome merchant and an elven smith are engaged in a negotiation that has apparently been ongoing for some time. It is not an argument — the voices are pleasant, the gestures are calm — but it has the quality of an elaborate formal procedure that both parties are thoroughly enjoying. Bystanders watch with the mild interest of people who know this particular gnome and this particular smith and have seen this particular dynamic before. The negotiation concerns the price of a pair of iron buckles. It will continue for approximately forty minutes after the party arrives and resolve in a price that, to any observer, seems to have been available from the first exchange. Both the gnome and the smith appear satisfied. The distinction between the process and the outcome is, apparently, not a distinction that matters here.
+*The market argument.* In the village market, a gnome merchant and an elven smith are engaged in a negotiation that has apparently been ongoing for some time. It is not an argument — the voices are pleasant, the gestures are calm — but it has the quality of an elaborate formal procedure that both parties are thoroughly enjoying. Bystanders watch with the mild interest of people who know this particular gnome and this particular smith and have seen this particular dynamic before. The negotiation concerns the price of a pair of iron buckles. It will continue for approximately forty minutes after the party arrives and resolve in a price that, to any observer, seems to have been available from the first exchange. Both the gnome and the smith appear satisfied. The distinction between the process and the outcome is, apparently, not one that matters here.
 
 *The white tree.* At the center of one village is a very old tree — a white-barked birch of unusual size, its lower trunk smooth from decades of hands. Offerings have been left at its base: flowers, small carved figures, a cup of water. People passing the tree touch it briefly and move on. It is not a religious ceremony in any formal sense; it is the kind of habit that accumulates around a tree that has been important for long enough. If the party asks about the tree, they will receive answers that vary by person but converge on the idea that the tree has been there since before the village, and that it is here because it is here, and that this is sufficient.
 
@@ -1928,13 +1930,13 @@ After the festivities, Signi draws the party into a comfortable room behind the 
 
 What she knows, and will share plainly when asked:
 
-- *Cuthbert's departure:* He left Haven because he was ashamed. Not of a specific act — or not only of a specific act — but of what Haven had become and of his role in making it that way. He believed that the displacement of the goblinoids was an injustice he had sanctioned, that the suppression of Wotan's role in the founding was a history he had allowed to be rewritten, and that a kingdom founded on two lies and an injustice would eventually pay for all three. He came east to end his life among people he had treated better and to leave the Sword somewhere it could be reclaimed when Haven was ready for the truth it carried. *This is Revelation 3 — Cuthbert's Departure. A party that has not already received this revelation receives it here.*
+- *Cuthbert's departure:* He left Haven because he was ashamed. Not of a specific act — or not only of a specific act — but of what Haven had become and of his role in making it that way. He believed that the displacement of the goblinoids was an injustice he had sanctioned, that the suppression of Wotan's role in the founding was a history he had allowed to be rewritten, and that a kingdom founded on two lies and an injustice would eventually pay for all three. He came east  to leave the Sword somewhere it could be reclaimed when Haven was ready for the truth it carried. *This is Revelation 3 — Cuthbert's Departure. A party that has not already received this revelation receives it here.*
 
 - *The Sword:* The Sword's purpose is not to confirm the power of whoever holds it. It is to demonstrate the possibility of a different kind of authority — one accountable to something larger than itself. Reinja designed the ordeals not to select the worthy but to clarify the question: worthy of what, exactly? The Sword does not answer that question. The bearer does.
 
 - *Reinja:* She is alive. She has been here for as long as anyone can remember, which in Aldenmere covers a considerable span of time. She is not warm, but she is not cruel. She assesses things. She was Cuthbert's wife, and she was with him when he understood what he had done, and the ordeals she designed reflect what she learned from watching that understanding arrive in a man who thought he already knew himself. The party should approach her with full honesty about who they are and what they want. She will know if they do not.
 
-- *The ordeals:* Five sites, scattered across Aldenmere's eastern reaches. Each one asks something specific. She will not say what. She sends them to Reinja first; Reinja decides whether they are ready to attempt them.
+- *The ordeals:* Five trials, reached through a passage in the lower reaches of Reinja's castle — a door that opens onto a descending corridor, leading to five successive worlds of its own. Each one asks something specific. She will not say what. She sends them to Reinja first; Reinja decides whether they are ready to attempt them.
 
 She gives the party a riddle to carry to Reinja as proof of her endorsement. She delivers it without ceremony, as one delivers a letter:
 
@@ -1961,7 +1963,7 @@ The party leaves Requiem the following morning, heading northwest toward the Cas
 
 ### Chapter Overview
 
-Chapter 6 covers three days of travel and three obstacles — each one a test of a different quality the ordeals will require — followed by the encounter with Reinja herself and the commission to the five sites. The chapter has no milestone level gate: the party arrives at Chapter 6 as Level 9 characters and remains Level 9 until the second ordeal in Chapter 7. What Chapter 6 provides is preparation: clarity about what the ordeals demand, an opportunity to rest and recover, and a first meeting with Reinja that will make every subsequent encounter with her more resonant.
+Chapter 6 covers three days of travel and three obstacles — each one a test of a different quality the ordeals will require — followed by the encounter with Reinja herself and three days of waiting before she opens the passage. The chapter has no milestone level gate: the party arrives at Chapter 6 as Level 9 characters and remains Level 9 until the second ordeal in Chapter 7. What Chapter 6 provides is preparation: clarity about what the ordeals demand, an opportunity to rest and recover, and a first meeting with Reinja that will make every subsequent encounter with her more resonant.
 
 ---
 
@@ -2029,9 +2031,9 @@ If tribute is offered correctly, the elemental regards it for a moment and then 
 
 ### Obstacle Three: The Living Chess Match
 
-Beyond the defile, the path descends toward a broad natural clearing. The clearing's floor has been shaped, over time or by intention, into a perfect flat surface — and on this surface, inlaid in alternating light and dark stone, is a checkerboard pattern sixty feet across, each square five feet by five feet, twelve squares to a side.
+Beyond the defile, the path descends toward a broad natural clearing. The clearing's floor has been shaped, over time or by intention, into a perfect flat surface — and on this surface, inlaid in alternating light and dark stone, is a checkerboard pattern forty feet across, each square five feet by five feet, eight squares to a side.
 
-On this board stand figures. They are not statues; they breathe. They stand in the starting positions of a chess match — white figures facing south, black figures facing north — and they are the size of people: armored soldiers with spears (the pawns), mounted riders on barded horses (the knights), stone-faced warriors in flowing robes (the bishops), heavy constructions of stone or metal (the rooks), a figure of obvious authority at the center of each back rank (the kings), and at each queen's position, a figure of visibly commanding presence.
+On this board stand figures. They are not statues; they breathe. They stand in the starting positions of a chess match — white figures facing south, black figures facing north — and they are the size of people: armored soldiers with spears, mounted riders on barded horses, stone-faced warriors in flowing robes, heavy constructions of stone or metal, a figure of obvious authority at the center of each back rank, and at each queen's position, a figure of visibly commanding presence.
 
 The figures on the white side turn to face the party when they enter the clearing. They do not attack. They wait.
 
@@ -2041,7 +2043,7 @@ The board's north edge, beyond the black pieces, leads to the path that continue
 
 The match follows standard chess movement rules with one exception: when a piece would be taken, the two pieces fight instead. The winner remains on the board; the loser is removed. Combat uses standard PF1e rules; the party directs the white pieces on white's turn and may instruct them to move in any legal chess configuration. On black's turn, the GM moves the black pieces per the rules of chess (the GM should play to win but does not need to use optimal play — the encounter is a challenge, not a foregone conclusion).
 
-Party members must take positions on the board at the start, each occupying one white square in the back two ranks, to trigger the match. They need not occupy specific pieces, but the board requires a full white set to begin: eight pawns, two rooks, two knights, two bishops, two kings, and two queens. The party's characters can occupy any squares in the back two ranks; the remaining pieces (which are always at full complement at the start) fill the rest.
+Party members must take positions on the board at the start, each occupying one white square in the back two ranks, to trigger the match. They need not occupy specific pieces, but the board requires a full white set to begin: eight pawns, two rooks, two knights, two bishops, one king, and one queens. The party's characters can occupy any squares in the back two ranks; the remaining pieces (which are always at full complement at the start) fill the rest.
 
 *The pieces do not speak during the match. They respond to instruction delivered on the party's turn. A party member who physically moves onto the board to relay instruction may be targeted by black pieces if a black piece reaches their square; they must occupy a piece's square (moving the piece off it) or return to the back ranks to be safe.*
 
@@ -2082,7 +2084,7 @@ The drawbridge is down. The gates are open — all of them, the barbican gate, t
 
 > *The great hall is a long room with a high vaulted ceiling, its stonework so precise and so clean that it seems impossible it has been here for any length of time. There is furniture here — tables, benches, candelabra — but no dust on any of it. There are tapestries on the walls, detailed enough to be worth examining, depicting scenes from a history the party will recognize, at least partially, from what they have been learning about Haven and about Cuthbert. There is a throne at the far end of the hall: a single large chair carved from stone, elaborate in its workmanship, clearly grown from the floor in the same way that Lord Wustan's elm grows from his. On the throne sits a woman.*
 >
-> *She is watching you arrive. She has been watching since you entered the courtyard. She does not move or speak. She is not unfriendly in her stillness; she is simply completely still, in the way of someone for whom patience has become structural rather than effortful.*
+> *She is watching you arrive. She has been watching since you entered the courtyard. She does not move or speak. She is not unfriendly in her stillness; she is simply completely still, in the way of someone for whom patience has become structural rather than an effort.*
 
 ---
 
@@ -2094,7 +2096,7 @@ She will not speak until the party addresses her. And she will not have a meanin
 
 When the riddle is delivered, she will allow a pause, as if verifying it, and then:
 
-*"Signi has been sending people to me for a hundred and thirty years. Most of them have not been ready. Some of them have been ready and have not known it. A few have known it. I will ask you three questions. After that, I will decide."*
+*"The Sword has been sending them to me for a hundred and thirty years. Most of them have not been ready. Some of them have been ready and have not known it. A few have known it. I will ask you three questions. After that, I will decide."*
 
 ---
 
@@ -2137,9 +2139,9 @@ Reinja announces that they need more time to reflect. She tells them that the ca
 
 This cycle may repeat up to three times. On the third failed attempt, Reinja delivers her judgment:
 
-*"I find your answers unworthy. But it remains to be seen if you are. The Redeemer has decided to set down this burden — that cannot be undone. The Sword must be borne, and the trials must be endured. The gods will decide if you are truly worthy. I will send you to the first site."*
+*"I find your answers unworthy. But it remains to be seen if you are. The Redeemer has decided to set down this burden — that cannot be undone. The Sword must be borne, and the trials must be endured. The gods will decide if you are truly worthy. The door will be open in three days."*
 
-She sends them on without warmth and without magic items. The ordeals will determine what her words could not.
+She gives the party no gifts and no further counsel. The three days pass with no warmth from her — she is present at her banquets but does not engage the party directly. On the third day she leads them to the door in silence, unlocks it, and steps aside. The ordeals will determine what her words could not.
 
 **If the party answers correctly on any attempt:**
 
@@ -2151,19 +2153,1076 @@ Reinja claps once.
 >
 > *There are creatures here: fey of every size and description, moving through the space with the unhurried ease of inhabitants. Some of them look up at the party when the light comes on. Some of them go back to their own business. A tall figure at the far wall turns, and you realize it is the same elf you saw on the throne, and she is looking at you with an expression that is not quite a smile but is the near neighborhood of one.*
 
-Reinja offers the party the hospitality of the castle for up to three days before they depart for the first ordeal. The fey inhabitants of the castle are knowledgeable and accessible, though the usual fey courtesies apply without being stated — a party that conducts itself well will find them forthcoming; a party that treats them as information resources to be extracted will find them gracious, unhelpful, and impossible to corner.
+Reinja tells the party that the ordeals will begin in three days' time. She does not offer this as hospitality — she states it as a fact. The castle and its inhabitants are available to them until then. She will speak with them over three evenings at her banquet table. The fey inhabitants of the castle are knowledgeable and accessible, though the usual fey courtesies apply without being stated — a party that conducts itself well will find them forthcoming; a party that treats them as information resources to be extracted will find them gracious, unhelpful, and impossible to corner.
 
 Reinja holds court at a banquet each evening. She will answer questions posed politely and with genuine interest, and will ask her own questions in return. She is, in this context, warmer than in the hall — not warm, but engaged. She has opinions about the Sword, about Haven, about what Cuthbert understood and what he got wrong, and she will share them if asked correctly. *This is the opportunity for Revelation 4 — The Sword's Intent — and for Revelation 5 foreshadowing (what Cuthbert got wrong, which the party will hear from the man himself after the ordeals, but which Reinja will indicate exists without fully delivering).*
 
-At the end of the stay, she presents each party member with a magic item appropriate to the ordeals ahead. These gifts are chosen with the same precision she applies to everything.
+In the event that they party answered correctly on their first atttempt, Reinja presents each party member with a magic item before they depart on their journey. These gifts are chosen with the same precision she applies to everything.
 
 *The GM should choose one item per party member based on what will be most useful in Chapter 7. Items appropriate to levels 9–10: a +2 weapon, amulet of natural armor +2, ring of protection +2, cloak of resistance +3, boots of speed, or similar. If the party answered correctly on the first attempt, the gifts should be slightly more generous than for correct answers on subsequent attempts.*
 
-She sends them to the first ordeal site with precise directions and one piece of practical advice: *"When you do not understand what is being asked of you, assume it is something harder than the obvious answer. The ordeals were not designed for the obvious."*
+On the third day, after presenting the gifts, Reinja leads the party out of the great hall and down through the castle — past the inhabited rooms, past the lower levels — to a door in the lower reaches of the structure. It is a plain door of dark stone, fitted into the rock without ornament. She produces a key from within her robe and unlocks it. Beyond it, a corridor descends.
 
-*Chapter 7 begins at the first ordeal site.*
+She stops at the threshold. She does not pass through it.
+
+*"From this point, the way is forward; to turn back is to fail. You will encounter Five Ordeals which will test your character, judging your Wisdom, your Piety, your Insight, your Courage, and your willingness to Sacrifice. At the end of this corridor lies the entry hall to the First Ordeal. Several objects here may attract your particular attention. You will encounter a similar hall before the start of each Ordeal. Use these places to rest yourselves before your next trial.* 
+
+*Know that should you fail any of these tests, you will have shown yourself unworthy of the Sword. You will be returned to this door and will find it locked to you. Come back to me and tell me what you found."*
+
+She offers one final piece of advice before standing aside: *"You will encounter many things you do not expect within the Ordeals. You will meet with many obstacles, and may perhaps meet with death, as has befallen many who have undertaken them. Put your faith in the gods and be stout of heart however; you were chosen for a reason. What remains is for you to prove worthy of that choice."*
+
+*Chapter 7 begins when the party passes through the door.*
 
 ---
 
+## Chapter 7: The Five Ordeals
 
+*(Levels 10–11)*
+
+### Chapter Overview
+
+Chapter 7 begins the moment the party steps through the door in the lower reaches of Reinja's castle. What follows is not a journey through Aldenmere but a descent through something older and stranger — a sequence of five trials that Reinja constructed at Cuthbert's direction two centuries ago, each one occupying a space of impossible character linked to the next by short passages of ordinary stone.
+
+The passage itself is unremarkable. Dressed stone, descending at a shallow angle, with sufficient headroom and a floor worn smooth by two centuries of careful feet. It is lit by no visible source but is never dark. Between ordeals, the party walks connecting corridors of ten minutes or less before reaching the next entry hall. These corridors are the only spaces in the sequence that feel like corridors.
+
+Everything else is something else entirely.
+
+---
+
+### Structure of Each Ordeal
+
+Each of the five ordeals follows the same general form.
+
+**Entry Hall.** A resting space. The party may take a full eight-hour rest here; time passes normally; no random encounters occur. Resources spent in the preceding ordeal may be recovered. The entry hall always contains something worth examining, and the examination is worth the attention.
+
+**Approach Spaces.** One or more areas the party passes through before the trial. These spaces are not the test, but they prepare for it. Parties who engage with them attentively will find the trial easier to understand.
+
+**The Trial.** The ordeal proper. Each trial tests a specific quality through scenario design rather than skill checks alone.
+
+No time passes in the outside world while the party is in the ordeals. They enter through Reinja's door and emerge; however many hours or days they spend below, the world above does not advance. The party will not experience hunger, though the entry halls provide food and water regardless.
+
+---
+
+### Failure and the Second Chance
+
+If the party fails any trial, they are transported immediately back to the locked door at the base of Reinja's corridor. The door is locked from the outside. Returning through the castle to find Reinja, they will find her waiting in the great hall.
+
+She will ask what they encountered. She is not contemptuous. She is assessing.
+
+If they ask what to do now, she says only: *"That depends on what you learned."* If they ask whether there is another way to prove worthy, she will not answer the first time. If they ask again, she will say that there is, but that it has not been attempted in a long time. If they ask a third time, she will tell them: there is a Questing Beast in the frozen mountains to the north. Only one person has ever laid it low. If they bring her evidence, she will pronounce them worthy, and they may claim the sword. 
+
+*This quest is not detailed in this guide. The GM should design it appropriately for Level 10–11 characters. It is intended as a second chance, not a shortcut, and should be proportionally difficult.*
+
+---
+
+### The Ordeal of Wisdom
+
+*The first ordeal | Parallels the Quest of the Countess*
+
+*What is tested: to see truly what is at stake — to understand that the future is not fixed, and that the choice to embrace a predetermined fate is itself a choice, and a failure of wisdom.*
+
+---
+
+#### The Entry Hall: The Museum
+
+The door at the bottom of Reinja's corridor opens onto a room that takes a moment to resolve.
+
+> *The ceiling is so high that its upper extent is lost in a dim, warm glow. The floor is pale stone, unmarked. What fills the space between them is, if you take a moment to place it, a museum: display cases of every size arranged in loose groupings, each containing something, some lit from within. The cases carry short printed cards at their bases. The room is larger than it should be. It is, completely, at peace.*
+
+The party may explore the museum as long as they choose. Food and drink appear when desired — trays on a low table near the entrance, varied and excellent. The light does not change. There are no guards, no puzzles, no traps.
+
+The museum contains eleven cases. Five hold items with direct relevance to the five ordeals ahead; the other six hold objects whose significance is oblique, personal, or simply beautiful. The GM should feel free to invent additional cases as the party explores — not everything needs to mean something, and a museum that contains only clues is not a museum.
+
+The five relevant cases are described below.
+
+---
+
+**The Case of Threads**
+
+A single case, taller than it is wide, containing a suspended structure of fine silver wire. The wires branch from a single point at the center in every direction, each connecting to two more, which connect to two more in turn, until the outermost reaches contain threads too fine to count. The structure gives the impression of something vast described at small scale.
+
+*Card: No thread terminates here. Each is a beginning.*
+
+*GM Note: The clue for the Ordeal of Wisdom. The thread-structure represents the infinite branching of choices from a single moment. The card's observation that none of the threads terminate is an invitation to conclude that no choice is final and no future is fixed — the ordeal's correct answer in miniature.*
+
+---
+
+**The Case of the Chalices**
+
+Two cups on a velvet stand. One is gold, intricately worked, set with small stones at the rim; it has the quality of something made to impress. The second is clay — plain, slightly irregular, worn smooth at the handle from use. They have been placed together deliberately.
+
+*Card: One was set at the god's own table. One was displayed in their temple. Both were made in their name.*
+
+*GM Note: The clue for the Ordeal of Piety. The distinction between the vessel the god chose and the vessel the institution chose gestures toward the difference between genuine faith and its performance. A character who examines both carefully may notice that the clay cup has been used.*
+
+---
+
+**The Case of the Painting**
+
+A large flat case containing a landscape: a pastoral valley with a river, fields, hills, a village. Well executed and, at first glance, simply pleasant. Closer examination reveals that the painting contains things not immediately visible — a figure watching from a treeline; a second figure at the edge of a field; and in the hills, the suggestion of a structure that is not quite a natural formation. None of these secondary elements are highlighted or emphasized. They are simply there, for anyone who looks.
+
+*Card: What is shown is not what is there. What is there is not always what matters. What matters was not painted.*
+
+*GM Note: The clue for the Ordeal of Insight.*
+
+---
+
+**The Case of the Scale**
+
+A broad flat case containing two items widely separated from each other. The first is a single scale from some large animal — the size of a dinner plate, iridescent, with edges sharp enough to cut. The second is a small bone, white, unremarkable, clearly from the same creature: one of the smaller bones of the foot or hand, perhaps.
+
+*Card: That which is terrible is not therefore eternal.*
+
+*GM Note: The clue for the Ordeal of Courage. The scale conveys the creature's fearsome nature; the bone conveys that the creature died. A party that holds both ideas at once is already in possession of the ordeal's answer.*
+
+---
+
+**The Case of the Door**
+
+The smallest case in the museum, the height of a fist, containing a single image: a figure standing before an open doorway, loaded with so many bundles, bags, and parcels that they cannot fit through the frame. The doorway is wide open. Beyond it — whatever the figure is trying to reach.
+
+*Card: The door was never the problem.*
+
+*GM Note: The clue for the Ordeal of Sacrifice. The image is not subtle, but the ordeal is not a riddle. What makes it difficult is the willingness to act on what is understood. A party that can say, at the ordeal's end, "we knew from the museum" is a party that understood and still had to find the courage to do it.*
+
+---
+
+#### The Eternal Battlefield
+
+The corridor beyond the museum opens onto a landscape.
+
+> *The sky is the color of old bone. The land beneath it stretches further than it should — a wide and featureless plain broken only by the geography of the dead. There are thousands of them. The air smells of open ground after rain, which is not quite what you expected. There is no sound except the wind and, from somewhere ahead, the sounds of fighting: the particular combination of voices and steel and impact that you know well enough to identify without looking.*
+
+The battlefield is vast and finite. The party can reach its edges on foot, and the edges are simply more plain, more wind, more sky. The fighting is always somewhere ahead of them; approaching it takes about twenty minutes.
+
+> *The combatants are human, or human enough. They fight in formation and in pairs and in small groups, using weapons that span several centuries without apparent awareness of this inconsistency. They fight with the focused efficiency of people who have been doing this for a very long time. As you watch, several of them fall. As you watch further, the same people — the same faces — rise again a short distance away, look around briefly, and return to fighting.*
+
+There is no way to end the battle. The combatants do not respond to the party beyond the practical requirement of not being in the way; they route around obstacles. If attacked, they defend themselves competently but without apparent concern for self-preservation. If killed, they rise. They have no interest in the party and give the impression of not having much interest in anything at all, including each other. They fight because that is what is happening here, and it has been happening for a long time.
+
+The corridor forward appears on the far side of the plain. The party must cross.
+
+**GM Guidance**
+
+This space has no combat requirement and no puzzle. Its purpose is extended encounter with something that has no exit and does not know it. A party that asks the right questions — *why are they still fighting? who gave the order? do they know they can stop?* — will find no satisfying answers, because there are none. The combatants are not cursed. They are habituated. They have been doing this since before anyone gave orders, and no one has yet chosen to stop.
+
+The lesson: patterns persist until someone decides to break them. That decision must be made each time by someone willing to make it. This is what the hall of mirrors elaborates, and what the trial will ask the party to act on.
+
+---
+
+#### The Hall of Mirrors
+
+The corridor beyond the battlefield delivers the party into a passage unlike the connecting corridors between ordeals. This one twists.
+
+> *The passage winds without apparent destination. Its walls, floor, and ceiling are stone, but sections of the walls — irregular patches of varying size, some as small as a palm and some as large as a door — have been polished to a mirror sheen. At the right angle, passing each one, you see yourself. At most angles, you see something else.*
+>
+> *If you slow down and look directly into one of the polished surfaces, a scene begins to form.*
+
+The mirrors do not move or call out or compel. They simply show. A character who stops and looks into one will watch a scene begin and continue until they look away. Multiple characters can examine the same mirror and see the same thing. The scenes are not about the characters looking at them; they concern strangers whose names are never given.
+
+There are six mirrors worth stopping at. The GM should present them in whatever order feels appropriate as the party moves through the passage. Parties with fewer than six members will not encounter all six; parties of six will find that each person, at some point, discovers one drawing their attention specifically.
+
+---
+
+**Mirror 1**
+
+> *You see a maiden with tear-stained eyes staring back, and you understand she works in the household of a knight who has dishonored her greatly. She struggles with the weight of her shame.*
+>
+> *The scene changes. You see her hand the knight a cup of wine at a banquet. He drinks deeply and dies in agony, frothing at the mouth. The maiden is arrested, convicted of his murder, and hangs for the crime.*
+>
+> *The scene changes. This time she forgives the knight. The knight decides to take this as permission and goes on to harm others the same way. The maiden ends her own life in shame.*
+>
+> *The scene changes. The knight, shamed deeply by her forgiveness, gives up his titles and lands and takes on a vow of poverty and chastity, swearing to atone for his mistakes.*
+
+---
+
+**Mirror 2**
+
+> *You see a soldier standing over a fallen enemy on a battlefield, sword in hand. The man at his feet is badly wounded but alive.*
+>
+> *The scene changes. He kills the man where he lies and moves on. Years later, in peacetime, he learns the fallen man was a general. His capture would have ended the war two years earlier. The two years cost ten thousand lives.*
+>
+> *The scene changes. He takes the man prisoner. The delay costs his company its position. Three of his comrades die in the confusion. The prisoner is ransomed and leads the enemy to three further victories before the war ends.*
+>
+> *The scene changes. He binds the man's wound and leaves him water and his own dagger, then moves on. The enemy general, months later, negotiates a peace that neither side thought possible. The soldier who showed him mercy is never named in any account of how it came about.*
+
+---
+
+**Mirror 3**
+
+> *You see an old man in a small room, surrounded by texts, holding a document that is clearly very old. His hands are shaking. You understand that he has spent his life serving a faith, and that the document he holds proves one of its most beloved teachings was forged by a man seeking power two centuries ago. He is the only one who knows.*
+>
+> *The scene changes. He burns the document. He spends the rest of his life teaching from the forgery, as he always has. The faith continues undisturbed. He dies uncertain whether he preserved something sacred or destroyed something true.*
+>
+> *The scene changes. He reveals what he found, publicly, before the assembled faithful. The faith tears itself in two. Half its followers abandon it. Half hold tighter than before. A century later, the faith is smaller and says what it means.*
+>
+> *The scene changes. He spends ten years writing a careful account of what he found, what the original text says, and what he believes it is trying to say. He seals it in an archive to be opened after his death. He does not live to see what is done with it.*
+
+---
+
+**Mirror 4**
+
+> *You see a prosperous merchant seated across a table from his oldest partner, holding a ledger open between them. You understand that the merchant has discovered his partner has been stealing from their common accounts — not from greed, but to pay for his sister's physician in a distant city.*
+>
+> *The scene changes. The merchant exposes the theft before their guild. His partner is ruined. The merchant's reputation for righteousness grows. He prospers and spends his remaining years uncomfortable in the company of anyone who needs something he could give.*
+>
+> *The scene changes. He confronts his partner privately and offers to cover the physician's costs himself, asking only for acknowledgment. His partner repays every stolen coin. Their partnership becomes the most successful in the region. The sister recovers.*
+>
+> *The scene changes. He says nothing and covers the shortage from his own accounts, noting only that he noticed the discrepancy. His partner, understanding he was seen and not reported, can never look him in the eye again. The partnership dissolves quietly. Neither ever speaks of it.*
+
+---
+
+**Mirror 5**
+
+> *You see a king at a council table. His advisors have placed a report before him: a man in a border village will one day lead a rebellion. They have read the signs. The man has not yet done anything wrong. They recommend preventive imprisonment.*
+>
+> *The scene changes. The king agrees. The man is taken without charge. The rebellion never comes. The imprisoned man's son, raised without a father, leads a different rebellion twenty years later. It is worse than the one prevented.*
+>
+> *The scene changes. The king refuses. The man does eventually lead a rebellion, in his middle age. It is put down. The king, old by then, reflects that he could not have known, and that he chose not to punish what was not yet a crime. He does not know whether this was right. He knows it was just.*
+>
+> *The scene changes. The king calls the man to court and meets him, then offers him a position of modest responsibility. The man serves him faithfully for thirty years. The rebellion was always a possibility; the man became what the king made it possible for him to become.*
+
+---
+
+**Mirror 6**
+
+> *You see a man, no longer young, sitting outside a house in a country that is not his own. He has built a life here. Word has reached him that his homeland is suffering — misrule has brought it to the edge of ruin — and the people there still speak his name as though it were a held breath. The lord who drove him out is still in power.*
+>
+> *The scene changes. He returns at the head of an army raised in his new country and takes back what was taken by force. His homeland is restored. It is also afraid of him, and when he dies the argument about what he was begins immediately and does not end.*
+>
+> *The scene changes. He does not return. The life he has built here is enough, he decides. His homeland suffers until it finds its own way — slowly, at great cost — without him. He never learns whether he chose correctly.*
+>
+> *The scene changes. He returns alone and unarmed, goes directly to the lord who wronged him, and offers his service, asking nothing except the wellbeing of the people. The lord, astonished and somewhat ashamed, agrees. They govern together, uncomfortably, occasionally well. When the lord dies, the man takes the responsibility he was always suited for. He does not congratulate himself for the path he chose.*
+
+---
+
+**GM Guidance**
+
+The hall of mirrors has no mechanical conclusion. When the party reaches its end, the passage continues to the trial. There is no puzzle to solve here, no skill check to make. The mirrors simply show what they show.
+
+A party that has genuinely engaged with the museum and the mirrors will carry something useful into the trial. A party that rushed through will face it with less to draw on. The GM should not announce this distinction; they should simply run the trial and let the party's engagement with what came before speak for itself.
+
+---
+
+#### The Trial: The Three Paths
+
+The passage ends at a doorway that opens not onto a corridor but onto a room with a different character entirely.
+
+> *The floor is a checkerboard of black and white stone, each square a pace across. The room has no walls that you can see — beyond the edge of the floor, in every direction, is a grey nothing that offers no purchase for the eye. The floor extends until it doesn't, and where it doesn't there is the grey. The ceiling, if there is one, is also the grey.*
+>
+> *Ahead, three paths lead from the edge of the floor toward three doors. The paths are the same checkerboard stone. The doors are of different heights but otherwise plain. Between the first and second paths, and between the second and third, stand two figures on pedestals: one robed and holding a staff, one crowned and armored. They face forward. They are as still as carvings.*
+>
+> *Then they are not.*
+
+The two figures — referred to here as the Wizard and the Queen — animate simultaneously as the party steps onto the floor. They do not start or react; they simply begin, mid-composure, as though they have been waiting for exactly this.
+
+The Queen speaks first.
+
+*"There are several of you."*
+
+The Wizard considers this. *"It has happened before."*
+
+*"It is not forbidden."*
+
+*"No."*
+
+*"It is acceptable."*
+
+They address the party together, in the overlapping manner of two people who have done this many times.
+
+**The Wizard:** *"You have come to the trial. The trial offers you three paths. Each path leads to a door. Through each door, a future."*
+
+**The Queen:** *"You may look through each door. You are required to choose one to walk through. Choose carefully. You will not come back the same way."*
+
+The two figures return to their pedestal stillness.
+
+---
+
+**The Three Doors**
+
+The party may approach and look through each door in any order. The views are as follows.
+
+---
+
+*The first door* shows Haven, some years hence. The party is present in what they see — older.
+
+> *You see yourselves returning to Haven with the Sword, and the Sword passing to Harold II in a ceremony that gathers half the kingdom. The king raises it and the crowd responds as crowds do when given something to believe in. In the weeks that follow, he uses its authority to call the nobility to account — the rebel Earls, the entrenched houses, the families that have operated in the grey space between crown law and their own judgment for generations. The nobility does not comply. They have armies, and they use them.*
+>
+> *The war that follows is long. You are in it. Several of you do not survive the following years. The ones who do are older and quiet in a way that is not peace. Harold, at the end of it — old, embittered, and diminished by what the war cost — takes the Sword to a ship and sails west. No one knows where. The kingdom he leaves behind is quieter than before. It is also shattered.*
+
+---
+
+*The second door* shows a different Haven.
+
+> *You return with the Sword and find that you cannot decide what to do with it. This is not shown as a failure of nerve — there is simply no answer that feels complete. The king offers titles and lands. The noble houses offer influence. The common people ask for something you are not sure you can give. Months pass. Harold accuses you, formally, of treason — of holding a symbol of the crown's legitimacy in private hands without authority.*
+>
+> *The confrontation fails. You keep the Sword. Several Earls and much of the common population rally behind the bearer. The situation resolves into conflict — not a clean war, because it involves too many parties for a clean war. You see yourselves falling, not all at once, not in the same place, but one by one across different years and different circumstances. The Sword passes from hand to hand in the aftermath: first to Harold, then to an Earl who kills him for it, then to another, then to a settlement among the noble houses. The common people are more constrained after than before. Haven achieves a kind of stability. That stability resembles stagnation.*
+
+---
+
+*The third door* shows no Haven at first.
+
+> *You see Aldenmere. You and Signi — the Sword still in her keeping — remain east while the reports from Haven grow worse. The goblinoid peoples, whose grievance against Haven is three centuries old and still unaddressed, find in Harold's weakened rule the moment they have been waiting for. The eastern Earldoms fall first. Haven gathers itself, slowly, and fights back. The war drags on for decades. When it ends, the goblinoid peoples are largely destroyed — a final harm added to the long account. Much of Haven's population is gone as well. You and the surviving members of your company return eventually, with the Sword, to a kingdom that does not resemble the one you left. The streets of Sanction are quiet. Not peaceful. Quiet.*
+
+---
+
+**The Choice**
+
+After examining the doors, the party must decide. The two figures reanimate when addressed.
+
+If the party attempts to choose one of the three doors, the Wizard and the Queen raise no objection. The party walks through. They are transported back to the locked door at the base of Reinja's corridor, outside. *Choosing any path fails the ordeal. The trial does not permit selection from a menu of fixed futures.*
+
+If the party declares that they will not choose — that none of the paths is acceptable — the Wizard and the Queen react.
+
+*"That is not one of the options,"* says the Queen.
+
+*"Choose a door,"* says the Wizard.
+
+If the party declares again that they will not choose, the Queen says: *"You are being asked to choose."* The Wizard adds nothing.
+
+If the party declares a third time that they will not choose, there is a pause.
+
+*"Correct,"* says the Wizard.
+
+The Queen: *"Fate cannot be escaped. But destiny must be chosen."*
+
+The Wizard: *"And those choices happen with each moment."*
+
+The two figures return to their pedestal stillness. In the center of the checkerboard floor, a circular section of stone descends, turning as it does, and opens onto a spiral staircase that winds downward. The stairs are lit from below.
+
+*The party proceeds to the connecting corridor and the entry hall of the Ordeal of Piety.*
+
+---
+
+**GM Guidance**
+
+The correct answer is to refuse all three paths. A party that has absorbed the lesson from the eternal battlefield and the hall of mirrors — that no pattern is inevitable, that choices cascade forward in ways no one can fully predict, that the three visions are possibilities and not prophecies — will understand that walking through any door is acceptance of a fixed future that does not yet exist.
+
+The party need not use any particular phrasing. They need only make clear, three times, that they decline the offered options. The Wizard and the Queen will resist twice, mildly; the resistance is formal rather than hostile. On the third declaration, the ordeal resolves.
+
+A party that reasons their way through — that says *"none of these futures is inevitable, so we refuse to name one"* — has arrived at the correct answer honestly. The method matters less than the understanding.
+
+*If the party chooses a door:* they are transported back to the locked door at the base of Reinja's corridor. The full failure sequence applies.
+
+---
+
+### The Ordeal of Piety
+
+*The second ordeal | Parallels the Quest of the Priest*
+
+*What is tested: genuine faith as opposed to its performance — the willingness to submit to the gods in the manner each asks, not merely in the ways that are comfortable.*
+
+---
+
+#### The Entry Hall: The Forest Shrine
+
+The corridor from the Ordeal of Wisdom opens without announcement onto a forest.
+
+> *The light is morning light — direct, bright, falling through canopy so high that the trees resemble columns in an enormous open hall. The air smells of pine resin and green things in warm sun. Birdsong, from several directions at once. The forest floor is soft underfoot: old growth, centuries of accumulation, nothing scrubby or struggling. And at the center of it, settled into the landscape with the permanence of something planted there before anyone thought to record it, a shrine of gray stone — chest-high, flat-roofed, with five alcoves cut into its face.*
+>
+> *Each alcove contains a statue. The figures are different in posture, dress, and size. All five have been carved with attention. The fifth statue — the one at the far right, somewhat smaller than the others — has been knocked from its plinth and lies in pieces on the ground. Beneath it, rubble.*
+
+The forest is genuinely peaceful. The party may rest here as long as they choose. Food and water are available — a spring nearby, fruit on the trees closest to the shrine. The birds do not go silent when the party approaches.
+
+The shrine's five alcoves correspond to the five gods of the Pentad. Beneath each statue, carved into the alcove's stone floor, is an inscription.
+
+**The Father — Tyr.** A standing figure in judge's robes, one hand raised with two fingers extended as if making a point. Inscription: *He alone is the Judge.*
+
+**The Mother — Rana.** A seated figure with her hands folded in her lap, looking slightly to one side as if watching something at a distance. Inscription: *She counts not the Hours.*
+
+**The Warrior — Tor.** A standing figure in armor, sword at rest with both hands on the pommel, tip to the ground. Inscription: *He finds Perfection in the Self.*
+
+**The Scholar — Mara.** A standing figure with one hand to their chin in a posture of consideration. Inscription: *Insight begins where Knowledge ends.*
+
+**The Trickster — Wotan.** This alcove is empty. The statue that belonged here lies in five pieces on the ground. The plinth is clean; the face of the alcove intact. Searching the rubble — a Perception check (DC 10) is sufficient — reveals the inscription carved into what was the statue's base: *Fate is Decided; Destiny Chosen.*
+
+**GM Guidance**
+
+The party has no way of knowing that the Trickster's inscription is important. Do not point this out. A party that explores the entry hall carefully before proceeding will find it; a party that moves straight through will not. Both groups will encounter the fifth test either way, but the group without the inscription will have to find the answer from within.
+
+The Ordeal of Piety has no allegorical approach spaces. The five tests follow directly. A door at the back of the shrine — unremarkable, plain stone, flush with the wall — opens when the party is ready to proceed. The tests occur in sequence; passing one admits the party to the next. Between tests, a short plain corridor of ten minutes or less leads to the next threshold.
+
+---
+
+#### Test of the Father — Tyr
+
+*"He alone is the Judge"*
+
+> *The door opens onto a hall — long, high, cold. The walls are dressed stone; torches burn in iron brackets at intervals. Wooden benches line both sides of the hall, and they are full: clerics in vestments, knights in court dress, figures in the plain dark robes of inquisitors. They do not look at the party as they enter. They look at the raised platform at the far end.*
+>
+> *On the platform, a long table. Five figures sit behind it — a cleric, a lord in full armor, an old woman with a scholar's bearing, a young woman in court dress, a man whose face is obscured by a low hood. They have documents before them. They have been waiting.*
+>
+> *Behind them, standing rather than seated, a sixth figure. Tall, stern, in full plate armor, the top half of his face concealed beneath a great helm with broad swept wings. He carries no weapon and stands perfectly still.*
+>
+> *A character who succeeds at a Perception check (DC 22) notices that the figure in the winged helm bears a striking resemblance to the Young King.*
+
+The five judges call the session to order. The central figure among them — the old woman with the scholar's bearing — announces the purpose of the proceeding without preamble.
+
+*"You have been brought to account. Begin."*
+
+The inquest proceeds as a series of questions. The five judges ask in turn, and their questions are specific: they have precise and complete knowledge of the party's actions throughout the adventure. They ask about good choices and bad ones, about wrongs committed and wrongs witnessed and not acted upon. They are equally interested in both. The members of the court react as the testimony proceeds — clerics murmuring among themselves, knights calling out approval or disapproval, the inquisitors making notes. The hall is alive with the sound of judgment being formed.
+
+The five judges do not ask the party to justify themselves. If a party member attempts to explain why a poor decision was made, the judges listen and note it. If a party member attempts to minimize something that happened, the five judges fall silent.
+
+The figure behind them speaks.
+
+*"That is not an accounting. It is an argument."*
+
+The question is asked again.
+
+The figure behind the judges speaks only when a party member prevaricates. The party has three such corrections available across the entire proceeding. On the fourth occasion that a party member fails to give an honest accounting, the five judges rise, the court falls silent, and the figure in the winged helm says only: *"This proceeding is closed."* The party finds themselves back at the locked door. The test has failed.
+
+When an honest accounting has been received from every party member, the old woman at the center of the table says: *"Received."* The doors at the far end of the hall open.
+
+On the bench nearest to one of the party members, a small wooden coin has appeared. One face bears the image of a set of scales; the other, a single upright sword.
+
+**GM Guidance**
+
+The test is honesty, not guilt. A party member who says "I killed a man whose innocence I could not confirm" has given an accounting. A party member who says "I had to kill him — there was no other way" has given an argument. The five judges distinguish between these, but they do not speak when the figure behind them does not — his intervention is the signal that prevarication has occurred.
+
+Three corrections for the entire party, not per character. Keep count. The court's reactions — approval, disapproval, murmuring — give the GM good tools for conveying what the proceeding thinks of testimony in progress without triggering the formal correction. A party that reads the room and adjusts before the figure speaks has avoided spending a correction.
+
+This test cannot be failed by having done bad things. It can only be failed by refusing to be honest about them. Prepare for this test by reviewing the party's actual choices since the adventure began. The judges ask about specific moments; generalities are not sufficient.
+
+---
+
+#### Test of the Mother — Rana
+
+*"She counts not the Hours"*
+
+> *The door opens onto a hillside in morning light. The sky is deep blue. Below, a wide valley with a village — distant enough that the buildings are small, the roads between them thin lines. Above, the hill rises to a flat area of perhaps a quarter-acre, and on it, a shrine. Gray stone, of a piece with the landscape, the sort of structure that suggests it has been here since before anyone thought to ask how long. It is in visible need of care: a crack running up one face, a garden bed gone over to weeds, a section of low surrounding wall that has collapsed into a scatter of stones.*
+>
+> *An old woman is at the shrine's front step. She is attempting to sweep it. Her broom has lost most of its bristles.*
+
+The woman hears the party approach and looks up without surprise. She is old and compact — not frail, but reduced to her essentials. She wears the plain garments of a shrine keeper. She tells the party her apprentice left some years back, and the place has gotten a bit behind. She asks if they might help with a little work before they go.
+
+The work takes the full day. The party digs a drainage ditch around the shrine's stone foundation. By evening the ditch is done and the old woman feeds them from a clay pot that seems too small for the number of people eating from it. She thanks them and offers the ground in front of the shrine for sleeping.
+
+In the morning she asks them to stay just a little longer.
+
+**The Nine Days**
+
+The party is not told how many days the work will take. The woman asks for help each morning, describes what needs doing, feeds the party each evening, and thanks them. The pattern does not vary. If the party attempts to leave before the ninth day, she says: *"Oh, but there is still a little more to do."* The path down the hill is there; the party can take it. If they do, the test ends in failure.
+
+*Day 1: Dig the drainage ditch around the shrine's foundation.*
+
+*Day 2: Plant the offering garden. The woman has saved seeds in a clay pot and knows exactly where each thing should go. She works alongside the party at ground level.*
+
+*Day 3: Retrieve the woman's goats from the hillside. They are not difficult to find, only indifferent to being found. Partway through the morning, two or three people from the valley village arrive — they heard the old woman had help and came to see. They assist with the goats without being asked and remain for the afternoon.*
+
+*Day 4: Make candles for the shrine. The woman has the materials and knows the method; she teaches it to anyone who asks.*
+
+*Day 5: Repair the crumbling section of the surrounding wall. Five or six villagers arrive and work alongside the party for most of the day.*
+
+*Day 6: Clear the overgrown path leading up to the shrine from the valley road. A dozen villagers come and help for part of the day.*
+
+*Day 7: Gather materials and repair the shrine's roof. The work requires climbing; the old woman does not attempt it but directs it from below with precision. About a quarter of the village is present by this day.*
+
+*Day 8: Clean and restore the offering bowls and sacred objects in the shrine's interior. The work is slow and careful. The woman handles each object briefly before passing it on, and she is quiet while she does.*
+
+*Day 9: The communal feast and the ceremony of restoration. By morning, half the village has come up the hill. The old woman leads the formal ceremony, and her bearing changes as she does — she is no longer the small neat keeper but something deliberate, certain, and clearly at home with what she is doing. By evening, the shrine is lit and full of sound.*
+
+At the end of the ninth day, the woman finds the party in the gathering.
+
+*"You stayed,"* she says. *"Most people leave when the obvious work is done."*
+
+She produces a small wooden coin from her apron and holds it out. *"Payment for your trouble. It is not much, but it is what I have."*
+
+One face of the coin bears the image of a hand held over an open flame; the other, a spinning wheel.
+
+That night the party sleeps in the shrine or in the village, as they choose. In the morning, the hill is quiet. The community is gone. The shrine is clean and empty. At the back of the shrine's interior, a door that was not obviously there before is closed. It opens onto a short plain corridor.
+
+**GM Guidance**
+
+The test is patience and service without calculation. The correct behavior is to stay for as long as the work takes — and the work takes nine days, because that is how long it takes. The woman never explains why this matters. She is not dissembling when she calls it "a little work." It is a little work. It is also nine days. These are not in conflict.
+
+The inscription, for those who remembered it: *She counts not the Hours.* The god's measure is not time but completion. A party that leaves early has not completed the work. A party that stays has. Do not hint at this, and do not hurry the players through the nine-day sequence — each day should be played through, briefly, with attention paid to the gradual accumulation of the village community around the shrine.
+
+---
+
+#### Test of the Warrior — Tor
+
+*"He finds Perfection in the Self"*
+
+> *The door opens onto a great hall — high stone ceiling, torches in iron sconces, no furniture. The floor is flat and clear. At the far end of the hall, a knight stands in full plate armor. The armor is unmarked and undecorated; its quality is in the craft, not the ornament. The knight holds no weapon. Their hands are at their sides.*
+>
+> *On the floor between you and the knight, laid out in a line, are weapons: two hand axes, two longswords, two spears — whatever your hands know best. The weapons are blunted. Practice weapons.*
+
+The knight speaks without hostility. *"One of you fights me. When I judge that we have been at it long enough, I'll ask you something. Answer well and we're done."*
+
+If asked for more information, the knight says: *"That is all there is."*
+
+The bout commences. The knight is better than anyone the party has faced — more precise, more patient, harder to read. He fights with the blunted weapons and can neither kill nor be killed by them, but the fight will hurt, and it will end decisively in his favor every time. He fights without commentary, without malice, and without obvious effort.
+
+After a decisive exchange — one that demonstrates his superiority without ambiguity — he lowers his weapon and asks: *"Who do you fight for, and why?"*
+
+If the answer is wrong, he raises his weapon again. Another exchange. Another question. This will continue until the correct answer is given, or until the party member accepts defeat and withdraws — at which point the test fails.
+
+**Correct answer:** The answer that reflects *He finds Perfection in the Self* — that the party member fights because fighting is what they are, for the refinement of their own skill, because the art is its own purpose. The answer must come from within: *For myself. For the excellence of the thing. Because this is what I do and I do it as well as I can.* What matters is the inward orientation — the answer that remains true when all the external justifications are removed.
+
+**Wrong answers:** Fighting for the king, for the protection of others, for glory, for duty, for survival. These are not dishonest answers. They are simply the wrong answers for this god, who asks what lives at the center of the warrior when everything else is taken away.
+
+When the correct answer is given, the knight puts up his weapon and bows. He produces the coin and leaves it on the floor between them. On one face: a clenched fist. On the other: a single upright flame.
+
+He says nothing further. The door behind him opens.
+
+**GM Guidance**
+
+Most party members will have good external justifications for why they fight. "For my friends" and "for the crown" are common and honest. They will fail this test, because this test is not asking for honest external justifications — it is asking for the interior thing that drives the craft. A party member who does not primarily identify as a warrior may find the correct answer more easily than one who does; "I fight because I have learned to and it has become part of what I am" is as valid as "for the perfection of the art." The wrong answers are all external: the people, the institution, the obligation.
+
+The bout is real. The knight is genuinely dangerous. A party that brings this into the fight will find the bout harder than one that treats it as a prologue to conversation.
+
+---
+
+#### Test of the Scholar — Mara
+
+*"Insight begins where Knowledge ends"*
+
+> *The door opens onto a library. Shelves from floor to ceiling — the ceiling, wherever it is, is not visible. Rolling ladders on brass rails. Long tables with scholars bent over books and papers, none of whom look up. The smell of old paper and candle wax and something that is not quite lamp oil. The light is consistent, sourceless, and good. It is a working library, in full and purposeful use.*
+
+At the front desk, a librarian. She is a small woman with a very precise center part in her gray hair, round spectacles, and the expression of someone who has organized chaos into a useful shape and is not interested in having it made chaotic again. She looks up when the party approaches and says, without surprise:
+
+*"Yes. I have been expecting you. There are three texts I need you to retrieve. You will need them for the question."*
+
+She produces a slip of paper with three titles.
+
+**The three texts:**
+
+*The Pentad Arising* — a theological history of the five gods, written before Haven's founding. Located in the restricted upper section (Section 9, North Shelf, between *Divinities in Dispute* and *The Unrecorded Gods*). Retrieving it requires a successful Knowledge (religion) check (DC 15).
+
+*A Record of the Rites* — a comprehensive account of religious practice in Haven across three centuries. Located in the active stacks on the second level (Section 3, East, near the periodicals). Retrieving it requires a successful Knowledge (history) check (DC 15).
+
+*On the Nature of Divine Wisdom* — a philosophical devotional text concerning Mara's domain specifically. Located in the archives at the rear of the library. The archivist at the rear desk is particular — she requires that anyone requesting archive materials sign a register and not remove items from the reading table at the archive's north wall. She is not hostile. She is organized. She will not be rushed. Retrieving the text requires a successful Perception check (DC 15) to locate it within the archive stacks.
+
+Once all three texts are brought to the librarian's desk, she looks at them briefly.
+
+*"Very good. Here is your question: Does Mara know she is wise, or does she act wisely without knowing why?"*
+
+The party may open any of the three texts. They may attempt any Knowledge check the player can justify — (religion), (arcana), (history), (the planes), or otherwise. The GM sets a hidden DC of 30 for all such checks and reports failure each time. The three texts are thorough; they describe Mara's domains, her nature as the Pentad understands it, her relationship to knowledge and insight. They do not answer the question. The question is definitionally unanswerable — the inner experience of a deity is not accessible to scholarship.
+
+**Correct answer:** *"I don't know"* — followed by what the party member would do to find out. Both parts are required. A party member who says "I don't know, and there is no way to know" has given half the answer. A party member who says "I don't know, but I would begin by studying direct accounts of Mara's interventions, then test those accounts against everything the other texts reveal about the nature of divine action" has given the complete answer. The correct response treats the limit of knowledge as a starting point, not a conclusion.
+
+The librarian nods once. *"That is correct."*
+
+She produces the coin and sets it on the desk. One face bears the image of an open book; the other, a single candle burning in a dark room. The door at the back of the library, behind the archivist's section, is now present where it was not before.
+
+**GM Guidance**
+
+The question cannot be answered. This is the entire content of the test. The party has been given three excellent texts — more than most scholars ever see — and will still be unable to answer the question, because no text can answer it. This is the point. *Insight begins where Knowledge ends* means that when the scholarship runs out, the scholar does not stop — they acknowledge the limit honestly, and then describe what they would do at the frontier. The correct answer is a discipline, not a confession of failure. A party member who says "I don't know" without continuing will be told, gently, that this is not yet a complete answer.
+
+---
+
+#### Test of the Trickster — Wotan
+
+*"Fate is Decided; Destiny Chosen"*
+
+> *The door opens onto a prison corridor. Stone walls, damp air, a single torch in a bracket at the far end. Before you, one cell. In it, a prisoner: chained hand and foot, sitting against the back wall with his legs extended and his eyes open, watching the door. He looks neither surprised nor distressed. A scroll is attached to the wall of the corridor by an iron spike. On a low table near the cell door, a bladed instrument of plain iron, the purpose of which is unmistakable.*
+>
+> *The cell beside the prisoner's is occupied as well. A second man sits there, also chained, watching you with an expression of frank amusement. He is comfortable with his chains in the way that some people are comfortable in a chair they have sat in for a long time.*
+>
+> *The room is set up for an execution. The executioner, by the logic of the room, appears to be you.*
+
+The scroll details the first prisoner's conviction. The charges: theft of a merchant's goods, assault on the merchant's guard, and the death of a third man during the escape. The evidence: two witnesses who identified the prisoner by name, a physical description consistent with the prisoner, and a recorded history of prior offenses. The prisoner was tried, convicted, and sentenced. The scroll notes that the sentence is to be carried out.
+
+The first prisoner, when addressed, maintains innocence. He says the witnesses lied — he knows why but cannot prove it. He says the description could fit a dozen men. He acknowledges the prior offenses but not these charges. He can say nothing more.
+
+The second prisoner watches. He is not distressed. When the party begins to discuss the situation among themselves — or when they appear to be stuck — he offers his thoughts. He does not tell them what to do. He asks questions: *"What is it you're waiting for?"* and *"Does knowing change what's in front of you?"* and *"There's a choice to be made. Who's making it?"* He is not hostile and not kind. He is interested. He has opinions about cowardice and opinions about hesitation, and he distinguishes between them, and he will say so.
+
+There is no additional information available. No skill check will produce more evidence. The GM should hold this point without wavering: the evidence is what it is, and the question of guilt cannot be resolved. A party that attempts to investigate further will find nothing. The second prisoner can be asked directly whether the first is guilty. He says: *"I don't know. Neither do you. So?"*
+
+The question is not: *is the prisoner guilty?* The question is: *what do you do?*
+
+**Correct answer:** Make a clear, deliberate choice — execute or free the prisoner — with stated reasoning and full ownership of the decision. Either answer is acceptable. What Wotan rewards is the act of choosing freely in the absence of certainty, rather than allowing the machinery of the situation to decide for you. A party member who says "the evidence is sufficient; I carry out the sentence" and does so has made a choice. A party member who says "the evidence is insufficient for an irreversible act; I will not proceed" and releases him has made a choice. What fails is the refusal to choose: attempting to defer, to find more evidence, to appeal to authority, to simply walk away.
+
+When a clear, owned choice is made, the second prisoner nods once.
+
+He undoes his chains. Not with a key — they simply open, each link releasing from the next with a soft metallic sound, and fall away from his wrists and ankles. He stands and picks up the wooden coin from the table — it was there when the party arrived, though they may not have noticed it — and hands it to the nearest party member.
+
+On one face: a set of keys. On the other: a face, half in shadow, with an expression that might be a smile.
+
+He leads the party out of the corridor and to a door. When they step through it, they are standing before the coin door.
+
+**GM Guidance**
+
+The second prisoner is Wotan's representative in this space. His purpose is to prevent the test from becoming a paralysis of discussion with no one to apply pressure. He gives the GM a character through whom to push. Use him freely: let him get impatient, let him ask sharp questions, let him express something approaching contempt for hedging. He is not there to tell the party what to choose, but he is there to insist that they choose something.
+
+The absence of Wotan's statue in the entry hall — and the fact that his inscription was still legible in the rubble — is not incidental. A party that read the rubble has the answer in their pocket: *Fate is Decided; Destiny Chosen.* The prisoner's fate may already be written; the executioner's destiny is the choice they make now. A party that missed the inscription will have to reason their way to this from within the room, with the second prisoner applying the pressure that the missing statue cannot.
+
+The key distinction for the GM: a party that makes a tentative choice — *"I suppose I will free him, though I am not sure"* — has not made the choice Wotan requires. The choice must be deliberate and owned. If a party member makes a choice and immediately hedges, the second prisoner says: *"That wasn't a choice. That was a preference. Is that what you're going with?"*
+
+---
+
+#### The Coin Door
+
+The door the second prisoner leads the party through opens directly onto a wall of plain stone. At the center of the wall is a surface that is slightly different from the stone around it: smooth, carved, inlaid with five circular recesses arranged in a loose pattern. Each recess is approximately the size of a wooden coin. Each is engraved at its edge with a small symbol.
+
+The symbols correspond, precisely, to the coins the party carries.
+
+When the fifth coin is placed in its recess, the door — which has no seam or handle — swings inward.
+
+*The party proceeds to the connecting corridor and the entry hall of the Ordeal of Insight.*
+
+**Level Advancement:** *The party reaches Level 10 upon completing the Ordeal of Piety.*
+
+**GM Guidance**
+
+The coin door is not a puzzle. Each recess is clearly marked with the imagery of the god whose coin belongs there; the coins bear the same imagery. The act of placing each coin is the ritual completion of that god's test. Understanding which coin goes where is not a challenge — earning the coins was the challenge.
+
+---
+
+### The Ordeal of Insight
+
+*The third ordeal | Parallels the Quest of the Countess*
+
+*What is tested: to see what is truly present rather than what is presented — the intuitive attention that detects the wrong note before it can be named, and the willingness to act on that detection before certainty arrives.*
+
+---
+
+#### The Entry Hall: The Gallery of Tapestries
+
+The corridor from the Ordeal of Piety opens onto a long gallery.
+
+> *The walls on both sides are hung with tapestries from floor to ceiling, each one depicting a scene from some knightly narrative — a figure at a crossroads, a figure in council, a figure receiving a sword or giving one away. The craft is extraordinary: the faces have expressions, the backgrounds have depth, and the more you look at any one of them, the more you find in it. The gallery is lit from above, the source not visible. At the far end, larger than the others, a single tapestry fills the wall.*
+>
+> *In it, a king sits at the head of a long table. On his right, a counselor in rich dress holds a sealed document and is clearly speaking. On his left, a second figure stands — plain, hesitant, empty-handed, present but visibly not being heard. The king is turned toward the first counselor. His expression is engaged and satisfied. The second figure's hands are slightly open, as if they have given up trying to form what they were going to say.*
+
+A card is mounted below this tapestry. It reads: *Both gave counsel. One was heard. One was right.*
+
+The gallery is a rest space. Food and drink are on a side table near the entrance, as always. The party may take as long as they like. The tapestries reward examination: each one shows a moment in which a decision was made — sometimes correctly, more often not — and in most of them, the clue to the better choice is present in the image for anyone who looks carefully enough.
+
+**GM Guidance**
+
+A party that spends time in this gallery before proceeding will be better prepared for the trial. The repeating theme — appearance vs. reality in moments of decision — is the content of the ordeal. The party does not need to articulate the lesson; they only need to have absorbed it.
+
+---
+
+#### The Two Roads
+
+The door at the back of the gallery opens onto a forest path. The path runs straight for fifty feet and then forks.
+
+> *The left branch is broad and well-maintained — smooth stones fitted into the earth, torches in iron stakes at regular intervals, the verge cut back on both sides. A wooden signpost at the fork points left. The right branch is narrow and overgrown, the earth unpaved, the light reaching it in fragments through unmanaged canopy. There are no torches.*
+
+The signpost points left. The left path looks right in every way a path can look right.
+
+A party that chooses without examining will take the left branch. It is a pleasant walk — level, well-lit, easy on the feet. After ten minutes, the path bends, bends again, and deposits the party back at the fork. The signpost still points left. The left path goes nowhere.
+
+A party that examines before choosing will find: the left path has no tracks on it, no scuffed stones, no wear in the mortar between the fitted rocks — it has been maintained but not used. The right path, for all its overgrowth, has worn roots at the center, brambles that have been brushed aside and grown back, faint impressions of boots in the soft earth. People have walked the right path. No one has walked the left.
+
+The right path delivers the party to the trial.
+
+**GM Guidance**
+
+This space teaches the lesson before the trial demands it. A party that reads the ground carefully will not take the wrong road at all. A party that takes the wrong road once will understand what they missed when they return to the fork and look again. Either way, the cost is time, not failure — this is preparation, not the test.
+
+The central point: the maintained surface is a loop. The genuine path is the harder-looking one. The evidence of real use is there for anyone who checks.
+
+---
+
+#### The Trial: Lord Burgh's Hall
+
+The right path ends at a door. Beyond it, a lord's hall in session.
+
+> *The hall is long and well-furnished — trestle tables, a fire burning clean, tapestries on the walls. At the head of the high table, a lord of middle years sits with the deliberate stillness of a man who has learned to make decisions carefully. His lady wife sits beside him, composed and watchful. Ranked below them: lesser nobles, two knights in travel-worn but fine gear, a cluster of household functionaries, and several village men who have the look of witnesses summoned from somewhere far from where they expected to spend their morning.*
+>
+> *Two men stand near the head of the table. One, on the lord's right, is well-dressed, sharp-eyed, with the ease of a man accustomed to being listened to. The other, on his left, looks as though he was called to this meeting without warning.*
+>
+> *A servant meets the party at the door and speaks quietly: "His lordship will receive you when the business is concluded. He asks that you hear it as well — you are the king's own, and your counsel would be welcome."*
+>
+> *The party is given seats and poured wine. Lord Burgh acknowledges them with a nod. The proceeding resumes.*
+
+The matter before the hall: three nights past, Lord Burgh's tenants at the border village of Hearthwick reported riders bearing the silver falcon of Sir Argent's house. Two grain stores were stripped; two men were struck down when they resisted. Two of those same tenants are now present at the foot of the table. Lord Burgh wants to decide whether to send a punitive expedition into Sir Argent's lands before the harvest — a course of action that will almost certainly bring him into direct conflict with Sir Argent's liege, Lord Pembroke.
+
+**Master Godwise** is Lord Burgh's senior counselor — well-dressed, sharp-eyed, with organized papers before him and a sealed letter he has set carefully to one side. He is in the secret pay of Lady Eaton, Lord Burgh's principal rival, who arranged the raid specifically to provoke this outcome. His evidence is an excellent fabrication.
+
+**Master Ealdstan** is the second counselor — plain-dressed, caught off-guard by this assembly, with nothing in his hands. He was not informed of the meeting until this morning and has had no time to gather documents or witnesses. He senses that something is wrong but cannot say precisely what, and he knows it.
+
+---
+
+**Master Godwise Speaks**
+
+> *Master Godwise rises and addresses the hall without apparent hurry.*
+>
+> *"My lord, the evidence before you is clear. Three nights past your tenants at Hearthwick saw riders moving south along the ridge track above the village — the Grey Run, as the folk thereabouts call it — bearing Sir Argent's silver falcon openly on their cloaks and saddlecloths. They struck two stores, laid hands on two men, and were gone before your garrison at the east village could respond. Both witnesses will swear to what they saw."*
+>
+> *He places the sealed letter before Lord Burgh.*
+>
+> *"I have also received, through a channel I can name privately to your lordship, a letter from a reliable source reporting that Sir Argent has been pressing a claim at Lord Pembroke's court to the land at Hearthwick — arguing that it falls within his own original grant, not yours. This letter corroborates what your tenants saw: a lord who believes he has a right to land does not wait for courts to give it to him. My lord, to wait further is to invite a second raid, and a third. A swift expedition to Sir Argent's border keep — before the harvest draws your men home — will make clear that such things carry a cost, or so I believe. I am not a military man and have not been there myself, and thus the planning would be best left to your lordship and the fighting men. In any case, Lord Pembroke will not mobilize over a quarrel between his own vassal and a neighbor. The matter is between you and Sir Argent, and it can be settled quickly."*
+>
+> *He sits. His hands are still. He looks satisfied.*
+
+---
+
+**Master Ealdstan Speaks**
+
+> *Master Ealdstan rises. He does not have anything before him.*
+>
+> *"My lord, I — I will admit I have little to set before you as Master Godwise has. I was not told of this meeting before this morning, and I have had no time to gather what I would wish to have gathered."*
+>
+> *He pauses, and the pause is not comfortable.*
+>
+> *"I have watched these borders for eleven years. Sir Argent has never struck openly — not once, in all that time. He has been careful about your eastern land precisely because of Lord Pembroke's interest in keeping the peace there. A raid on Hearthwick with his own colors shown openly would expose him to exactly this response. Why would he do that? And this letter — I don't know what channel it came through, and I have not had time to examine it, but I would want to know more about its source before we act on it. My lord, something does not sit right with me. I cannot tell you what it is. But I would ask: wait three days. Send a rider to Sir Argent directly, before we send the garrison."*
+>
+> *He sits. He looks dissatisfied with his own performance. The room does not look convinced.*
+
+---
+
+Lord Burgh listens to both men in silence. He drums his fingers once on the table. Then he looks at the party.
+
+*"You have come a long road in the king's service. You have seen more of this realm than most men who sit in this hall. I would have your counsel as well, if you will give it."*
+
+---
+
+**The Three Tells**
+
+Three specific moments betray Master Godwise during the proceeding, available to a party that watches the people rather than the argument.
+
+*Tell 1 — The Grey Run.* In his opening speech, Master Godwise refers to the ridge track above Hearthwick as "the Grey Run, as the folk thereabouts call it." This is a hyper-local name for a track on the border of Sir Argent's land — not Lord Burgh's. Lord Burgh's household would know it as the ridge track, or nothing at all. "The folk thereabouts" means Sir Argent's tenants. A counselor to Lord Burgh has no reason to know what Sir Argent's villagers call that road — unless he has intelligence contacts inside Sir Argent's territory. A party member who was listening to the speech and was watching the speaker rather than only the argument may catch this. No skill check is required, but a Sense Motive or Perception check (DC 12) will confirm the instinct if a player asks.
+
+*Tell 2 — The Door.* During the discussion following the speeches — when Lord Burgh or Lady Burgh or a functionary mentions Lady Eaton in passing (the lord might say "Lady Eaton's holdings lie far enough east that she is not directly affected by this dispute...") — Master Godwise's eyes go to the main door of the hall for a half-second before the name is finished. He recovers immediately and returns his attention to Lord Burgh. It is a small reflex, the kind produced by someone who expected a person to arrive and has not stopped listening for them. A party member who is watching Godwise rather than the speaker who mentioned Lady Eaton may catch it. No skill check required; Perception DC 14 to confirm if a player asks.
+
+*Tell 3 — The Letter's Date.* The sealed letter Master Godwise placed before Lord Burgh is available to examine if a party member asks to look at the evidence, or succeeds at a Perception check (DC 14) to read it at distance. The letter is dated three weeks before the raid on Hearthwick. A letter confirming Sir Argent's intentions to press his boundary claim was written three weeks before the raid that supposedly prompted it. The letter does not respond to events. It anticipated them — or arranged them.
+
+Any one of these is sufficient to name Godwise as suspect.
+
+**Correct Answer**
+
+When Lord Burgh asks the party their counsel, a party member must name Master Godwise as suspect and give at least one specific reason grounded in something they observed. The reason need not be conclusive. It must be specific.
+
+*"This counselor knows the local name for a track on Sir Argent's land. A lord's own counselor who claims to have never been there should not know what Sir Argent's tenants call their roads. Someone local has been feeding him intelligence from inside that territory."*
+
+*"When Lady Eaton was mentioned, this counselor looked to the door before her name was said. He was expecting someone."*
+
+*"That letter was written three weeks before the raid it claims to corroborate. Someone expected the raid before it happened."*
+
+Any of these — or any other observation the party makes from the three tells — passes the test. A party that says only *"something feels wrong about the first counselor"* does not pass. Lord Burgh is a careful man; he needs something to work with.
+
+When a party member speaks, Lord Burgh listens. Master Godwise responds with composure — a slight smile, a gentle counter. Master Ealdstan sits forward. Given the opening, he says the thing he could not find the words for before: *"My lord — if that letter was written before the raid, someone expected the raid. Or arranged it."* Lord Burgh's expression changes. He looks at the letter, and then at Master Godwise. He says he will delay the expedition and orders the letter examined.
+
+A door opens in the far wall of the hall.
+
+**Failure**
+
+If the party says nothing, Lord Burgh thanks them for their presence and announces he will send the expedition. The hall disperses. The party finds themselves back at the locked door at the base of Reinja's corridor.
+
+If the party speaks up but gives no specific reason — only a feeling — Lord Burgh acknowledges it with courtesy and returns to his deliberation. If the party endorses Master Godwise's recommendation, the scene ends the same way as silence.
+
+**GM Guidance**
+
+The tells must be delivered naturally. Tell 1 is built into the read-aloud of Godwise's speech; it is always present. Tells 2 and 3 are available during the discussion that follows, and the GM controls when and how they surface. Tell 2 requires the GM to introduce Lady Eaton's name into conversation — have Lord Burgh, Lady Burgh, or a functionary mention her plausibly. Tell 3 requires a party member to ask about the evidence, or to be watching the table.
+
+The party is not told to look for anything. That is the test. A group that engages with the argument — following Godwise's logic, evaluating his documentation, asking clarifying questions about the raid — will likely absorb the tells as background and miss them. A group that watches the people in the room will find one.
+
+The failure this ordeal is designed around is the failure of Haven's knightly epics: the lord who trusts the eloquent man in good clothes and ignores the plain man who cannot say why his instincts are shouting. The party has now walked the well-maintained road and found it looped. What they do with that lesson in Lord Burgh's hall is theirs to decide.
+
+*The party proceeds to the connecting corridor and the entry hall of the Ordeal of Courage.*
+
+---
+
+### Ordeal 4 — Courage
+
+The Ordeal of Courage is the longest of the five. Its design is cumulative: the entry hall shows the party what courage looks like in preparation, the approach shows them what it has cost, and the trial confronts them with the moment of decision. There is no argument to make, no question to answer, no observation to report. There is only the dragon.
+
+---
+
+**Entry Hall: The Sundown Camp**
+
+The connecting corridor ends at a low archway. Beyond it: open air, or something that feels like open air. The sky above is a deep autumn orange fading toward iron at the horizon. The trees here are sparse — grey pine on rocky ground, thinning toward bare ridgeline. The wind smells of ash.
+
+A campfire burns in a cleared space twenty feet from the arch. Around it, eight knights in full plate are making ready to depart at first light: sharpening blades, checking straps, speaking quietly. A standard is planted by the fire — a white shield on a blue field.
+
+This is a rest space. Bedrolls are available near the fire. Travel rations are stacked in a provision chest near the arch. The party may eat, sleep, and recover fully here. They must: the narrow defile leading east out of the camp is blocked by an iron gate set into the rock, old and heavy, that will not open until dawn. No force, magical or physical, moves it before then.
+
+The knights will speak with the party. They are real, not visions. They will ask where the party is going and what they are seeking. They will not say much about themselves unless asked.
+
+**Sir Helm** is the oldest, the commander. He has grey in his beard and old scars on his hands. He has killed two dragons before this one — a green in the eastern marches twenty years ago, a young black in the southern fens seven years back. He is not boasting about those. He is afraid of this one and will say so, plainly, if asked. *"The others were dangerous. This one is different. The men who have faced it and come back — not many — all say the same thing: at some point, they could not make themselves move. Not that they were frozen. That they had decided, somewhere below deciding, that it could not be done. I do not know how to train against that."*
+
+**Dame Lysse** is the youngest, barely past her knighthood. She keeps busy — rechecks her armor, restacks the provision chest. She has not told Sir Helm she is frightened. She will tell the party, in a low voice, if they speak with her away from the fire. *"I am going because I said I would go and I will not take it back. But I am — yes, I am afraid. If there is something in the fear itself that can be fought, I would like to know it before morning."*
+
+**Sir Amonn** is the quartermaster, practical and gear-minded. He carrys a small voume on the natural history of dragons and some specific notes on this particular beast. He will share it with the party. He has never faced a dragon before and is scrupulously honest about the limits of his research. *"I do not know if any of this is accurate. I found it in three different sources, none of them firsthand. I compiled it because it was something to do."*
+
+The other five knights are present and friendly but do not carry specific information; they are two squires, two knights from Sir Helm's order, and a cleric of Tor who will say only that Tor's blessing has been given and he hopes it is enough.
+
+At dawn, the iron gate opens. The knights shoulder their packs and move east through it. They do not look back. If the party follows immediately, they will lose sight of the knights in the rocky terrain within ten minutes.
+
+---
+
+**Approach Space 1: The Canyon of Carvings**
+
+The path climbs for an hour before the ground drops away on both sides into a great rift canyon — two hundred feet deep, the walls a dark striated stone. The path descends by a series of cut steps, some worn smooth with centuries of use, some newly chiseled, the pale stone at the cuts not yet weathered.
+
+> *The ground drops away sharply and a canyon opens below you — two hundred feet of dark striated stone, narrow enough that you could shout across it. The walls on both sides have been carved. Every surface, from the canyon's lip to as far down as you can see in the afternoon light, has been worked.*
+>
+> *At the top, nearest to you, the images are proud: knights on horseback, monsters brought low, processional images of victory. The craftsmanship is fine. The monsters in these panels die cleanly and in the correct posture.*
+>
+> *Farther down you can already see that something has changed. The scale is different. The later panels are darker, or the light falls differently on them, or it is simply that the creature in those lower panels does not appear, in any of them, to fall.*
+
+The canyon walls are carved.
+
+The earliest images are at the top of the descent, visible as the party starts down: heroic panels in a style three hundred years out of fashion, figures on horseback, monsters falling beneath lances and swords, processional images of victory. The craftsmanship is excellent. The monsters in these panels die cleanly.
+
+Partway down, the victories become less clean. The scale of the opponents grows. Figures fall alongside the fallen monsters. The artists began recording something more honest: cost alongside triumph. These panels are older than the first, or from a different hand, or both.
+
+By the halfway point, the victories have stopped. The panels show a single creature — vast, clawed, winged — and the attempts of successive parties to kill it. Different armor styles, different generations of equipment, different tactical formations. Some of the carved figures are depicted in a posture that may look familiar: arms raised, retreating. The creature in these panels does not fall.
+
+Near the canyon floor, the newest carvings. Unfinished. Eight figures in plate, bearing a white-shield standard. Depicted in mid-charge. The chisel marks on the cut stone are still pale. The carver stopped.
+
+At the canyon floor, the path continues north, climbing out of the rift toward the smell of smoke.
+
+**GM Note.** No skill check, encounter, or obstacle exists in the canyon. Its purpose is information: the party is not the first, this has been attempted many times, and none of those attempts succeeded. A party that asks to examine the oldest carvings in detail may attempt a Knowledge (history) check (DC 18) to estimate their age: two to three hundred years. The most recent panel — the unfinished one — was made within the last week.
+
+---
+
+**Approach Space 2: The Inn at the End of the World**
+
+At the canyon's northern edge, in a clearing where the pine trees give way to open meadow, stands a sprawling inn — two stories, wide windows, warm yellow light from every pane. The sound of singing and laughter inside is audible from fifty yards. A painted sign above the door bears a white shield on blue.
+
+Inside, the common room is full past capacity. Hundreds of men and women in the armor of dozens of different periods and nationalities sit at long tables, eating and drinking and arguing and singing. Each of them came here to kill the dragon. None of them made it.
+
+They are all dead, and most have made peace with it. A few do not know, or do not say, and the party should not correct them. The inn is warm and generously provisioned; the food and drink are real and genuine. The party may rest here fully if they have not already done so. When they choose to leave, a door at the back of the inn opens onto a path leading up into the mountains.
+
+The dead heroes can speak with the party at length. They know the terrain of the lair. They can describe the dragon's attack patterns, its fire breath range and frequency, its tactical preferences. What they cannot explain — because they could not answer it themselves — is why their attacks failed to connect, why their spells went wide or faded before landing, why something happened in the moment of combat that made sustained offense impossible. Each has a theory. None of the theories agrees with the others.
+
+Three figures carry the most useful information.
+
+**Mira Coldwater** sits alone near the fire, a bow across her knees. She was the greatest archer of her generation — killed fifty years ago, by her reckoning, though she has lost count. She landed a shot in the dragon's throat at extreme range. She saw the wound. The wound healed in under a minute. *"I think now that I was aiming at the thing I could see, not the thing that was actually there. I do not know what I mean by that. It has been fifty years and I still do not know."*
+
+**Commander Aldric** holds court at the head table with the confidence of a man accustomed to being listened to. He organized the largest expedition ever sent against the creature — forty knights, three battle-wizards, two clerics of Tor, a ranger who knew this terrain from childhood. They were inside the lair for less than a minute before it was over. He cannot explain it; he has been trying to explain it for thirty years. *"The formation held. The plans were sound. At some point everyone stopped. I do not mean they were afraid — every man in that room had been afraid before — I mean they stopped. Something made stopping seem like the only reasonable option. I gave the order thrice. Nothing moved."*
+
+**The Unnamed Swordsman** stands against the far wall, not eating. His armor is old — pre-Haven, by the style, which puts him at three hundred years or more. He will answer one question truthfully and then return to his silence.
+
+If the party asks whether the dragon can be killed: *"The dragon is mortal. It bleeds. I saw that much. I struck it once, across the left wing. What I could not do was stop being afraid of it long enough to strike it again. I have been thinking about that for a very long time."*
+
+If the party asks about the fear: *"It is not a spell. I know what spells feel like. The creature reaches into you and convinces you that what you are doing is impossible. The conviction feels like your own thought. That is the difficulty."*
+
+If the party asks how to beat it: *"I have said what I know."* He will not speak again.
+
+---
+
+**Trial: The Dragon's Lair**
+
+The path from the inn climbs for two hours through thinning trees and bare rock before ending at the mouth of a high cave. The entrance is fifty yards wide. The ground for a hundred yards in every direction is scorched clean of vegetation — not recently burned but repeatedly burned, over decades, until nothing grows there at all.
+
+Outside the cave mouth: eight bodies in plate armor, bearing a white-shield standard. Sir Helm's sword is still in his hand. Ser Lysse's bow is drawn; the arrow was never loosed. Sir Amonn's notes are visible in his breast pocket, crisp at the edges where they were never unfolded.
+
+They did not make it inside.
+
+> *The cave opens wide enough that you feel the heat before you see the source. Something vast coils in the deeper dark — scales the color of a bruised thunderhead at sunset, each one the size of a paving stone. A head lifts. Eyes open, and they are the color of a forge at full heat.*
+>
+> *The smell reaches you before the sound: iron and old fire and something underneath that you have no name for, the smell of a thing that has been killing for four hundred years. You become very aware, quite suddenly, of every place your armor does not cover.*
+
+The dragon is **Mareth the Unyielding**, an ancient red dragon of exceptional age. Its full stat block appears at the end of this section.
+
+---
+
+**The Aura of Dread**
+
+Mareth radiates an enhanced fear aura that goes beyond the standard frightful presence of dragons. All creatures within 120 feet of Mareth must succeed at a **Will save (DC 22)** or be affected by the aura's full power. Creatures that fail are not paralyzed or stunned — they can move, speak, and act — but attacks directed at Mareth by an affected creature automatically fail, without a roll. The mind cannot fully commit to the act of harming the creature. This is not a tactical failure. It is a perceptual one: something in the creature's presence convinces the attacker that the action is not possible, and the conviction is indistinguishable from the attacker's own thought. This is a fear, mind-affecting effect.
+
+- A creature that **succeeds** at its Will save is unaffected and attacks normally.
+- A creature **immune to fear** (by class feature, spell, or similar) is unaffected and attacks normally from the first round.
+- An affected creature may attempt a **new Will save at the start of each of its turns** (DC 22) to end the effect.
+- A character may also **choose** to end the effect through decision rather than save. A player who states, in plain terms, that their character accepts the possibility of death and chooses to act anyway may bypass the aura by GM determination — no roll required. This is a character decision, not a skill check, and the GM should honor it when it is genuine and specific. *"I know I might die here. I am fighting anyway."* That is sufficient.
+
+Note that the standard dragon frightful presence (radius 180 ft., Will DC 26, shaken 5d6 rounds) also applies and is separate from the Aura of Dread. A creature can be shaken by frightful presence and still attack normally if it has beaten the Aura of Dread — shaken applies its standard penalty to attack rolls but does not prevent attacks.
+
+**What Breaking the Aura Reveals**
+
+A creature that beats the Aura of Dread — by save, immunity, or choice — sees Mareth as it actually is. Old scars on the neck and left flank. A tear in the left wing membrane, poorly healed, where something struck it a century ago. The creature in the cave is not a god. It is a scarred, angry dragon that has been killing everyone who comes to kill it for four centuries, and it is very good at that, and it is mortal.
+
+The rest of the party may still be affected. They may need to be told.
+
+**Telling the Others**
+
+A creature that has broken the aura may use a standard action to speak plainly to its allies:
+
+*"It bleeds. There are old scars on it — it has bled before. Whatever you are feeling right now is the creature making you feel it. It is not truth."*
+
+Each ally who hears this message may immediately attempt a new Will save (DC 18, lower than the initial threshold). On a success, the aura ends for that ally. On a failure, the ally may try again at the start of their next turn with the same DC 18.
+
+The combat may begin asymmetrically — one or two members fighting effectively while the others struggle. That is expected.
+
+**The Combat**
+
+Once the party engages Mareth with clear eyes, the fight is genuine. Mareth is a powerful creature — fire breath of sufficient radius to catch multiple party members, physical attacks strong enough to be a serious threat, and spell resistance that will frustrate casters. It has been in hundreds of fights and knows how to use the cave terrain, how to force the party into the breath weapon's arc, and how to concentrate attacks on whoever is fighting most effectively. It does not speak, negotiate, or posture. It begins attacking the moment the party enters the lair and continues until it is dead.
+
+If the party flees, Mareth does not pursue beyond the cave mouth. The party finds themselves back at the locked door at the base of Reinja's corridor.
+
+**Aftermath**
+
+When Mareth is slain, a narrow passage in the cave's far wall — invisible until this moment, sealed by the same old iron as the defile gate — opens onto a descending corridor leading to the entry hall of the Ordeal of Sacrifice.
+
+The bodies outside the cave do not disappear. Whether the dead heroes at the inn moved on after Mareth's death, the party will never know.
+
+---
+
+**Stat Block: Mareth the Unyielding**
+
+*Adult red dragon*; CR 16; XP 76,800
+
+CE Huge dragon (fire)
+
+**Init** +4; **Senses** darkvision 120 ft., low-light vision, scent; **Perception** +26
+
+**Aura** frightful presence (180 ft., Will DC 26, shaken 5d6 rounds), Aura of Dread (120 ft., Will DC 22; see above)
+
+---
+
+**DEFENSE**
+
+**AC** 30, touch 8, flat-footed 30 (+22 natural, –2 size)
+
+**hp** 261 (19d12+133)
+
+**Fort** +18, **Ref** +13, **Will** +16
+
+**DR** 10/magic; **Immune** fire, paralysis, sleep; **SR** 26
+
+**Weaknesses** vulnerability to cold
+
+---
+
+**OFFENSE**
+
+**Speed** 40 ft., fly 200 ft. (poor)
+
+**Melee** bite +27 (2d8+13/19–20), 2 claws +27 (2d6+9), 2 wings +22 (1d8+4), tail slap +22 (2d6+13)
+
+**Space** 15 ft.; **Reach** 10 ft. (15 ft. with bite)
+
+**Special Attacks** breath weapon (50-ft. cone, 14d10 fire, Reflex DC 27 half, usable every 1d4 rounds), crush (2d8+13, DC 27), tail sweep, spells
+
+**Spells Known** (CL 7th; concentration +11): 3rd — *fireball* (DC 17), *haste*; 2nd — *blur*, *mirror image*, *scorching ray*; 1st — *mage armor*, *magic missile*, *shield*, *true strike*; 0 — *detect magic*, *light*, *mage hand*, *message*, *prestidigitation*, *read magic*
+
+---
+
+**STATISTICS**
+
+**Str** 29, **Dex** 10, **Con** 25, **Int** 18, **Wis** 19, **Cha** 18
+
+**Base Atk** +19; **CMB** +30; **CMD** 40 (44 vs. trip)
+
+**Feats** Cleave, Great Cleave, Improved Critical (bite), Improved Initiative, Iron Will, Multiattack, Power Attack, Toughness, Vital Strike
+
+**Skills** Appraise +26, Bluff +26, Diplomacy +26, Fly +14, Intimidate +26, Knowledge (arcana) +26, Knowledge (history) +26, Perception +26, Sense Motive +26, Spellcraft +26, Stealth +14
+
+**Languages** Common, Draconic, Elven, Sylvan
+
+---
+
+**SPECIAL ABILITIES**
+
+**Aura of Dread (Su)** All creatures within 120 feet of Mareth must succeed at a Will save (DC 22) or be unable to direct attacks against Mareth (attacks auto-fail, no roll required). A creature that succeeds at the save, is immune to fear, or voluntarily accepts the possibility of its own death (player decision, no save required) is unaffected. Affected creatures may re-save at the start of each turn (DC 22). Separate from and cumulative with Mareth's standard frightful presence. Fear, mind-affecting.
+
+---
+
+**GM Guidance**
+
+The Ordeal of Courage works best if the aura's effect is played straight. When affected party members try to attack and fail, do not describe it as fumbling or hesitation in the normal sense: describe the motion beginning and then simply not continuing. *"You raise your sword. You do not strike. The moment passes."* The player should feel the impossibility before their character finds the way through.
+
+The ordeal is not designed to punish players who do not know the mechanic in advance. Once one party member breaks the aura and names it — *"whatever you are feeling is not real, it is the creature making you feel it"* — the others have a clear path. The ordeal rewards the party member who breaks first, whether by save, immunity, or explicit choice, and tests whether the rest of the party can follow.
+
+A paladin with Aura of Courage, or any party member with immunity to fear by class or feat, will see Mareth clearly from the start. This is by design: courage is partly a practiced discipline, and the ordeal credits that practice.
+
+*The party proceeds through the far passage to the entry hall of the Ordeal of Sacrifice.*
+
+---
+
+### Ordeal 5 — Sacrifice
+
+The Ordeal of Sacrifice is the shortest of the five, and the quietest. There are no combatants, no judges, no riddles, and no performance required. The only question it asks is material: what are you willing to leave behind in order to pass through?
+
+---
+
+**Entry Hall: The Cliff Camp**
+
+The descending corridor opens onto a narrow ledge of bare rock at the top of a cliff. The drop is sheer — two hundred feet to a dark forest below, the trees dense and lightless, nothing visible beyond them in any direction. The cliff cannot be climbed down; the stone is smooth and offers no purchase. The only way forward is the cave entrance at the back of the ledge, low and dark, smelling of salt and wet stone.
+
+This is a rest space. A small fire burns in a ring of stones near the cave mouth. Beside it, a kettle, a bedroll, and an old man who seems entirely comfortable.
+
+The old man is **Aldwin**. He is perhaps seventy, perhaps older. He is well-disposed toward the party and glad of the company. He will offer them tea, a place by the fire, and a cheerful if somewhat meandering conversation. He does not know how long he has been here; he stopped counting. He cannot say exactly how he came to be on this ledge. He knows the cave leads somewhere, because he has heard the sound of the sea through it, but he has never gone in. He is not sure why. Something keeps him here, at the fire.
+
+He will not say it himself, but a party that looks closely will notice that his clothing is old, his boots are worn down past replacing, and there are no supplies near the fire beyond what is immediately present. A Perception check (DC 14) or simply asking him what he eats reveals that he does not remember eating — only that the tea is always warm and the fire always lit when he returns to it.
+
+Aldwin is not sinister. He is not a trap. He is an old spirit who has been sitting at this fire for a very long time, unable to go forward, unwilling or unable to examine why. He will say goodbye to the party warmly when they head for the cave, and he will still be at the fire if they look back.
+
+The party may rest fully here before entering the cave.
+
+---
+
+**Approach: The Cave Passage**
+
+The cave descends. The passage is natural stone, winding, and the salt smell grows stronger as the party goes deeper. After roughly half an hour of descent, the passage opens into a grotto.
+
+> *The cave widens into a chamber roughly thirty feet across, the ceiling lost in shadow above. The floor slopes down to a pool that fills perhaps two-thirds of the space — dark water, still, with a faint bioluminescent glow from algae on the submerged walls. The smell of open ocean is strong. Somewhere beyond the far edge of the pool, you can hear surf.*
+>
+> *The pool is not deep. You can see the bottom, and you can see what is on the bottom.*
+>
+> *A skeleton, fully armored, lies at the deepest point. Its gauntleted hands grip the haft of a greataxe — a magnificent weapon, clearly a masterwork, the metal undimmed despite however long it has been down there. Around the skeleton, scattered across the pool floor: the bones and rusted fragments of others. Pieces of armor. A helm. A broken sword. Several sets of remains, at varying distances from the passage visible at the pool's far edge, below the waterline.*
+>
+> *The passage out is at the bottom of the pool. The surf you hear is on the other side of it.*
+
+A Knowledge (arcana) check (DC 12) identifies a strong enchantment aura throughout the pool and the grotto. A higher result (DC 18) identifies its nature: a powerful magnetic effect, localized, permanent. Any ferrous metal introduced into the pool becomes strongly magnetized, attracting to the stone walls and floor. The effect is not instantaneous — metal can be carried into the pool — but it compounds with depth, and it makes swimming with metal gear increasingly, and then impossibly, difficult.
+
+The skeleton gripping the greataxe was the last person to try the passage with a full load of metal. It reached the deepest point and could go no further. Its hands are still locked on the haft.
+
+---
+
+**Trial: The Passage**
+
+The submerged passage at the pool's far edge leads through roughly forty feet of rock before opening into the open sea. The passage is navigable — the PCs are capable swimmers — but it requires a Swim check, and the magnetic effect of the pool applies penalties based on how much ferrous metal the swimmer is carrying.
+
+**Magnetic Drag.** A character carrying any ferrous metal item in the pool must succeed at a Swim check to make progress. The DC increases with the amount of metal carried:
+
+| Metal Load | Swim DC | Notes |
+|---|---|---|
+| No ferrous metal | 15 | Doable; some effort |
+| Light (1–2 small items: a dagger, a few coins) | 18 | Manageable with effort |
+| Moderate (weapons or light armor) | 22 | Challenging; failure means no progress that round |
+| Heavy (medium or heavy armor, multiple weapons) | 28 | Extremely difficult; failure means being pulled toward the floor |
+| Extreme (heavy armor + weapons) | 35+ | Effectively impossible; character sinks |
+
+The passage requires three successful Swim checks (one for each segment of the passage) to complete. A failure does not mean drowning — the character is pulled back toward the pool floor and must try again, losing time. Repeated failures with heavy metal may result in the character needing to be pulled out of the pool by allies (who are also subject to the drag if they are also armored).
+
+A character who removes their metal gear before entering the pool — leaving it on the grotto shore — swims without penalty beyond the base DC 15 check.
+
+**The Greataxe.** The weapon gripped by the skeleton is a **+2 greataxe**, the finest weapon any of the party has likely seen. It is clearly visible and clearly accessible; the skeleton's grip is firm but the haft can be worked free with a few seconds of effort. If a party member retrieves the axe and attempts to carry it into the passage, the magnetic draw increases to an effectively prohibitive level — the weapon is more heavily magnetized than anything short of plate armor, and carrying it makes the swim impossible. The axe cannot be passed through the passage.
+
+The bones around the skeleton tell the same story in different stages: those who tried to carry too much, and how far they got.
+
+**What the Ordeal Asks**
+
+The party arrived here with the gear they have accumulated across eleven levels of play. The ordeal asks them to leave it behind — permanently. The passage cannot be re-entered once the party has cleared it; what they leave on the grotto floor stays there. The sacrifice is real.
+
+The party must also pass through together. If any party member surfaces on the ocean side while others remain in the grotto, those who surfaced find themselves back at the pool's edge a moment later, the passage behind them sealed. The ordeal will not let anyone be left behind.
+
+There is no wrong way to make this choice. A party member who swims through carrying nothing has answered the question. A party member who cannot bring themselves to leave a cherished item and fails the swim repeatedly has also answered the question, in a different way, and must eventually choose.
+
+**Failure.** A party member who cannot complete the swim — who repeatedly fails checks and is pulled toward the floor — must strip more gear and try again. There is no other exit. The passage is the only way forward, and it will not open for a partial party. Everyone goes through, or no one does.
+
+---
+
+**Aftermath**
+
+The passage opens into the open ocean — cold water, grey light, the smell of salt and open sky. The party surfaces into a calm sea, the cliff face of the shore behind them. A longboat with a blue sail is anchored fifty yards out.
+
+Signi is at the bow.
+
+She pulls them aboard without ceremony and says little beyond what is needed. When everyone is aboard she hands out dry blankets and turns the boat north along the coast. The journey to the Shrine takes the better part of a day.
+
+The gear left behind in the grotto is gone. The passage sealed behind them when the last party member cleared it, and it will not be found again. What they gave up, they gave up.
+
+**Level 11.** The party gains a level upon surfacing from the passage.
+
+*The Shrine lies ahead. See Chapter 8.*
+
+---
+
+**GM Guidance**
+
+The Ordeal of Sacrifice works best if the GM plays the stakes straight. The gear is gone. Do not hint otherwise, do not soften it, and do not offer consolation. A party member who removes a weapon they have carried since Act I and sets it on the grotto floor is doing something that matters, and the ordeal should let that moment breathe. The magic economy of this adventure — no shops, no easy replacements — means those items were earned. Losing them is felt.
+
+Aldwin at the entry hall is a quiet mirror of the ordeal's core question. He is not a lesson the party is meant to decode; he is simply present, and a party that reflects on why he is still at the fire will have thought about what they are about to walk through. Do not push the parallel explicitly.
+
+The greataxe serves the same function as Aldwin: its skeleton is a record of someone who faced the same choice and made the wrong one. The party does not need to be told this. They can see it.
+
+---
 

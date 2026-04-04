@@ -24,9 +24,9 @@ The player characters will not know any of this when the campaign begins. They w
 This book is organized as follows:
 
 - **The Realm** covers everything needed to understand and portray Haven, its geography, its people, its institutions, its history, and its secrets. Read this section thoroughly before running the adventure.
-- **Running the Adventure** covers the mechanical and narrative systems underpinning the campaign: milestone leveling, the quest pool, the magic economy, the historical revelation tracker, the winter downtime framework, the ordeal system, the Act IV crisis framework, and the multiple-endings structure.
+- **Running the Adventure** covers the mechanical and narrative systems underpinning the campaign: milestone leveling, the quest pool, the magic economy, the historical revelation tracker, the winter downtime framework, the ordeal system, the Act IV crisis framework, and the ending framework.
 - **Chapters 1–9** present the adventure itself, act by act. Each chapter opens with a summary and GM notes, followed by scene-by-scene descriptions.
-- **Appendices A–D** contain all stat blocks, magic items, and reference tables.
+- **Appendix A** contains stat blocks for all unique creatures and named NPCs in the adventure. **Appendix B** contains magic item entries.
 
 **Read-aloud text** is presented in blockquote format:
 
@@ -48,7 +48,7 @@ The characters journey east across the continent in search of the Sword of the R
 The characters arrive in Aldenmere and discover that the people there know Cuthbert not as a perfect hero but as a man who left his kingdom because he was ashamed of what it was becoming. They meet Signi, the current Redeemer, who believes the time has come to return the Sword to the west. They are sent to Reinja — Cuthbert's elven wife, still living, still guarding the approach to the five ordeals she designed. If they prove worthy, she takes them to a passage deep in her castle that descends into a metaphorical underworld — five successive trials, each a self-contained world of its own, linked by corridors of ordinary stone. At the end of the last ordeal, the Sword passes to them, and Cuthbert's bound spirit speaks the truth of his departure — the truth that Haven has never known.
 
 **Act IV: Truth and Consequences** *(Chapters 8–9, Level 12)*
-The characters return to Haven. The crises of Act I have escalated in their absence. Factions press from every side. The Sword's return is not a secret, and everyone with power in the kingdom has a position on what should be done with it. The characters must decide: give the Sword to the king, give it to a noble house, use it to rally the common people, or find a fourth path that the adventure does not anticipate but cannot foreclose.
+The characters return to Haven. The crises of Act I have escalated in their absence. Factions press from every side. The Sword's return is not a secret, and everyone with power in the kingdom has a position on what should be done with it. The characters must decide: return the Sword to Harold II, the canonical resolution for which the adventure is written, or pursue a different resolution of their own devising.
 
 ---
 
@@ -225,7 +225,7 @@ Haven's noble titles follow convention: a male holder of an earldom is an Earl; 
 
 The Wild is not a place on Haven's maps so much as an acknowledgment that Haven's maps have edges. East of the kingdom's settled territory, the great forested wilderness covers the vast interior of the continent in an unbroken canopy that the exile fleet, arriving from the sea, never had occasion to enter. Haven's people encounter the Wild primarily at its margins — in the fey incursions that probe the eastern earldoms, in the occasional delegation that approaches a border settlement with purposes not always immediately clear, and in the stories told about what lies beyond the tree line, stories that are rarely reliable.
 
-The peoples who inhabit the Wild are grouped under the term "fey" in Haven's common usage — a word that covers an extraordinary range of communities, traditions, and relationships to the world and to each other. Elves are the most commonly encountered, partly because they are most likely to venture into Haven's border regions and partly because Haven's people find them most intelegible. Gnomes appear somewhat less frequently and are regarded with a mixture of curiosity and wariness that is not quite the same as the wariness directed at elves. The traditional fey races — the small and the strange, the creatures who seem made of the forest itself — are encountered rarely enough that each encounter functions as an event rather than a routine.
+The peoples who inhabit the Wild are grouped under the term "fey" in Haven's common usage — a word that covers an extraordinary range of communities, traditions, and relationships to the world and to each other. Elves are the most commonly encountered, partly because they are most likely to venture into Haven's border regions and partly because Haven's people find them most intelligible. Gnomes appear somewhat less frequently and are regarded with a mixture of curiosity and wariness that is not quite the same as the wariness directed at elves. The traditional fey races — the small and the strange, the creatures who seem made of the forest itself — are encountered rarely enough that each encounter functions as an event rather than a routine.
 
 The Wild also contains, now, the goblinoid peoples whose ancestors were displaced from the western coast when the exile fleet arrived three centuries ago. This is not a fact that Haven's official history dwells on. The goblins, hobgoblins, and their kin were pushed east into the Wild by the pressure of the exiles' settlement; they warred, in that displacement, with the fey peoples already living there; and the wars of that original dispossession have structured the relationship between Haven and the Wild ever since. The goblinoids have made a wary peace with the fey over the course of three centuries and maintained an enduring and specific hatred for Haven. Their raids against the kingdom's border settlements are not random violence. They know exactly what they are raiding and why.
 
@@ -506,37 +506,123 @@ When the party proves worthy, Reinja does not send them to distant sites. She le
 
 ### The Act IV Crisis Framework
 
-The state of Haven when the party returns is determined by Act I quest outcomes. The GM should track outcomes using the states below and apply the resulting conditions to Act IV.
+The state of Haven when the party returns is determined by Act I quest outcomes and, in one case, an Act II encounter. The GM should track all outcomes using the states below before beginning Act IV; together they define the political and military landscape the party walks back into.
+
+Two broad states are possible depending on the Countess outcome: **Harold holds the throne** or **civil war**. All other crisis states are read within one of those two frames.
+
+---
 
 *The Countess:*
-- **Resolved (early):** Alefrith was exposed at Harbow. The conspiracy is publicly known; the Earl of Waldsea faces a political crisis. If the party discovered Lady Teta's connection to Alefrith, that disclosure creates its own complication at court.
-- **Resolved (late):** Alefrith reached Sanction and was exposed there. The assembly was disrupted; Harold's position is slightly weakened but defensible.
-- **Failed:** Alefrith struck at the assembly. The forged confessions were presented. Harold is on the defensive against charges of impiety. Some nobles have formally called for a council.
+
+- **Resolved:** Alefrith was exposed — at Harbow, on the road, or at Sanction — before she could act. Harold remains on the throne. His position has held, but in the party's absence the kingdom has drifted into a kind of political exhaustion: the Earls are present but disengaged, the common people are indifferent, and Harold's best efforts have produced stability without momentum. When word of the party's return reaches Sanction — along with word of the Sword — it acts as a catalyst. The Earls begin traveling to the capital. An assembly is coming whether Harold calls one or not.
+
+- **Failed:** Alefrith struck at the midsummer assembly. The forged confessions were presented. Harold could not hold his position; after a protracted siege of Sanction, he was forced from the capital and has taken refuge in Landing. His firm support is limited to Falkrith and Tana; Goodlund and Swansea remain neutral. A rebel army has assembled and is currently encamped in Goodlund, preparing to advance into Falkrith. The kingdom is at war.
+
+  In this state, the tumult of the civil war means neither the Earls nor Harold will receive foreknowledge of the party's arrival. They will return to a kingdom that has been at war without them, carrying a Sword that could change everything — and no one will be expecting them.
+
+---
 
 *The Priest:*
-- **Beede protected:** The inquisition was blocked. Beede and his movement operate openly. The founding documents are in circulation. Politically complicated but stable.
-- **Beede killed by the party:** The movement is leaderless but the documents survive. Significant popular grief; the party's responsibility is remembered.
-- **Beede killed by the inquisition:** The movement's martyrdom has made it larger than it was. The inquisition has overplayed its hand. Harold is being pressured from both sides.
+
+- **Beede burned by the inquisition:** The party's failure to protect him allowed the inquisition to try and execute him. He was found guilty and burned at the stake in Barstow. The martyrdom has backfired catastrophically on the Pentad: riots have broken out in Caerwold, centered on Barstow but spreading. Beede is revered as a hero by common people across the kingdom. His movement has not yet spread significantly beyond Caerwold, but the anger is there and it is looking for a direction.
+
+- **Beede killed by the party:** The documents were recovered by the Pentad in the aftermath. Without the founding scholarship in circulation and without Beede's voice, the movement never fully formed. It remains a local phenomenon — a few followers, some whispered sympathy — and is not a significant factor in Act IV. The party's role in his death is known in the circles that care about such things.
+
+- **Beede protected:** The inquisition was blocked and Beede survived. He has spent the intervening time as a popular teacher and public figure, engaging the Pentad in peaceful debate and leading non-violent protests on behalf of common people. His movement has grown steadily and spread throughout the kingdom, drawing followers from every earldom. It is now a serious problem for both the Pentad's institutional authority and the Earls' social control. The founding documents are widely circulated and widely read.
+
+---
 
 *The Dragon:*
-- **Resolved:** The Swansea-Kharas border is recovering. The party's deed is known and credited.
-- **Unresolved:** Blacktongue is still active. Border settlement has collapsed; refugees have moved inland. The Earl of Kharas is furious.
+
+- **Resolved:** The party killed Blacktongue. Tales of the deed have spread through the north and east — Waldsea, Kharas, Swansea, and Cant. In those regions the party are folk heroes, their names known in common households. This reputation will precede them on their return.
+
+- **Unresolved:** The party did not defeat the dragon, and the local nobility was forced to act. Sir Eamond, son of the Earl of Swansea, assembled a party of five knights and hunted the beast down. The dragon was killed, but Sir Eamond and two of his companions died in the attempt. The Earl of Swansea holds Harold II partially responsible for the loss of his son — the king's commissioned knights were sent east instead of dealing with the threat in their own backyard — and his grief has curdled into political resentment. In the event of a civil war, he will provide material support to the rebels, though not troops.
+
+---
 
 *The Sorceress:*
-- **Justice achieved:** Sir Odda is publicly exposed and his title is forfeit. Meldreth has returned to her glade. The party has a fey contact who may provide access to fey networks in Act II.
-- **Meldreth defeated:** Meldreth was killed or her magic broken. Sir Odda is untouched. Fey-Haven relations on the Umbra border have worsened; this complicates Act II travel.
-- **Unresolved:** Sir Odda is cursed, cannot remove his sword, and is becoming erratic. The Countess of Umbra is managing a situation that has no clean resolution.
+
+The Sorceress quest has two interlocking tracks that resolve independently: what happened to Sir Odda, and what happened to Meldreth.
+
+**Sir Odda:**
+
+- **Brought to public justice (recanted):** Sir Odda was compelled to admit his crimes publicly and in proper form. The recantation broke Meldreth's curse. He survived the process and has since joined the Pentad as a knight-penitent, seeking to atone through service. If Father Beede is also alive, Sir Odda will have become the first paladin of Beede's order — the alignment of a disgraced noble knight with the commoners' reforming movement is something neither man would have predicted and both have found meaningful.
+
+- **Brought to account (not recanted):** Sir Odda was exposed and faced consequences — his title is forfeit, the evidence is on record — but the process did not include a personal public admission of his crime. He was not spiritually compelled to reckon with what he did. He survived, wandered for some time as a hedge knight, and will eventually take his own life. He is not a factor in Act IV.
+
+- **Killed outright:** The matter is closed without the public dimension Meldreth required. She did not get what she came for. This affects her disposition — see below.
+
+**Meldreth:**
+
+- **Assisted and reconciled:** The party helped Meldreth achieve her purpose and facilitated some form of peace between her and the Countess of Umbra. In gratitude, and as an expression of that peace, she has remained in the region. When the goblinoid pressure on Umbra's southern border intensified in the party's absence, Meldreth used her magic to stymie the incursions. The Umbra border is holding.
+
+- **Driven off, disrespected, or the situation left unresolved:** Meldreth left the region embittered. When the goblinoid pressure on Umbra's southern border intensified, she chose to assist the invasion rather than resist it. The Umbra border is under sustained attack. The Countess is managing a military crisis.
+
+**The Countess of Umbra** (combined outcome): If Sir Odda was brought to justice properly and Meldreth was treated with respect, the Countess of Umbra has become well-disposed to both the party and Harold II. In the event of a civil war, she will side with the king.
+
+---
 
 *The Dark Knight:*
-- **Resolved (honorably):** Sir Aemond recovers his identity and memory. He is now the king's cousin, disgraced but alive, a complex political figure in Act IV. Harold II is privately shaken.
-- **Resolved (dishonorably):** The curse regenerates. Aemond returns. He appears in Act IV, still cursed, at a politically terrible moment. The party knows this is possible if they spoke with Meldreth.
-- **Unresolved:** The Dark Knight is still active. Knights have stopped patrolling the Tana–Falkrith road. Both Earls have formally complained to the Crown.
+
+- **Resolved honorably:** A party member accepted Sir Aemond's challenge and defeated him in single combat, without outside assistance or external magic. The curse broke. Aemond recovered his identity and his memory. He has since returned to Harold's court, revealed himself to the king, and sworn his service. He now serves as a member of the royal bodyguard — the king's cursed cousin, redeemed, standing at his shoulder. Harold has never spoken publicly about what this means to him. The party's reputation in Goodlund, Tana, and Falkrith is significant.
+
+- **Unresolved, or resolved dishonorably:** Sir Aemond was not defeated honorably — whether the party fought him unfairly, avoided him entirely, or defeated him by dishonorable means and watched the curse regenerate. He is still out there. He will appear in Act IV as an additional combat encounter at a moment determined by the ending. See the individual ending entries in Chapter 10 for when and how.
+
+---
+
+*The Goblinoid Raiders (Act II):*
+
+The hobgoblin raiding coalition the party encountered crossing the river Aven in Act II was the vanguard of a larger planned invasion of Umbra. What happened to its leader, Maranth, determines whether that invasion has already occurred when the party returns — and Meldreth's disposition from the Sorceress quest determines whether it succeeds.
+
+**Maranth defeated:** The party killed or routed the hobgoblin leader. Without her, the invasion force fell into infighting over succession. The attack was delayed. By the time the party returns to Haven, the goblinoids are organized again and prepared to strike, but have not yet crossed the river in force. The situation is urgent but not yet lost.
+
+**Maranth not defeated:** The party avoided a decisive confrontation with Maranth — fled, negotiated passage, or otherwise left her in the field. The invasion proceeded on schedule. By the time the party returns, it has already happened.
+
+These two tracks combine with Meldreth's disposition to produce the actual state of Umbra:
+
+- **Maranth defeated + Meldreth assisted:** The delay bought time. Meldreth's magic has held the crossing at the river Aven, and the Countess of Umbra has used that window to call in reinforcements. The border is contested but holding. This is the best possible outcome for Umbra.
+
+- **Maranth defeated + Meldreth not assisted:** The invasion has not yet struck, but Meldreth will not stand in its way. The party returns to a kingdom braced for an imminent crossing with no magical support on the border. The Countess is mustering what forces she has. The situation is manageable but dangerous.
+
+- **Maranth not defeated + Meldreth assisted:** The invasion came on schedule, but Meldreth's intervention at the river blunted it enough for the Countess to call in reinforcements. Umbra has taken damage — border settlements burned, refugees moving inland — but has not fallen. The line held, but barely.
+
+- **Maranth not defeated + Meldreth not assisted:** The invasion came on schedule and met no magical resistance. Umbra has been overrun. The Countess has retreated to Dalkeith with what forces she could consolidate; the earldom's interior is under goblinoid occupation. Parties returning by land will hear of this before they reach Sanction. Whether and how to respond is their decision.
 
 ---
 
 ### Managing the Endings
 
-The adventure has four possible endings, determined by the party's disposition of the Sword of the Redeemer. The GM should not steer toward any particular ending; the design assumes parties may arrive at any of the four depending on what they learned, what they chose, and what story they want to be part of.
+The adventure has two possible endings, determined by the party's disposition of the Sword of the Redeemer. The GM should not steer toward either ending; the design assumes parties may arrive at either depending on what they learned, what they chose, and what story they want to be part of.
+
+Both endings share the same structural framework: the Five Virtue Questions. The specific events, NPCs, and final challenge of Ending 1 are detailed in Chapter 10. Ending 2 uses the same framework as a guide, with the specific shape of each question determined collaboratively by the GM and players.
+
+---
+
+#### The Five Virtue Questions
+
+Act IV is structured around five questions — one for each of the Knightly Virtues the party encountered in the five ordeals: **Sacrifice, Wisdom, Insight, Piety,** and **Courage.** These are not new tests in the way the ordeals were tests. They are the culmination of everything the party has learned about what those virtues require, and together they constitute the whole of Act IV's dramatic arc.
+
+Some questions are posed directly. A major NPC brings the party a problem that admits no clean solution and asks for their counsel or decision. The party knows they are deciding something that matters. Other questions are implicit — embedded in encounters whose outcomes reveal something about the party's character without the question being named. In both cases, the GM should not announce which virtue is at stake. The party will not always know they are being evaluated.
+
+The first four virtue questions are roleplay challenges. The fifth — Courage — is a combat challenge. In every ending, the question of Courage takes the form of a fight that must be won; the specific opponents, stakes, and conditions of that fight are shaped by how the party answered the four questions that preceded it, and by the state of the kingdom on their return.
+
+The virtue questions are not scored. They are evaluated. The way the party answers — with words, with actions, with what they accept and what they refuse — shapes the specific events and final conditions of their chosen ending. An answer is not right or wrong in the abstract; it is consequential.
+
+The GM should track the party's answers across all five questions as Act IV unfolds.
+
+---
+
+#### The Role of the Crisis States
+
+The Act I crisis states (see The Act IV Crisis Framework above) do not determine the ending; the party determines the ending. The crisis states determine the specific shape of the virtue questions within each ending, and the situation the party returns to in Haven.
+
+A party that failed to resolve the Priest quest will face a different form of the Piety question than a party that protected Father Beede. A party with Sir Aemond still cursed will face a different form of the Courage question than one that resolved him honorably. A party whose Countess failure left Harold politically exposed will face a different Wisdom question than one that dismantled Alefrith's conspiracy at Harbow.
+
+In this way the adventure's earlier choices have genuine weight in its final act. The crisis states are the mechanism by which Act I reaches forward into Act IV. Chapter 10 details how each crisis state shapes the virtue questions within each ending; the GM should review the full crisis framework before beginning Act IV.
+
+---
+
+#### The Two Endings
 
 **Ending 1: The Sword Goes to Harold II**
 
@@ -546,25 +632,13 @@ Harold II is a good king by the standards available in Haven. He will pursue fey
 
 This ending is satisfying and does not fully resolve Haven's underlying problems. Harold is one man. The institutions he governs are unchanged. Cuthbert understood this.
 
-**Ending 2: The Sword Goes to a Noble**
+**Ending 2: A Different Path**
 
-The party gives the Sword to one of Haven's Earls. This requires a specific noble — one who has demonstrated both the competence to lead and the integrity to use legitimate power legitimately. The GM should develop this figure before Act IV, guided by the party's relationships with individual Earls across Acts I and II.
-
-The result is a substantial constraint on royal authority without its elimination. Whether this produces a better or worse outcome than Ending 1 depends on the specific Earl and the specific circumstances. The party founds a neutral knightly order, independent of both Crown and nobility.
-
-**Ending 3: The Party Keeps the Sword**
-
-The party acts as agents of the common people rather than of the Crown or nobility. This ending is available only if Father Beede's movement (or its legacy) has sufficient momentum, the party has built meaningful relationships with common people across Acts I and II, and the party is willing to lead rather than advise.
-
-The confrontation this ending requires is not guaranteed to succeed. The Sword provides legitimacy; the party provides nerve; the common people provide numbers. Whether it is enough depends on preparation and the GM's assessment of the Act IV crisis state. This ending is the hardest and the most open.
-
-**Ending 4: Open**
-
-The party finds a resolution not covered by the three endings above. The GM should treat this as a collaborative opportunity: what does the party actually want to happen, and how does the Sword help or complicate it? The five gods are watching. Cuthbert's ghost spoke. What the party does with that information is theirs to determine.
+The party arrives at a resolution not covered by Ending 1. What this looks like depends entirely on what the party has learned, what they want, and what they are willing to do to achieve it. The five virtue questions and the Act IV crisis states remain the structural framework; the GM should use them as a guide for determining how each question manifests along whatever path the party is taking. The GM and players should work together to determine what the party actually intends, how the Sword bears on that intention, and what the kingdom's response will be. The adventure cannot foreclose this path. Cuthbert's ghost spoke, the five gods are watching, and what the party does with that knowledge is theirs to determine.
 
 ---
 
-## Chapter 1: The Crown's Service
+## Chapter 1: In His Majesty's Service
 
 *Act I | Levels 1–5*
 
@@ -616,7 +690,7 @@ Harold tells them the order's name will be announced at the assembly, and that h
 
 Harold provides the following information on each situation.
 
-**The Countess.** A noblewoman recently arrived in Waldsea — Lady Alefrith, by origin from a prominent Cant family with strong church connections, now wife to the Earl of Waldsea — has been associating with a company of zealous witch-hunters who operate outside the church's formal structure. This alone is unremarkable. What concerns Harold is that several of this company have passed through Sanction in the last season, and his household staff have observed them taking careful note of the court's composition. He does not know what she is planning. He needs someone to find out, and if necessary to prevent it.
+**The Countess.** A noblewoman operating out of Waldsea — Lady Alefrith, daughter of its Earl, now wife to the Earl of Cant — has been associating with a company of zealous witch-hunters who operate outside the church's formal structure. This alone is unremarkable. What concerns Harold is that several of this company have passed through Sanction in the last season, and his household staff have observed them taking careful note of the court's composition. He does not know what she is planning. He needs someone to find out, and if necessary to prevent it.
 
 **The Priest.** In Barstow, a former monk named Father Beede has come into possession of founding-era documents and has begun arguing that the Pentad's current theology misrepresents Wotan's proper place in the pantheon. The church's inquisition has noticed. Harold has read the documents — Father Eadric obtained copies — and finds them credible and politically alarming. He does not tell the party what to do about Beede. He says only that the situation will become unmanageable if it escalates, and that the party should understand all its dimensions before acting.
 
@@ -624,7 +698,7 @@ Harold provides the following information on each situation.
 
 **The Sorceress.** An elven woman of considerable power has appeared in the town of Belham in Umbra and made public accusations against a local knight, Sir Odda, claiming he murdered a half-elf craftsperson named Sarena. Sir Odda has denied the accusations and suppressed local investigation. The Countess of Umbra, whose goodwill Harold values, has asked for assistance in resolving the situation before it becomes something she cannot manage.
 
-**The Dark Knight.** A knight in black armor has been traveling the roads between Tana and Falkrith, issuing formal challenges to any knight he encounters, and killing those who accept. He will not speak his name and cannot remove his visor. Three knights are dead so far. The Earl of Tana has raised the matter formally. Harold does not know who the knight is. He says, with some care, that the proper response to a cursed knight wandering one's roads is not always obvious.
+**The Dark Knight.** A knight in black armor has been traveling the roads between Tana and Falkrith, issuing formal challenges to any knight he encounters, and killing those who accept. He will not speak his name and cannot remove his visor. Four knights are dead so far. The Earl of Tana has raised the matter formally. Harold does not know who the knight is. He says, with some care, that the proper response to a cursed knight wandering one's roads is not always obvious.
 
 ---
 
@@ -636,7 +710,7 @@ Harold provides the following information on each situation.
 
 **Situation**
 
-Lady Alefrith of Waldsea is twenty-six years old, recently married to the Earl of Waldsea following the death of his first wife, and in the process of executing the first stage of a conspiracy that, if successful, would destabilize Harold II's court at the worst possible moment. She is methodical, patient, and operating from a position of genuine ideological conviction: she believes the king is impious, that his appointment of the Magister is an affront to the Pentad, and that the nobility — specifically the nobility of the rebel earldoms — has both the right and the obligation to check him.
+Lady Alefrith of Waldsea is twenty-six years old, recently married to the Earl of Cant, and in the process of executing the first stage of a conspiracy that, if successful, would destabilize Harold II's court at the worst possible moment. She is methodical, patient, and operating from a position of genuine ideological conviction: she believes the king is impious, that his appointment of the Magister is an affront to the Pentad, and that the nobility — specifically the nobility of the rebel earldoms — has both the right and the obligation to check him.
 
 The conspiracy has three stages. The party will encounter the first: Alefrith's witch hunters are gathering intelligence on the court's composition and identifying minor court figures susceptible to coercion. The second stage — kidnapping those figures, forcing confessions, and returning to Sanction with fabricated evidence of Harold's impiety and adultery — is already in planning. The third stage, whatever it might be, is not yet developed in any form the party can discover.
 
@@ -650,9 +724,11 @@ The GM should determine how much of this the party can discover. Evidence of Tet
 
 **Key NPCs**
 
-*Lady Alefrith.* The Countess of Waldsea is organized, precise, and genuinely devout in the mode that produces the most political difficulty: she believes what she believes, has thought about it carefully, and is not acting out of ambition alone but out of a considered view that Harold II is dangerous to the kingdom's spiritual health. She is not a cartoon villain. She is wrong about the king and right about the church, and the party will find her frustratingly coherent if they bother to speak with her. She will not surrender or confess willingly; she will, if cornered, attempt to negotiate from principle.
+*Lady Alefrith.* The Countess of Cant is organized, precise, and genuinely devout in the mode that produces the most political difficulty: she believes what she believes, has thought about it carefully, and is not acting out of ambition alone but out of a considered view that Harold II is dangerous to the kingdom's spiritual health. She is not a cartoon villain. She is wrong about the king and right about the church, and the party will find her frustratingly coherent if they bother to speak with her. She will not surrender or confess willingly; she will, if cornered, attempt to negotiate from principle. That she organizes from her father's territory rather than her husband's is not an accident; it gives her distance from Cant's institutional church, whose official apparatus she cannot fully trust with what she is doing.
 
-*The Earl of Waldsea.* He is being used more than he is a participant. He knows his wife has strong views about the king's impiety and has heard about the witch hunters in general terms; he does not know the specifics of the conspiracy. He is a man whose first wife's death left him less capable of managing his household than he was before, and Alefrith married into that gap.
+*The Earl of Cant.* He is being used more than he is a participant. He knows his wife has strong views about the king's impiety and has heard about the witch hunters in general terms; he does not know the specifics of the conspiracy. He is a man whose first wife's death left him less capable of managing his household than he was before, and Alefrith married into that gap. He regards her ideological convictions as an asset — Cant is pious country and a pious countess is good politics — without understanding how far those convictions have taken her.
+
+*The Earl of Waldsea.* Alefrith's father. He knows she is in Harbow and knows she is using the family's secondary residence; he does not know the details of what she has assembled there. He is a rebel earl with bad blood toward the Crown and no particular interest in asking questions he suspects he would not like the answers to.
 
 *The Witch Hunters.* A company of twelve, led by a capable former soldier named Aldwyn who believes in what he is doing. They are dangerous in a fight and more dangerous as investigators — they are skilled at finding leverage on people. They are not officially connected to the inquisition. Letters found in Alefrith's correspondence at Harbow show that Aldwyn and Father Marne have exchanged communications; the tone suggests professional acquaintance rather than direction.
 
@@ -660,7 +736,7 @@ The GM should determine how much of this the party can discover. Evidence of Tet
 
 Harbow is a trading town in Waldsea's flat grasslands — large enough to have a market, a garrison, and a reasonable inn, small enough that strangers are noticed. Alefrith has established her base here while the Earl is away on earldom business. The witch hunters are quartered separately, at the edge of town.
 
-The party can find Alefrith at the Earl's Harbow residence (a secondary household, not a castle — a substantial manor with a small household staff). Her correspondence is kept in a locked study. Aldwyn and his company are accessible at the edge of town; they are not friendly, but they have not been given orders to interfere with travelers.
+The party can find Alefrith at her father's Harbow residence (a secondary household, not a castle — a substantial manor with a small household staff). Her correspondence is kept in a locked study. Aldwyn and his company are accessible at the edge of town; they are not friendly, but they have not been given orders to interfere with travelers.
 
 **Escalation and Timing**
 
@@ -672,7 +748,7 @@ At Stage 3 (interval 4+), they have arrived in Sanction ahead of the assembly. T
 
 **Resolution Outcomes**
 
-*Best outcome:* Alefrith's conspiracy is exposed at Harbow before she reaches Sanction. Evidence is recovered; the connection to the inquisition is documented. The Earl of Waldsea is informed and cooperates. Teta's connection either was not discovered or was handled discreetly. Harold II's court is protected; the earl faces political consequences but the party has not created a public crisis.
+*Best outcome:* Alefrith's conspiracy is exposed at Harbow before she reaches Sanction. Evidence is recovered; the connection to the inquisition is documented. The Earl of Cant is informed and cooperates. Teta's connection either was not discovered or was handled discreetly. Harold II's court is protected; the earl faces political consequences but the party has not created a public crisis.
 
 *Acceptable outcome:* Alefrith is stopped on the road or at Sanction before she strikes. Evidence is partially recovered. Some degree of public disruption occurs but is contained. Harold's position is not seriously weakened.
 
@@ -796,8 +872,6 @@ Meldreth came for Sarena's body. She carried it to a glade she has kept in the f
 
 Meldreth wants Sir Odda publicly exposed. She does not want private justice or private satisfaction. She wants the people of Belham — and the Countess of Umbra's court, which allowed his cover story to stand — to know publicly what he did and to acknowledge it. She made her opening move in Belham because that is where it needs to happen: in the town where Sarena lived, in front of the people who accepted Sir Odda's story.
 
-**The Curse on Sir Odda**
-
 If the party reaches Stage 3 of Meldreth's escalation track without having confronted Sir Odda, she kidnaps several local children from Belham and sends word to him: come out and face her accusation publicly, or she will not return them. She is not threatening the children's lives — they are kept safely in her glade — but she is willing to hold them indefinitely. If Sir Odda responds and faces the public confrontation, she releases them immediately. If he refuses, she releases the children regardless and turns to a different instrument.
 
 **The Curse on Sir Odda**
@@ -914,13 +988,13 @@ The guests of the assembly arrive throughout the morning and are received by Har
 
 The feast begins at sunset.
 
-> *The great hall of Tintavel, which in ordinary hours has the character of late afternoon and the smell of old stone, has been transformed. Hundreds of candles burn along the walls and from chandeliers of wrought iron lowered close enough to illuminate faces. The tables are set end to end the hall's full length, covered in white linen, loaded with plate. At the far end, beneath the royal standard, Harold II sits with his household and his most trusted guests.*
+> *The great hall of Tintavel, which in ordinary hours has the character of late afternoon and the smell of old stone, has been transformed. Hundreds of candles burn along the walls and from chandeliers of wrought iron lowered close enough to illuminate faces. The tables are set end to end the hall's full length, covered in white linen, loaded with plate. At the far end, beneath the royal standard, Harold II sits with his household and his most honored guests.*
 >
 > *Then the first apprentices enter — six young men and women in the grey robes of the Magister's service, taking positions along both walls. At a signal no one quite sees, they begin.*
 >
 > *The room fills with light that has no source. A great stag made of green and silver radiance steps between the tables and walks the hall's length with the unhurried dignity of a creature that has never been afraid of anything. Behind it come other shapes — a fleet of ships in miniature, sails spread, tacking through a wind only they can feel; a flock of summer birds that scatter upward into the vaulted ceiling and disappear; a tree that grows from nothing in the center of the hall, flowering, fruiting, shedding its leaves, and standing winter-bare, all in the span of a minute. The Earls watch. Some of them do not let their expressions change. Others cannot help themselves.*
 >
-> *When the courses begin arriving, it becomes clear that the kitchens have been given instructions to compete with the spectacle. A pie the size of a cartwheel is carried in by four servants and set before the high table. The head cook produces a knife, cuts, and a dozen white doves burst upward in a rush of wings and feathers, circling the hall three times before making their way out through the high windows. No one speaks for a moment. Then a pastry swan is carried in behind it — nearly three feet from beak to tail, its feathers glazed to a high shine, its eyes made of some dark preserved fruit — and the hall finds its voice again.*
+> *When the courses begin arriving, it becomes clear that the kitchens have been given instructions to compete with the spectacle. A pie the size of a cartwheel is carried in by four servants and set before the high table. The head cook produces a knife, cuts into it, and a dozen white doves burst upward in a rush of wings and feathers, circling the hall three times before making their way out through the high windows. No one speaks for a moment. Then a pastry swan is carried in behind it — nearly three feet from beak to tail, its feathers glazed to a high shine, its eyes made of some dark preserved fruit — and the hall finds its voice again.*
 >
 > *And then Fenna sings.*
 >
@@ -956,13 +1030,13 @@ The second feast is held outside, in a series of elaborately decorated pavilions
 
 > *The pavilions glow from within — lanterns of colored glass, dozens of them strung overhead so the light falls soft and varied, green and amber and the deep red of summer wine. The lake is still, and the pavilions' reflections lie in it undistorted. Tables run the full length of each pavilion, and servants move between them with the quiet competence of people who have been preparing this for weeks.*
 >
-> *The food is less theatrical than last night's — no live birds, no pastry engineering — but more careful: long-braised meats, fresh fish from the lake dressed with herbs, bread still warm from the ovens, fruit from the orchards of Goodlund arranged on platters that seem too beautiful to disturb. The wine is from Caerwold's cellars, as it always is, and the Earl of Caerwold accepts the compliments with the expression of a man who knows he is being managed and has decided to enjoy it anyway.*
+> *The food is less theatrical than last night's — no live birds, no pastry engineering — but more careful: long-braised meats, fresh fish from the lake dressed with herbs, bread still warm from the ovens, fruit from the orchards of Goodlund arranged on platters that seem almost a crime to disturb. The wine is from Caerwold's cellars, as it always is, and the Earl of Caerwold accepts the compliments with the expression of a man who knows he is being managed and has decided to enjoy it anyway.*
 >
 > *An hour after dark, the first of them goes up.*
 >
 > *The rocket rises from a barge anchored in the lake's center, reaches the height of its arc, and bursts into a chrysanthemum of white light that reflects perfectly in the water below — so that for a moment, it looks less like a display above a lake and more like an opening in the world, with light beyond. Then another. Then a sequence of three in rapid succession, gold and red and green, and the crowd along the shore makes the sound that crowds make when something exceeds their expectations, and keeps making it.*
 >
-> *The assembly is not yet healed. The bad blood of the rebellion does not dissolve in fireworks. But for the length of the display, everyone watching is watching the same thing, and the lake holds all of it without judgment.*
+> *The assembly is not yet healed. The bad blood of the rebellion does not dissolve in fireworks. But for the length of the display, everyone watching it is watching the same thing, and the lake holds all of it without judgment.*
 
 ---
 
@@ -998,7 +1072,7 @@ He calls the party forward.
 
 Harold names them as agents who served the Crown in five matters of extraordinary difficulty and names each quest by its nature — not in detail, but in enough specificity that the Earls from affected earldoms understand exactly what is being referenced. He speaks of the Sword Quest: what it is, what it requires, why the Crown believes it is time. He announces the founding of the order and presents the name — the name the party has chosen — as the Crown's formal designation. He asks the assembled court to witness it.
 
-The responses from the individual Earls range from genuine warmth to careful neutrality to a silence that is the political equivalent of reservation. The Earl of Waldsea's response depends entirely on how Quest 1 was resolved; in the worst case, he has a great deal to say, and says none of it here because this is not the forum, and Harold has chosen the forum deliberately. The Pentad's representative has opinions about the Sword Quest that will surface in the morning.
+The responses from the individual Earls range from genuine warmth to careful neutrality to a silence that is the political equivalent of reservation. The Earl of Cant's response depends entirely on how Quest 1 was resolved; in the worst case, he has a great deal to say, and says none of it here because this is not the forum, and Harold has chosen the forum deliberately. The Pentad's representative has opinions about the Sword Quest that will surface in the morning.
 
 **Naming the Order**
 
@@ -1101,7 +1175,7 @@ The chase is not a single encounter, it is a sustained state over as many hours 
 
 - The party cannot stop to rest without risk. Making camp without concealment will draw a band within 2d4 hours. Making camp with active concealment (Survival DC 18, requires one hour of preparation) reduces this to a 1-in-6 chance per night.
 - Each day of pursuit, Maranth sends runners to bring in additional allied bands. For every full day the chase continues beyond the first, the GM should add one band (3d6 goblinoids) to the rotating pursuit.
-- Individual bands encountered are at a level the party can handle — a CR 4–5 encounter for a level 5 party. The problem is never a single band; the problem is that defeating one does not stop the others, and the party's resources do not recover at the same rate they are being spent.
+- Individual bands encountered are at a level the party can handle — a CR 4–5 encounter for a level 6 party. The problem is never a single band; the problem is that defeating one does not stop the others, and the party's resources do not recover at the same rate they are being spent.
 
 **Ending the Encounter**
 
@@ -1184,7 +1258,7 @@ On a morning roughly three weeks after the Aven crossing, the party wakes to fin
 
 The path ends at the court.
 
-> *The path narrows. The trees grow closer together than trees have any right to, their canopies interlocking overhead until there is no sky left. The light filtering through is old light, green-gold, the color of sunlight that has been passing through leaves for centuries. Then the trees give way — abruptly, without transition — and you are standing at the edge of a clearing the size of a great hall, its floor soft grass instead of stone, its columns, those of stateley birch trees perfectly placed in neat rows, its ceiling an unbroken vault of oak leaves so densely woven that no rain could penetrate them and the sound of the wind cannot reach below.*
+> *The path narrows. The trees grow closer together than trees have any right to, their canopies interlocking overhead until there is no sky left. The light filtering through is old light, green-gold, the color of sunlight that has been passing through leaves for centuries. Then the trees give way — abruptly, without transition — and you are standing at the edge of a clearing the size of a great hall, its floor soft grass instead of stone, its columns, those of stately birch trees perfectly placed in neat rows, its ceiling an unbroken vault of oak leaves so densely woven that no rain could penetrate them and the sound of the wind cannot reach below.*
 >
 > *There are no walls, and yet there are walls. Painted screens of figured silk stand between the trees at intervals, their illustrations moving slowly in a wind that is not present. Furniture of impossible intricacy sits arranged in clusters — chairs shaped from a single piece of pale wood, tables balanced on one carved leg, cabinets whose doors hang open on hinges of braided vine. Creatures you do not have names for stand or sit or drift between these arrangements: some tall and luminous, some no larger than a child's fist with wings like damselflies, some that are neither here nor not-here and are easier to see when you do not look at them directly. The sound of music comes from somewhere you cannot locate, and the music has no instrument you can name.*
 >
@@ -1416,70 +1490,7 @@ He is, by any measure that would apply in Haven, at least several hundred years 
 
 He already knows. He is asking because he wants to hear how they describe it.
 
-**Tellaris, Lord of the Hunt**
-
-*Half-Elf Magus (Eldritch Scion) 12*
-
-**CR 10** — **XP** 9,600
-
-CE Medium humanoid (elf, human)
-**Init** +7; **Senses** low-light vision; Perception +15
-
----
-
-**DEFENSE**
-
-AC 24, touch 13, flat-footed 21 (+8 +1 mithral breastplate, +3 Dex, +2 ring of protection, +1 deflection)
-hp 100 (12d8+48)
-**Fort** +12, **Ref** +9, **Will** +10; +2 racial bonus vs. enchantments
-**Immune** sleep
-
----
-
-**OFFENSE**
-
-Speed 30 ft.
-**Melee** *+2 keen longsword* +19/+14 (1d8+9/17–20) or spell combat +17/+12
-**Special Attacks** spell combat, spellstrike, eldritch pool (11 points, maximum +4 enhancement)
-**Magus Spells Known** (CL 12th; concentration +18; DCs 10 + spell level + 6)
-— 4th (3/day) — *dimension door*, *greater invisibility*
-— 3rd (5/day) — *vampiric touch*, *haste*, *dispel magic*
-— 2nd (6/day) — *frigid touch*, *mirror image*, *glitterdust*, *blur*
-— 1st (7/day) — *shocking grasp*, *shield*, *true strike*, *bladed dash*
-— 0th (at will) — *acid splash*, *detect magic*, *mage hand*, *prestidigitation*
-
----
-
-**TACTICS**
-
-*Before Combat* As the third wave ends and Tellaris approaches, he casts *mirror image* (as a swift action from his eldritch pool, or as a standard action if not pressed). He does not prepare further; he considers anything more elaborate unsporting.
-
-*During Combat* Tellaris's first action is almost always spell combat — he prefers to combine a *shocking grasp* (Intensified: 12d6, delivered via spellstrike) with a longsword attack against the most heavily armored target, as a matter of personal philosophy about where to start a fight. He uses *dimension door* to reposition the moment he is threatened by more than two adjacent opponents, emerging behind the party's spellcaster. He uses *vampiric touch* against characters who have injured him, *frigid touch* against high-Reflex targets (the touch automatically staggered on a failed Fort save is worth more than the damage), and *haste* on himself the round after he loses his mirror images. He will use *greater invisibility* only if reduced below 30 hp — by then, the fight has interested him enough that he wants to continue it rather than end it.
-
-*Morale* Tellaris does not retreat and does not surrender. He will fight to 0 hp. When he reaches 25 hp or fewer, he begins to laugh. He is not faking it. He finds the party legitimately delightful and the laugh is the laugh of someone who has been looking for this for a long time.
-
----
-
-**STATISTICS**
-
-Str 18, Dex 16, Con 16, Int 12, Wis 10, Cha 22
-**Base Atk** +9; **CMB** +13; **CMD** 26
-**Feats** Arcane Armor Training, Combat Casting, Extra Eldritch Pool, Improved Initiative, Intensified Spell, Iron Will, Spell Penetration, Weapon Focus (longsword)
-**Skills** Acrobatics +15, Intimidate +18, Knowledge (arcana) +13, Knowledge (planes) +14, Perception +15, Ride +15, Spellcraft +16, Use Magic Device +18
-**Languages** Common, Elven, Sylvan, Goblin, Undercommon
-**SQ** bloodline (fey): *woodland stride*, *fleeting glance* (12 rounds/day *greater invisibility* as swift action), *fey magic* (+2 DC on enchantment spells); elf blood, elven immunities, keen senses; arcane accuracy, devoted blade
-**Combat Gear** 2 potions of *cure serious wounds*
-**Other Gear** +1 mithral breastplate, *+2 keen longsword* (offered as prize if defeated), ring of protection +2, belt of physical might +2 (Str, Con), cloak of resistance +2
-
----
-
-**SPECIAL ABILITIES**
-
-*Eldritch Pool (Su)* Tellaris has 11 eldritch pool points. He can spend 1 point as a swift action to add a +1 enhancement to his longsword for 1 minute, up to a maximum of +4 or equivalent special properties (favored properties: *flaming burst*, *frost*, *speed*).
-
-*Spellstrike (Su)* When Tellaris casts a magus touch spell, he may deliver it through his longsword as part of a melee attack. The spell and the attack resolve simultaneously on a hit; on a miss, the spell is not wasted but is not discharged.
-
-*Fleeting Glance (Sp)* Tellaris can become invisible (as *greater invisibility*, CL 12th) for up to 12 rounds per day as a swift action.
+*Tellaris's full statistics appear in Appendix A.*
 
 ---
 
@@ -2053,12 +2064,12 @@ White and black versions of each piece type use the same stat block; the differe
 
 | Piece | White | Black | CR |
 |-------|-------|-------|----|
-| Pawn | Soldier (human fighter) | Barbarian (human berserker) | 4 |
-| Knight | Horseman (mounted knight) | Centaur warrior | 5 |
-| Bishop | Cleric (robed divine caster) | Magician (arcane caster) | 6 |
-| Rook | Gryphon | Iron golem | 8 |
-| King | Lord (heavily armored champion) | Stone giant | 9 |
-| Queen | Paladin (holy champion) | Sorceress (high-level caster) | 10 |
+| Pawn | Soldier (human fighter) | Barbarian (human berserker) | 5 |
+| Knight | Manticore | Manticore | 5 |
+| Bishop | Bralani azata | Bralani azata | 6 |
+| Rook | Wood golem | Wood golem | 6 |
+| King | Dire bear | Dire bear | 7 |
+| Queen | Paladin | Lillend azata | 7 |
 
 *Full stat blocks for the unique piece types appear in Appendix A.*
 
@@ -2209,9 +2220,93 @@ If the party fails any trial, they are transported immediately back to the locke
 
 She will ask what they encountered. She is not contemptuous. She is assessing.
 
-If they ask what to do now, she says only: *"That depends on what you learned."* If they ask whether there is another way to prove worthy, she will not answer the first time. If they ask again, she will say that there is, but that it has not been attempted in a long time. If they ask a third time, she will tell them: there is a Questing Beast in the frozen mountains to the north. Only one person has ever laid it low. If they bring her evidence, she will pronounce them worthy, and they may claim the sword. 
+If they ask what to do now, she says only: *"That depends on what you learned."* If they ask whether there is another way to prove worthy, she will not answer the first time. If they ask again, she will say that there is, but that it has not been attempted in a long time. If they ask a third time, she will tell them.
 
-*This quest is not detailed in this guide. The GM should design it appropriately for Level 10–11 characters. It is intended as a second chance, not a shortcut, and should be proportionally difficult.*
+*"My son failed these same trials. He was stronger than he believed, but it took him longer to know it. He went north into the mountains, and he found a creature that has not been found since. He brought me proof of that finding, and I pronounced him worthy, and he returned to the trials and completed them. If you are willing to do what he did, I will offer you the same."*
+
+She describes the creature — the Questing Beast, called so because it has no other name in the language of those who know of it — and the evidence she requires: the key that hangs from a cord around its neck. She will not tell them how to find it. She will say only that it lives in the far north, and that it wants to be found, but only by those it judges worthy. She will add: *"Halsin was gone six months before he returned. He did not waste any time."*
+
+This option is available only once. A party that goes north and returns without the key has exhausted the second chance, and the trials remain closed to them.
+
+*If the party succeeds in recovering the key and returning it to Reinja, they resume the ordeals from the trial at which they failed, with the resources they had at that point fully recovered. The time spent on the Questing Beast journey passes normally in the world outside; the GM should add this time to the party's total absence from Haven when calculating the state of the kingdom on their return.*
+
+---
+
+#### The Questing Beast
+
+The Beast has a strange form that resembles no single creature and cannot be mistaken for any of them. Its body is that of a great hunting cat, black with white spots across the shoulders and flanks. Its legs are those of a great hind, ending in cloven hooves that leave no track on stone. Its tail is that of a fox, carried low and sweeping. Its neck is long and serpentine, and at its end is the head of a doe — large-eyed, comely, entirely at odds with the reach of the neck beneath it — crowned with great twisting antlers that branch and re-branch until their uppermost points are fine as wire. Its eyes are amber and its gaze is composed. The whole creature has an unearthly beauty that is not the beauty of any one animal but of the thing itself, entire, as though it was made to be exactly what it is.
+
+The Beast makes a sound when it moves through wild country — not from its mouth, which it rarely opens, but from somewhere within its body, a low and various noise like the distant cry of hounds running in full voice, heard through distance and cold air. It is heard before the creature is seen, and the sound does not increase with proximity. When the Beast is standing still before you, the sound is no louder than it was when it was a mile away.
+
+Around its neck, on a cord of braided hair, hangs a small iron key. It is warm to the touch, which is unexpected.
+
+The only person known to have found the Beast is Halsin, son of Reinja and Cuthbert, who failed the trials on his first attempt approximately one hundred and eighty years ago. He was gone for six months. He did not speak of the journey afterward in any account Reinja has preserved.
+
+---
+
+#### The Journey North
+
+The northern wilderness of Aldenmere begins where settlement ends and does not stop. The communities the party passed through on their way to Reinja's castle are sparse by the standards of any place they have known; north of the last of them, the land becomes something else. Dangerous mountains rise without foothills. Lakes of extraordinary depth occupy the valleys between them, fed by glaciers that have been calving since before the exile fleet departed a dying world. The valleys themselves are hidden — folded into the landscape in ways that make them invisible from above or from a distance, accessible only to those who find the correct approach. The fey peoples who live here are not the same as those the party encountered further south; they are older and less interested in travellers, and their hospitality, when it appears at all, comes on terms the party will not immediately understand.
+
+The journey north and back takes a minimum of six months in the best case — a party found fully worthy by the Beast and who negotiate every challenge without failure. Each failed wilderness challenge described below adds one month to the journey. A party that the Beast has not found worthy faces harder conditions throughout; their baseline is seven months.
+
+---
+
+#### Worthiness and the Dream Tests
+
+The Beast knows when it is being sought. From the first night the party camps on the northern road, it begins its own assessment.
+
+Each member of the party will be visited in their dreams over the course of the journey, once for each of the five knightly virtues, in an order and timing the Beast determines. The visits do not announce themselves as tests. Each dream simply places the dreamer in a particular situation — usually one drawn from their own memories or fears, made strange by the geography of sleep — and the Beast is present in it, watching, without speaking. It never speaks. It watches to see what the dreamer does, and when the dream ends it either remains in the dreamer's memory with a quality of presence or dissolves without residue. A Beast that remains was satisfied. A Beast that dissolves left something unresolved.
+
+The GM should design each visit for the specific character it visits, drawing on what the party has learned about themselves across the campaign. The virtue being tested in each dream should not be announced; it should be felt in the shape of the situation. The general structure of each test is as follows.
+
+*Sacrifice.* The dream presents the dreamer with something of genuine value to them — a person, an object, a piece of identity — standing between them and a door. The Beast waits beyond the door. The test is whether the dreamer walks through.
+
+*Wisdom.* The dreamer stands at a junction of three paths in darkness. No information is provided about where they lead. The Beast is at the junction, watching. The test is not which path the dreamer chooses but whether they choose, rather than standing paralyzed by the absence of certainty.
+
+*Insight.* The dreamer is in the company of someone they trust. The trusted person says or does something that does not quite fit — a detail wrong, a gesture out of character, a tone that does not match the words. The Beast is in the corner. The test is whether the dreamer notices and acts on what they notice, or defers to the comfort of the familiar face.
+
+*Piety.* The dreamer stands in a ruined shrine where the iconography has weathered past recognition. The Beast kneels — or something that resembles kneeling — before one of the worn figures. The test is whether the dreamer joins in the act of reverence before an idol they cannot name, trusting the devotion over the form.
+
+*Courage.* The dreamer stands at the edge of something vast — a cliff, a dark sea, a burning plain. The Beast steps off the edge and does not fall but continues forward into the dark. The test is whether the dreamer follows.
+
+A party found fully worthy — all five tests passed by all members — will find that the wilderness challenges below proceed at standard difficulty and the Beast comes to them at the appointed place. A party found only partially worthy — some tests passed, some not — will find the challenges harder and the Beast more elusive. A party found unworthy on the whole will find the challenges at their most severe and the Beast unwilling to meet them; it can still be tracked and cornered, but it will not yield the key without restraint.
+
+---
+
+#### The Wilderness Challenges
+
+Five distinct challenges mark the journey north. They come in roughly the order below, though the GM may adjust their sequence and spacing to suit the party's pace.
+
+**The Rope Bridge.** The only crossing over a deep glacial ravine is a rope bridge of considerable age, maintained by no one visible. The bridge will bear the weight of one person at a time, and the crossing is exposed to wind that comes in gusts without warning. The challenge is not the crossing itself but that the bridge must be crossed in a specific sequence — the lightest member first to test the footing, then each member in turn, with the heaviest going last and the last having no one on the other side to anchor the ropes if a gust comes. Someone must accept that position without being asked. A Climb DC 20 check is required on the crossing for each character; failure means the character loses their footing and must make a DC 22 Reflex save or fall to a ledge thirty feet below (4d6 falling damage). A party that takes the precaution of tying a safety line to the bridge structure before anyone crosses reduces this to a DC 14 Reflex save. If no one volunteers to go last within a short time of the party beginning their deliberation, the GM should observe that the wind is picking up and the delay is not free.
+
+**The Drowned Valley.** A section of valley flooded by winter snowmelt, the tops of tall trees standing above gray water. Several routes appear viable; only one is. A DC 22 Survival or Knowledge (Nature) check reads the current patterns correctly and identifies the route that leads through shallows. A DC 18 Perception check notes that bird life concentrates along one bank, indicating solid ground just below the surface. A party that enters the flood without making either check will find themselves in deepening water with a current that strengthens the further they go; they can turn back, but it will cost them two weeks of time finding an alternate approach.
+
+**The Deep Lake.** A lake of extraordinary depth and clarity, occupying a valley with no practical way around it. The water is cold enough to be dangerous for extended immersion; the party will need a raft or magical means of crossing. Beneath the surface, visible through the clear water at depth, something vast and slow moves — a spirit of the deep, ancient, territorial but not hostile by nature. A DC 20 Knowledge (Nature) or Knowledge (Planes) check identifies its character and the appropriate gesture of passage: something offered to the water — not necessarily valuable, but genuinely given. A party that crosses without acknowledgment will find the spirit ascending; it will not attack, but it will push the raft to the bank or pull swimmers under long enough to exhaust them, and it will do this each time they attempt the crossing until the gesture is made. An unworthy party finds the spirit more aggressive (Combat Maneuver Bonus +8) and the correct gesture harder to identify (DC 26).
+
+**The Trickster's Shrine.** In a hidden valley accessible only through a narrow defile that a DC 18 Perception check is required to identify at all, a shrine to Wotan stands in better repair than anything around it should account for. Its fires are lit. Its offerings are fresh. An old figure sits at its edge — not clearly mortal, not clearly otherwise — who speaks in the register of someone who has been answering questions for a very long time and has developed opinions about the quality of questions. The figure will ask each party member in turn: *Why do you seek what you seek?* A rote answer earns silence. A political answer earns a pointed question in return. An honest answer — including an uncertain one, including one that names the failure in the trials that led them here — earns acknowledgment, and a party in which every member answers honestly will be told, in terms they can act on, where the Beast can be found and what time of day it comes to that place. This cuts two weeks from the journey's remaining length. An unworthy party will find the figure absent from the shrine; the fires are lit, the offerings are fresh, the valley is empty.
+
+**The Ice Cathedral.** In the final approach to the place where the Beast can be found, the route passes through a formation of glacial ice, cathedral-tall and lit from within by pale cold light. The passage narrows as it goes deeper. Creatures are visible within the ice — not trapped, not suffering, simply present, watching from stasis with expressions of great patience. At the passage's deepest point, a section has collapsed across the route; clearing it requires pressing through an overhang of ice so unstable that anyone standing beneath it risks bringing the whole formation down. A DC 22 Perception check confirms what is already evident: someone must go through without any certainty it will hold. A DC 22 Acrobatics or Escape Artist check is required to move through the overhang without disturbing it; failure triggers a partial collapse for 6d6 cold damage (DC 20 Reflex for half), and the character must make a second DC 20 check to clear the debris before the rest of the passage comes down. If no one will enter, the route is impassable and the party must find another approach, adding one month to the journey. An unworthy party finds the overhang less stable (DC 28 Acrobatics or Escape Artist; DC 24 Reflex on failure).
+
+---
+
+#### Finding the Beast
+
+The Beast comes at dusk to a high mountain lake above the treeline called the High Mere — a lake so still and so clear that the mountains reflected in it appear more solid than the ones above. It comes to drink, alone, without apparent concern for the approach of travelers.
+
+A party the Beast has found fully worthy will discover that they have arrived at the High Mere at the right time without quite understanding how they knew to come when they did. The Beast will be at the water's edge when they arrive. It will not flee. It will observe them with its amber eyes as they approach, and when they come close enough, it will lower its great antlered head — a gesture that is unmistakably permission. The key slides free from the cord without resistance. The Beast drinks and raises its head again and eventually, at its own pace, walks away into the mountains.
+
+A party the Beast has not found worthy will need to track it to the High Mere, requiring a DC 28 Survival check; failure means another day of searching and another attempt. When cornered, the Beast does not yield the key willingly. It does not attack to wound, but it will not stand still — it must be subdued. This is a combat encounter in which all damage dealt to the Beast is treated as nonlethal; the Beast cannot be killed. Its statistics are given in Appendix A. When reduced to 0 hit points or successfully pinned (CMB DC 28), the Beast goes still, and the key can be removed. When released, it rises and walks into the mountains without looking back. It will not come to this place again.
+
+In either case, the key is warm, the cord braided from the same variety of hair as the cord around the door at the base of Reinja's corridor.
+
+---
+
+#### Returning to Reinja
+
+Reinja is where they left her. She looks at the key for a long moment before she takes it, turning it once in her fingers. She does not ask how they found the Beast or what the journey was. She says: *"He would have been pleased."*
+
+She opens the door. The corridor below is exactly as they left it. The door through which they failed stands open again.
 
 ---
 
@@ -2771,7 +2866,7 @@ The coin door is not a puzzle. Each recess is clearly marked with the imagery of
 
 ### The Ordeal of Insight
 
-*The third ordeal | Parallels the Quest of the Countess*
+*The third ordeal | Parallels the Quest of the Sorceress*
 
 *What is tested: to see what is truly present rather than what is presented — the intuitive attention that detects the wrong note before it can be named, and the willingness to act on that detection before certainty arrives.*
 
@@ -2937,7 +3032,7 @@ The knights will speak with the party. They are real, not visions. They will ask
 
 **Dame Lysse** is the youngest, barely past her knighthood. She keeps busy — rechecks her armor, restacks the provision chest. She has not told Sir Helm she is frightened. She will tell the party, in a low voice, if they speak with her away from the fire. *"I am going because I said I would go and I will not take it back. But I am — yes, I am afraid. If there is something in the fear itself that can be fought, I would like to know it before morning."*
 
-**Sir Amonn** is the quartermaster, practical and gear-minded. He carrys a small voume on the natural history of dragons and some specific notes on this particular beast. He will share it with the party. He has never faced a dragon before and is scrupulously honest about the limits of his research. *"I do not know if any of this is accurate. I found it in three different sources, none of them firsthand. I compiled it because it was something to do."*
+**Sir Amonn** is the quartermaster, practical and gear-minded. He carries a small volume on the natural history of dragons and some specific notes on this particular beast. He will share it with the party. He has never faced a dragon before and is scrupulously honest about the limits of his research. *"I do not know if any of this is accurate. I found it in three different sources, none of them firsthand. I compiled it because it was something to do."*
 
 The other five knights are present and friendly but do not carry specific information; they are two squires, two knights from Sir Helm's order, and a cleric of Tor who will say only that Tor's blessing has been given and he hopes it is enough.
 
@@ -3001,7 +3096,7 @@ If the party asks how to beat it: *"I have said what I know."* He will not speak
 
 The path from the inn climbs for two hours through thinning trees and bare rock before ending at the mouth of a high cave. The entrance is fifty yards wide. The ground for a hundred yards in every direction is scorched clean of vegetation — not recently burned but repeatedly burned, over decades, until nothing grows there at all.
 
-Outside the cave mouth: eight bodies in plate armor, bearing a white-shield standard. Sir Helm's sword is still in his hand. Ser Lysse's bow is drawn; the arrow was never loosed. Sir Amonn's notes are visible in his breast pocket, crisp at the edges where they were never unfolded.
+Outside the cave mouth: eight bodies in plate armor, bearing a white-shield standard. Sir Helm's sword is still in his hand. Dame Lysse's bow is drawn; the arrow was never loosed. Sir Amonn's notes are visible in his breast pocket, crisp at the edges where they were never unfolded.
 
 They did not make it inside.
 
@@ -3009,7 +3104,7 @@ They did not make it inside.
 >
 > *The smell reaches you before the sound: iron and old fire and something underneath that you have no name for, the smell of a thing that has been killing for four hundred years. You become very aware, quite suddenly, of every place your armor does not cover.*
 
-The dragon is **Mareth the Unyielding**, an ancient red dragon of exceptional age. Its full stat block appears at the end of this section.
+The dragon is **Mareth the Unyielding**, a red dragon of exceptional age.
 
 ---
 
@@ -3054,63 +3149,7 @@ The bodies outside the cave do not disappear. Whether the dead heroes at the inn
 
 ---
 
-**Stat Block: Mareth the Unyielding**
-
-*Adult red dragon*; CR 16; XP 76,800
-
-CE Huge dragon (fire)
-
-**Init** +4; **Senses** darkvision 120 ft., low-light vision, scent; **Perception** +26
-
-**Aura** frightful presence (180 ft., Will DC 26, shaken 5d6 rounds), Aura of Dread (120 ft., Will DC 22; see above)
-
----
-
-**DEFENSE**
-
-**AC** 30, touch 8, flat-footed 30 (+22 natural, –2 size)
-
-**hp** 261 (19d12+133)
-
-**Fort** +18, **Ref** +13, **Will** +16
-
-**DR** 10/magic; **Immune** fire, paralysis, sleep; **SR** 26
-
-**Weaknesses** vulnerability to cold
-
----
-
-**OFFENSE**
-
-**Speed** 40 ft., fly 200 ft. (poor)
-
-**Melee** bite +27 (2d8+13/19–20), 2 claws +27 (2d6+9), 2 wings +22 (1d8+4), tail slap +22 (2d6+13)
-
-**Space** 15 ft.; **Reach** 10 ft. (15 ft. with bite)
-
-**Special Attacks** breath weapon (50-ft. cone, 14d10 fire, Reflex DC 27 half, usable every 1d4 rounds), crush (2d8+13, DC 27), tail sweep, spells
-
-**Spells Known** (CL 7th; concentration +11): 3rd — *fireball* (DC 17), *haste*; 2nd — *blur*, *mirror image*, *scorching ray*; 1st — *mage armor*, *magic missile*, *shield*, *true strike*; 0 — *detect magic*, *light*, *mage hand*, *message*, *prestidigitation*, *read magic*
-
----
-
-**STATISTICS**
-
-**Str** 29, **Dex** 10, **Con** 25, **Int** 18, **Wis** 19, **Cha** 18
-
-**Base Atk** +19; **CMB** +30; **CMD** 40 (44 vs. trip)
-
-**Feats** Cleave, Great Cleave, Improved Critical (bite), Improved Initiative, Iron Will, Multiattack, Power Attack, Toughness, Vital Strike
-
-**Skills** Appraise +26, Bluff +26, Diplomacy +26, Fly +14, Intimidate +26, Knowledge (arcana) +26, Knowledge (history) +26, Perception +26, Sense Motive +26, Spellcraft +26, Stealth +14
-
-**Languages** Common, Draconic, Elven, Sylvan
-
----
-
-**SPECIAL ABILITIES**
-
-**Aura of Dread (Su)** All creatures within 120 feet of Mareth must succeed at a Will save (DC 22) or be unable to direct attacks against Mareth (attacks auto-fail, no roll required). A creature that succeeds at the save, is immune to fear, or voluntarily accepts the possibility of its own death (player decision, no save required) is unaffected. Affected creatures may re-save at the start of each turn (DC 22). Separate from and cumulative with Mareth's standard frightful presence. Fear, mind-affecting.
+*Mareth's full statistics appear in Appendix A.*
 
 ---
 
@@ -3206,9 +3245,9 @@ The passage opens into the open ocean — cold water, grey light, the smell of s
 
 Signi is at the bow.
 
-She pulls them aboard without ceremony and says little beyond what is needed. When everyone is aboard she hands out dry blankets and turns the boat north along the coast. The journey to the Shrine takes the better part of a day.
+She pulls them aboard without ceremony and says little beyond what is needed. She does not have the Sword — she tells the party, simply, that it awaits them at the Shrine. When everyone is aboard she hands out dry blankets and turns the boat south along the coast toward Requiem. The journey takes the better part of a day.
 
-The gear left behind in the grotto is gone. The passage sealed behind them when the last party member cleared it, and it will not be found again. What they gave up, they gave up.
+The gear left behind in the grotto is gone. The passage sealed behind them when the last party member cleared it, and it will not be found again. What they gave up, they gave up. Their possessions will be returned to them inside the Shrine — but they do not know that yet.
 
 **Level 11.** The party gains a level upon surfacing from the passage.
 
@@ -3225,4 +3264,1525 @@ Aldwin at the entry hall is a quiet mirror of the ordeal's core question. He is 
 The greataxe serves the same function as Aldwin: its skeleton is a record of someone who faced the same choice and made the wrong one. The party does not need to be told this. They can see it.
 
 ---
+
+## Chapter 8: The Shrine in the East *(Level 11)*
+
+### Chapter Summary
+
+The party arrives by sea at Requiem, the village where they first met Signi. They are received as the people of Aldenmere have waited to receive new bearers of the sword for a very long time. The procession leads them to the Shrine. Inside — larger on the inside than the outside, a liminal space between worlds — they find the Sword, and they find Cuthbert. He has had two hundred years to think about what he did and why. He will not tell them what to do with the Sword. He will tell them the truth.
+
+---
+
+### The Pier at Requiem
+
+Signi's longboat rounds the headland and the village of Requiem comes into view: the great longhouse on the hill, the fishing boats at anchor, the familiar outline of the shore. Something is different. The pier is crowded. The people of Requiem are standing on it and on the bank above it, watching the blue-sailed boat come in. There is no celebration, no shouting. They are simply present.
+
+> *The boat slows as it approaches the pier. You can see faces now: men and women in simple clothing, some with children at their sides, some with fishing nets still in their hands as though they stepped away from what they were doing when the boat was spotted. They are looking at you — or rather, they are looking at the one among you who is to carry the Sword, though you are still on the water and the Sword has not been drawn.*
+>
+> *The boat touches the pier. Signi makes fast the line. No one speaks.*
+>
+> *Then one of the older women — a fisherman's wife, from the look of her — steps forward and places her hand very gently on the sword bearer's sleeve, just for a moment. She says one word: "Redeemer." Not loudly. The way one says a word one has been saving for a long time.*
+
+The greeting moves through the crowd from that one woman outward. It is not a chant or an acclamation — it is a series of quiet individual acknowledgments, person by person, each meeting the sword bearer's eyes for a moment before stepping aside. People reach to touch a hand, a shoulder, the hem of a cloak. Children hold out flowers, carved wooden tokens, small smooth river stones — gifts that have been ready and waiting. An old man stands at the top of the pier with his hat in his hands.
+
+The procession forms itself without instruction and walks up the hill toward the Shrine.
+
+---
+
+### Signi's Speech
+
+The Shrine stands as it did when the party first saw it: an unassuming low stone building on the hillside above Requiem, its door plain oak, no sign on it of what it contains. The people of Requiem arrange themselves in a wide arc around it. Signi steps forward and turns to face them.
+
+> *"This is the day I have been waiting for. Some of you have been waiting for it longer.*
+>
+> *"I have lived with the Sword my whole life. I have held it, carried it, kept faith with what it means. But I am not a knight of Haven, and I have never been called to Haven's need. The true bearer of the Sword must be. And now one has come.*
+>
+> *"These are people who traveled from Haven to find the Sword. Who crossed the Wild, passed the mountains, and came here without knowing what they would find. Who were tested by my ancestor and found worthy. The Sword returns to Haven now. I am proud to have carried it for a while, and to have lived to see this day.*
+>
+> *"Go well."*
+
+She faces the sword bearer for a moment, then nods once. She turns to the Shrine's door.
+
+---
+
+### The Shrine Interior
+
+Signi places her palm flat against the stone beside the oak door — not the door itself, but a section of the wall that until this moment appeared to be solid stone. There is a low sound, not quite heard so much as felt in the chest. A seam appears. A door opens inward.
+
+> *You step through into a space that is larger than the building that contains it.*
+>
+> *The floor is paved stone, sloping gently down to a central bowl some forty feet across. Around the rim of the bowl, evenly spaced, stand eight arches of grey stone — each one slightly different in carving and proportion, each sheltering a statue. The statues are of people in different dress from different eras: some in armor, some in traveling clothes, some in robes. The arch nearest to you shelters a figure that is recognizably Signi — younger, but the same bearing, the same set of the jaw.*
+>
+> *You look up. The ceiling, if there is one, is not visible. What you see is a sky full of stars — bright, still, and wrong for the time of day. They are not Haven's stars.*
+>
+> *At the center of the bowl lies a stone sarcophagus. The lid is carved in a lifelike likeness of a man in plain armor, eyes closed, hands folded on his chest. The hands are holding a sword.*
+
+The door closes behind the party. Signi is not inside; she remained with her people. The party is alone.
+
+The Sword is in the hands of the carved figure on the sarcophagus lid. It is real — it can be taken. When a party member lifts it free from the carved hands, they will find it lighter than its size suggests, and warm, as though it has been held recently.
+
+Scattered across the stone floor around the sarcophagus, placed carefully rather than dropped, are the possessions the party left behind in the grotto.
+
+**A voice from behind them:** *"They did get the likeness close enough, I think. The jaw is a touch strong. I was never quite so stern-looking."*
+
+---
+
+### King Cuthbert
+
+The man standing near the empty arch behind the party is perhaps fifty, or perhaps he looked fifty when he died and that is how he appears now. He wears plain armor — functional, undecorated, the kind a knight wears because he expects to need it. His clothing beneath the armor is travel-stained. He looks like a man who has been on a long road for a long time and is comfortable with that.
+
+Beside him stands **Reinja** — the actual Reinja, the woman the party met at the Castle in the Pines. She remains ancient in the way very old elves are ancient: not frail, but deep. She does not speak unless addressed.
+
+**Cuthbert** speaks first, and the party will notice his dialect almost immediately: the grammar is older, some of the words turned differently, the cadence more formal than Haven speech of the present day. It is not difficult to understand; it is simply unmistakably old.
+
+*"Thou hast done what I hoped someone would do. I confess I did not always believe it possible. The road is longer than it was in my own day."*
+
+He will take a seat on one of the lower steps of the bowl — casually, without ceremony — and will answer questions. He does not volunteer information but will speak plainly when asked. He knows everything about his own life and reasons; he knows what the world was when he left it; he cannot speak to events since his death.
+
+**What Cuthbert Will Say**
+
+On his reasons for leaving Haven: *"I had built a kingdom, and the kingdom was good, and it was already going wrong. I could see the shape of it. The Sword would make me a king forever if I stayed — or it would pass to Mathilde and make her one. I did not want that for Haven or for my children. I thought if I went far enough, and died far enough away, the Sword might come back when it was needed rather than simply remaining. I was not certain it would work. It has been long enough that I believe it did."*
+
+On the goblinoid displacement: *"That is the sin I carry. We needed land and we took it from those who had it, and we called our gods just for permitting it, and they permitted it because we asked and they were newly made and did not yet know better. I am sorry for it. I was sorry for it when it was happening and I did it anyway. I do not know what restitution looks like from where I stand, but it is yours to make or not make."*
+
+On Wotan's role in founding Haven: *"Wotan chose me. The others permitted it and then spent two centuries managing the consequences of having permitted it. I liked Wotan. I still do. He was honest in ways the others were not yet willing to be."*
+
+On the Sword and what the party should do with it: *"What happens in life is for the living. I have thoughts. I will keep them. Thou hast passed every test Reinja devised; thou art as worthy as any bearer I can imagine. What thou dost with it is thine to decide."*
+
+On the afterlife: Nothing. If pressed, he will smile — not evasively, but with genuine warmth — and say only: *"Live well. Pass on in thy time. There is more, I think, but it is not mine to tell."*
+
+On Reinja, if asked why she is here: She speaks for herself. *"I made the tests. I wanted to see who passed them. When they are passed, my husband is here, thus so am I"* She will not say more than that unless the party asks her directly about something specific.
+
+He will speak as long as the party wishes to speak. When they have finished, or when the conversation reaches its natural end, he stands, gestures toward the empty arch behind them, and says:
+
+*"Go that way. It will take thee out of this place and back to the world. And — know that my hope goes with you. I pray for Haven to see days of peace."*
+
+He does not wait to watch them leave.
+
+---
+
+**The Empty Arch**
+
+The arch behind the party — the one that has no statue beneath it — is, on examination, not quite empty. The pedestal beneath it is there, uncarved. The passage through the arch leads to a short corridor and then to a door that opens from the inside onto the hillside above Requiem, perhaps fifty yards from the Shrine's visible exterior. The village is below them, and Signi is visible in the doorway of the longhouse.
+
+---
+
+### Coda: Remaining in Aldenmere
+
+The Shrine is done and the Sword is in the bearer's hands. The party does not have to leave immediately, and if they are paying attention, they will soon understand why haste is inadvisable.
+
+When Signi meets them on the hillside and learns their plans for the return, she is direct. The sea route — west across the Great North Sea — has never been attempted, to her knowledge. She is willing to try it, but not in autumn, and not in winter. The storms that come off the North Sea in those months make the passage dangerous enough that she will not hazard it, and she will say so plainly. If the party wishes to go by sea, they will wait until spring. She tells them they are welcome to stay in her longhouse until then, as long as they are willing to work.
+
+The alternative is the overland route they came by: back through the mountains, through the Wild, and home to Haven that way. This is entirely the party's choice to make, and Signi offers no pressure either direction.
+
+**Staying in Aldenmere.** The people of Requiem and the wider settlements treat the party with remarkable warmth — not reverence, exactly, but the particular hospitality extended to honored guests who have proven themselves. There is an expectation of contribution, which is simply how Aldenmere works: guests work alongside their hosts. The party will be put to fishing, woodcutting, building repair, the tending of goats on the hill farms above the village, and whatever else needs doing. The work is honest and the food is good. Signi's longhouse is comfortable by Aldenmere standards — wide hearth, well-built sleeping shelves, good roof — though those who find the nights quiet at home will discover that both Signi and her entire crew snore with considerable commitment.
+
+Over a winter or a season of waiting, the party will hear a great deal from the people of Aldenmere. They are not secretive and they are genuinely curious about Haven in return. What the party learns includes:
+
+- **Their way of life.** Aldenmere has no nobility and no king. Disputes are settled by assembly. The fey and human inhabitants live in the same communities and have for generations; the distinction between "human" and "fey" is less meaningful here than it is in Haven because the categories have blurred. The people are competent and largely self-sufficient and do not understand why Haven is organized the way it is.
+- **Stories of the First World.** The fey elders who have lived longest in Aldenmere have direct memory of the First World or draw on the memory of parents and grandparents who did. These stories are not myths — they are accounts, sometimes remarkably specific, of places and peoples and events from a world most in Haven believe to be legend. A party that is curious and respectful will find this a significant source of history.
+- **Aldenmere of old.** Before Cuthbert and his followers crossed the mountains, Aldenmere was entirely fey. The oldest inhabitants remember this or carry stories of it. They do not speak of the arrival of Haven's people with resentment — it was long ago and the relationship was, by their account, negotiated rather than imposed — but they do speak of how different things were. The party, having heard this history gradually over weeks or months, will arrive in Haven with a much fuller picture of what was lost three hundred years ago.
+
+If the party stays through winter, they depart in the first week of spring alongside a full tide, with Signi at the helm and provisions for a crossing no one has made before.
+
+*When the party is ready to depart, see Chapter 9: The Return.*
+
+---
+
+**GM Guidance**
+
+Cuthbert's old-fashioned dialect should be present but not overdone. A few archaic forms — *thou/thee*, *hast*, *dost*, *thy* — are enough to mark him without making him difficult. He should feel like a man, not an oracle. He is reflective, not mournful; he made choices he lived with, and he has had long enough to understand them.
+
+The returned gear on the floor of the Shrine should be noticed naturally. Do not draw attention to it. The party will see it, and they will know what it means: the Ordeal of Sacrifice was real, and the return of their possessions was a gift no one promised them.
+
+Reinja's presence in the Shrine is the answer to a question the party may have formed at the Castle in the Pines: the woman they met there was her descendant. The actual Reinja has remained in this liminal space, or returned to it, since Cuthbert died. She does not explain this. She is simply here.
+
+The level gate for Chapter 9 is Level 12, gained on arrival in Haven.
+
+---
+
+## Chapter 9: The Return *(Level 11–12)*
+
+### Chapter Summary
+
+The party leaves Aldenmere and makes the long journey home to Haven. The route — by sea or by land — is the party's choice, and both are genuinely difficult. This chapter is primarily a narrative one: the purpose of the return journey is not to test the party's combat capability but to give each of them a moment of individual consequence before the final act begins. What they have become over the course of this adventure is the subject of the journey home.
+
+The chapter ends with the party's arrival at Haven's border, or in Sanction itself. Haven has changed in their absence. The crises they left behind have continued developing. They return at Level 12.
+
+---
+
+### The Choice of Routes
+
+When the party is ready to leave Aldenmere, Signi lays out the two options plainly.
+
+**By sea.** The Great North Sea separates Aldenmere from Haven's northern coast. No one has made this passage before. Signi is willing to attempt it — she has studied the stars, spoken with her oldest fey neighbors about weather patterns, and built the best longboat on this coast. She will not go in storm autumn or in winter. If the party is leaving in spring, she will take them. The voyage will take several weeks in favorable conditions; in unfavorable conditions, longer.
+
+**By land.** The party can retrace the route they came by, more or less: through the mountain passes, through the Wild, and back across the river Aven. The journey is long but known. They will not face the Wild as first-timers — they know what lives in it now, and some of what lives in it knows them. Conditions will depend on season and on what they left unresolved.
+
+The party chooses. Neither option is presented as safer. Both require something.
+
+---
+
+### Running the Narrative Journey
+
+The return journey is not fully scripted — the party has earned the right to cover ground at speed, and a chapter-by-chapter encounter structure would slow a story that has reached its final act. Instead, both routes are presented as a series of **vignettes**: narrative moments, each focused on a single significant event, which the GM uses to give individual party members a final scene before the endgame.
+
+**How to use the vignettes.** Each vignette below is written around a type of challenge and a type of character. The GM should read through all the vignettes for the chosen route before the session and assign each one to the party member whose arc it best serves. A character who has been the party's navigator and wilderness expert should get the vignette that puts their skill at the center. A character who has been the face and diplomat should get a different one. The vignettes are frameworks, not scripts: the read-aloud text establishes the situation, and then the scene plays out through the character's choices and dice.
+
+There is no mechanical requirement to use every vignette, and the GM should feel free to cut one if a particular story beat has already been covered in play. Six vignettes for the land route provides enough for most party sizes. Three for the sea route reflects the tighter, more collective nature of a sea voyage.
+
+**What the vignettes are not.** They are not full encounters. The three-eyed beast does not have a stat block appended. The demon in the mountains does have a stat block, because it is a genuine fight — but the other sea vignettes are resolved through roleplay, skill checks, and group decisions. The GM should use judgment about when to invoke dice and when to let a moment land without them.
+
+---
+
+### The Land Route
+
+The land route takes the party back through the mountains and the Wild, following roughly the path they traveled east. It is a different journey than the one they made before: the party is different, the season is different, and some of what they encounter knows who they are now.
+
+The GM selects six of the following vignettes and assigns them to individual party members. Vignettes may be rearranged in any order appropriate to the route's geography.
+
+---
+
+**Vignette 1: The Burning Steps**
+
+*For a party member who excels at single combat or acts best when alone.*
+
+The party is several days into the Wild when one character, traveling a short distance from the group on an errand or simply moving a little ahead, becomes aware of something following them. The prints are enormous — larger than any natural animal — and they are burning. Grass smolders at the edges of each impression. Whatever is making them does not appear to be hiding.
+
+> *You hear it before you see it: a sound like a fire finding dry wood, a low crackle traveling through the underbrush behind you. You look back. The ground where you were standing a moment ago is smoking. Three great depressions are burned into the earth, each one the size of a cart wheel. Something is tracking you.*
+>
+> *You see it when it crests the rise: a creature the height of a house, built like a bear but with a head that does not belong to any animal you recognize — too long, too still, with three pale eyes arranged in a vertical line down the center of its face. The eyes are open. All three are looking at you.*
+
+The creature is a fey predator of the deep Wild — territorial, enormously powerful, and drawn to the Sword in the way some creatures are drawn to deep magic. It will not be distracted or frightened off. It has found what it was tracking.
+
+The character is alone. They fight it, or they find some other solution, or they find a way to hold it long enough for the party to reach them. What they do not do is run — running from something with burning footprints does not go well in the Wild.
+
+*This vignette ends when the creature is dead or driven off. The party converges on the scene to find the character standing over the remains of something none of them have ever seen before, in a clearing of scorched earth.*
+
+---
+
+**Vignette 2: The White Passes**
+
+*For a party member who is the group's navigator, tracker, or wilderness specialist.*
+
+The mountain passes come suddenly into winter conditions despite the season — an unseasonable storm, the kind that the mountain locals say happens once a decade, when the First World pushes cold air through the passes for no reason anyone below can understand. The party is separated in the whiteness. One character remains clear-headed when the others cannot find their feet.
+
+> *The storm came from nothing — a grey wall that swallowed the pass in less than an hour. You can hear your companions somewhere ahead, or behind, or to the left — the wind bends sound strangely in the narrows. The temperature has dropped enough that your breath is steam and your fingers are going wrong inside your gloves.*
+>
+> *You are, for the moment, the only one of you who knows exactly where they are.*
+
+The character must locate each party member in succession — not all at once, but one by one, each found in a different state of cold and disorientation. They must then find or build sufficient shelter before anyone's condition becomes serious. This vignette rewards knowledge checks, Survival checks, and the kind of methodical thinking that gets people home.
+
+*This vignette ends when the storm passes and the party is sheltered and together. The snow around the shelter melts quickly in the returning sun. Whatever caused the storm leaves no trace.*
+
+---
+
+**Vignette 3: The Witch at the Fire**
+
+*For a party member who is fluent in fey custom and etiquette — or who learned it on the way east.*
+
+The party is camped for the night when a group of small fey creatures walks into the firelight as though invited. They are led by an old woman who does not walk so much as drift, and whose eyes are the wrong color. Before anyone can respond, she speaks a word. The party at the fire cannot move.
+
+> *You were outside the camp when they arrived — restocking the water, or walking the perimeter, or simply unable to sleep — and you come back to find your companions frozen in the positions they were in a moment ago. At the fire, an old woman is inspecting them with the professional interest of someone at a market. A dozen small creatures are going through the packs.*
+>
+> *The old woman looks up and sees you. She smiles.*
+>
+> *"One was outside," she says to no one in particular. "How fortunate."*
+
+The character is the only one free to act. They cannot fight their way through this — the old woman is, by any measure, more powerful than the party even at full strength, and she knows it. What they can do is apply what they learned in Queen Elandra's court: fey etiquette, precisely observed, gives a mortal standing to speak. The character must navigate the negotiation with care — the right form of address, the correct framing of obligation, the precise invocation of debt and service. A single error in form may not end the conversation, but it loses ground. Running out of standing ends it.
+
+A sufficiently adept negotiation does not just free the party — it binds the witch to a service. She is, despite herself, impressed by someone who knows the forms. Fey creatures find that difficult to ignore.
+
+*This vignette ends when the paralysis is lifted. The witch and her retinue depart. The packs have been rummaged but nothing is missing — leaving things untouched is also a courtesy, in the right framing.*
+
+---
+
+**Vignette 4: The Crossing**
+
+*For a party member of exceptional strength, practical ingenuity, or engineering capability.*
+
+The river that marks the edge of the Wild's deeper territory has flooded. The bridge the party used on the way east is gone — not broken, simply gone, swept out in the spring melt. There is no ford. The water is fast, cold, and visibly carrying debris. Something large is moving in it upstream.
+
+> *The bank drops two feet to the water's edge. The river is fifteen yards across here and you can't see the bottom. The debris that passes while you're watching includes a tree, several large stones, and what appears to be a barn door. Upstream, something long and dark moves just below the surface.*
+>
+> *There is rope in the packs. There are trees on both banks. There is a very short window before whatever is upstream reaches you.*
+
+The character devises and executes a crossing. This requires whatever combination of Strength, Craft, and Survival the character brings to it — rigging a rope line, finding anchor points, getting people across in the right order, and dealing with the complication of whatever is moving upstream before it deals with them. There is no single solution; there are several, and the character picks one and makes it work.
+
+*This vignette ends with the party on the far bank. The thing in the river, in the absence of a fight, subsides. The character's solution may or may not still be standing.*
+
+---
+
+**Vignette 5: The Rival**
+
+*For a party member who was most present during the goblinoid chase at the river Aven — ideally one whose conduct there was notable.*
+
+Several days into the Wild, the party is intercepted by a single goblinoid — a hobgoblin warrior, alone, who steps out of the trees with weapons sheathed and one hand raised. The party may recognize the style of his harness: it bears markings from Maranth's coalition, worn with the deliberate discomfort of someone who has recently changed allegiances.
+
+He is not here to fight. He is here because someone told him who the party was.
+
+> *"The one who dealt with Maranth," he says, in heavily accented Common. He looks at one of you specifically. "I heard what happened at the Aven. I heard how it ended."*
+>
+> *He waits. He seems to be deciding whether to be impressed or offended, and has not yet resolved the question.*
+
+In the Wild, a party that has bested a war leader is owed a specific acknowledgment — a custom old enough that most in Haven have forgotten it exists. The goblinoid has traveled two days to observe this custom, because not observing it would say something about him that he is not willing to say. The encounter requires one character to navigate the exchange correctly: to receive the acknowledgment without arrogance, to respond in a form the goblinoid considers appropriate, and to leave this scout with a reason to let word spread that the party moves with the Wild's customs observed rather than ignored.
+
+If the exchange goes well, the hobgoblin provides one piece of information the party did not have about conditions on the road ahead. He then leaves without further comment.
+
+*This vignette does not end in combat unless the party initiates it. If they do, they have made an enemy of a culture that the adventure's themes suggest they have reason to treat otherwise.*
+
+---
+
+**Vignette 6: The Dreamthief**
+
+*For a party member who carries significant knowledge — particularly anyone who asked Cuthbert questions, or who paid close attention during the ordeals.*
+
+The party wakes one morning to find one character staring at their hands with the expression of someone trying to remember a word they knew yesterday. Not frightened — just wrong. Something is missing. A detail they are certain they knew, something that matters — one of Cuthbert's answers, the inscription from a particular statue in the ordeal, a name — is simply not there. The shape of the absence is clear. The knowledge is gone.
+
+Tracks lead from the campsite into the pre-dawn wood. Small, irregular, light on the ground. They will not last long.
+
+> *The tracks are barely there — half-impressions in the dew, already fading. Whatever left them moved quickly and knew where it was going. The sky in the east is beginning to lighten.*
+>
+> *If you are going to find this thing before it disappears entirely, you have until the sun is up.*
+
+A second character follows the dreamthief alone into the wood and must find and confront it before dawn fully breaks — after which the tracks will be gone and the stolen memory will be unrecoverable. The confrontation requires something other than force: the dreamthief is a small, frightened thing, not a monster, and attacking it may destroy what it is carrying. The correct approach is a negotiation or a trap that recovers the memory intact. A character fluent in fey lore or with high Sense Motive will recognize what they are dealing with; even without that, patience and care will get further than a sword.
+
+*This vignette ends when the memory is recovered and returned to the character who lost it. The dreamthief escapes. Whatever it stole is restored intact, though the character may notice, briefly, that it feels slightly more vivid than before.*
+
+---
+
+### The Sea Route
+
+The sea route is a different kind of journey. The land route gives each character room for a solo moment; the sea route gives the party room for nothing at all. On a longboat crossing an unknown ocean, there is nowhere to be alone, nowhere to pull away from the group, and nothing to rely on except each other.
+
+**Rolf.** Signi's husband is **Rolf**, a bard who has spent thirty years in Aldenmere writing songs about the sea and building boats capable of sailing it. He is a large, extremely calm man who speaks less than Signi but takes up more space, and who has an unnerving habit of being right about weather. He is the most technically capable sailor aboard, which Signi acknowledges without apparent resentment. He accompanies the party on this voyage because, as he explains with characteristic directness, if something goes wrong with the boat, he can fix it and no one else aboard can.
+
+---
+
+**Vignette 1: The Great Storm**
+
+> *The storm built over two days — first a change in the color of the sky, then a change in the smell of the air, then waves that came from the wrong direction. Rolf watched all of it without expression. On the morning of the third day he said "today" and went below to secure the stores, and by midday the sky was black from horizon to horizon.*
+>
+> *The longboat is a good boat, but it is one boat, and this is the open ocean, and the wave that just came over the bow was as tall as a house.*
+
+The storm requires the full party working in concert. Rolf calls the positions: someone on the tiller to hold course, someone on each of the two sheets to manage what remains of the sail, someone bailing, someone securing anything that has come loose. The positions are not interchangeable — the wrong person on the tiller at the wrong moment costs ground that may not be recoverable. Characters must coordinate and fill gaps as conditions change.
+
+The storm lasts through the night. By morning it has passed. The party is exhausted, soaked, and together.
+
+---
+
+**Vignette 2: The Becalming**
+
+A week into the crossing, the wind dies. Not diminishes — dies. The water is flat and reflects the sky like a mirror. It is, in its way, beautiful. It is also a problem.
+
+> *The sail hangs. The oars do something, but not much — the boat is built for wind, not arms, and there are not enough of you to row it across an ocean. Rolf has checked the water stores twice. Signi has not said anything about it yet, which is, somehow, worse.*
+>
+> *On the horizon, very faint, there is something that might be a darker patch of water. Rolf says it might be a current. He says it is at least a day's rowing away.*
+
+The party must manage resources (water, morale, energy), decide on a course of action, and execute it together over a period of days. Skill checks and group decisions matter. The solution the party reaches is their own; there are several viable approaches and no single correct answer. A party that pulls together and makes good decisions reaches the current and finds the wind on the far side of it. A party that fragments or fails to communicate reaches the same place in worse condition.
+
+---
+
+**Vignette 3: The Wreck at Black Rock**
+
+The northern coast near Haven, when they finally sight it, is not welcoming. The charts Signi brought are old and the coastline they show does not quite match what they see. A fog rolls in during the night approach.
+
+> *The sound reaches you before anything else — a grinding, deep and wrong, that comes from everywhere at once. Then the boat lurches. Then it lurches again, harder, and something tears below the waterline, and Rolf is already moving toward the sound with tools in his hands, calling instructions to Signi in Aldenmere dialect that you don't have time to translate.*
+>
+> *The longboat is on a reef. The shore is visible — perhaps two hundred yards away. It is a bleak stretch of coast: black rock, no harbor, the sound of wind in something that might be pine trees above the cliffs. Three of the crew are not on deck.*
+
+The three missing crew members were swept below and over the side, then carried to shore by a current that runs toward the base of the cliffs. They are not in the water — they made it to shore — but they are not responding to calls. Something on the cliff above them is.
+
+While Rolf works on the hull with whatever assistance the party can provide, a group must go ashore and find the missing crew. The trail leads up from the rocky shore into the hills above the coast, where they find evidence of a lair: bones, wreckage from old ships, and the particular stillness of a place where something powerful lives.
+
+**The Demon.** A demon of significant strength has inhabited these hills for decades, drawn by the grief and fear of shipwreck survivors. It has taken the three crew members to its lair in the high rocks. It is CR 13; its stat block appears in Appendix A. It fights to the death and does not negotiate. Its hoard — accumulated from three generations of wrecks — includes coins, weapons, and items of genuine quality. The party may take what they can carry.
+
+The crew members are found alive and unharmed in a side chamber of the lair; the demon had not reached them yet.
+
+By the time the party descends, Rolf has patched the hull well enough to sail. He is not satisfied with the work — it will need proper repair at the first harbor they reach — but it will hold. He accepts the party's report of what they found in the hills with the same lack of expression he brings to everything, and asks if they are ready to sail.
+
+---
+
+### Arrival in Haven
+
+Whether the party comes by sea to Haven's northern coast or by land across the river Aven, they cross into Haven changed. They have been gone — by the calendar — long enough that things have moved in their absence. The Act IV Crisis Framework in the Running the Adventure section describes the specific state of Haven based on Act I outcomes; the GM should review that section before running the arrival.
+
+What the party will find, regardless of specific outcomes, is a kingdom under pressure. The Sword's absence has not simplified anything. Neither has the party's.
+
+The first people they encounter — a border garrison, a patrol, a harbor master, an innkeeper who recognizes a face — will react to the news of their return and the sight of the Sword with something between relief and alarm, because both emotions are appropriate. Word will spread before the party reaches Sanction. By the time they arrive, someone will be waiting for them.
+
+**Level 12.** The party gains a level upon arriving in Haven.
+
+*The final act begins. See Chapter 10: The Reckoning.*
+
+---
+
+## Chapter 10: The Reckoning
+
+*Act IV | Level 12*
+
+---
+
+### Overview
+
+The Reckoning is the final act of the campaign. The party returns to Haven carrying the Sword of the Redeemer — the founding symbol of a three-hundred-year-old kingdom, retrieved from the tomb of its greatest king — and must decide what to do with it. That decision, and the manner in which they carry it out, constitutes Act IV.
+
+The chapter is structured around five virtue questions: Sacrifice, Wisdom, Insight, Piety, and Courage. The first four are roleplay challenges — conversations, presentations, negotiations, and confrontations that draw on everything the party has learned and everything they have become over the course of the adventure. The fifth is a combat challenge, the consequence of how they answered the first four. Together, the five questions determine the shape of the ending and the condition of Haven in the years that follow.
+
+The chapter is written for Ending 1: the party returns the Sword to Harold II. The specific form of each virtue question, and of the Courage combat, differs depending on whether the party returns to a kingdom still at peace or a kingdom at war with itself — a condition determined entirely by whether they resolved the Countess quest in Act I. These two tracks are addressed in parallel throughout the chapter.
+
+The GM should read the full Act IV Crisis Framework before running this chapter. The crisis states from Act I determine the form the virtue questions take, the allies and enemies the party encounters, and the specific conditions of the final combat. They cannot be improvised at the table.
+
+For parties pursuing Ending 2, this chapter serves as a reference rather than a script. The five virtue questions and the Act IV crisis states still provide the structural spine; the GM should use the Ending 1 treatment of each question as a model for what the question is actually testing, and adapt the specific events and encounters to fit whatever path the party is on.
+
+---
+
+### Approaching the Capital
+
+The party enters Haven at Level 12. The Arrival in Haven section of Chapter 9 describes their first contact with the kingdom after their long absence; this chapter begins once it is clear they are travelling toward Sanction and have made their intentions — returning the Sword to Harold II — known, at least implicitly, by their direction of travel.
+
+**If the kingdom is at peace,** word of their return will have moved ahead of them before they reach any major settlement. The Earl of whatever territory they are passing through will have received this word and will send a formal representative — a household knight, a steward, or in some cases the Earl's own family member — to offer the party an escort to the capital. This offer is framed as courtesy and honor. It is also, plainly, an opportunity. The Earl wishes to take the measure of the people carrying the Sword before they place it in Harold's hands.
+
+During the progress to Sanction, the Earl will arrange for the party to dine with him or with members of his household on several occasions. These meals are public, attended by local knights and minor nobility, and carry the quality of assessments — the Earl or his representative will draw the party into conversation about their journey, their experiences in Aldenmere, what they learned, and what they intend. They will be attentive and pleasant and not entirely honest about their purposes. A party that handles these conversations well — neither revealing more than is wise nor giving the impression they have something to hide — will arrive at Sanction with an Earl cautiously disposed in their favor. A party that is evasive, contradictory, or visibly concealing something will find the Earl's hospitality cooling before they reach the capital.
+
+In the case of a formerly rebel Earl's territory, the difficulty intensifies. Such an Earl has specific and personal reasons to want information about the Sword and its bearers before they reach the king, and his interest is not purely social. At some point during the progress, the party will be attacked — while out on a hunt, or returning from an evening ride, or during a morning patrol of the road ahead — by a company of men well-armed and well-organized enough that "bandits" is a description only the most credulous traveler would accept. They will attempt to take the Sword. The Earl, when informed of the attack, will express his horror and personally oversee an investigation that will not produce satisfying conclusions. He will stop pressing the party afterward. Both parties will understand why, and neither will say so.
+
+The attack is orchestrated by the Earl of Waldsea. His intent is not to use the Sword himself but to convey it to the Earl of Cant, his political ally, who has a collateral claim to the throne and has made clear to Waldsea that possession of the Sword would be sufficient to press it. The Earl of Waldsea does not participate in the attack personally; he sends trusted household agents — men whose loyalty is to his person rather than to any office. They carry no identifying marks and will not confess to their employer under any circumstances. Whether the escorting Earl knows of the attack in advance depends on which territory the party is crossing. If the escort is the Earl of Cant or the Earl of Caerwold, both of whom are Waldsea's allies in this design, the escorting Earl is aware of the plan and has arranged the party's movements — the hunting excursion, the evening ride — to create the opportunity. If the escort is from any other earldom, the attack comes without his knowledge and he will be genuinely, if uselessly, horrified.
+
+**If the kingdom is at war,** there is no escort and no courtesy progress. The Earl whose territory they enter is either a rebel, neutral, or actively hostile to the party's apparent intentions, and the roads are not safe for people travelling openly with a legendary sword. The party will encounter a combination of highwaymen — men who have learned that the breakdown of order is profitable — agents of the Inquisition moving between rebel-held settlements, and the occasional patrol operating under one or another Earl's colors. These encounters are not necessarily violent. Agents of the Earls and of the Inquisition who recognize the Sword — and anyone with Knowledge (religion) DC 14 or a background in church education will recognize it — will react with a combination of alarm and calculation. The Sword is a political object of the first order; the people carrying it are either allies of the king, neutral brokers, or enemies, and the agent's response will depend on which he determines them to be. This can be managed with skillful conversation, appropriate deception, or the implicit threat that attacking the bearers of the Sword of the Redeemer is not a choice a man makes lightly. A party that is careless or unlucky will have to fight their way through.
+
+**Routes from Mercador (sea approach, civil war only).** If the party returned by sea, Signi landed them at Mercador, the port town in Kharas on the northern coast. Kharas is neutral; the Earl Tormund has not committed to either side and is unlikely to unless compelled. From Mercador, two overland routes run toward Sanction. The first runs south through Swansea and then west through Goodlund — both contested territories, with Goodlund currently hosting the rebel army's encampment. This route is faster but takes the party directly through or near active military positions. The second runs west first, through Waldsea, then south through Goodlund toward the capital — longer, and through a rebel earldom, but skirting the army's primary position. Either route presents encounter opportunities. The GM should determine the specific encounters based on the party's approach and the current state of the campaign's crisis tracks.
+
+---
+
+### Ending 1: The Sword Goes to Harold II
+
+#### The Question of Sacrifice
+
+The question of Sacrifice does not announce itself. It arrives one evening while the party is making camp — somewhere between the border and Sanction, on the road through whatever earldom they are crossing. The fire is going, the meal is done or nearly done, and the camp has the particular quality of quiet that comes after a long day of travel in familiar country. Then there is someone sitting on a log at the edge of the firelight who was not there before.
+
+He is a tall man, physically strong in the manner of someone who was once a soldier and has not stopped moving. His jaw is firm, his eyes grey and sharp, his beard short and the color of iron. He wears a cowl that has been pushed back, and he is smoking a pipe with evident satisfaction, producing smoke figures of curious intricacy — a hawk turning slow circles above the fire, a sailing ship in full spread, a horse at full gallop that dissolves as a new one forms. He does not introduce himself. He congratulates the party on finding the Sword, and notes with genuine if understated admiration that he had thought the quest beyond anyone now living. He observes that their direction of travel will bring them to the royal court, which is where he assumes they are heading.
+
+Then he asks them, with the frankness of a man who has decided that indirection is a waste of his time, what their intentions are regarding the Sword's return to Harold. Specifically: whether they have any plans to use the Sword as leverage — to set conditions, to extract concessions, to negotiate a reward before placing it in Harold's hands.
+
+He does not frame this as an accusation. He frames it as a practical question from someone who wants to understand the situation clearly.
+
+He has cast a spell to ensure clarity of a different kind. A Knowledge (Arcana) DC 24 or Spellcraft DC 24 check will identify it: a modified zone of truth, unusual in its construction, which does not prevent those within it from speaking falsehoods but detects them for the caster with complete reliability. The party will feel the spell's presence if they attempt to lie — a subtle resistance, a faint awareness of something noticing. The Magister will not acknowledge this if asked directly. His expression will not change.
+
+If the party lies to him once, he takes note of it without comment and continues. If they lie to him a second time, he will set down his pipe, stand up, and take his leave with a courtesy that is entirely impersonal. He will not be followed. He moves out of the firelight and into the trees and is simply gone; no track, no sound, no trail. He cannot be found.
+
+If the party is forthright with him — regardless of what they actually intend — he will thank them for it. He is not personally invested in any particular answer; he is invested in knowing the truth of the matter.
+
+If the party expresses an intention to set conditions on Harold before returning the Sword, he will respond, for the first time in the conversation, with something that does not resemble detachment. He will tell them plainly that this is a profoundly bad idea. He will not explain why at length. He will say it once, with the weight of a man who has spent considerable time thinking about it.
+
+If the party tells him they intend to return the Sword without conditions, he will nod with a respect that is not performative. He will tell them that from what he knows of the king, Harold will offer the party a boon — a gift of the bearer's choosing, in the old tradition. He will add, quietly and without elaboration, that if they remember the old stories, one should be careful what one asks of a lord who offers a boon.
+
+He leaves as he arrived — without ceremony, moving out of the firelight and gone before anyone can follow. In the morning, the only evidence of his presence is a faint smell of pipe smoke and the smooth patch of earth where he sat.
+
+*The question of Sacrifice is implicit in this encounter. The party is being asked, in effect, whether they will give something of real value — the leverage the Sword represents, the negotiating position they have earned through months of difficult travel — without requiring anything in return. The Magister will not tell them this is what he is measuring. The Sacrifice question does not announce itself.*
+
+---
+
+#### The Question of Wisdom
+
+The question of Wisdom takes place when the party arrives at the royal court — at Tintavel, if the kingdom is at peace, or at Harold's makeshift court in Landing if the realm is at war.
+
+**Father Eadric** will find the party just before they are admitted to the king's presence. If the kingdom is at peace, he will pull them aside with the combination of warmth and urgency that is characteristic of a man who genuinely likes people and is currently worried about them. He will tell them that the political situation in the kingdom is fragile — that the Earls are watching closely, that there are factions in the court prepared to make something damaging out of whatever they say — and that they should answer every question they are asked as diplomatically as the truth will permit. If the civil war is ongoing, his counsel will be the opposite: Harold's court is fighting for its life and has no use for carefully managed versions of the truth. The king needs to know everything. Eadric will ask them to tell it honestly and completely.
+
+The party is received by the court formally. The Sword is presented to Harold. He accepts it with both hands and with an expression that those present will not describe in the same way afterward — some will say he looked relieved, others that he looked frightened, others that he looked like a man who has just understood something he should have understood long ago. He thanks the party in terms that leave no doubt about his sincerity.
+
+Then the questions begin.
+
+The party will be asked first to recount their journey in brief. The account of the five ordeals, the lands of Aldenmere, and Reinja's role in testing them can be summarized without consequence. What cannot be summarized without consequence is the moment they received the Sword — because the Sword can only be given by Cuthbert, and the court will understand this, and they will ask. A party that attempts to omit or gloss this detail will be asked directly by someone in the room — a knight, a church representative, or Harold himself — how they came to hold a sword that is three centuries old and was last seen in Aldenmere. There is no credible answer that does not involve Cuthbert's ghost. The question of whether to reveal this is not, in practice, a question at all.
+
+When the party confirms that they encountered Cuthbert's spirit, there will be a reaction in the chamber — not disorder exactly, but the particular quality of stunned collective sound that precedes disorder. The Magister, who is present in his customary position at the room's edge, will enhance his voice with a word of magic and address the room with a calm that silences it. He will state that the party retrieved the Sword, and the Sword can only be given by Cuthbert, and what they say here cannot be a lie. In a court that is at war and has been living on resolve and faith, this statement will be accepted with the seriousness of a proven fact. In a court at peace, there will be some low murmuring among the nobles before it settles.
+
+Three questions will then be asked of the party directly, either by members of the court or by Harold himself.
+
+*Question One: Why did Cuthbert leave Haven?*
+
+If the kingdom is at peace, the correct answer is measured and diplomatic: that Cuthbert left because he believed Haven needed to find its own direction, and that his continued presence was preventing it from doing so. This answer is true. It is also incomplete, which the party may or may not have the wisdom to recognize. The wrong answer is the full unvarnished truth — that Cuthbert was profoundly unhappy with what Haven had become, and that he left in grief and judgment. This truth will land differently in a court of assembled Earls than in a court of soldiers fighting for their kingdom's survival. If the realm is at war, the full truth is exactly what the court needs to hear, and giving it will be received with the gravity the moment deserves.
+
+*Question Two: Why did Cuthbert take the Sword?*
+
+The correct answer is the same in both conditions: that Cuthbert took the Sword because he did not want it used as a crutch, to substitute for the kingdom's own strength and the faith and judgment of its people — and that he wanted it to return when it was genuinely needed. This is the truth as the party knows it from Cuthbert's own words, and it is what the court, in either condition, most needs to hear. A party that frames this answer well — that links the Sword's absence to the kingdom's growth, and its return to the present moment of need — will find the court receiving it with something close to understanding.
+
+*Question Three: What else did you learn from Cuthbert?*
+
+This question is asked in both peace and war conditions, because the court will understand that a man who spoke to the party from beyond death for long enough to give them a sword almost certainly said more than that.
+
+The full answer is this: that Cuthbert considered the original displacement of the goblinoid peoples to be a historical wrong, one that ought eventually to be corrected; and that he had come to believe, in the long years of his life after leaving Haven, that he had been wrong not to tell his children and the people of Haven his true reasons for leaving, and that the silence had done damage that honesty might have prevented.
+
+If the kingdom is at peace, this information is combustible. It touches the foundational legitimacy of Haven's settlement, the church's official history, and the status of the goblinoid peoples along Haven's eastern and southern borders. The correct approach is to reveal it carefully and with deliberate framing — not as an accusation or an indictment, but as something Cuthbert said and meant, offered for the court's consideration, in the full understanding that it will take time to know what to do with it. A party that reveals this information bluntly, without attention to the room and how it is receiving what they are saying, will produce reactions that are difficult to manage. If the party additionally chooses this moment to address anything they learned about Wotan's sidelining by the other four gods, the room will not be able to contain itself; several Earls will stand, and the session will be over.
+
+If the kingdom is at war, the full truth should be disclosed directly and without softening. Harold's court is not composed of comfortable men looking for reasons to be offended. It is composed of people who have been fighting for months and who understand that what they are fighting over is, at its root, a question about what kind of kingdom Haven will be. The truth about Cuthbert's reasons and his regrets is exactly the kind of foundation a king fighting a legitimacy war needs to hear.
+
+*Consequences of the Wisdom question.* If the kingdom is at peace and the party answers Question One or Question Three incorrectly, there will be dissent among the nobles but not enough to fracture the assembly. If they answer both incorrectly — or if they reveal anything regarding Wotan in the open court — the Earls of Caerwold, Cant, and Waldsea will walk out in formal protest. If the kingdom is at war and the party gives anything other than honest answers, Father Eadric and the Magister will both notice. They will seek a private meeting with the party and the king after the court session concludes. The party's standing with Harold will decrease, though not irrecoverably.
+
+---
+
+#### The Question of Insight
+
+The question of Insight takes place immediately after the formal court session, when Harold has had a moment to recover from the weight of what has just occurred. If the party comported themselves well in the Wisdom question, he will call them back before they have fully withdrawn from the hall — or will send for them that evening — and offer them a boon.
+
+He does not use that word. He says that they have done something he was not certain could be done, and that Haven is in their debt, and that he would like to offer them something of real value in return. He asks what they would like.
+
+This offer will not be extended if the party set conditions on the Sword's return. In that case, Harold will have honored whatever was demanded of him — he will do whatever he can to fulfill what the party asked for — but the public nature of the demand will have carried a cost in the court's estimation of the party's character that no gift can repair.
+
+For parties who did not demand anything, a DC 25 Knowledge (History) or Knowledge (Nobility) check will surface relevant tradition on the subject of boons. The history of knightly service to a lord carries several relevant principles: that one should not ask for something the lord would not willingly give, nor anything that compels him in his governance; that asking for something small often returns something greater; and that refusing to ask for anything from a lord who offers a boon can be considered a grave insult — though Harold, who is deeply pious and has considerable respect for humility, will receive such a refusal as a virtue rather than an offense, and respond accordingly. The Magister's comment on the road — that one should be careful when requesting a boon from a lord — is the prompt for this check; a party that seeks to understand the old tradition before they reach Sanction will arrive prepared.
+
+If the party asks for something appropriate to their station and to the moment — a group boon, land on which to build a priory for their order, a royal charter establishing the order with its own governance — Harold will grant it gladly, and will additionally ennoble any party members who do not already hold a title.
+
+If the party asks for something that exceeds the bounds of what a boon properly encompasses — something that would compel Harold's governance, give the party authority over people or processes that belong to the Crown, or that is simply too large for the moment — he will do his best to provide it, but the court will mark the request, and the party's standing in it will suffer.
+
+If the party refuses to ask for anything, Harold will be privately very pleased with this and will provide each party member with a gift he has prepared at his own direction — something that reflects what he knows of each of them, chosen with genuine attention — along with a small individual land grant. This outcome is perhaps the best of the available ones, though a party that does not understand the tradition will arrive at it by accident rather than by wisdom.
+
+---
+
+#### The Question of Piety
+
+The question of Piety takes place the day after the court session. It comes in the form of an informal meeting, arranged without fanfare, in a small room off the main hall — the kind of meeting that looks like a courtesy call and functions as an examination.
+
+If the kingdom is at peace, the meeting is with the Archbishop of Barstow, who has made the journey to Sanction for the assembly. If the kingdom is at war, it is with Father Eadric, whose position as Harold's confessor gives him both the authority and the personal investment to take the meeting seriously.
+
+In both cases, the meeting begins with the question of what the party learned during their travels, and proceeds quickly to the subject of Wotan. The church representative will ask the party to describe, in their own words, what they came to understand about Wotan's place in Haven's founding. If the party recounts the full story of the Ordeal of Piety — the five tests, the wooden coins, the voice at the end — they will be asked whether they believe they encountered Wotan himself during the ordeal's final test.
+
+The correct answer in both cases, and the only answer that will carry weight with either questioner, is honesty. Not blunt recitation of facts, but genuine engagement — telling the truth in a way that the other party can receive and process from within their own understanding of the faith. The party is not being asked to convince the church representative to accept a heretical position; they are being asked to explain what they experienced and what they understood it to mean, in a way that a sincere and intelligent person of faith can take seriously. The challenge is not rhetorical. It is pastoral.
+
+If the Archbishop is the questioner and the party handles the conversation well, he will make a significant admission: that what they have offered is consistent with suppressed writings he has himself encountered, including those Father Beede presented before his trial, and that the matter has been troubling him for longer than this conversation. He will not commit to an immediate public reckoning. He will ask for time — time to work through what a restoration of Wotan's proper place in the Pentad would require, and how it could be accomplished in a way that does not shatter the church and, through it, the kingdom. He will ask that the party agree to work alongside him in this process, and that Father Beede, if he is alive, be included. The party agreeing to this arrangement is, practically speaking, the best outcome available. Pushing for an immediate public revelation will produce a result the Archbishop will name plainly if asked: a schism in the church, continued political opposition from the conservative Earls, and a reform process that will take decades longer because it begins in conflict rather than in collaboration. If the Archbishop is not convinced by the end of the meeting, he will depart with much to consider — but without the commitment that makes the long process possible.
+
+If Father Eadric is the questioner and the party handles the conversation well, he will push for something more immediate. The civil war is the context; the kingdom needs a rallying cause for reform, and Eadric has the kind of faith that expresses itself in action rather than in careful institutional management. He will recommend that the king formally support Father Beede's movement — if Beede is alive — and that what the party has learned about Wotan be used as the theological foundation for a public call for church reform. This is the right answer for the circumstances, and a party that has been honest and has not antagonized Eadric will find him a powerful and committed advocate with the king. If he remains unconvinced at the meeting's end, he will be unable to make a strong recommendation to Harold on the matter — and Harold, who is an intensely pious man in a distinctly unorthodox way, will feel the absence of his confessor's guidance. The party's standing with the king will diminish, and the question of church reform will remain unresolved into the civil war's aftermath.
+
+*One additional variable applies to both questioners.* If the party revealed anything regarding Wotan in the open court the previous day without preparation or framing, the Archbishop will begin this meeting in a state of sharp hostility, and Eadric will begin it skeptical in a way that goes beyond his usual careful assessment. Conversely, if the party publicly supported Father Beede's movement at any point during Acts I or II, this will count in their favor with Eadric and against them with the Archbishop, who will have formed an opinion of Beede that years of public controversy have not improved.
+
+---
+
+#### The Question of Courage
+
+##### The Kingdom at Peace
+
+Three days after the court session, Harold declares a tournament. He frames it as a celebration — an occasion for the assembled Earls and their knights to compete on the field of honor. He is not unaware of the political value of this framing. A tournament puts the assembled nobility in a space governed by rules of chivalric conduct, where the only sanctioned form of conflict is a joust, and gives everyone present three days of shared ritual before the more difficult business of governance resumes.
+
+The tournament is an old-style joust — a single discipline, run through elimination bouts until a champion is named. Party members who wish to participate may do so; any party member with a martial background and appropriate proficiencies will be competitive at the level required. The crowds will know who they are, and their performance in the lists will be watched closely.
+
+A mystery knight enters the tournament on the first day. He wears white plate armor of plain but excellent quality, with the symbol of the Pentad — five interlocking circles — emblazoned on his shield. His squire, when asked, explains that his knight has taken a vow of silence until the tournament is won and cannot give his name. He is dubbed the White Knight by the crowd, which takes to this with the enthusiasm crowds always have for an unknown challenger. He is a genuine tournament fighter — precise, controlled, and effective — and he advances through the lists without apparent difficulty. Unless a party member meets him in the final bout and defeats him, the White Knight will win the tournament.
+
+When the final bout is over and the champion is to be named, the White Knight removes his helm.
+
+He is Father Marne, Inquisitor of Barstow, and he does not look like a man who has been disguising himself for sport. He looks like a man who has been preparing for this moment for a long time.
+
+He addresses the assembled court in a clear, carrying voice, with the calm of a man who has made his decision and does not doubt it. He names Harold II as an impious heretic, and sets out his evidence.
+
+The charges Marne levels will depend on the crisis states and on how the party answered the virtue questions. He raises any of the following for which evidence exists:
+
+If Father Beede survived Act I and his movement grew: that Harold knowingly supports heresy, allowing a movement built on lies to spread throughout the kingdom and turn the faithful against the church.
+
+If the party worked with Meldreth and Sir Odda was publicly exposed: that Harold and his agents have disgraced knights of the realm and sided with a fey sorceress against their own people.
+
+If the party defeated the Dark Knight dishonorably: that the king's commissioned companions ambushed and killed a knight in defiance of the sacred right of challenge, and that whatever else they have accomplished they are no true knights.
+
+If the party defeated Maranth in Act II: that Harold's agents sought out and killed the leader of a goblinoid war band, stirring old hatreds and drawing upon Haven the very invasion that now threatens its borders.
+
+Regarding the Magister: that Harold openly employs a practitioner of the arcane arts who uses his powers in flagrant violation of divine law, and whose lurid displays are designed to bewitch noble and commoner alike into accepting what the gods have forbidden.
+
+Finally, and regardless of crisis states: that Harold consorts with the Lady Sorella — a woman with fey blood, known to the Inquisition as a person of interest — and has done so in adultery, in defiance of his vows as a knight of the Pentad. He will announce that Lady Sorella is currently within the power of the Inquisition and will soon answer for her crimes.
+
+With all of this set before the court, Marne issues his challenge. He calls for a Test of Five — an older form of the trial by combat, unused in more than a hundred and fifty years, in which two groups of five fighters contest to determine whose cause the gods support. He is invoking a form of justice that Harold cannot refuse without appearing to admit the charges, and he knows it.
+
+**The Test of Five.** The test is to be fought the following dawn, giving both sides a night to prepare. Marne has assembled his party already — four companions of martial and divine capability, statted as level 12 NPCs appropriate to the challenge, with Marne himself at level 14 as a Paladin. He and his party fight tactically and honorably; they will attempt to square off against a single well-matched opponent each, though if the engagement becomes a general melee they will adapt to it. Each member of Marne's party, if reduced to ten percent or fewer hit points, can be convinced to yield with a DC 22 Bluff, Diplomacy, or Intimidate check. Marne will not yield; he will fight until he cannot stand. Unlike a standard trial by combat, a Test of Five has no restriction on the use of magic or divine power; Marne is prepared for this, and his party includes divine spellcasters capable of countering the party's magical resources.
+
+Harold is a level 14 Paladin. He will fight in the Test regardless of circumstances.
+
+**Assembling the king's side.** The composition of Harold's party for the Test depends on how the party answered the preceding virtue questions. If they resolved at least two of the four previous questions well, Harold is satisfied that they are fighting for the right reasons and will invite up to four party members to stand with him. Any remaining gaps in the five-man roster will be filled as follows: Sir Aemond, if he is alive and reconciled to Harold's court, will be called to fight. Sorcha, the Magister's chief apprentice, will speak up to offer her support when the Magister declines to participate himself — the Magister will hold a long silence before nodding his assent, and will tell her quietly but clearly that she is on her own from here on, and that he will teach her no more after this. Sorcha should be statted as a level 12 arcane spellcaster. If additional positions remain unfilled, Harold will draw from his royal guard.
+
+If the party has not resolved at least two of the virtue questions well, Harold will ask them to stand aside rather than fight by his side. He is not punishing them; he is making an assessment about what the court has seen of their character and what the Test, which is as much ritual as combat, requires. In this case, the Test of Five will be resolved narratively — the GM should describe the outcome based on Harold's support level — and the party will be assigned the mission of rescuing Lady Sorella.
+
+**Rescuing Lady Sorella.** Father Eadric will have used his network of contacts to locate where Sorella is being held — an Inquisition encampment on the city's outskirts, established under the cover of an ecclesiastical progress that arrived with Marne from Barstow. The plan is to strike this camp at first light, simultaneously with the start of the Test of Five, so that the Inquisition cannot choose between reinforcing Marne and protecting its prisoner.
+
+The camp is under divine protection: ward spells at the perimeter will sound an alarm at the approach of anyone who has not been granted passage. The party must fight through an initial company of soldiers — two mid-level fighters per party member, commanded by a mid-level Inquisitor — before reaching the inner compound where Sorella is held. Her guards are a mixed force of martial and divine spellcasting characters designed to match the party. Sorcha, if she is not fighting in the Test, will accompany the rescue party and provide arcane support. Sir Aemond, likewise, may be assigned to this mission if not needed in the Test.
+
+**The support calculation.** Whether or not Harold wins the Test of Five, and whether or not Sorella is rescued, the court's reception of the outcome will depend on how well the party answered the preceding virtue questions. For each of the five quests in Act I in which the party achieved the best possible outcome, and for each of the first four virtue questions they answered well, the party earns one point. The point for the question of Courage is determined by whether the Test of Five was won — or, for parties not fighting in it, by whether Sorella was rescued. Ten points is the maximum. This total determines the depth of support for Harold and the party in the events that follow the Test.
+
+**During the council the night before the Test,** the Magister will be present. Before Harold can ask for his assistance, he will preempt the question: he is sworn not to intervene in such affairs. His tone makes clear this is an old oath, not a convenient excuse. Sorcha, sitting at the room's edge in the manner of someone who has been told many times not to speak unless spoken to and has decided that this time is different, will announce that she is ready to support the king. The Magister will look at her for a long moment. He will nod. He will tell her she is on her own from this point, and that he will teach her no more after this. Sorcha will accept this without flinching.
+
+---
+
+##### The Kingdom at War
+
+When the kingdom is at war, the question of Courage does not resolve in a tournament. It resolves on a battlefield.
+
+The party's standing with Harold at the time they reach his court at Landing — the product of how they answered the virtue questions up to this point, calculated on the same basis as the kingdom at peace above but with a maximum of nine available points since the Courage question is not yet resolved — determines what role they play in the fighting and what form the decisive engagement takes.
+
+*Strong support (seven or more points).* Harold has the Sword. He has truth on his side and the loyalty of two full earldoms plus the Sword's own legitimacy. With the party fighting alongside him, he will break the rebellion within six months. The damage to the kingdom will be limited. Harold will be able to impose a reconciliation rather than a settlement — pardoning every combatant, with the exception of the rebel Earls themselves, who will be compelled to live out their remaining years as permanent guests of the Crown. The final confrontation will take place on the battlefield, with Harold leading the decisive charge.
+
+*Moderate support (four to six points).* The fighting will take considerably longer — over a year before it reaches its conclusion. In the interval, without centralized coordination of Haven's eastern defenses, the goblinoid forces will eventually succeed in Umbra and move into the interior of the kingdom, creating a second crisis that must be addressed after the civil war's resolution. If the party accompanies Harold to the field, they can help him to decisive victory in the final engagement; if they are not in his good graces enough to do so, Harold will be pressed back toward Tintavel, where the decisive battle will take place at the capital. In either case, Harold will execute the rebel Earls personally, but will offer full reconciliation to everyone else. The kingdom will be mostly intact, but the wounds will take more than a decade to heal.
+
+*Low support (fewer than four points).* The war will last more than three years. By its end, Haven will be severely damaged — Father Eadric and Sir Aemond, if he lives, will be killed in the fighting; the neutral Earldoms will have chosen sides based on how the party and the king treated them through the campaign; and the goblinoid invasion will be essentially unopposed across Umbra and into the heartlands. The PCs can still tip the decisive final engagement in Harold's favor, though at considerable cost. If they do not participate directly in the final battle, Harold will not survive it.
+
+**The Spotlight Encounters.** Regardless of support level, the decisive engagement is fought by the party as individuals before it is fought together. As the battle reaches its crisis point — the moment where the outcome hangs — the party will find themselves separated, each facing a challenge that their specific capabilities are suited to meet alone. The GM should design one encounter per party member from the following pool, matching the encounter type to the character's primary strength.
+
+*Martial Encounter — The Standard Bearer.* A column of rebel cavalry has broken through the left flank and is driving toward Harold's command position. The standard bearer for Harold's center — a young knight on a panicking horse — has been unhorsed and is about to be trampled. The standard, if it falls, will shatter the morale of Harold's infantry across the entire line. The PC must reach the standard bearer through the cavalry column, get the standard raised again, and hold the position long enough for allied infantry to reinforce the flank. The cavalry column consists of six rebel knights, level 8, with lances and the formation advantage of controlled horses. The PC must navigate or fight through them in a space made chaotic by panicking horses and broken ground.
+
+*Martial Encounter — The Gate.* The rebel army has brought a siege engine — a reinforced ram — against the gate of a fortified position that Harold's forces are holding as an anchor for their line. The gate will fall within four rounds if the ram is not stopped. The PC must reach the ram through a killing ground of archers and crossbowmen, destroy it or drive off its crew, and return through the same fire. The ram is protected by a crew of eight soldiers, level 6, who will fight to keep it operational. Destroying the ram requires either killing the crew or making a Strength DC 20 check to overturn it. The archer fire represents an environmental hazard: DC 15 Reflex each round for 3d6 damage.
+
+*Skill Encounter — The Deserters.* A company of thirty of Harold's levied soldiers — commons, not knights, men who signed up for a rebellion they understood and find themselves in a war they do not — is preparing to break and run from a position that cannot be abandoned without collapsing the center. Their captain has been killed. The PC has moments to find the right words — or the right appeal to whatever this company believes in — before they scatter. This is a roleplay challenge: no single skill check will resolve it. The PC must understand what these men are afraid of and what they still believe in, and give them a reason that is true to hold the line for another hour. Success keeps the position. Failure collapses the center and adds a wave of enemies to the final confrontation.
+
+*Skill Encounter — The Spy.* The rebel commanders know Harold's position and his plan for the engagement. Someone on his staff is passing information. The PC has been given this intelligence by Eadric and must identify the spy before the decisive engagement begins — in less than an hour, among a staff of twelve officers and aides. The PC must use observation, conversation, and whatever information they have gathered about Harold's circle during the campaign to identify the right person. Evidence exists: a detail in the briefing schedule that only the spy could have known, a physical tell observed in an earlier conversation, a discrepancy in the staff's movements. This is a DC investigation chain — Perception DC 20, Sense Motive DC 22, Diplomacy or Bluff DC 20 — and the solution must be reached before the hour is up. A false accusation costs Harold a trusted officer at a terrible moment.
+
+*Magic or Divine Encounter — The Ward.* The rebel commanders have hired a mercenary wizard who has placed a ward over their command position — a zone of magical silence and suppression that prevents divine communication and makes coordinated command difficult. Harold cannot call in reinforcements from his flanking forces because the communication cannot get through. The PC must penetrate the ward's perimeter, find its anchor — a carved stone obelisk at the position's center, guarded by the wizard and two divine spellcasters of level 10 — and destroy it. The ward itself suppresses magic within its area (treat as an antimagic field for arcane effects; divine magic functions at half caster level). The wizard is CR 11 and fights defensively; the divine casters fight aggressively and will prioritize the PC with the highest spellcasting ability.
+
+*Magic or Divine Encounter — The Wounded.* Harold's field surgeons are overwhelmed, and there are a hundred men at the edge of the clearing who will die before the decisive engagement begins if someone does not reach them. The PC must keep as many as possible alive using whatever healing resources they have available, managing triage decisions in real time. The challenge is not purely mechanical — it is moral. Resources are finite. Not everyone can be saved. The PC must choose who to treat and accept that their choices will have faces. At the engagement's conclusion, the number of men still alive in the clearing will form part of the morale calculation for the final confrontation.
+
+**The Rebel Leaders.** After the spotlight encounters resolve, the party comes together for the decisive confrontation with the rebel leadership. The Earl of Waldsea commands the rebellion — he is the military leader of the coalition, a capable commander who knows he has staked everything on this and intends to see it through. If Harold is with the party, the Earl should be statted as a level 14 Fighter and will seek Harold out directly; the two of them fighting at the center of the engagement while the rest of the party handles the Earl's companions is the correct framing for this scene. If Harold is not present — because the party's standing was insufficient or because the low-support track has already separated them — the Earl is statted as a level 12 Fighter, and one NPC from his retinue is removed. Each additional rebel commander is a martial or divine spellcasting NPC of level 12 designed to counter one of the party's members — the GM should review the party's composition before the session and build the opposition to challenge each PC specifically.
+
+In the case of moderate support, the party will face an initial wave of rebel soldiers before reaching the commanders — a mixed force appropriate to the party level, functioning as a resource drain before the decisive fight. In the case of low support, this increases to two waves.
+
+---
+
+### Outcomes
+
+#### The Kingdom at Peace
+
+**Harold alive.** If Harold survives the Test of Five, the outcome of the campaign is primarily shaped by how well the party answered the first four virtue questions. With the Sword in his hands and the Test won, Harold will address the assembled court. He will use the Sword — *Miracle*, once a week — to restore anyone killed in the Test of Five on either side, beginning with his own fallen and extending to Marne's companions if any died. He will then make a proclamation of reconciliation: past rebellions, past grievances, past wrongs committed in the name of both the Crown and its opponents are formally forgiven. He cannot undo the harm they caused, but he will not allow them to continue defining what Haven is.
+
+The specific shape of the kingdom's future depends on what the party did:
+
+If they made no demands before returning the Sword, Harold will grant them land for a priory and a royal charter for their order. The order will appoint its own members on merit and will become closely associated with the royal court while remaining independent of it. Every good knight in Haven will consider membership in it a worthy ambition. It will endure as long as the kingdom does. If they did make demands, Harold will honor them, but the order will operate without royal sanction, becoming a footnote in the historical record — remembered for the quest that brought the Sword home, not for what came after.
+
+If the party was measured and careful in revealing Cuthbert's reasons and regrets to the court, Harold will work to integrate these truths into the living culture of Haven rather than its official history. The commons will take to them readily; the nobles will come around slowly. If the party was not measured, there will be years of conservative resistance and a few small regional rebellions before the truth settles into acceptance. The debate will persist for a generation.
+
+If the party reached agreement with the Archbishop and committed to work alongside him in a careful reform process, the Archbishop will be as good as his word. He will spend the remainder of his career working to restore Wotan's proper place in the Pentad, will appoint a successor committed to the same work, and will pursue the purging of reactionary elements from the church's institutional structure. If the party did not reach this agreement — or failed to convince the Archbishop, or revealed Wotan's story in the open court without preparation — a religious schism will develop among the faithful within three years. The reform movement, with Harold's support, will eventually prevail, but true reconciliation will be the work of generations, and many will turn away from the faith entirely before it comes. Wotan's worship will eventually eclipse that of the other four gods, which is not what Wotan, who prefers complexity to dominance, would have chosen.
+
+Harold will call on every Earl in Haven to contribute forces for the relief of Umbra. The campaign against the goblinoid invasion will be hard fought or easily won depending on whether the invasion had time to advance before the party returned. Sorcha will fight in this campaign if she is still alive; Sir Aemond likewise. Both may be killed if the invasion has advanced deeply into the heartlands. If the party revealed Cuthbert's views on the displacement with appropriate care, Harold will pursue a genuine settlement with the goblinoid peoples after the military campaign ends — not immediately, not easily, but consistently, over the course of his reign. Tensions will cool over his lifetime. In subsequent generations, trade and peaceful coexistence will become possible. If the truth was not revealed, a watchful peace will hold the border, but the underlying wrong will remain unaddressed and the cycle of violence will continue.
+
+If Lady Teta's involvement in Alefrith's conspiracy was never exposed, Harold will marry her within the month. She will be an able political partner throughout his reign; her influence on the court will be considerable and largely stabilizing, though two of her sons will eventually go to war with each other over the succession and kill each other in a duel, leaving her a grief-broken woman in her later years. Her youngest daughter will succeed Harold as Haven's first queen, navigating a difficult regency before establishing herself as a formidable ruler. If Lady Teta is no longer at court, Harold will marry Lady Sorella. Their marriage will be long and, by all accounts, genuinely happy — a tale of courtly love honored for generations. Their son, Alfred the First, will be the first monarch of Haven with elven blood, and his reign will be remembered as Haven's golden age.
+
+Finally, if the Dark Knight was never honorably defeated by the party, he will appear the day after the tournament and challenge the party member who bore the Sword to single combat. He fights in front of the assembled court and must be met honorably — no outside assistance, no external magic. He is now CR 12, appropriate for a level 12 character. If the challenged party member wins, his identity will be revealed upon his death. If the Dark Knight defeats them and they are killed, Harold will challenge him personally; if they were merely defeated and survive, Harold will not attack but will hold the Sword aloft before him. Unable to strike a man not defending himself, and unable to resist the Sword's presence with the curse's accumulated power, the knight will find the paradox breaks the enchantment. His identity is revealed, and Harold, shaken, will seek a private reconciliation.
+
+**Harold dead.** If Harold does not survive the Test of Five, the outcome depends on the party's total point calculation. The Courage question point is determined by whether the Test was won and Sorella was rescued. The maximum is ten.
+
+With seven or more points, support for Harold's legacy is strong. The Archbishop — whatever his personal feelings about the party — will recognize them as the arbiters of royal succession. Two figures have credible claims to the throne. The Earl of Cant is Harold's second cousin through a collateral line; if the party supports him, he will take the throne and deal with the goblinoid invasion as his first act, though the campaign will drag on for years and close the door on any real reconciliation with the goblinoid peoples. He will rule decently but conservatively, and the seeds of a future uprising are present in his governing style. Sir Aemond, Harold's first cousin, has a stronger blood claim; if he is alive and has been honorably reconciled, the party's support for him will see him crowned with limited objection from the nobility. He will govern as Harold would have governed, though the years of the curse and the weight of what he has been through will shorten his reign. His successor will be young at his death, and the transition will be difficult.
+
+With four to six points, the Earl of Cant will press his claim directly, asking the party to support him. If they do, the outcome is as above. If they decline, the party will be sidelined — their order will be dissolved by formal decree, and they will become the quiet center of a faction loyal to Harold's legacy. Father Beede's movement, if he is alive, will provide ideological and material support to this faction. Whether this conflict continues as a further chapter of the campaign or is resolved narratively is a decision for the players and the GM to make together. A narrative resolution sees the party working throughout their lifetimes against the tide; a generation after their deaths, the situation will collapse into civil war regardless.
+
+With fewer than four points, the party will leave the assembly in disgrace. The kingdom will fracture into de facto independent earldoms, each governed by its own Earl in mutual non-interference. Trade will collapse across internal borders; regions that relied on the kingdom's interconnected economy will find themselves unable to obtain what they need. The decline will accelerate into a long series of inter-regional conflicts, punctuated by a goblinoid invasion that goes wholly uncontested. Haven will not recover within living memory. The party may, if they choose, take Signi's standing offer to return to Aldenmere. Those who leave retire with honor among the Aldenmeri. Those who remain will die one by one in the years of chaos that follow.
+
+---
+
+#### The Kingdom at War
+
+**Harold alive.** If Harold survives the decisive engagement, the outcome of the civil war and its aftermath depends on the party's total point calculation — the same basis as the kingdom at peace but with a maximum of nine points, since the calculation does not include the Courage question point until after the battle.
+
+With seven or more points, Harold wins the war within six months of the party's arrival. The damage to the kingdom is limited. He will pardon every combatant who fought against him, excepting only the rebel Earls, who will be compelled to remain at Tintavel as permanent guests of the Crown. The aftermath plays out as in the kingdom at peace above, with Harold alive and the Test won, though without the tournament and Marne's challenge — those events will not occur. The church question, the goblinoid invasion, and the matter of Harold's marriage will all proceed as described.
+
+With four to six points, the war lasts over a year. There will be significant loss of life and material destruction throughout the kingdom. The goblinoid forces will have advanced into the heartlands before the civil war is resolved, requiring a subsequent military campaign under worse conditions. Haven will hold together, but the wounds will take more than a decade to close. Harold will execute the rebel Earls personally — he will not offer them the Tintavel arrangement — but will extend full amnesty to every other combatant.
+
+With fewer than four points, the war will last three years or more. Haven will be devastated. Father Eadric will be killed in the fighting; Sir Aemond likewise, if he is alive. The neutral Earldoms will choose sides based on how the party and the king treated them throughout the campaign — the Countess of Umbra will side with Harold if she was treated well and the goblinoid border was held, against him or not at all if the border collapsed and she was abandoned. The goblinoid invasion will be effectively unopposed across Umbra and into the heartlands, leaving half the kingdom under occupation by the campaign's end. Harold can still win the decisive engagement with the party's help, though the cost will be high. If the party does not fight directly in the final battle, Harold will not survive it.
+
+If Harold survives and is still alive: Haven will be a shadow of what it was, held together by Harold's personal authority and the exhausted loyalty of those who fought beside him. He will marry Sorella — Teta is no longer a political factor — and their son Alfred will succeed him, though Harold will die younger than anyone expects and Alfred will not be fully prepared. Haven's future will look bleak, but the thread of it will hold.
+
+**Harold dead.** If Harold dies in the decisive engagement, treat this as Harold dying during the kingdom at peace ending, with two adjustments. The Earl of Cant will have died in the fighting, so Sir Aemond — if he is alive and was reconciled — will be the only viable successor. He will govern in Harold's spirit but will be aged by the war and the long years of his curse; his heir will be young at his death and the kingdom will face a regency it can ill afford. If the party was in Harold's good graces, they will be named regents. The regency will be difficult and the party's choices during it will determine whether Haven recovers or continues its decline — but that is a story beyond the scope of this adventure.
+
+---
+
+# APPENDIX A: STAT BLOCKS
+
+*All unique creatures and named NPCs from the adventure are presented here in order of first appearance. Cross-references in the chapter text point to these entries; the full statistics are not repeated in the body.*
+
+---
+
+## Maranth
+
+*Act II, Chapter 2: The Wild*
+
+**Maranth**
+
+*Hobgoblin Ranger 7*
+
+**CR 6** — **XP** 2,400
+
+LE Medium humanoid (goblinoid)
+**Init** +8; **Senses** darkvision 60 ft.; **Perception** +11
+
+---
+
+**DEFENSE**
+
+**AC** 21, touch 17, flat-footed 17 (+4 armor, +4 Dex, +3 deflection)
+**hp** 59 (7d10+14)
+**Fort** +7, **Ref** +9, **Will** +3
+
+---
+
+**OFFENSE**
+
+**Speed** 30 ft.
+**Melee** mwk longsword +10/+5 (1d8+2/19–20)
+**Ranged** *+2 corrosive composite longbow* (+2 Str) +14/+9 (1d8+4/×3 plus 1d6 acid)
+**Full Attack** *+2 corrosive composite longbow* +12/+12/+7 with Rapid Shot (first attack fires two arrows with Manyshot on a hit)
+**Special Attacks** favored enemy (humanoids [human] +4, humanoids [elf] +2)
+**Ranger Spells Prepared** (CL 4th; concentration +5)
+— 2nd — *barkskin*
+— 1st — *gravity bow*, *longstrider*
+
+---
+
+**TACTICS**
+
+*Before Combat* Maranth casts *gravity bow* and *longstrider* before any anticipated engagement and draws her cloak hood before approaching the party's position. She positions herself upwind and at range.
+
+*During Combat* Maranth fights at distance and never allows herself to be cornered. She opens with a Rapid Shot full attack, targeting the party's spellcaster or whoever is most visibly dangerous. She activates her bow's corrosive property before the first shot. She uses her jaunt boots to sidestep repositioning attempts, moving 15 feet as a move action without provoking opportunity attacks. Against a party that splits or pursues her into the trees, she picks her targets and withdraws by intervals, making the forest work for her.
+
+*Morale* Maranth is calculating. If reduced below 20 hp she uses her jaunt boots to break contact and vanish into the forest. She does not pursue the party alone after withdrawing; she gathers additional forces and reassesses.
+
+---
+
+**STATISTICS**
+
+**Str** 14, **Dex** 19, **Con** 14, **Int** 10, **Wis** 12, **Cha** 8
+**Base Atk** +7; **CMB** +9; **CMD** 23
+**Feats** Endurance (B), Improved Initiative, Manyshot, Point-Blank Shot, Precise Shot, Rapid Shot, Weapon Focus (longbow)
+**Skills** Climb +10, Intimidate +7, Knowledge (nature) +7, Perception +11, Ride +11, Stealth +18 (+23 with hood), Survival +11
+**Languages** Common, Goblin
+**SQ** favored terrain (forest +2), hunter's bond (companions), swift tracker, track +3, wild empathy +6, woodland stride
+**Combat Gear** 2 potions of *cure moderate wounds*; 40 arrows
+**Other Gear** mithral chain shirt, mwk longsword, *+2 corrosive composite longbow* (+2 Str), *cloak of elvenkind*, *jaunt boots*, *ring of protection +3*
+
+---
+
+**SPECIAL ABILITIES**
+
+*Cloak of Elvenkind* When Maranth's hood is drawn, she gains a +5 competence bonus on Stealth checks (included above).
+
+*Jaunt Boots* Three times per day as a move action, Maranth can teleport up to 15 feet. This movement does not provoke attacks of opportunity.
+
+*Corrosive Bow* On command, Maranth's bow deals an additional 1d6 acid damage on each hit. The effect remains active until dismissed.
+
+---
+
+## Tellaris, Lord of the Hunt
+
+*Act II, Chapter 3: The Wild Hunt*
+
+He is tall for a half-elf, which is what he is, and he is dressed for a hunt: high boots, dark coat, a sword at his hip that is too fine to be a working weapon, and an expression of open and genuine interest. He is, by any measure that would apply in Haven, at least several hundred years old. He does not look it.
+
+**Tellaris, Lord of the Hunt**
+
+*Half-Elf Magus (Eldritch Scion) 12*
+
+**CR 10** — **XP** 9,600
+
+CE Medium humanoid (elf, human)
+**Init** +7; **Senses** low-light vision; **Perception** +15
+
+---
+
+**DEFENSE**
+
+**AC** 24, touch 13, flat-footed 21 (+8 armor, +3 Dex, +2 deflection, +1 natural)
+**hp** 100 (12d8+48)
+**Fort** +12, **Ref** +9, **Will** +10; +2 racial bonus vs. enchantments
+**Immune** sleep
+
+---
+
+**OFFENSE**
+
+**Speed** 30 ft.
+**Melee** *+2 keen longsword* +19/+14 (1d8+9/17–20) or spell combat +17/+12
+**Special Attacks** spell combat, spellstrike, eldritch pool (11 points, maximum +4 enhancement)
+**Magus Spells Known** (CL 12th; concentration +18; DCs 10 + spell level + 6)
+— 4th (3/day) — *dimension door*, *greater invisibility*
+— 3rd (5/day) — *vampiric touch*, *haste*, *dispel magic*
+— 2nd (6/day) — *frigid touch*, *mirror image*, *glitterdust*, *blur*
+— 1st (7/day) — *shocking grasp*, *shield*, *true strike*, *bladed dash*
+— 0th (at will) — *acid splash*, *detect magic*, *mage hand*, *prestidigitation*
+
+---
+
+**TACTICS**
+
+*Before Combat* As the third wave ends and Tellaris approaches, he casts *mirror image* (as a swift action from his eldritch pool, or as a standard action if not pressed). He does not prepare further; he considers anything more elaborate unsporting.
+
+*During Combat* Tellaris's first action is almost always spell combat — he prefers to combine a *shocking grasp* (Intensified: 12d6, delivered via spellstrike) with a longsword attack against the most heavily armored target, as a matter of personal philosophy about where to start a fight. He uses *dimension door* to reposition the moment he is threatened by more than two adjacent opponents, emerging behind the party's spellcaster. He uses *vampiric touch* against characters who have injured him, *frigid touch* against high-Reflex targets (the touch automatically staggers on a failed Fort save is worth more than the damage), and *haste* on himself the round after he loses his mirror images. He will use *greater invisibility* only if reduced below 30 hp — by then, the fight has interested him enough that he wants to continue it rather than end it.
+
+*Morale* Tellaris does not retreat and does not surrender. He will fight to 0 hp. When he reaches 25 hp or fewer, he begins to laugh. He is not faking it. He finds the party legitimately delightful and the laugh is the laugh of someone who has been looking for this for a long time.
+
+---
+
+**STATISTICS**
+
+**Str** 18, **Dex** 16, **Con** 16, **Int** 12, **Wis** 10, **Cha** 22
+**Base Atk** +9; **CMB** +13; **CMD** 26
+**Feats** Arcane Armor Training, Combat Casting, Extra Eldritch Pool, Improved Initiative, Intensified Spell, Iron Will, Spell Penetration, Weapon Focus (longsword)
+**Skills** Acrobatics +15, Intimidate +18, Knowledge (arcana) +13, Knowledge (planes) +14, Perception +15, Ride +15, Spellcraft +16, Use Magic Device +18
+**Languages** Common, Elven, Sylvan, Goblin, Undercommon
+**SQ** bloodline (fey): *woodland stride*, *fleeting glance* (12 rounds/day *greater invisibility* as swift action), *fey magic* (+2 DC on enchantment spells); elf blood, elven immunities, keen senses; arcane accuracy, devoted blade
+**Combat Gear** 2 potions of *cure serious wounds*
+**Other Gear** +1 mithral breastplate, *+2 keen longsword* (offered as prize if defeated), ring of protection +2, belt of physical might +2 (Str, Con), cloak of resistance +2
+
+---
+
+**SPECIAL ABILITIES**
+
+*Eldritch Pool (Su)* Tellaris has 11 eldritch pool points. He can spend 1 point as a swift action to add a +1 enhancement to his longsword for 1 minute, up to a maximum of +4 or equivalent special properties (favored properties: *flaming burst*, *frost*, *speed*).
+
+*Spellstrike (Su)* When Tellaris casts a magus touch spell, he may deliver it through his longsword as part of a melee attack. The spell and the attack resolve simultaneously on a hit; on a miss, the spell is not wasted but is not discharged.
+
+*Fleeting Glance (Sp)* Tellaris can become invisible (as *greater invisibility*, CL 12th) for up to 12 rounds per day as a swift action.
+
+---
+
+## Elder Earth Elemental
+
+*Act III, Chapter 6: The Pass*
+
+The guardian of the pass is enormous, slow, and perfectly still until it is not. This is the standard Pathfinder First Edition elder earth elemental, unmodified. The tribute mechanic described in the chapter text — the three forms of the earth's gifts — is not a mechanical system but a roleplay framework; the elemental will not attack a party that has made a sincere offering of at least one form.
+
+**Elder Earth Elemental**
+
+**CR 11** — **XP** 12,800
+
+N Huge outsider (earth, elemental, extraplanar)
+**Init** –1; **Senses** darkvision 60 ft., tremorsense 60 ft.; **Perception** +19
+
+---
+
+**DEFENSE**
+
+**AC** 22, touch 7, flat-footed 22 (+15 natural, –1 Dex, –2 size)
+**hp** 168 (16d10+80)
+**Fort** +15, **Ref** +4, **Will** +7
+**DR** 10/–; **Immune** elemental traits
+
+---
+
+**OFFENSE**
+
+**Speed** 20 ft., burrow 20 ft.
+**Melee** 2 slams +24 (2d10+13)
+**Space** 15 ft.; **Reach** 15 ft.
+**Special Attacks** earth mastery, push (slam, 10 ft.)
+
+---
+
+**STATISTICS**
+
+**Str** 36, **Dex** 8, **Con** 21, **Int** 10, **Wis** 11, **Cha** 11
+**Base Atk** +16; **CMB** +31 (+33 bull rush, +33 sunder); **CMD** 40 (42 vs. bull rush, 42 vs. sunder)
+**Feats** Awesome Blow, Cleave, Greater Bull Rush, Improved Bull Rush, Improved Sunder, Iron Will, Power Attack, Weapon Focus (slam)
+**Skills** Appraise +19, Climb +32, Knowledge (dungeoneering) +19, Knowledge (planes) +19, Perception +19, Sense Motive +19, Stealth +10; **Racial Modifiers** +4 Stealth underground
+**Languages** Terran
+**SQ** earth glide
+
+---
+
+**SPECIAL ABILITIES**
+
+*Earth Glide (Ex)* The elemental can pass through stone, dirt, or almost any other sort of earth except metal as easily as a fish swims through water. Its burrowing leaves no tunnel or hole. A *move earth* spell cast on an area containing the elemental flings it back 30 feet and stuns it for 1 round unless it succeeds on a DC 15 Fortitude save.
+
+*Earth Mastery (Ex)* The elemental gains a +1 bonus on attack and damage rolls if both it and its opponent are touching the ground. If an opponent is airborne or waterborne, the elemental takes a –4 penalty on attack and damage rolls.
+
+*Push (Ex)* The elemental can make a bull rush attempt as a free action against any target it hits with a slam attack, pushing the target 10 feet in any direction. This does not provoke an attack of opportunity.
+
+---
+
+## The Living Chess Match
+
+*Act III, Chapter 7: The Shrine — Obstacle Three*
+
+The chess match places the party on a forty-foot checkerboard against a full set of animated black pieces. Each piece type uses the same statistics whether encountered on the white side or the black side; the visual difference is narrative only. When a piece would be taken in the chess match, the two pieces fight using standard PF1e rules, and the winner remains on the board. All six piece types are given here.
+
+---
+
+### The Pawn
+
+*Fighter 6*
+
+**CR 5** — **XP** 1,600
+
+N Medium humanoid
+**Init** +1; **Senses** Perception +6
+
+---
+
+**DEFENSE**
+
+**AC** 23, touch 11, flat-footed 22 (+9 armor, +3 shield, +1 Dex; armor training 1)
+**hp** 51 (6d10+12)
+**Fort** +7, **Ref** +3, **Will** +4 (+6 vs. fear)
+
+---
+
+**OFFENSE**
+
+**Speed** 20 ft.
+**Melee** longsword +11/+6 (1d8+6/19–20)
+
+---
+
+**TACTICS**
+
+*During Combat* The pawn uses Power Attack (–2 attack, +4 damage) against opponents with AC 20 or higher and takes full attacks whenever possible. It prioritizes holding its assigned square unless the match requires it to advance.
+
+*Morale* The pawn fights until destroyed and does not retreat.
+
+---
+
+**STATISTICS**
+
+**Str** 16, **Dex** 12, **Con** 14, **Int** 10, **Wis** 10, **Cha** 8
+**Base Atk** +6; **CMB** +9; **CMD** 20
+**Feats** Combat Reflexes, Improved Shield Bash (B), Power Attack, Shield Focus (B), Toughness, Weapon Focus (longsword) (B), Weapon Specialization (longsword) (B)
+**Skills** Intimidate +7, Perception +6
+**SQ** armor training 1, bravery +2, weapon training (heavy blades +1)
+**Gear** full plate, heavy steel shield, longsword
+
+---
+
+### The Knight
+
+*Manticore*
+
+**CR 5** — **XP** 1,600
+
+LE Large magical beast
+**Init** +2; **Senses** darkvision 60 ft., low-light vision, scent; **Perception** +9
+
+---
+
+**DEFENSE**
+
+**AC** 17, touch 11, flat-footed 15 (+2 Dex, +6 natural, –1 size)
+**hp** 57 (6d10+24)
+**Fort** +9, **Ref** +7, **Will** +3
+
+---
+
+**OFFENSE**
+
+**Speed** 30 ft., fly 50 ft. (clumsy)
+**Melee** bite +10 (1d8+5), 2 claws +10 (2d4+5)
+**Ranged** 4 spikes +8 (1d6+5)
+**Space** 10 ft.; **Reach** 5 ft.
+**Special Attacks** spikes
+
+---
+
+**TACTICS**
+
+*During Combat* The knight opens with a spike volley at the nearest cluster of opponents, then closes to melee. It uses Flyby Attack to strike and withdraw when possible, leveraging its size advantage against smaller opponents.
+
+*Morale* The knight fights to 0 hp.
+
+---
+
+**STATISTICS**
+
+**Str** 20, **Dex** 15, **Con** 18, **Int** 7, **Wis** 12, **Cha** 9
+**Base Atk** +6; **CMB** +12; **CMD** 24 (28 vs. trip)
+**Feats** Flyby Attack, Hover, Weapon Focus (spikes)
+**Skills** Fly –3, Perception +9, Survival +4 (+8 when tracking); **Racial Modifiers** +4 Perception, +4 Survival when tracking
+**Languages** Common
+
+---
+
+**SPECIAL ABILITIES**
+
+*Spikes (Ex)* As a standard action, the manticore can loose a volley of 4 spikes (range 180 ft., no range increment; all targets must be within 30 ft. of each other). The manticore has 24 spikes in total, which regrow at a rate of 4 per 24 hours.
+
+---
+
+### The Bishop
+
+*Bralani Azata*
+
+**CR 6** — **XP** 2,400
+
+CG Medium outsider (azata, chaotic, extraplanar, good, shapechanger)
+**Init** +8; **Senses** darkvision 60 ft., low-light vision; **Perception** +15
+
+---
+
+**DEFENSE**
+
+**AC** 20, touch 14, flat-footed 16 (+4 Dex, +6 natural)
+**hp** 66 (7d10+28)
+**Fort** +9, **Ref** +9, **Will** +6
+**DR** 10/cold iron or evil; **Immune** electricity, petrification; **Resist** cold 10, fire 10; **SR** 17
+
+---
+
+**OFFENSE**
+
+**Speed** 40 ft., fly 100 ft. (perfect)
+**Melee** *+1 scimitar* +13/+8 (1d6+8/18–20) or slam +12 (1d6+7)
+**Ranged** *+1 composite longbow* +12/+7 (1d8+6/×3)
+**Special Attacks** whirlwind blast
+**Spell-Like Abilities** (CL 6th; concentration +8)
+— At will — *blur*, *charm person* (DC 13), *gust of wind* (DC 14), *mirror image*, *wind wall*
+— 2/day — *cure serious wounds*, *lightning bolt* (DC 15)
+
+---
+
+**TACTICS**
+
+*During Combat* The bralani activates *mirror image* before engaging, then uses *lightning bolt* to catch multiple opponents. In melee it favors the scimitar over its slam. It shifts to wind form and uses whirlwind blast to clear space when outnumbered.
+
+*Morale* The bralani fights to 0 hp.
+
+---
+
+**STATISTICS**
+
+**Str** 20, **Dex** 18, **Con** 19, **Int** 13, **Wis** 14, **Cha** 15
+**Base Atk** +7; **CMB** +12; **CMD** 26
+**Feats** Blind-Fight, Improved Initiative, Iron Will, Skill Focus (Perception)
+**Skills** Bluff +12, Fly +22, Handle Animal +12, Perception +15, Ride +14, Sense Motive +12, Stealth +14
+**Languages** Celestial, Draconic, Infernal; truespeech
+**SQ** wind form
+
+---
+
+**SPECIAL ABILITIES**
+
+*Whirlwind Blast (Su)* While in wind form, the bralani can expel a blast of wind dealing 3d6 damage in a 20-foot line (Reflex DC 17 half). The save DC is Constitution-based.
+
+*Wind Form (Su)* The bralani can shift between its humanoid form and a form of wind and mist as a standard action. In wind form, it functions as though under the effects of *wind walk*.
+
+---
+
+### The Rook
+
+*Wood Golem*
+
+**CR 6** — **XP** 2,400
+
+N Medium construct
+**Init** +3; **Senses** darkvision 60 ft., low-light vision; **Perception** +3
+
+---
+
+**DEFENSE**
+
+**AC** 19, touch 13, flat-footed 16 (+3 Dex, +6 natural)
+**hp** 64 (8d10+20)
+**Fort** +2, **Ref** +5, **Will** +5
+**DR** 5/adamantine; **Immune** construct traits, magic
+**Weaknesses** vulnerability to fire
+
+---
+
+**OFFENSE**
+
+**Speed** 30 ft.
+**Melee** 2 slams +12 (2d6+4)
+**Special Attacks** splintering
+
+---
+
+**TACTICS**
+
+*During Combat* The rook advances directly into melee range and uses both slams each round. It delays splintering until two or more opponents are within the burst radius. It does not retreat.
+
+*Morale* The rook fights until destroyed.
+
+---
+
+**STATISTICS**
+
+**Str** 18, **Dex** 17, **Con** —, **Int** —, **Wis** 17, **Cha** 1
+**Base Atk** +8; **CMB** +12; **CMD** 25 (30 vs. trip)
+**Feats** Cleave, Great Cleave, Improved Bull Rush, Power Attack
+
+---
+
+**SPECIAL ABILITIES**
+
+*Immunity to Magic (Ex)* The wood golem is immune to any spell or spell-like ability that allows spell resistance, with the following exceptions. Fire spells affect it normally. A *warp wood* or *wood shape* spell slows it (as *slow*) for 2d6 rounds with no save. A *repel wood* spell drives it back 60 feet and deals 2d12 damage with no save. Cold damage dispels any *slow* effect on the golem and heals 1 hp per 3 points of cold damage dealt.
+
+*Splintering (Su)* Once every 1d4+1 rounds as a free action, the wood golem launches a volley of splinters in a 20-foot-radius burst dealing 6d6 slashing damage (Reflex DC 14 half). The save DC is Constitution-based.
+
+---
+
+### The King
+
+*Cave Bear (Dire Bear)*
+
+**CR 7** — **XP** 3,200
+
+N Large animal
+**Init** +5; **Senses** low-light vision, scent; **Perception** +12
+
+---
+
+**DEFENSE**
+
+**AC** 18, touch 10, flat-footed 17 (+1 Dex, +8 natural, –1 size)
+**hp** 95 (10d8+50)
+**Fort** +12, **Ref** +8, **Will** +4
+
+---
+
+**OFFENSE**
+
+**Speed** 40 ft.
+**Melee** 2 claws +13 (1d6+7 plus grab), bite +13 (1d8+7)
+**Space** 10 ft.; **Reach** 5 ft.
+**Special Attacks** grab (claw)
+
+---
+
+**TACTICS**
+
+*During Combat* The dire bear charges the nearest opponent on the first round, attempting a grab with a claw strike. Once grappling, it bites the grappled creature each subsequent turn while maintaining the hold. It ignores disengaged opponents until its current target is incapacitated.
+
+*Morale* The dire bear fights to 0 hp.
+
+---
+
+**STATISTICS**
+
+**Str** 25, **Dex** 13, **Con** 21, **Int** 2, **Wis** 12, **Cha** 10
+**Base Atk** +7; **CMB** +15 (+19 grapple); **CMD** 26 (30 vs. trip)
+**Feats** Endurance, Improved Initiative, Iron Will, Run, Skill Focus (Perception)
+**Skills** Perception +12, Swim +11
+
+---
+
+### The Queen
+
+*Lillend Azata*
+
+**CR 7** — **XP** 3,200
+
+CG Large outsider (azata, chaotic, extraplanar, good)
+**Init** +3; **Senses** darkvision 60 ft., low-light vision; **Perception** +13
+
+---
+
+**DEFENSE**
+
+**AC** 20, touch 12, flat-footed 17 (+3 Dex, +8 natural, –1 size)
+**hp** 73 (7d10+35)
+**Fort** +7, **Ref** +10, **Will** +10
+**Immune** electricity, petrification, poison; **Resist** cold 10, fire 10
+
+---
+
+**OFFENSE**
+
+**Speed** 30 ft., fly 70 ft. (average)
+**Melee** *+1 longsword* +12/+7 (2d6+8/19–20), tail slap +6 (2d6+2 plus grab)
+**Space** 10 ft.; **Reach** 10 ft.
+**Special Attacks** bardic performance (20 rounds/day), constrict (2d6+5), grab (tail)
+**Spell-Like Abilities** (CL 7th; concentration +11)
+— 3/day — *darkness*, *hallucinatory terrain* (DC 18), *knock*, *light*
+— 1/day — *charm person* (DC 15), *speak with animals*, *speak with plants*
+**Spells Known** (CL 7th; concentration +11; save DCs 14 + spell level)
+— 3rd (2/day) — *charm monster* (DC 17), *cure serious wounds*
+— 2nd (4/day) — *hold person* (DC 16), *invisibility*, *sound burst* (DC 16), *suggestion* (DC 16)
+— 1st (5/day) — *charm person* (DC 15), *cure light wounds*, *identify*, *sleep* (DC 15)
+— 0 (at will) — *dancing lights*, *daze* (DC 14), *detect magic*, *lullaby* (DC 14), *mage hand*, *read magic*
+
+---
+
+**TACTICS**
+
+*During Combat* The lillend uses *hallucinatory terrain* or *hold person* to control the fight before engaging in melee. Against a single opponent, it attempts to grab with its tail and constrict while attacking with its longsword. Its bardic performance (*inspire courage* +2) applies to all allied pieces within 30 feet.
+
+*Morale* The lillend fights to 0 hp.
+
+---
+
+**STATISTICS**
+
+**Str** 20, **Dex** 17, **Con** 21, **Int** 14, **Wis** 16, **Cha** 19
+**Base Atk** +7; **CMB** +13; **CMD** 26 (can't be tripped)
+**Feats** Combat Casting, Hover, Iron Will, Lightning Reflexes
+**Skills** Bluff +14, Diplomacy +14, Fly +11, Knowledge (nature) +9, Perception +13, Perform (string instruments) +16, Sense Motive +13, Survival +14
+**Languages** Celestial, Draconic, Infernal; truespeech
+
+---
+
+**SPECIAL ABILITIES**
+
+*Bardic Performance (Su)* The lillend has the bardic performance abilities of a 7th-level bard: countersong, fascinate, inspire courage (+2), inspire competence (+3), and suggestion.
+
+*Constrict (Ex)* On a successful grab with its tail, the lillend deals 2d6+5 bludgeoning damage.
+
+---
+
+## Mareth the Unyielding
+
+*Act III, Chapter 7: The Shrine — Ordeal 4, The Dragon*
+
+Mareth is an adult red dragon of exceptional age. The Ordeal of Courage is described in full in Chapter 7; the Aura of Dread that makes this encounter a virtue test rather than a straightforward fight is explained there and referenced in the special abilities section below.
+
+**Mareth the Unyielding**
+
+*Adult red dragon*
+
+**CR 16** — **XP** 76,800
+
+CE Huge dragon (fire)
+**Init** +4; **Senses** darkvision 120 ft., low-light vision, scent; **Perception** +26
+**Aura** frightful presence (180 ft., Will DC 26, shaken 5d6 rounds), Aura of Dread (120 ft., Will DC 22; see below)
+
+---
+
+**DEFENSE**
+
+**AC** 30, touch 8, flat-footed 30 (+22 natural, –2 size)
+**hp** 261 (19d12+133)
+**Fort** +18, **Ref** +13, **Will** +16
+**DR** 10/magic; **Immune** fire, paralysis, sleep; **SR** 26
+**Weaknesses** vulnerability to cold
+
+---
+
+**OFFENSE**
+
+**Speed** 40 ft., fly 200 ft. (poor)
+**Melee** bite +27 (2d8+13/19–20), 2 claws +27 (2d6+9), 2 wings +22 (1d8+4), tail slap +22 (2d6+13)
+**Space** 15 ft.; **Reach** 10 ft. (15 ft. with bite)
+**Special Attacks** breath weapon (50-ft. cone, 14d10 fire, Reflex DC 27 half, usable every 1d4 rounds), crush (2d8+13, DC 27), tail sweep, spells
+**Spells Known** (CL 7th; concentration +11): 3rd — *fireball* (DC 17), *haste*; 2nd — *blur*, *mirror image*, *scorching ray*; 1st — *mage armor*, *magic missile*, *shield*, *true strike*; 0 — *detect magic*, *light*, *mage hand*, *message*, *prestidigitation*, *read magic*
+
+---
+
+**STATISTICS**
+
+**Str** 29, **Dex** 10, **Con** 25, **Int** 18, **Wis** 19, **Cha** 18
+**Base Atk** +19; **CMB** +30; **CMD** 40 (44 vs. trip)
+**Feats** Cleave, Great Cleave, Improved Critical (bite), Improved Initiative, Iron Will, Multiattack, Power Attack, Toughness, Vital Strike
+**Skills** Appraise +26, Bluff +26, Diplomacy +26, Fly +14, Intimidate +26, Knowledge (arcana) +26, Knowledge (history) +26, Perception +26, Sense Motive +26, Spellcraft +26, Stealth +14
+**Languages** Common, Draconic, Elven, Sylvan
+
+---
+
+**SPECIAL ABILITIES**
+
+*Aura of Dread (Su)* All creatures within 120 feet of Mareth must succeed at a Will save (DC 22) or be unable to direct attacks against Mareth — attacks auto-fail without a roll. A creature that succeeds at the save, is immune to fear effects, or voluntarily accepts the possibility of its own death (a player decision requiring no save) is unaffected. Affected creatures may re-save at the start of each of their turns (DC 22). This aura is separate from and cumulative with Mareth's standard frightful presence. Fear, mind-affecting.
+
+---
+
+## The Questing Beast
+
+*Act III, Chapter 7: The Shrine — Failure and the Second Chance*
+
+The Questing Beast is a creature of legend and judgment. Its physical description — hunting cat body spotted black and white, hind legs and small hooves, fox's tail, long serpentine neck, doe's head with twisting antlers — is given in Chapter 7. It does not speak. It watches with amber eyes and renders its assessment in silence.
+
+The combat statistics below apply only to the subdual encounter with a party the Beast has not found worthy. All damage dealt to the Beast in this encounter is nonlethal; it cannot be killed. The encounter ends when the Beast is reduced to 0 hit points or successfully pinned (see Reluctant Quarry below). A fully worthy party does not fight the Beast at all.
+
+**The Questing Beast**
+
+**CR 15** — **XP** 51,200
+
+N Large magical beast
+**Init** +11; **Senses** darkvision 60 ft., greensight 60 ft., scent; **Perception** +27
+
+---
+
+**DEFENSE**
+
+**AC** 29, touch 12, flat-footed 26 (+3 Dex, +17 natural, –1 size)
+**hp** 225 (18d10+126)
+**Fort** +17, **Ref** +14, **Will** +13
+**Defensive Abilities** fortification (50%); **DR** 15/cold iron; **SR** 22
+
+---
+
+**OFFENSE**
+
+**Speed** 50 ft., climb 30 ft.
+**Melee** bite +26 (2d6+9), 2 claws +26 (1d8+9), gore +26 (1d8+9)
+**Space** 10 ft.; **Reach** 10 ft.
+**Special Attacks** sleep gaze (Will DC 23, 1d4 hours; see below), trample (2d6+13, DC 28)
+
+---
+
+**STATISTICS**
+
+**Str** 28, **Dex** 16, **Con** 22, **Int** 10, **Wis** 18, **Cha** 18
+**Base Atk** +18; **CMB** +28; **CMD** 41
+**Feats** Alertness, Combat Reflexes, Great Fortitude, Improved Initiative, Iron Will, Lightning Reflexes, Power Attack, Toughness, Vital Strike, Weapon Focus (bite)
+**Skills** Climb +19, Perception +27, Stealth +10, Survival +12
+**Languages** —
+
+---
+
+**SPECIAL ABILITIES**
+
+*Amazing Initiative (Ex)* The Questing Beast gains a +4 bonus on initiative checks (included above). Three times per day as a free action on its turn, it may take one additional standard action. This additional action cannot be used to cast a spell.
+
+*Fortification (Ex)* The Questing Beast has a 50% chance to treat any critical hit or sneak attack as a normal hit.
+
+*Greensight (Su)* The Questing Beast can see through foliage, undergrowth, and plant matter as though transparent, to a range of 60 feet. Solid wood still blocks its line of sight.
+
+*Reluctant Quarry (Su)* The Questing Beast permits itself to be caught by those who have come to subdue it. For purposes of grapple and pin combat maneuver checks only, the Beast's CMD is treated as 28 rather than its base CMD of 41.
+
+*Sleep Gaze (Su)* Any creature that meets the Questing Beast's gaze must succeed at a Will save (DC 23) or fall into a deep, natural sleep lasting 1d4 hours. This is a mind-affecting sleep effect. A sleeping creature can be awakened by taking damage or by a DC 15 Heal check as a standard action. The save DC is Charisma-based.
+
+*Trample (Ex)* As a full-round action, the Beast can attempt to overrun any Medium or smaller creature in its path. Targets take 2d6+13 bludgeoning damage. A target may make an attack of opportunity at –4, or forgo it and attempt a Reflex save (DC 28) for half damage. The Beast can deal trampling damage to each target only once per round. Save DC is Strength-based.
+
+---
+
+## Sea Demon
+
+*Act III, Chapter 9: The Long Way Home*
+
+The creature in the hills above the Black Rock coast is a tarry demodand, a type of fiend drawn by suffering and despair rather than by corruption. It has inhabited these hills for three generations, drawn by the grief of shipwreck survivors, and it has grown old and strong on it. It fights to the death and does not negotiate.
+
+**Tarry Demodand**
+
+**CR 13** — **XP** 25,600
+
+CE Medium outsider (chaotic, demodand, evil, extraplanar)
+**Init** +9; **Senses** darkvision 120 ft., *detect good*, *detect magic*; **Perception** +22
+
+---
+
+**DEFENSE**
+
+**AC** 26, touch 13, flat-footed 23 (+6 armor, +3 Dex, +7 natural)
+**hp** 171 (18d10+72)
+**Fort** +15, **Ref** +11, **Will** +12; +4 vs. divine spells
+**DR** 10/good and magic; **Immune** acid, poison; **Resist** cold 10, fire 10; **SR** 24
+
+---
+
+**OFFENSE**
+
+**Speed** 30 ft. (20 ft. in armor), fly 40 ft. (average)
+**Melee** mwk short sword +27/+22/+17/+12 (1d6+9/19–20), mwk short sword +27/+22/+17 (1d6+4/19–20), bite +22 (1d8+4)
+**Special Attacks** adhesion (DC 23), faith-stealing strike (DC 22)
+**Spell-Like Abilities** (CL 13th; concentration +16)
+— Constant — *detect good*, *detect magic*
+— 3/day — *dispel magic*
+— 1/day — *chaos hammer* (DC 17), *summon* (level 4, 1d2 tarry demodands 40%)
+
+---
+
+**STATISTICS**
+
+**Str** 28, **Dex** 21, **Con** 18, **Int** 12, **Wis** 13, **Cha** 17
+**Base Atk** +18; **CMB** +27; **CMD** 42 (46 vs. disarm)
+**Feats** Combat Reflexes, Greater Two-Weapon Fighting, Improved Bull Rush, Improved Initiative, Improved Two-Weapon Fighting, Lunge, Power Attack, Two-Weapon Fighting, Weapon Focus (short sword)
+**Skills** Bluff +16, Climb +19, Fly +23, Intimidate +24, Knowledge (arcana) +14, Knowledge (planes) +14, Perception +22, Sense Motive +14, Stealth +17, Survival +14
+**Languages** Abyssal, Celestial, Common
+**SQ** heretical soul
+**Gear** masterwork breastplate, 2 masterwork short swords
+
+---
+
+**SPECIAL ABILITIES**
+
+*Adhesion (Ex)* A creature that strikes the demodand with a manufactured weapon must succeed at a DC 23 Reflex save or the weapon sticks fast and cannot be used to attack until freed. Freeing a stuck weapon requires a successful grapple check. The adhesion grants a +4 racial bonus to CMD against disarm attempts. Save DC is Constitution-based.
+
+*Faith-Stealing Strike (Su)* When the demodand's natural attack or melee weapon damages a creature capable of casting divine spells, that creature must succeed at a Will save (DC 22) or be unable to cast any divine spells for 1 round. Once a creature succeeds at this save, it is immune to faith-stealing strikes from this demodand for 24 hours. Save DC is Charisma-based.
+
+*Heretical Soul (Ex)* The demodand gains a +4 bonus on saving throws against divine spells. Any attempt to scry on it using divine magic automatically fails.
+
+---
+
+## Sorcha
+
+*Act IV, Chapter 10: The Reckoning*
+
+The Magister's chief apprentice. She has been told many times not to speak unless spoken to and has decided, at the council the night before the Test of Five, that this time is different. The Magister will look at her for a long moment, and nod, and tell her she is on her own from this point. She will accept this without flinching.
+
+**Sorcha**
+
+*Human Arcanist 12*
+
+**CR 11** — **XP** 12,800
+
+N Medium humanoid (human)
+**Init** +6; **Senses** Perception +6
+
+---
+
+**DEFENSE**
+
+**AC** 18, touch 14, flat-footed 16 (+4 armor, +2 Dex, +2 deflection)
+**hp** 66 (12d6+24)
+**Fort** +7, **Ref** +8, **Will** +10
+
+---
+
+**OFFENSE**
+
+**Speed** 30 ft.
+**Melee** mwk dagger +7 (1d4–1/19–20)
+**Special Attacks** arcane reservoir, potent magic
+**Arcanist Spells Prepared** (CL 12th; concentration +17; save DCs 15 + spell level)
+— 6th (2/day) — *chain lightning* (DC 21), *greater dispel magic*
+— 5th (4/day) — *cone of cold* (DC 20), *overland flight*, *teleport*, *wall of force*
+— 4th (4/day) — *greater invisibility*, *dimension door*, *black tentacles* (DC 19), *stoneskin*
+— 3rd (4/day) — *haste*, *dispel magic*, *fireball* (DC 18), *fly*
+— 2nd (4/day) — *mirror image*, *glitterdust* (DC 17), *invisibility*, *see invisibility*
+— 1st (4/day) — *mage armor*, *magic missile*, *grease* (DC 16), *shield*
+— 0th (at will) — *detect magic*, *light*, *mage hand*, *message*, *prestidigitation*, *read magic*
+
+---
+
+**TACTICS**
+
+*Before Combat* Sorcha casts *mage armor* and *stoneskin* when time permits. In any engagement she anticipates, she will have *mirror image* active before the first round. She positions herself behind the party's fighters.
+
+*During Combat* Sorcha's first priority is control, not damage. She opens with *black tentacles* to lock down clustered opponents, follows with *haste* on the party, and reserves her higher-level slots for *greater dispel magic* against warded enemies and *chain lightning* when multiple targets are exposed. She uses her counterspell exploit against enemy casters the moment she identifies them. She spends arcane reservoir points to increase DC on any save-or-lose effect against a priority target. She uses *dimension door* to escape if she becomes the focus of melee attack and cannot be protected.
+
+*Morale* Sorcha does not abandon the party or Harold. She fights until she is unconscious or until the fight is clearly won. She is not reckless, but she is not cautious in a way that renders her ineffective.
+
+---
+
+**STATISTICS**
+
+**Str** 8, **Dex** 14, **Con** 14, **Int** 20, **Wis** 10, **Cha** 14
+**Base Atk** +6; **CMB** +5; **CMD** 17
+**Feats** Combat Casting, Greater Spell Penetration, Improved Initiative, Iron Will, Spell Focus (evocation), Spell Penetration, Toughness
+**Skills** Fly +17, Knowledge (arcana) +20, Knowledge (history) +16, Knowledge (planes) +20, Perception +6, Spellcraft +20, Use Magic Device +13
+**Languages** Celestial, Common, Draconic, Elven, Infernal, Sylvan
+**SQ** arcane reservoir (15 max, 9/day), consume spells, quick study
+**Exploits** arcane barrier, counterspell, metamagic knowledge (Extend Spell), metamixing, potent magic; *greater exploit:* greater counterspell
+**Other Gear** mwk dagger, bracers of armor +4, headband of vast intelligence +2, ring of protection +2, cloak of resistance +2
+
+---
+
+**SPECIAL ABILITIES**
+
+*Arcane Reservoir (Su)* Sorcha maintains an arcane reservoir of up to 15 points, replenishing 9 each day. She may spend 1 point when casting a spell to increase her caster level by 1 or the spell's save DC by 1; she may spend 2 points to increase either by 2.
+
+*Consume Spells (Su)* Sorcha may sacrifice any prepared spell as a move action to add arcane reservoir points equal to the spell's level, up to her reservoir's maximum.
+
+*Quick Study (Ex)* Sorcha may spend 1 arcane reservoir point as a full-round action to replace any prepared spell with any spell of the same or lower level from her spellbook.
+
+*Counterspell (exploit)* Once per round as an immediate action, Sorcha may spend 1 arcane reservoir point and expend a prepared spell to counter a spell being cast, provided she has a prepared spell of equal or higher level.
+
+*Greater Counterspell (greater exploit)* Sorcha may counter a spell by expending a prepared spell of the same level rather than spending arcane reservoir points.
+
+*Arcane Barrier (exploit)* As an immediate action, Sorcha may spend 1 arcane reservoir point to gain temporary hit points equal to 1d6 + 12 (her arcanist level). These temporary hit points last until the beginning of her next turn.
+
+*Metamixing (exploit)* Sorcha may apply a metamagic feat to a spell without increasing its casting time, spending 1 arcane reservoir point per spell level increase.
+
+---
+
+## Father Marne
+
+*Act IV, Chapter 10: The Reckoning*
+
+Father Marne is the Inquisitor of Barstow, a Paladin in the service of the church's enforcement arm. He has been preparing for the Test of Five for years — not with certainty that it would come, but with the conviction that a man in his position should be ready for it. He is not a villain. He is a man of principle who has reached a principled conclusion the party may find abhorrent, and he is willing to die for it. He has given the matter considerably more thought than they have.
+
+**Father Marne**
+
+*Human Paladin 14*
+
+**CR 13** — **XP** 25,600
+
+LG Medium humanoid (human)
+**Init** +4; **Senses** Perception +5
+
+---
+
+**DEFENSE**
+
+**AC** 30, touch 12, flat-footed 30 (+12 armor, +4 shield, +2 deflection, +2 natural)
+**hp** 133 (14d10+56)
+**Fort** +20, **Ref** +12, **Will** +12
+**Immune** charm effects, disease, fear
+
+---
+
+**OFFENSE**
+
+**Speed** 20 ft.
+**Melee** *+2 holy longsword* +22/+17/+12 (1d8+7/19–20 plus 2d6 holy vs. evil); or with divine bond (flaming) active +22/+17/+12 (1d8+7/19–20 plus 2d6 holy plus 1d6 fire vs. evil)
+**Special Attacks** lay on hands (7d6, 12/day, swift action), smite evil (+5 attack and AC, +14 damage, 5/day)
+**Paladin Spells Prepared** (CL 14th; concentration +19; save DCs 15 + spell level)
+— 4th (2/day) — *holy sword*, *restoration*
+— 3rd (3/day) — *fire of judgment*, *magic circle against evil*, *prayer*
+— 2nd (3/day) — *bull's strength*, *eagle's splendor*, *resist energy*
+— 1st (4/day) — *bless weapon*, *divine favor*, *grace*, *protection from evil*
+
+---
+
+**TACTICS**
+
+*Before Combat* Given the formal nature of the Test of Five, Marne has time to prepare. He casts *eagle's splendor*, *divine favor*, and *prayer*, and activates his divine bond to add the *flaming* property to his longsword. He does not rush the preparation; he has done it many times.
+
+*During Combat* Marne declares smite evil on the party member who bears the Sword or who strikes him first. He fights with Power Attack active from the second round, accepting the –4/+8 trade for the additional damage. He uses lay on hands as a swift action when reduced below 60 hp; below 30 hp, he uses it every round it is available. He targets the most dangerous martial combatant first and does not waste smite evil on party members he determines are not evil — he knows the difference. He does not use dirty tactics. He does not fight dishonorably. He will acknowledge a clearly superior opponent, but he will not yield until he is physically incapable of continuing.
+
+*Morale* Marne does not retreat from the Test of Five. He is bound by oath, witnessed formally, and he understands that dying in the Test is acceptable in a way that breaking the oath is not. He fights until 0 hp. At that point the GM may determine whether he collapses unconscious or dies outright, depending on what the narrative requires.
+
+---
+
+**STATISTICS**
+
+**Str** 20, **Dex** 10, **Con** 16, **Int** 12, **Wis** 10, **Cha** 20
+**Base Atk** +14; **CMB** +19; **CMD** 29
+**Feats** Cleave, Improved Critical (longsword), Iron Will, Power Attack, Shield Focus, Toughness, Weapon Focus (longsword)
+**Skills** Diplomacy +19, Knowledge (nobility) +11, Knowledge (religion) +14, Perception +5, Sense Motive +12
+**Languages** Celestial, Common
+**SQ** aura of courage, aura of faith, aura of justice, aura of resolve, detect evil, divine bond (weapon, 14 min/day), divine grace, divine health, lay on hands, mercy (cursed, diseased, fatigued, staggered)
+**Other Gear** *full plate +2*, *heavy steel shield +2*, *+2 holy longsword*, *ring of protection +2*, *amulet of natural armor +2*, *belt of physical might +2* (Str, Con), *headband of alluring charisma +2*, *cloak of resistance +3*
+
+---
+
+**SPECIAL ABILITIES**
+
+*Divine Grace (Su)* Marne adds his Charisma modifier (+5) to all saving throws (included above).
+
+*Divine Bond (Su)* Once per day, Marne can enhance his longsword as a standard action for 14 minutes. At his level, this adds +4 worth of enhancement or properties; he typically adds *flaming*, *holy*, or *keen* depending on the opponent. In the Test of Five, he adds *flaming*.
+
+*Smite Evil (Su)* As a swift action, Marne designates one evil creature. He gains +5 on attack rolls against that creature, +14 on damage rolls on the first hit (and on all subsequent hits if the target is an outsider, undead, or evil dragon), and his attacks bypass the target's DR. He also gains +5 to his AC against that creature's attacks. Lasts until the creature is dead or Marne rests.
+
+*Aura of Courage (Su)* Marne is immune to fear effects. Allies within 10 feet gain a +4 morale bonus on saving throws against fear.
+
+*Aura of Resolve (Su)* Marne is immune to charm effects. Allies within 10 feet gain a +4 morale bonus on saving throws against charm effects.
+
+---
+
+# APPENDIX B: MAGIC ITEMS
+
+---
+
+## The Sword of the Redeemer
+
+*Aura* strong conjuration, evocation, and transmutation; *CL* 20th
+*Slot* none; *Price* — (artifact); *Weight* 6 lbs.
+
+---
+
+**DESCRIPTION**
+
+The Sword of the Redeemer is the founding artifact of Haven, carried east from the dying world by King Cuthbert three centuries ago and left at the Shrine at the end of the world as the price of passage home for his people. It is a bastard sword, slightly longer than the Haven standard, with a crossguard of plain iron and a grip wrapped in aged cord. The blade is unmarked. It does not glow, does not hum, and carries no visible evidence of its nature. In the hand of its bearer, it is warm.
+
+It is a *+5 axiomatic bastard sword*. Against chaotic-aligned creatures, it deals an additional 2d6 damage per hit and is treated as lawful-aligned for purposes of overcoming damage reduction.
+
+---
+
+**POWERS**
+
+The Sword's powers are available only to its designated bearer — the party member who carried it from the Shrine and has held it continuously since. In any other hand, it functions as a *+5 axiomatic bastard sword* with none of the powers below active.
+
+*Miracle* (Sp): Once per week, the bearer may cast *miracle* as a spell-like ability at caster level 20. This functions as *miracle* cast by a 20th-level cleric, with all attendant limitations on requests that duplicate divine spells above 8th level.
+
+*Focused Parry* (Su): Three times per day as a swift action, the bearer may declare a Focused Parry against one adjacent opponent. Until the start of the bearer's next turn, that opponent's attacks against the bearer are made against an AC 8 points higher than normal. This is a shield bonus and stacks with existing shield bonuses.
+
+*Sanctuary* (Sp): Three times per day, the bearer may cast *sanctuary* as a spell-like ability, functioning as cast by a 10th-level paladin and using the bearer's Charisma modifier for the save DC (DC = 10 + 5 + bearer's Cha modifier).
+
+*Light* (Sp): At will, the bearer may activate or dismiss the *light* effect on the blade, as the spell.
+
+*Cure Serious Wounds* (Sp): Three times per day, the bearer may cast *cure serious wounds* as a spell-like ability (3d8+15 hp healed), targeting any creature by touch.
+
+*Bonded Weapon*: The Sword recognizes its bearer. If the bearer is disarmed, the Sword may be called back to the bearer's hand as a swift action, provided it is within 30 feet and unattended. If another creature deliberately takes up the Sword and carries it for more than one hour while the current bearer still lives, the Sword's powers do not transfer; the new carrier wields a *+5 axiomatic bastard sword* only.
+
+---
+
+**NOTES**
+
+The Sword is an artifact and cannot be destroyed by conventional means. Its ultimate fate — whether it remains with the Crown, passes to a new bearer, or is returned to the Shrine — is determined by the events of Act IV and any decisions made by the party and the GM after the adventure's conclusion. These consequences are beyond the scope of this guide.
+
+The Sword does not speak, does not advise, and does not compel. It held the light of a king who asked nothing of the people he was leaving behind except that they take care of one another. Whether they did is the adventure's question. The Sword is its answer.
 

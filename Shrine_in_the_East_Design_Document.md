@@ -220,24 +220,10 @@ Harold II, wielding the Sword of the Redeemer, possesses divine legitimacy no no
 
 Whether Harold II succeeds in these ambitions depends in part on whether the PCs believe he will, and whether they are willing to hold him to it.
 
-### Ending 2: The Noble Settlement
-*The party gives the Sword to one of the nobility.*
+### Ending 2: A Different Path
+*The party pursues a resolution of their own devising.*
 
-A noble house in possession of the Sword of the Redeemer has a claim to legitimacy that overrides Harold II's bloodline. That house rallies the others, deposes the Young King, and installs a governing oligarchy in his place. The immediate result is stability of a kind — the perpetual tension between Crown and nobility resolves because there is no longer a single Crown. The PCs are generously rewarded and form the basis of a neutral knightly order tasked with keeping peace among the noble houses.
-
-This is not a reforming ending. The common people gain nothing. The fey gain nothing. What changes is who holds power, not how it is used.
-
-### Ending 3: The People's Standard
-*The party keeps the Sword and uses it themselves.*
-
-The Sword of the Redeemer does not require a king. It requires someone worthy of it. If the party chooses to rally the common people directly — to use the Sword's legitimacy not in service of the Crown or the nobility but in service of Haven's people — they can win. This is the hardest path. The opposition is unified, the risks are enormous, and the outcome requires the party to become something other than agents of any existing institution.
-
-It is available. Cuthbert would not be surprised.
-
-### Ending 4: Open
-*The party finds a different answer.*
-
-The adventure's design does not foreclose player creativity. A fourth outcome — some combination of the above, or something different entirely — may emerge from the specific decisions made across all four acts. The GM should be prepared to adjudicate it.
+The adventure does not foreclose player creativity. If the party arrives at a disposition of the Sword not covered by Ending 1, the GM and players work together to determine what the party actually intends and what the kingdom's response will be. The five virtue questions and the Act IV crisis states remain the structural framework for this ending; the GM should use the Ending 1 treatment of each question as a model and adapt the specific events to fit the party's path. The five gods are watching. Cuthbert's ghost spoke. What the party does with that knowledge is theirs to determine.
 
 ---
 
@@ -273,7 +259,7 @@ Haven's established church is not a monolith. The institution headquartered in B
 Nine Earls with their own interests, histories, and relationships to the Crown. Four of them rebelled against Harold II within living memory. Each represents a potential ally, a potential obstacle, or a potential recipient of the Sword, depending on who they are and what the party has done in their territory during Act I.
 
 **The Common People**
-Haven's serfs, craftspeople, and free farmers have little formal political power and considerable latent energy. Father Beede's movement is the most visible expression of their interests. The third ending is only available if the party has built enough trust with this population to rally them.
+Haven's serfs, craftspeople, and free farmers have little formal political power and considerable latent energy. Father Beede's movement is the most visible expression of their interests. How the party treats this population during Acts I and II shapes the conditions of Act IV regardless of which ending the party pursues.
 
 ### External
 
@@ -303,23 +289,95 @@ The campaign does not use a fixed-event calendar in the sense that a single pivo
 ## Documents to Create
 
 - [x] Design Document
-- [ ] GM Guide
+- [ ] GM Guide (in progress)
 - [ ] Player's Guide
 
 ---
 
-## Open Items *(resolve during GM Guide writing)*
+## Open Items *(resolved during GM Guide writing)*
 
-- Specific mechanics and locations of the five ordeals in Aldenmere
-- The Sword's minor powers (beyond the +5 bonus and *Miracle* once per week)
-- Act I quest locations (which earldoms host each of the five quests)
-- Act II journey setpieces — specific encounters between Haven and the mountains, and between the mountains and Aldenmere
-- Identity of the noble house relevant to Ending 2 — which Earl, and what makes them a credible recipient?
-- The Countess's earldom, full name, and specific conspiracy details
-- The Sorceress's backstory — who was her lover, who killed him, and how does this connect to Haven's institutions?
-- The Dark Knight's identity and the fey magician who cursed him
-- Father Beede's specific founding documents — what they say and how they were lost to official history
-- Opening scene — how the PCs come to Harold II's attention and are elevated to royal service
+- [x] Specific mechanics and locations of the five ordeals in Aldenmere — RESOLVED (Chapters 6–7)
+- [x] Act I quest locations — RESOLVED (Chapter 1)
+- [x] Act II journey setpieces — RESOLVED (Chapters 2–3)
+- [x] The Countess's earldom, full name, and specific conspiracy details — RESOLVED
+- [x] The Sorceress's backstory — RESOLVED (Meldreth/Sarena/Sir Odda)
+- [x] The Dark Knight's identity and the fey magician who cursed him — RESOLVED (Sir Aemond/Meldreth)
+- [x] Father Beede's founding documents — RESOLVED (Chapter 1)
+- [x] Opening scene — RESOLVED (Chapter 1)
+- [x] The Sword's minor powers — RESOLVED; full stat block to be written in Appendix B. Bastard sword +5 axiomatic. Powers: *Miracle* 1/week; Focused Parry 3/day; *Sanctuary* (as 10th-level Paladin, wielder's Cha) 3/day; *Light* at will; *Cure Serious Wounds* 3/day; Bonded Weapon (powers inactive for non-bearer).
+
+---
+
+## Chapter 7: The Five Ordeals — Design Notes
+
+### The Questing Beast Interlude — STATUS: WRITTEN
+
+Available only when the party fails an ordeal. One use only. Reinja reveals the option only if asked three times; she names Halsin (her son by Cuthbert) as the only prior finder.
+
+**The Beast:** Body of a great hunting cat (black with white spots), legs and hooves of a great hind, fox's tail, serpentine neck, doe's head with twisting antlers. Sound emanates from within its body — distant hounds in full cry, no louder at close range than at a mile's distance. Iron key on a braided cord around its neck. Unearthly beauty; cannot be mistaken for any other creature.
+
+**The Journey:** Northern wilderness of Aldenmere — dangerous mountains, deep lakes, hidden valleys; stranger and more hazardous than anything the party has crossed. Minimum six months (party found fully worthy, no challenge failures). Each failed wilderness challenge adds one month; unworthy baseline is seven months.
+
+**Dream tests:** Five visits across the journey, one per virtue, beast never speaks. Fully worthy party: wilderness challenges at standard difficulty, Beast yields key willingly at the High Mere at dusk. Unworthy party: elevated DCs throughout, Beast must be subdued (nonlethal only; stat block in Appendix A).
+
+**Five wilderness challenges** (virtue/location):
+1. Sacrifice — Rope Bridge (Climb DC 20, Reflex DC 22 on failure; +4 DC if unworthy)
+2. Wisdom — Drowned Valley (Survival or Knowledge [Nature] DC 22 to read route; +4 DC if unworthy)
+3. Insight — Deep Lake (Knowledge DC 20 to identify gesture of passage; spirit becomes aggressive if unworthy)
+4. Piety — Trickster's Shrine (honest answers to old figure's questions earn Beast's location; figure absent for unworthy party)
+5. Courage — Ice Cathedral (Acrobatics or Escape Artist DC 22 through unstable overhang; DC 28 if unworthy)
+
+**On success:** Party resumes ordeals from the point of failure with all resources recovered. Journey time adds normally to their absence from Haven.
+
+---
+
+## Chapter 10: The Reckoning — Design Notes
+
+### Structure
+
+Act IV is structured around five virtue questions drawn from the five ordeals: **Sacrifice, Wisdom, Insight, Piety, Courage.** The first four are roleplay challenges; the fifth (Courage) is a combat challenge. Together they constitute the full dramatic arc of the final act. The virtue questions are not scored — they are evaluated, and the way the party answers shapes the specific events and conditions of their ending.
+
+The two primary tracks running through all endings are determined by the Countess quest outcome: **Harold holds the throne (peace)** or **Harold has been driven to Landing (civil war).**
+
+### NPC Additions (Act IV)
+
+- **Sorcha:** The Magister's chief apprentice. Human Arcanist 12 (CR 11). Introduced at the pre-Test of Five council; volunteers to support the king when the Magister declines. The Magister accepts but cuts her loose — no more teaching after this. Fights in the Test of Five or joins the Sorella rescue depending on party composition. Stat block in Appendix A.
+- **Father Marne (expanded):** Inquisitor of Barstow; antagonist from Act I Quest 2. Returns in Ending 1 (peace track) as the mystery White Knight who wins the tournament, reveals himself, and calls the Test of Five. Human Paladin 14 (CR 13). Stat block in Appendix A.
+
+### Appendix A — Full Stat Block List — STATUS: WRITTEN
+
+All unique creatures with formal appendix entries (in order of first appearance):
+- Maranth — CR 6, hobgoblin Ranger 7 (Act II, Ch. 2); gear: +2 corrosive composite longbow, cloak of elvenkind, jaunt boots, ring of protection +3
+- Tellaris — CR 10, half-elf Magus 12 (Act II, Ch. 3); inline block removed from guide body
+- Elder earth elemental — CR 11, standard stat block (Act III, Ch. 6)
+- Chess pieces — Fighter 6 (CR 5 Pawn), Manticore (CR 5 Knight), Bralani Azata (CR 6 Bishop), Wood Golem (CR 6 Rook), Dire Bear (CR 7 King), Lillend Azata (CR 7 Queen) (Act III, Ch. 7, Obstacle Three)
+- Mareth the Unyielding — CR 16, red dragon of exceptional age (Act III, Ch. 7, Ordeal 4); inline block removed from guide body
+- The Questing Beast — CR 15, magical beast; nonlethal subdual only; sleep gaze DC 23, trample DC 28, DR 15/cold iron, SR 22, fortification 50%, greensight, amazing initiative (Act III, Ch. 7, Second Chance)
+- Sea demon (Tarry Demodand) — CR 13 (Act III, Ch. 9); adhesion, faith-stealing strike, heretical soul
+- Sorcha — CR 11, Human Arcanist 12 (Act IV, Ch. 10)
+- Father Marne — CR 13, Human Paladin 14 (Act IV, Ch. 10)
+
+### Appendix B — Magic Items — STATUS: WRITTEN
+
+- The Sword of the Redeemer — +5 axiomatic bastard sword artifact; powers: *Miracle* 1/week; Focused Parry +8 AC 3/day; *Sanctuary* (CL 10, bearer's Cha) 3/day; *Light* at will; *Cure Serious Wounds* 3/day; Bonded Weapon (powers inactive for non-bearer)
+
+### Ending 1: Sword to Harold II — STATUS: WRITTEN
+
+**Sequence:** Sacrifice (Magister at camp) → Wisdom (court presentation) → Insight (the boon) → Piety (Archbishop or Eadric meeting) → Courage (Test of Five / civil war battle)
+
+**Key design decisions confirmed:**
+- The Magister uses a modified zone of truth at the Sacrifice encounter; detects lies but does not prevent them. DC 24 Arcana/Spellcraft to identify.
+- Question 3 of Wisdom (Cuthbert) is mandatory — the nature of the Sword's transfer makes it unavoidable.
+- The Test of Five invokes a 150-year-old tradition of group trial by combat; Marne is a level 14 Paladin, Harold a level 14 Paladin. Magic is permitted.
+- Civil war Courage uses six individual spotlight encounters before the final confrontation with the Earl of Waldsea.
+- Point calculation (max 10 peace / max 9 war): 1 point per best Act I outcome + 1 point per virtue question answered well + 1 point for Courage outcome.
+- Lady Sorella rescue runs simultaneously with the Test of Five; Father Eadric locates the Inquisition camp.
+
+**Resolved:** Bandit encounter orchestrated by the Earl of Waldsea, intending to pass the Sword to the Earl of Cant to support his throne claim. Waldsea sends household agents only; does not appear personally. Cant and Caerwold are knowing co-conspirators if either is the escorting Earl; all others are not involved.
+
+### Ending 2: A Different Path — OPEN (GM/player collaboration)
+
+The five virtue questions and Act IV crisis states provide the structural framework for any custom resolution; the GM and players determine the specific shape of each question and its outcome based on the party's chosen path.
 
 ---
 

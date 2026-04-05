@@ -13,7 +13,7 @@
 
 The adventure spans four acts and the full breadth of a continent. In the first act, the player characters serve the Crown as agents, handling the dangerous and politically entangled problems that the king cannot address through conventional means. In the second, they depart Haven on a sacred quest to recover the kingdom's founding artifact from the far side of the world. In the third, they find that the far side of the world remembers things Haven has chosen to forget. In the fourth, they return home armed with an object of immense power and the knowledge of what their kingdom actually is — and must choose what to do with both.
 
-The dark truth at the heart of this adventure is not a villain in a dungeon. It is a history: the history of how a people in desperate circumstances made choices they could not take back, built a story around those choices that grew more comfortable with each retelling, and passed that story to their children as fact. The founders of Haven were not evil. They were frightened, exhausted, and operating with incomplete knowledge under conditions that left little room for deliberation. The harm they caused was real regardless. Three centuries of accumulated consequence have not gone away simply because the official account does not mention them.
+The dark truth at the heart of this adventure is not a villain in a dungeon, it is history: the history of how a people in desperate circumstances made choices they could not take back, built a story around those choices that grew more comfortable with each retelling, and passed that story to their children as fact. The founders of Haven were not evil. They were frightened, exhausted, and operating with incomplete knowledge under conditions that left little room for deliberation. The harm they caused was real regardless. Three centuries of accumulated consequence have not gone away simply because the official account does not mention them.
 
 The player characters will not know any of this when the campaign begins. They will learn it — piece by piece, revelation by revelation — across the course of a journey that takes them from everything familiar to everything foreign and back again. What they do with that knowledge is the adventure's engine.
 
@@ -2064,12 +2064,12 @@ White and black versions of each piece type use the same stat block; the differe
 
 | Piece | White | Black | CR |
 |-------|-------|-------|----|
-| Pawn | Soldier (human fighter) | Barbarian (human berserker) | 5 |
-| Knight | Manticore | Manticore | 5 |
-| Bishop | Bralani azata | Bralani azata | 6 |
-| Rook | Wood golem | Wood golem | 6 |
-| King | Dire bear | Dire bear | 7 |
-| Queen | Paladin | Lillend azata | 7 |
+| Pawn | Soldier (human fighter) | Barbarian (half-elf berserker) | 5 |
+| Knight | Knight & Steed | Manticore | 5 |
+| Bishop | Cleric | Bralani Azata | 6 |
+| Rook | Stone Golem | Wood Golem | 6 |
+| King | Inquisitor | Dire bear | 7 |
+| Queen | Paladin | Lillend Azata | 7 |
 
 *Full stat blocks for the unique piece types appear in Appendix A.*
 

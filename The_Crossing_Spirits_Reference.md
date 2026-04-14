@@ -83,8 +83,27 @@ There are two fundamentally different categories of spirit in Encarnia.
 
 **Relationships:**
 - **Hope:** Complex love/hate. They are each other's most frustrating mirror — rebellion without hope is nihilism, and hope without rebellion is passivity. Hope will introduce the party to Revna before Act II.
+- **Maritas (War):** Her uncle — specifically the brother of her father. She asked the party not to mention him to Placida, and will not explain why until after the Congress interlude. She knew Placida would recognize the name and react poorly.
 
-**Role in the adventure:** Introduced to the party by Hope before Act II. Likely a key figure in the Unity thread — the spirit of rebellion within a society that has outlawed rebellion.
+**Role in the adventure:** Introduced to the party by Hope before Act II. Gives the party Revna's scroll (introduction to Placida) and a key for Maritas's cell. Asks them specifically not to mention her uncle to Placida. A key figure in the Unity thread — the spirit of rebellion within a society that has outlawed rebellion.
+
+---
+
+## Maritas
+*Belief domain: War*
+
+**Names:** Maritas
+
+**Nature:** Ancient beyond any other belief-spirit the party will encounter — his origins predate the Unity by a vast span. The Congress made use of him during their war against the One True Way, then weakened him by building a civilization nearly free of war and tricked him into captivity in the theatre beneath the Congress's seat of power. He remains fully formed and entirely himself — captivity has not diminished him, and he knows it. He is a great bear of a man wearing fine chainmail, close-cropped dark beard and long hair, face permanently flushed — a complexion, not exertion. He is direct, occasionally blackly funny, and entirely without self-pity.
+
+**Domain (spirit world):** Not yet visited. Encountered in captivity within Placida's domain — the Congress theatre.
+
+**Relationships:**
+- **Revna (Rebellion):** His niece — the daughter of his brother, whose name he claims he cannot recall. Perhaps he ate him. He finds this funny.
+- **The Congress:** Deep and mutual enmity. The Congress considers him dangerous; he considers them cowards who built a world of enforced quiet and called it peace.
+- **Novus (Progress):** The third leg of the alliance that freed him — Revna, Placida, and Novus. Novus provided the key to his cell. When Placida discovers what happened and withdraws, Novus will not. War is good for progress; their interests are aligned.
+
+**Role in the adventure:** The identity of Revna's uncle — withheld from the party until the Congress interlude. Held captive in a cell behind the Congress table in the theatre within Placida's domain. The party must decide whether to free him. If freed, he grants each party member a boon (Might / The Secret of Steel / Retribution) and can thereafter be contacted via the Communing ritual. He does not pick sides, but has cause to hate the Unity and will tip the scales in the party's favor from time to time. His freedom is one of the most consequential decisions in the campaign.
 
 ---
 
@@ -94,17 +113,19 @@ The Unity's outlawing of magic and divine worship did not eliminate the spiritua
 
 **Members of the committee:**
 
-| Spirit | Domain | Notes |
-|---|---|---|
-| TBD | Law | The oldest and most coherent member — law as a concept predates the Unity |
-| TBD | Public Order | Related to Law but distinct; focused on the social fabric rather than formal rules |
-| TBD | Public Good | The most idealistic of the committee; genuinely motivated by the Unity's stated ideals |
-| TBD | Knowledge | Among the strongest; the Unity's emphasis on reason and technology has fed this spirit well |
-| TBD | Oppression | Present and growing; does not think of itself as Oppression — its self-concept is something closer to Necessity |
-| TBD | Unity (the ideal) | The spirit of unity itself — of people together, of common identity. Confused and unhappy. It was built on something real, and it can feel that the ideal and the reality have diverged. |
-| **Placida** | TBD | The one member of the Committee who has agreed to aid Revna's cause. Will guide the party to the location of Revna's uncle's prison if contacted via the Communing ritual near the seat of the Congress's power (in or near the Unity capital). Her domain, full name, and motivations are TBD. |
-
-*Most names TBD. These spirits will be significant in Act III when the party operates within the Unity. Placida has been named and given a role; all other Committee members remain unnamed.*
+| Spirit | Domain | Form | Notes |
+|---|---|---|---|
+| **Lexan** | Law | Frail old man leaning on a staff; powerful voice | The eldest member by far — evolved from pre-Unity western deities of Law; more coherent and self-aware than most Congress spirits; old antagonist of Novus |
+| **Placida** | Common Good | Smiling, matronly woman; glowing blonde hair | The most self-aware member; exists among the Archipelago peoples as well, giving her unusual coherence; has allied with Revna; unaware of Revna's uncle scheme; contactable via the Communing ritual near the Congress's seat of power |
+| **Concordia** | Public Order | Identical form to Placida; dark hair instead of light | Placida's near-twin; focused on the social fabric rather than formal rules; relationship with her sister-spirit is one of quiet tension |
+| **Ratia** | Reason | Thin woman in voluminous robes; often in a thinking pose | One of the Unity's founding drives; among the most powerful Congress members |
+| **Sentia** | Knowledge | Woman in thin silk; skin appears to be made of marble | Well-fed by the Unity's emphasis on learning and technology; cool and precise |
+| **Caluma** | Oppression | Comely man with bronze skin; perpetual glower | Does not think of himself as Oppression — his self-concept is Necessity; growing stronger as suppression intensifies |
+| **Praefecta** | Unity (the ideal) | Skin and hair shine like the sun; almost too perfect to look at directly; rarely appears | Nominal leader of the Congress; troubled — built on something real, she can feel the widening gap between the ideal and the reality |
+| **Labora** | Labor | Sturdy working woman; calloused hands; practical | The Unity's work ethic and labor-as-tax system feed her; uncomfortable closeness with Caluma |
+| **Novus** | Progress | Young man always in motion; slightly blurred | The Unity's technological drive feeds him; restless and forward-looking; perpetual antagonist of Lexan |
+| **Mnema** | Memory and Official Record | Elderly archivist; moves slowly; rarely speaks first | Holds the Unity's sanctioned history, which is partly false — she knows this; the most quietly troubled member and potentially the most dangerous ally |
+| **Pax** | Peace | Diminished; hollow-eyed; quiet | The Unity was founded on ending war; can feel the difference between genuine peace and enforced quiet — and what she feels is the latter; she and Praefecta rarely speak |
 
 ---
 

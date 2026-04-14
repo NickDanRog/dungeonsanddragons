@@ -203,7 +203,7 @@ Not a person or organization but an institutional posture: the accumulated weigh
 | Carnuth, the Stag of the New Moon | he/him | Old God of the Wildwood; leads the eastern resistance | Act I revelation / Act III | Must be respected and redirected; his death is a major failure condition |
 | Tinsel | she/her | Gnomish woman; refugee displaced from the northern Sacred Lands by colonial violence; met in Keshigo on the return journey | Act I | Information source; provides the party's first direct account of the Unity's presence and Carnuth's resistance; humanizes what is otherwise an abstract threat |
 | Huma, the Storm Whale | TBD | Captured Old God; held by the Unity cabal | Act III | Freeing him is Act III's central objective |
-| TBD | TBD | Unity cabal leader — architect of Huma's captivity | Act III | Genuine believer in the Unity's mission; sees the cabal as salvation |
+| Circe Lovelace | she/her | Regional Cabal leader; Oath of Devotion Paladin; original Cabal founder; encountered at the Citadel in Act III and again in Act IV | Act III / Act IV | Short, serious, dark-skinned human woman; close-cropped hair; founding member of the Cabal's inner circle; absolute true believer; will trigger escape protocol regardless of how the Citadel encounter ends |
 | TBD | TBD | Unity moderate — a reformer the party can reach | Act II/III | The party's foothold in the west |
 | Tarak Maal | he/him | Human; powerfully built; mid-sixties; representative of the Blue Star Adepts; attends the Sanctuary meeting; accompanies the party to the ritual | Act II | Council voice for the Adepts; witnesses the first Crossing |
 | Morning Wren | she/her | Halfling; small and shy; representative of the Greensingers; attends the Sanctuary meeting; accompanies the party to the ritual | Act II | Her spiritual sensitivity allows her to perceive Hope's presence when the second portal opens; a reliable barometer for spirit-world activity |
@@ -257,7 +257,7 @@ All four meanings should be present throughout the adventure. They resonate with
 
 ## Act Structure
 
-### Act I: The Keys to the Crossing (Levels 1–4)
+### Act I: The Four Keys (Levels 1–4)
 **Summary:** The adventure begins in the Perfect Isles. The Oracle has made a pronouncement to the Council — a new Circle has been formed — but the identities of the Circle members are a closely guarded secret. The PCs are drawn to the Council by other means (TBD), and the truth of their status is revealed before they depart. Several factions, learning that something significant is afoot, may attempt to covertly influence or obstruct the party. The Council charters a ship to carry the party to Keshigo on the western coast of the Sacred Lands. From Keshigo, they travel inland on foot to find the Witch of the Silver Stream and, through her, the Old God she serves. The act ends with the party boarding the ship back to the Archipelago, carrying the Crossing ritual, the name of the first spirit, and the Old Man's warning that the Old Gods are deliberating whether mortals have the right to continue existing.
 
 **Act I Scene Beats:**
@@ -324,7 +324,7 @@ All four meanings should be present throughout the adventure. They resonate with
 
 **Act I Chapters:** TBD
 
-### Act II: The Returning Circle (Levels 4–8)
+### Act II: The Crossing (Levels 4–8)
 **Summary:** The party arrives back at the Perfect Isles, changed by what they have seen and carrying a warning that will not keep. Their status as the Circle is no longer a secret within the Council, and news of their return — and what they carry — will spread. Before they can move on the Unity, they must perform the Crossing to Hope for the first time, receiving the full weight of the Old Gods' deliberation in a way the Old Man could only hint at. They must then prepare: learning the language, customs, and cultural surface of a civilization that outlaws everything they are; enduring the long crossing of the Middle Sea; and finding a way into the Unity without triggering its suppression apparatus. The act ends when they set foot in the Unity.
 
 **Act II Scene Beats:**
@@ -610,7 +610,7 @@ The Garden House is not available — one of Kaman's first acts is to get Neeta 
 
 ---
 
-### Act III: The West (Levels 8–12)
+### Act III: Into the West (Levels 8–12)
 **Summary:** The party is inside the Unity — a society that has outlawed everything they represent. They must travel across the interior of the western continent, learning its geography and social fabric while remaining undiscovered, to reach the northern coastal region where the Cabal holds Huma captive. Along the way, they may make contact with the belief-spirits of the Unity — the ideals its citizens hold with something approaching religious fervor — and with the reformers within the Unity's own institutions who can be reached. The act ends with the freeing of Huma and the party departing the Unity, knowing what is at stake in a way they didn't before.
 
 *The Journey to Balnor:*
@@ -840,14 +840,360 @@ The harbor is Huma's prison. Citizens walk the promenade, fish from it, sell goo
 
 *Note: The large installation under construction near the ridgeline — which the party will have noticed on arrival and which is publicly described as an airship terminal — is a Cabal facility related to the monitoring and maintenance of the containment system. Its true purpose is TBD.*
 
+**The Investigation:**
+The party has no contacts in Jindark and no map to follow. They must identify leads, cultivate sources, and piece together a picture of what the breakwater actually is. Four factions or individuals can help them, each offering a different angle on the same truth. The party may find one, two, or all four. They are not expected to follow a prescribed sequence.
+
+*The Criminal Underground*
+
+Jindark is the only city in the Unity with a meaningful criminal underworld. The Unity's enforced order has suppressed organized crime everywhere else, but Jindark's explosive, chaotic growth over the past five years created gaps the law hasn't had time to close. The people running the organization are career criminals — not displaced workers, not idealists. They use the city's labor casualties as functionaries and foot soldiers. The party will never meet the principals.
+
+The network has flagged the breakwater's restricted sections as professionally intolerable — territory within their harbor that they don't control and can't read. They have also, independently, made a connection that no one else in Jindark has: power conduits run from the breakwater's submerged foundations into the city's electrical grid. They don't know what this means. They know it is significant.
+
+What they will offer, in exchange for a job done: harbor access through their dock worker contacts, Cabal operative rotation patterns for the southern section, and what they know about the conduits. A job means something that serves the network's interests — lifting something from a Cabal shipment, creating a distraction for an operation, dealing with someone who has been talking to the wrong people. They are transactional. They do not care why the party wants access.
+
+*First contact:* The party will notice they are being followed — the tails are not skilled enough to avoid detection by an attentive group. Tracing the tails back leads to a private social club near the docks. If the party manages to get inside — through bluff, social engineering, or a convincing enough cover — one of the network's face people will approach them. The party has been flagged as outsiders. The question is what they're here for.
+
+*Long-term:* The party carries an obligation. If the breakwater is damaged or destroyed when Huma is freed, harbor operations collapse — which hurts the network's livelihood. They may feel double-crossed, depending on how the party handled the relationship.
+
+---
+
+*The Rebellion*
+
+The rebellion has established a small but capable network in Jindark, exploiting the same chaotic growth conditions that enabled the criminal underground. The handler is most likely a former trade union organizer — collective action having been illegal under the Unity for decades — now running a quiet intelligence operation under a legitimate cover. The network's size and confidence are conditional: if the party freed Maritas earlier in Act III, this network is actively strengthening, receiving resources and contacts it did not have before. If Maritas remains imprisoned, they are smaller, more cautious, and offer less.
+
+What they have is partial but valuable: months of surveillance on Cabal operatives, partial movement maps, and the knowledge that operatives enter the southern lighthouse section and don't exit through the same door. They cannot complete the picture on their own. The party can.
+
+What they want: a piece of hard evidence from inside the Cabal's operation, help protecting a threatened contact, or assistance recruiting someone they have identified as sympathetic. The stronger they are, the more they ask for.
+
+*First contact:* A symbol or phrase the party may recognize from their time with the rebellion in the west — left at their lodgings, marked somewhere the party passes regularly, or murmured briefly on a busy street. If the party has had no prior contact with the western rebellion, the approach is slower: an anonymous summons to a location, with enough identifying detail to indicate the sender knows who they are.
+
+*Long-term:* The party's entanglement with the rebellion deepens. Jindark becomes a more significant rebel node — especially if Maritas was freed. Future Unity encounters carry additional risk if this association surfaces.
+
+*Cross-path note (Criminal Underground):* The criminal network is aware the rebellion operates in Jindark and views them as a liability — people asking political questions attract official attention, which is bad for business. If the party is visibly associated with both, the criminals will become more guarded. Kept separate, the two sources are complementary: the criminals have physical access knowledge; the rebellion has Cabal personnel surveillance. Together they can triangulate operative movements and give the party both the when and the where.
+
+---
+
+*The Geologist*
+
+A Unity academic — a natural philosopher specializing in geology and fluid dynamics — has been posted to Jindark to investigate anomalous seabed behavior around the breakwater. Thermal readings that shouldn't exist. Current disruption patterns that don't follow the tides. Seismic signatures the engineering commission cannot explain. She has filed multiple reports. They have been quietly buried. She does not know why, and the confusion has begun to harden into suspicion.
+
+She is a Unity loyalist. She trusts the system. She is not looking for trouble. She is looking for an explanation, and the system is refusing to give her one.
+
+What she has: thermal maps, seismic readings, and current disruption data that — interpreted correctly — outline the shape and position of something enormous within the breakwater's core. She reads it as a geological anomaly. The party can see it differently. She also knows exactly where the restricted zone boundary is and precisely when it is guarded; she has been turned away from it multiple times and has noted every detail of those encounters.
+
+What she wants: access to the restricted zone to take readings she cannot take from the promenade. She cannot get authorization through official channels. She is not asking the party to break the law. She is asking them to help her do her job.
+
+*First contact:* She is visible — she works on the promenade with portable instruments, part of the scenery. The party may observe her being turned away from the restricted section by a harbor official; a small, routine confrontation that reveals both her purpose and that the restrictions exist. She is easy to approach, and an initial conversation costs nothing.
+
+*Long-term:* When Huma is freed, she must grapple with a reality that overturns her understanding of the world. A Unity true believer who may emerge as something else. Her documented data — thermal maps, seismic readings, the suppressed reports — could become significant evidence in the aftermath if properly circulated.
+
+*Cross-path note (Harbormaster's Office):* The geologist and the harbormaster are natural allies who have not yet found each other. Both are Unity loyalists trying to do their jobs and being obstructed by forces they can't identify. If the party connects them — carefully — they may begin sharing information without the party needing to broker every exchange. The geologist's scientific data and the harbormaster's institutional records together paint a nearly complete picture of what the Cabal has built. This is the most powerful combination available to a party that wants to operate entirely in the open.
+
+---
+
+*The Harbormaster's Office*
+
+The civil service apparatus nominally responsible for the Jindark harbor — berthing assignments, cargo manifests, navigational records, maintenance oversight — has been operating with a gap in its authority for the past several years. A section of the southern breakwater was placed under central authority jurisdiction. The harbormaster was not consulted. Officials she has never seen presented credentials she cannot verify. A complaint was filed. It went nowhere. She is a career administrator — a decade in this post — and she is professionally furious.
+
+She does not know the Cabal by name. She does not know that what has been built beneath the breakwater is a prison for a living being. She knows that part of her harbor has been taken from her without explanation, and that the Unity's processes for handling this have failed her.
+
+What her office holds: procurement documents from the breakwater's construction that don't match any standard engineering specification on record; maintenance logs with redacted sections; the names of the officials who presented the credentials, which the party may be able to trace; and — most valuable — a complete pre-construction survey of the breakwater's foundations, including the submerged access tunnel, from before the Cabal's involvement. She has no idea what those access points are for.
+
+What she wants: for someone to take this seriously and do something about it. She is not asking the party for help, exactly. She is venting to people who are asking the right questions and who appear capable of acting on the answers.
+
+*First contact:* The party has a legitimate reason to visit the harbormaster's office — inquiring about harbor operations, freight routes, or the breakwater's construction history. The harbormaster is visibly short-tempered on the subject of the southern section. Her deputy is more forthcoming in private.
+
+*Long-term:* When Huma is freed and the breakwater is breached, her harbor is in chaos — but she has the records that explain why it happened. She may choose to use them. She could become an unexpected institutional voice for accountability in the aftermath.
+
+*Cross-path note (Rebellion):* The harbormaster is a Unity loyalist. If she discovers the party is also working with the rebellion, she will either withdraw from the relationship or — more dangerously — feel obligated to report what she knows. The two paths are best kept separate. Used carefully, they are the most comprehensive combination available: the rebellion has Cabal operative patterns, the harbormaster has institutional records. Kept in separate compartments, they give the party both the people and the paper trail without either source knowing the other exists.
+
+---
+
+**The Strike on Huma's Prison:**
+
+*Contact contributions*
+
+Each contact the party has cultivated provides an operational advantage when the strike begins. These advantages are DM-facing; the party should not be told they are accruing a score. What they will feel is the difference between a well-prepared operation and one conducted in the dark.
+
+| Contact | Approach | Strike | Without them |
+|---|---|---|---|
+| Criminal Underground | Dock worker cover; maintenance access to restricted zone; patrol patterns for Cabal operatives | Coordinated distraction drawing Cabal attention during the window | No legitimate access to the restricted zone |
+| Rebellion | Optimal timing window — when Cabal staffing in the southern section is at its lowest | Perimeter watch; slows Unity emergency response | Party must choose their own timing blind |
+| Geologist | Identifies alternate entry: the outer seabed maintenance hatch (visible in her structural survey data) | Can confirm projector locations from observable external features | Alternate entry unknown; party limited to the guarded interior route |
+| Harbormaster | Pre-construction tunnel maps; location of the dry-access shaft in the interior mechanical spaces | Can delay official harbor response with bureaucratic obstruction | No map; party navigates the interior blind |
+
+The formula is additive and DM-managed: zero contacts means the operation is conducted at the worst possible conditions — full Cabal presence, no map, no timing intelligence, all prepared hazards active. Each contact removes one major disadvantage. With three or four contacts, some prepared hazards are preempted, the Cabal's response is delayed, and the party enters with a working understanding of the layout.
+
+*The breakwater interior — three zones*
+
+**Zone 1: The Surface.** The promenade and lighthouse exteriors. The containment projectors are at the base of each lighthouse, disguised as maintenance equipment — not at the top. Both must be disabled to collapse the containment lattice. Disabling one without the other weakens the lattice and triggers an immediate Cabal alert.
+
+The core puzzle of the surface zone: the party must disable both projectors simultaneously. Options are to split the group (risk: two separated fights at the same moment), or to find and use the master control panel in the deep chamber, which shuts both remotely. The remote option is cleaner but requires reaching the deep zone first.
+
+**Zone 2: The Interior.** Below the promenade, the breakwater is an engineered structure: service corridors, turbine maintenance spaces, Cabal guard posts, and the Cabal's operational monitoring station. This is the dungeon crawl section.
+
+The active turbines fill the central mass. They are enormous, loud, and hazardous to anyone who enters the maintenance passages directly. The noise makes stealth harder throughout the interior but provides some cover for movement. Guard posts are staffed by Cabal operatives dressed as harbor maintenance workers; their training is genuine. Deeper in, the operatives are senior.
+
+The Cabal monitoring station tracks the containment system in real time. It contains operational notes — both a plot item (explains how the system works in enough detail to disable it correctly) and a story item (confirms in the Cabal's own words what Huma is and what has been done to him). Recovering these notes before reaching the deep zone gives the party meaningful agency over what happens next. Without them, the party must work out the system under pressure in the chamber itself.
+
+**Zone 3: The Deep.** The submerged tunnel beneath the central mass and the pressurized chamber at harbor floor level.
+
+Two entry points:
+- *The dry-access shaft* descends from the interior mechanical spaces. It is guarded. No swimming required. This is the route the harbormaster's surveys reveal.
+- *The outer seabed hatch* is on the breakwater's harbor face. The geologist's data identified it as a structural anomaly. Reaching it requires navigating approximately 30 meters underwater, working an external hatch mechanism, and entering the tunnel from the sea side — bypassing interior guards entirely. This approach requires either magic capable of providing underwater breathing or a mechanical underwater breathing apparatus. The criminal network or the harbormaster can supply the equipment; alternatively, the party can purchase it independently, though it is expensive, technically specialized, and its purchase may draw attention from the authorities.
+
+The pressurized chamber is kept dry by an active airlock-style entry. The mechanism must be understood and operated correctly to enter without incident. The Cabal can also initiate a partial flood deliberately as a combat measure if the party is inside. The master control panel that governs both lighthouse projectors is here.
+
+*The final combat*
+
+The Cabal prepared this room as a kill zone. They expected that anyone who found their way this deep had the capability to reach the chamber and have anticipated it.
+
+Prepared hazards:
+- *Electrical discharge:* The chamber has exposed conduit runs from the turbine system. The Cabal can direct current through sections of the floor and the structural contacts. If the party recovered the operational notes in Zone 2, they can identify and neutralize the discharge points before combat — or use the system against the Cabal themselves.
+- *Partial flooding:* The Cabal can initiate a controlled flood, denying sections of the chamber and forcing the party into compressed kill zones. If the party understands the pressure system, they can counter or redirect the flooding.
+- *Pressure doors:* The tunnel connections back to the interior can be sealed, splitting the party or cutting off retreat. This creates a clock element if party members are separated.
+- *Turbine spillover:* Combat can reach the turbine maintenance passages. Entering these spaces is a significant environmental hazard — not an instant kill, but a dangerous one.
+
+**Who the party fights:** Senior Cabal operatives — 3 to 4 individuals, not the regional leader, who is at the Citadel. At minimum one arcane operative, one martial, one tactical. At least one named individual who can speak. In defeat or capture, this person confirms the Citadel's existence and reveals that the Cabal's intent was never to kill the party in this room — they are more useful as interrogatees, and the Citadel is where that would happen. This is the bridge to the optional section that follows.
+
+---
+
+**Outcomes:**
+
+*Activating contacts*
+
+When the party is ready to move, each contact is activated differently. Contacts cannot be held in reserve indefinitely — if the party delays too long after establishing a relationship, circumstances may shift.
+
+- **Criminal Underground:** The party returns to the social club and states they are ready. The face person will arrange the specifics.
+- **Rebellion:** The party passes a prearranged signal through the contact channel established at first meeting.
+- **Geologist:** The party asks her to provide her survey data formally, or to accompany them. She will ask what they intend to do with it. She will not lie to herself about the answer if the party is honest.
+- **Harbormaster:** The party presents her with enough of what they know that she opens her records willingly. At that point she is committed, whether or not she fully intends to be.
+
+*Contact with Huma*
+
+**Before the projectors are disabled**, the party can attempt the Summoning ritual in the pressurized chamber. Huma is present and can respond — he is physically there — but he is deeply confused. He knows he is surrounded. He knows something is holding him. He does not understand the geometry of his prison. He does not know how long he has been here. Communication is fragmented and disorienting for both parties. This contact is primarily atmospheric: confirmation that the party has found the right place, and a first glimpse of what years of captivity have done to a being of his age and nature.
+
+**After the projectors are disabled**, Huma's confusion clears. He becomes coherent. He is still in the harbor — freedom for him means the breach, not merely the lattice dropping — but he can think clearly for the first time in years. He speaks through the structure itself: vibration in the stone, resonance in the water, a pressure in the air of the chamber that forms into something like language.
+
+Key moments in this conversation:
+- He was lured. He knows this now. *"I was called. I should have known what kind of call it was."*
+- He has been aware of the Old Gods' deliberation, distantly, through the prison. He asks what has happened in the world — his knowledge is years out of date.
+- He asks what the party wants him to do. He will not act until he understands the situation. If the party has been careful and communicates clearly, he will cooperate with a managed breach. If the situation is chaotic and the party cannot explain themselves coherently, he is frightened — and a frightened Old God is dangerous regardless of intent.
+- His regard for the party is earned here, not given. This is the beginning of a relationship that will matter in Act V.
+
+*Outcome by method (sliding scale — cross-reference the breakwater section above)*
+
+| Method | Harbor consequence | Huma's state at breach | Party's agency over what follows |
+|---|---|---|---|
+| Projectors first, then guided breach | Significant flooding of port district; harbor disrupted but structurally present; eventually recoverable | Coherent, cooperative, grateful | Maximum |
+| Projectors and breach simultaneously | Severe flooding; structural damage to adjacent districts | Disoriented but responsive | Limited |
+| Full simultaneous destruction | Port district destroyed; harbor becomes open sea; tidal event on northern coast | Panicking, disoriented; dangerous | None |
+
+---
+
+**Attack on the Citadel (Optional):**
+
+The ridgeline installation the party noticed on arrival — publicly described as an airship terminal under construction — is the Citadel: the Cabal's regional operations base for the Jindark operation. The defeated operatives in the pressurized chamber will confirm its existence and its purpose. The Cabal's intent to bring the party there, rather than kill them, tells the party that the Citadel is a place where things happen — including interrogation.
+
+The party is not required to attack the Citadel. Freeing Huma ends the imprisonment and the Cabal's energy extraction operation regardless. But attacking the Citadel offers three things the prison strike does not: a permanent break on Cabal operations in the region, vital intelligence about their broader network and future plans, and a sense of closure — the organization responsible for Huma's captivity has been dealt a full accounting, not merely interrupted.
+
+*The Citadel exterior*
+
+Construction cover is nearly complete but not fully convincing at close range. Legitimate workers are present on the surface. The operational areas are accessible only through disguised entry points within the construction zone. By the time the party arrives — whether on the same day as the harbor event or on Day 2, the last viable window before the lockdown reaches the ridgeline — Cabal security is on elevated alert.
+
+*The Citadel interior — three areas*
+
+**Area 1: The Surface Construction.** Navigating past or through legitimate workers and Cabal security. Finding the entry points to the operational sections is itself a puzzle — the construction cover is designed to conceal them. Workers are not threats but can raise alarms.
+
+**Area 2: Operational Level.** Communications equipment, monitoring stations — now disrupted and chaotic following events at the harbor — personnel quarters, and potentially detention cells if any party members were captured during the prison strike. Standard dungeon crawl with operatives on full alert. The intelligence recoverable here: operational communications with Balnor, the Cabal's list of future capture targets (additional Old Gods), technical specifications for the containment system that could identify similar installations elsewhere, and the identity and position of Circe if not yet known.
+
+The archive in Area 3 contains, among other materials: notes in Circe's own hand concerning Carnuth's role in the eastern rebellion, and the fact that the Cabal's field operatives are developing a plan to "deal with it permanently." This is the earliest warning the party will have of the Act IV threat. The archive also contains materials the rebellion can use to expose the Cabal's existence and methods to the broader Unity public. The Unity government will respond by officially labeling the materials as forgeries, offering plausible alternative explanations for each document, and classifying public discussion of them as conspiracy. The Cabal's exposure will nonetheless cause significant reputational damage to the Unity, and the Advocates will launch an internal investigation to identify and eliminate Cabal members within their own organization — triggering a shadow war between the two bodies that will run through Act IV.
+
+**Area 3: Archive and Command.** The deepest section. The intelligence repository. The regional leader's office. The final confrontation.
+
+*The final confrontation*
+
+**Circe Lovelace** and 2 to 3 lieutenants. Circe is a short, serious, dark-skinned human woman with close-cropped hair. She is an original founder of the Cabal and a member of its inner circle, classed as an Oath of Devotion Paladin — her devotion is to the Unity itself, elevated to the status of a sacred cause. She has done monstrous things. She knows it. She considers them necessary, and she has made peace with that. She deeply cares for her subordinates; killing any of them in her presence will send her into a cold rage.
+
+This fight is structurally different from the prison fight. The pressure chamber was a kill zone built for intruders. The Citadel command level is the Cabal's home ground — optimized for their operations, not for defending against assault. Circe has a priority and a plan.
+
+The priority is the archive. This creates a **dual-objective combat**: Circe and her lieutenants fight to buy time while systematically destroying archive materials — burning documents, wrecking equipment, eliminating records. This begins at the start of the encounter and continues every round. The party cannot simultaneously fight, protect archive materials, and pursue Circe. They must choose.
+
+Circe, if caught or cornered, will attempt to negotiate. She is a genuine true believer who thinks she can make the party understand why the Cabal exists and why its work must continue. She is not performing conviction — she has it.
+
+**Regardless of how the encounter ends, Circe will enact her escape protocol.** This is a standing order she gave herself years ago, not a contingency. She will not die in this room if she can avoid it, and she has prepared extensively for the possibility of this exact scenario. She escapes. She will be encountered again in Act IV.
+
+*Destruction of the facility*
+
+The Citadel's electrical infrastructure connects to — and once monitored — the breakwater containment system. With that system already disabled or destroyed, the Citadel's connections to it are live, unstable, and potentially catastrophic if deliberately overloaded.
+
+The party can initiate a full destruction by damaging three key nodes in sequence: the main power coupling (in the operational level), the monitoring system hub, and the communications array. The sequence can be triggered immediately (the party must move fast to escape the resulting collapse) or set for a delay (the party has a window, but the delay also triggers the lockdown faster once it fires).
+
+Full destruction eliminates the Cabal's Jindark operation completely and denies them whatever archive the party could not save. It also produces a visible explosion on the ridgeline that is seen from the entire city, compressing the escape window significantly.
+
+---
+
+**Coda:**
+
+*Huma's freeing as public spectacle*
+
+There is no version of Huma's release that goes unnoticed. The city sees it. Everyone on the promenade sees it. The harbor district sees it.
+
+**Controlled outcome:** The lighthouses go dark simultaneously. The promenade shudders. From the harbor, something moves — a shape that doesn't fit the space it occupies, that fills the harbor and then passes through the channel and is gone into the open sea. Citizens of Jindark have just watched something impossible in broad daylight. The port district has significant flooding. The city is stunned and does not know what it watched.
+
+**Significant breach:** As above, but the breakwater's structure is opened. The flooding is severe — several blocks of the port district are underwater. Huma's passage is longer and more violent. The spectacle lasts. More people are in danger during it, and more people witness what emerges.
+
+**Full destruction:** The breakwater collapses. The harbor becomes open sea. Huma erupts into it in panic and confusion. The port district is destroyed. A tidal surge moves along the northern coast. The sky above where the harbor was is wrong for hours afterward. This is a catastrophe. Its effects will be felt in the world beyond Jindark, and for longer than Act III.
+
+*Post-freeing city timeline*
+
+**Day 1:** Shock. The city cannot function. Harbor operations are suspended in every outcome. The Unity's emergency response apparatus begins to mobilize, but nothing in its experience has prepared it for this. This is the party's largest window for action, movement, or escape.
+
+**Day 2:** Unity response begins in earnest. Military and Advocate units are deployed to the harbor district. Initial lockdown of the affected area. If the Citadel has not yet been attacked, this is the last viable window — the ridgeline will be under observation by the end of the day.
+
+**Day 3–4:** The investigation spreads outward. The lockdown extends. Whoever the Cabal had in the city's administration is now in full crisis mode and calling in every resource. The party is a named priority.
+
+**If the Citadel was also destroyed:** The explosion on the ridge is visible from the entire city. Day 1 is not a window — it is a race. The Advocates begin mobilizing within hours of the harbor event, and the Citadel explosion removes any ambiguity about what they are looking for.
+
+*Escape avenues*
+
+**By sea — Criminal Underground.** If the harbor is navigable — controlled or significant breach outcomes — the criminals have boats and they know the harbor. This is the fastest exit available. Conditions: the party maintained the relationship, and the harbor exists to escape through. Not available in the full destruction outcome.
+
+**By land — Rebellion.** The rebellion has a safe house chain leading out of the city, usable regardless of harbor state. This route takes 2–3 days of moving through the lockdown and requires lying low while the investigation is active. Slower than sea escape; works in all outcome scenarios. Stronger and more reliable if Maritas was freed earlier in Act III.
+
+**Official departure — Harbormaster.** In the controlled outcome, the harbor is still structurally present and the first day's chaos is total. The harbormaster retains nominal authority over harbor departures. She could authorize a vessel's exit — if the party reaches her before she understands the full scope of what they did, and if their relationship with her is enough for her to use her position on their behalf. This is the most difficult escape avenue to access. It requires either a persuasive argument or a relationship that goes beyond the transactional.
+
+**Overland without rebel support.** Possible; slow; exposed. The mountain terrain surrounding Jindark offers cover but not speed. For parties who have no remaining contacts or chose not to cultivate any.
+
+**By air — Citadel infrastructure.** If the party did not destroy the Citadel, the ridgeline facility has incomplete but potentially functional airship infrastructure. This requires someone capable of operating the equipment, movement through a now-monitored area, and accepting that the Cabal will know exactly what left from where. Available only if the Citadel was spared.
+
+*The party's return to the Perfect Isles and the transition between Acts III and IV are covered in the Act III–IV interlude section.*
+
 **Act III Chapters:** TBD
 
-### Act IV: The Resistance (Levels 12–16)
+---
+
+### Act III–IV Interlude: The Return
+
+The interlude covers the party's escape from the Unity and return to the Archipelago. Before running it, the DM should establish the party's situation across four variables: how Huma was freed, whether the Citadel was destroyed, what the state of their Jindark contacts is, and what — if anything — their prior actions in Balnor and Daliketh did to the Wayfinder network. These facts govern the difficulty of the Original Plan route and the availability of each escape avenue in the Coda.
+
+---
+
+*The Original Plan (Conditional Difficulty)*
+
+The standing plan was to retrace the Wayfinder network's route in reverse: escape Jindark by rail, transit through Balnor, take an airship to Daliketh, connect with Kaman's operation, and wait for the next outbound ship. This remains possible, but the difficulty at each stage reflects the state the party leaves behind.
+
+**Jindark to Balnor.**
+If Huma was freed without catastrophic damage and the Citadel was not destroyed, a narrow window remains on the day following the harbor event. The city is in shock, and lockdown procedures are only beginning to take effect. The rebellion and criminal network contacts can get the party onto a northbound train before the window closes. Once it closes, rail service from Jindark is suspended for approximately a week while the authorities investigate. When service resumes, checkpoint scrutiny approaches the impenetrable; only exceptional disguise work or a very convincing cover story will carry the party through.
+
+If the Citadel was destroyed, the window effectively does not exist. The explosion on the ridge is visible from the entire city and the Advocates' response begins within hours. Escape via rail without contact support is nearly impossible in the immediate aftermath. The week's suspension applies here as well, and scrutiny on resumption is at least as severe — the Citadel's destruction has added a second incident for the authorities to attribute to the same party.
+
+**Balnor.**
+The situation in Balnor depends on two variables: the party's exposure status from the device interlude, and whether news of the Jindark events has arrived before them.
+
+If the device did not expose the party and did not lead to Giacomo's arrest, he is still available. He will take them in under the same terms — they are houseguests, not operatives, and he will disavow them without hesitation if pressed. He can arrange airship tickets. If the Citadel was destroyed, however, news of the disaster will reach Balnor at roughly the same time the party does. The capital will be in uproar. Scrutiny at the aerodrome will be significantly elevated, and the party will face intense examination at boarding.
+
+If prior events compromised the party in Balnor or led to Giacomo's arrest, they have no contact and cannot move freely in the city.
+
+**Daliketh.**
+If the rescue mission at the end of Act II dismantled the Wayfinder network in Daliketh, Kaman's operation no longer exists. However, Pulara is still in the city, overseeing the evacuation of the last remaining network personnel. She can be contacted through whatever channel the party established with her before departure. She will be cautious, pressed for time, and unwilling to take unnecessary risks — but she will get them out if they reach her.
+
+If the Daliketh network is intact, Kaman's operation runs on its usual schedule. The party waits for the next outbound ship.
+
+---
+
+*Asking the Spirits (Easy)*
+
+The spirits have not, as of Act III, demonstrated the ability to transport people between locations in the physical world. They can do this — they simply have not been asked, and the party has no reason to know it is possible. This option is available to any party that thinks of it. The spirits can only move people between places within their sphere of influence, and not all will help.
+
+**Hope.**
+Hope will answer the party's call without hesitation. She will break the standard mechanics of the crossing — meeting the party in transit rather than waiting in her domain. The form of the transit reflects the outcome of Huma's freeing. If he was freed cleanly with minimal harm, the crossing takes the form of a beautiful sunlit afternoon on the Jindark breakwater promenade — the promenade the party walked without knowing what lay beneath it, now peaceful and full of ordinary life. If the freeing was more damaging, the scene is quieter, the light thinner, the promenade less populated. In either case, Hope offers to send the party home directly and does so with very little ceremony.
+
+**Placida.**
+Placida will answer only if the party did not free Maritas. She too will skip formality, meeting the party in transit in the form of a public civic celebration — glad or subdued depending on how Huma was freed, reflecting her read on the state of things. If the party encountered Maritas but did not free him, she will address this directly: she thanks them, absolves them of any residual complicity in Revna's scheme, and tells them they made the right choice. She does not comment on Huma's release — she views it as an unambiguous public good and a driver of necessary change, which is an insight into her character. She will not offer to transport the party home unprompted. If asked, she will do it.
+
+**Revna.**
+Revna will answer regardless of circumstances. She will not extend the same courtesy as Hope or Placida — she insists on the full crossing process.
+
+The crossing passes through five spaces, each presenting a question. The questions have no correct answers; what matters is that the party answers honestly and from the heart. A party member who deflects, equivocates, or answers dishonestly will be called out by name, and the question will be directed to someone else.
+
+- *The Classroom:* A teacher at the front of a room full of students looks past them at the party. *"What is the Unity's biggest problem?"*
+- *The Restaurant:* Friends around a long table. The old man at the head sets down his fork. *"Are people in the Unity free?"*
+- *The Funeral:* Mourners gathered around a casket. A relative of the deceased, red-eyed, turns to the party. *"Do the people of the Unity believe it's worth fighting for?"*
+- *The Rally:* A massive political gathering, thousands strong. The speaker on the platform interrupts their address and points directly at the party. *"In the end, what will make the people of the Unity rise up?"*
+
+The fifth space is different. An altar on a mountaintop beneath a surreal, storm-heavy red sky. A monk in a black robe meditates at the altar, face obscured. Below the altar, a stone bowl stained by generations of use. The monk speaks without looking up: *"What are you willing to sacrifice for the Revolution?"* This is not a question — it is an invitation. The acceptable offering is blood: one of the party members must cut their palm and bleed into the bowl. A gift judged insufficient will be returned. Blood offered willingly opens a door in the cliff face to the party's right, which leads to Revna's domain.
+
+Revna's domain appears largely as before, but more active — evidence of plans being made, work underway. If Maritas was freed, it has a more organized and militant character.
+
+When the party reaches Revna's throne, her reception depends on what they did at the Congress:
+
+If Maritas was freed: she greets them with genuine warmth. She tells them that great things are ahead, that they have made a true alliance with her, and that their acts will matter more than they yet understand. She offers to return them to the Archipelago without being asked.
+
+If Maritas was not freed: she upbraids them severely — not with shouting, but with the colder anger that comes naturally to her. She tells them exactly what their failure cost and what it cost her. She returns them, without ceremony, to wherever they conducted the ritual.
+
+**Maritas.**
+Maritas will answer the party's call if he was freed. He enforces the full crossing.
+
+The transit takes the form of a crowded, bloodsoaked arena. The party materializes behind the portcullis to the arena floor. The master of gladiators — a heavily scarred human woman — looks them over and asks which of them volunteers as the challenger. The portcullis drops behind the volunteer, separating them from the rest of the party. The volunteer faces a challenger of equal level who is their functional opposite: an arcane caster faces a martial fighter; a Paladin faces a Warlock; a Rogue faces a Cleric. The bout is fought to unconsciousness or surrender. The outcome does not matter — only that it is fought with genuine effort. A volunteer who gives less than their best will find the crowd silent and the master unmoved.
+
+Whether the volunteer wins or loses, the master calls it — *"Well fought!"* or *"A glorious victory!"* — and the crowd responds. The volunteer is restored to full hit points. The master leads them through a doorway.
+
+Maritas's domain: a ridge overlooking a wide open battlefield on a clear sunny day. Thousands of bodies. The winning side's soldiers and workers are visible below — finishing off the dying, aiding the wounded, stripping the dead. Maritas sits on a rock nearby, picking his fingernails with a small knife, entirely unbothered.
+
+He will look up when the party arrives and ask what they want.
+
+If they ask him to send them home: he refuses, flatly and without heat. *"I am not your wet nurse. Deal with your own problems, my little rabbits. And don't bother coming again,"* he adds, *"unless you've found something worthy of my attention."* A dismissive gesture. The party is returned to wherever they conducted the ritual. They go home without his help.
+
+Maritas is not punishing them. He simply does not provide this service. He is the spirit of War.
+
+---
+
+*Stealing an Airship (Moderate to Hard)*
+
+If the party attacks the Citadel, they exit through one of its upper floors. Below them, an access stairwell leads to the ground. Above them, tethered to the ridgeline and unattended in the immediate chaos, is a Unity airship. If the Citadel's destruction sequence is active, every decision has a hard deadline.
+
+**Taking control.**
+A Unity airship's controls are not intuitive to anyone without training. Any party member may attempt a high-DC Intelligence check; the party may make a total of three attempts before the situation forces itself to a resolution.
+
+On success: the airship gets airborne in time. If the Citadel's destruction is underway, they clear the blast radius.
+
+On failure: the party survives. The airship's lifting mechanism provides enough passive buoyancy to prevent a fatal fall, but the explosion throws the vessel to the ground. Each party member takes 2d6 force damage from the blast and 3d8 bludgeoning from impact. They are alive, outside the Citadel, with whatever escape window remained now significantly narrowed.
+
+**Flying it.**
+Keeping the airship aloft over any meaningful distance requires a trained crew. Two contacts can provide one:
+
+- *The Rebellion:* The contact will arrange a crew of volunteers without hesitation — these are people who have been waiting for an opportunity like this. The cost is minimal: when the party reaches Daliketh, they should see that the volunteers receive a bonus for their trouble. The hidden cost is that the rebellion wants to keep the airship. It represents a significant resource for their operations, and they will make this clear before the crew boards.
+
+- *The Criminal Network:* They will hire a competent, no-questions-asked crew of specialists. The price is 1,000 gp, or the airship itself, delivered to a specified contact in Daliketh. They do not negotiate on either option.
+
+If the party attempts to hire a crew independently, without either contact, they will find it possible but very difficult. In the chaotic aftermath of the harbor event, few competent people are both available and willing to take the risk. The DM should make this path costly in time, gp, and scrutiny.
+
+**The fuel problem.**
+A Unity airship carries finite reserves of coal and lift gas. Flying to Daliketh without a resupply stop will exhaust those reserves before arrival. A trained crew will tell the party this clearly. Three resupply options exist:
+
+- *Karale:* The party knows this city from the train journey. It has a functional aerodrome, and news of the Jindark events will not have arrived there before the party does. Scrutiny is standard. The problem is distance: Karale is at the edge of the airship's comfortable range. The route is feasible but leaves no margin.
+
+- *Balnor:* Fully equipped, no supply constraints. News from Jindark will have arrived. Scrutiny at the aerodrome will be significant. The party will face questions about cargo, route, and credentials. Manageable for a well-prepared group, but a meaningful obstacle on top of everything else they are managing.
+
+- *Bashere:* A large manufacturing city on Lake Janelia in the province of Janelia, in the central hills region — considerably further south than the hill country the party passed through on the train. It involves a detour that tests the airship's range but offers a resupply point that is far less likely to be on elevated alert. A crew familiar with Unity airspace will know the route and can advise the party on its feasibility.
+
+**Military patrols.**
+A Unity military airship patrol may intercept the party in transit. This is not certain, but the DM should treat it as likely given current conditions. Military vessels communicate by semaphore and will ask the party to identify themselves, state their cargo, and declare their destination. Failure to respond convincingly — or to respond at all — will result in a boarding action.
+
+The military crew is trained; the vessel is armed with multiple cannon; the party's vessel is not armed. This is not a fight designed to be won. The party's best tools are compliance, preparation, and a coherent story.
+
+**The Middle Sea.**
+Flying an airship across the Middle Sea is not viable under standard conditions. The distance is too great, the fuel reserves insufficient, and the weather over open water unpredictable in ways that are lethal to a civilian vessel. A party that wishes to attempt it will need a magical solution of their own devising. The DM should not supply one — but should not prevent a creative party from finding one either.
+
+---
+
+### Act IV: Rebellion (Levels 12–16)
 **Summary:** The party returns to find the eastern situation escalating. The Cabal — the same group that captured Huma in the Unity — has now turned its attention to the Sacred Lands and to Carnuth specifically. Having demonstrated they can capture an Old God, they now want to determine whether they can kill one outright. Carnuth, they have correctly assessed, cannot be captured; his power in his own domain is too great. Their plan is elimination. The party must stop this while also beginning the work of creating conditions for the Old Gods' deliberation to turn in mortals' favor. This act is more active and combat-forward than the others: the threat is specific and immediate, and Carnuth's death is a failure condition.
 
 **Act IV Chapters:** TBD
 
-### Act V: The Deliberation (Levels 16–20)
+### Act V: Twilight of the Old Gods (Levels 16–20)
 **Summary:** The party travels deep into the eastern interior to reach the council of Old Gods and make the case for mortal survival. This is not a dungeon crawl but a diplomatic and philosophical challenge: the party must demonstrate that mortals can change, that the damage done to the Old Gods can be repaired, and that coexistence is possible. The evidence they have gathered across all four prior acts — their actions, their relationships, the changes they have set in motion — becomes their argument. The ending is shaped by how well they have prepared.
 
 **Act V Chapters:** TBD
@@ -948,7 +1294,17 @@ An Old God of the western continent — one of the last great primordial spirits
 
 **The cabal's intentions:** They view the capture of Huma not as a crime but as an achievement — proof that the Unity's principles can be extended to the spirit world. They intend to replicate it: finding and capturing the remaining Old Gods of the west, and eventually extending into the Sacred Lands. The cabal leader genuinely believes this is how civilization survives.
 
-**What captivity has done to Huma:** TBD — needs design. After years of captivity and energy extraction, what is the state of this being when the party finds him? What does freedom mean for something that has been held this long? What aspect of the world has suffered in his absence?
+**What captivity has done to Huma:** His condition after freeing depends on how it was accomplished — specifically on the loss of life involved.
+
+*Minimal damage and loss of life (controlled outcome):* Huma returns to himself within days. He is a spirit of the sea and its weather, and the natural systems he governs reassert themselves quickly — the weather along the northern coast will right itself within a few weeks. He is shaken by the experience of captivity and grateful to the party in a way that is characteristic of a very old being: not effusive, but real. He will allow the party to contact him via the Communing ritual whenever they wish. In the best outcome, he offers each party member a single boon, chosen from the following:
+
+- **Breath of the Sea** — *Air Bubble* 3/day
+- **Call the Storm** — *Lightning Bolt* (cast at 5th level) 2/day
+- **Divine Wind** — *Warding Wind* 3/day
+
+Each boon is a permanent innate ability — the character may use it a set number of times per day without spell slots or material components. Full statistics for each in the DM Guide appendix.
+
+*Catastrophic freeing (significant loss of life):* Huma is wounded in a way that is not physical. The deaths caused in part by the manner of his release — however unintentionally — mark him. He will go into isolation. He will not speak to the world for some time. He is reachable if the party seeks him out for a final conversation, and he will speak honestly with them about what happened and what it means. He will not offer the Communing connection or a boon. His isolation will have consequences for the natural world in Act IV that the DM may develop.
 
 ---
 
@@ -1098,7 +1454,7 @@ Their philosophy is explicitly pragmatic over moral. They believe in the suprema
 
 **The danger they represent:** The Cabal's leaders are not corrupt in the ordinary sense. They are true believers — in the Unity, in its mission, in the necessity of what they do. The party cannot simply expose them and expect the Unity's institutions to handle the rest. The Cabal has anticipated exposure and prepared for it. The argument against them is not primarily legal; it is philosophical. They must be shown that what they are doing is destroying the very thing they believe they are protecting.
 
-*Leadership identity, internal structure, exact method of Huma's captivity, and Act III operational details TBD when Act III is outlined.*
+**Leadership:** The Cabal's regional leader in Jindark is **Circe Lovelace** — one of the organization's original founders and a member of its inner circle. She is a short, serious, dark-skinned human woman with close-cropped hair; she presents as an Oath of Devotion Paladin whose oath is the Unity itself. She does not believe she has done anything that was not necessary. She cares deeply for her subordinates. She has a standing escape protocol and will not be killed in the Citadel encounter; she reappears in Act IV. The Cabal's broader leadership structure and membership beyond Lovelace are TBD.
 
 ## The Eastern Peoples
 **Public face:** Fractious, diverse, frequently in conflict, occasionally at war. The one thing unifying them is resistance to colonization.
@@ -1164,8 +1520,8 @@ The following questions need answers before chapter writing can begin:
 17. **The Witch's "friends":** Who informed her of the party's arrival? Her own spirit contacts? The nature spirits of the region? An Old God's network?
 18. **Middle Sea dangers:** What makes the 4-day voyage notable? Weather, creatures, magical interference?
 19. **The Cabal's Act III operation:** Method, resources, covert or overt?
-20. **Huma's condition after captivity:** What has it done to him? What aspect of the world has suffered in his absence?
-21. **The Cabal leader:** Name, background, position within the Unity's ministry?
+20. **Huma's condition after captivity:** Resolved — see Huma entry above. Condition is outcome-dependent: minimal damage = full recovery + Communing access + potential boon; catastrophic = isolation, no boon, natural world consequences in Act IV TBD.
+21. **The Cabal leader:** Resolved — Circe Lovelace; original Cabal founder; Oath of Devotion Paladin; see Cabal section and NPC table.
 
 ---
 

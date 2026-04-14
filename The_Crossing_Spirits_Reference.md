@@ -54,6 +54,8 @@ There are two fundamentally different categories of spirit in Encarnia.
 
 **Role in the adventure:** First spirit the Circle visits. The revelation from this crossing — that the Old Gods are deliberating the end of mortal life — comes through Hope's domain. She is the adventure's guide-spirit in Act I.
 
+**Acceptable offering:** TBD — to be reviewed during DM Guide writing.
+
 ---
 
 ## Lon
@@ -69,6 +71,8 @@ There are two fundamentally different categories of spirit in Encarnia.
 - **Hope:** See above.
 
 **Role in the adventure:** TBD — may be encountered or referenced; his growing strength is a measure of the world's deterioration.
+
+**Acceptable offering:** TBD — to be reviewed during DM Guide writing.
 
 ---
 
@@ -87,6 +91,8 @@ There are two fundamentally different categories of spirit in Encarnia.
 
 **Role in the adventure:** Introduced to the party by Hope before Act II. Gives the party Revna's scroll (introduction to Placida) and a key for Maritas's cell. Asks them specifically not to mention her uncle to Placida. A key figure in the Unity thread — the spirit of rebellion within a society that has outlawed rebellion.
 
+**Acceptable offering:** Blood — one party member cuts their palm and bleeds willingly into Revna's stone bowl. A token gift or an unwilling offering will be returned. The act must be voluntary.
+
 ---
 
 ## Maritas
@@ -103,7 +109,9 @@ There are two fundamentally different categories of spirit in Encarnia.
 - **The Congress:** Deep and mutual enmity. The Congress considers him dangerous; he considers them cowards who built a world of enforced quiet and called it peace.
 - **Novus (Progress):** The third leg of the alliance that freed him — Revna, Placida, and Novus. Novus provided the key to his cell. When Placida discovers what happened and withdraws, Novus will not. War is good for progress; their interests are aligned.
 
-**Role in the adventure:** The identity of Revna's uncle — withheld from the party until the Congress interlude. Held captive in a cell behind the Congress table in the theatre within Placida's domain. The party must decide whether to free him. If freed, he grants each party member a boon (Might / The Secret of Steel / Retribution) and can thereafter be contacted via the Communing ritual. He does not pick sides, but has cause to hate the Unity and will tip the scales in the party's favor from time to time. His freedom is one of the most consequential decisions in the campaign.
+**Role in the adventure:** The identity of Revna's uncle — withheld from the party until the Congress interlude. Held captive in a cell behind the Congress table in the Congress's theartre. The party must decide whether to free him. If freed, he grants each party member a boon (Might / The Secret of Steel / Retribution) and can thereafter be contacted via the Communing ritual. He does not pick sides, but has cause to hate the Unity and will tip the scales in the party's favor from time to time. His freedom is one of the most consequential decisions in the campaign.
+
+**Acceptable offering:** A worthy fight — one party member must volunteer to face a challenger in Maritas's arena and conduct the bout with genuine effort. The outcome is irrelevant; the effort is not. An uninspired performance earns no passage.
 
 ---
 
@@ -214,6 +222,8 @@ The **Witch of the Silver Stream** is one such practitioner, but her specific Ol
 
 **Role in the adventure:** Leads the eastern resistance against Unity colonization. Most conflicted member of the Old God community regarding the fate of mortals — has seen what mortals can become. His death is a major failure condition in Act III. Potential internal advocate at the Act IV deliberation.
 
+**Acceptable offering:** TBD — Carnuth's entry notes that he is "kind and generous when approached respectfully with an appropriate gift"; the nature of that gift is to be determined during DM Guide writing for Act IV.
+
 ---
 
 ## The Old Man of the Mountain
@@ -231,6 +241,8 @@ The **Witch of the Silver Stream** is one such practitioner, but her specific Ol
 
 **His domain and true name:** TBD.
 
+**Acceptable offering:** TBD — to be reviewed during DM Guide writing for Act I.
+
 ---
 
 ## Huma, the Storm Whale
@@ -241,9 +253,21 @@ The **Witch of the Silver Stream** is one such practitioner, but her specific Ol
 
 **Current status:** Held captive by the cabal's device. His energy is being channeled to power the northern coastal region of the Unity — the only highly productive area left in the west. The cabal views this as proof of concept.
 
-**Condition after captivity:** TBD — what has years of captivity and energy extraction done to this being?
+**Condition after captivity:** Outcome-dependent on loss of life during freeing.
 
-**Role in the adventure:** Freeing Huma is Act II's central objective. What his freedom looks like — and what aspect of the physical world has suffered in his absence — is TBD.
+*Minimal damage and loss of life:* Huma returns to himself within days. His natural domain — the sea and its weather along the northern coast — reasserts itself within weeks. He is grateful to the party in the manner of a very old being: not effusive, but genuine. He grants them open access via the Communing ritual and, in the best outcome, offers each party member a boon chosen from:
+
+- **Breath of the Sea** — *Air Bubble* 3/day
+- **Call the Storm** — *Lightning Bolt* (cast at 5th level) 2/day
+- **Divine Wind** — *Warding Wind* 3/day
+
+Each boon is a permanent innate ability, usable without spell slots or material components.
+
+*Catastrophic freeing (significant loss of life):* The deaths caused in part by the manner of his release wound him in a way that is not physical. He goes into isolation. He will speak with the party if sought out for a final conversation and will be honest about what happened. He does not offer the Communing connection or a boon. His isolation has natural world consequences in Act IV that the DM may develop.
+
+**Role in the adventure:** Freeing Huma is Act III's central objective. He can be contacted via the Summoning ritual once the party reaches the pressurized chamber — fragmented and confused before the projectors are disabled, coherent after. If freed with minimal harm, he allows the party to contact him via Communing whenever they wish and may offer a boon. He is a witness and potential advocate at the Act V deliberation.
+
+**Acceptable offering:** TBD — Huma is contacted via the Summoning ritual rather than the Crossing; the nature of an appropriate gift when petitioning him for aid is to be determined during DM Guide writing for Act III.
 
 ---
 

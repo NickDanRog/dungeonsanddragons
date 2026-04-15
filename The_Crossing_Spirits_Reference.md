@@ -54,6 +54,13 @@ There are two fundamentally different categories of spirit in Encarnia.
 
 **Role in the adventure:** First spirit the Circle visits. The revelation from this crossing — that the Old Gods are deliberating the end of mortal life — comes through Hope's domain. She is the adventure's guide-spirit in Act I.
 
+**Boons (conditional):** If Huma was freed with minimal loss of life, Hope will offer each party member a boon on their next communion with her. Each member selects one:
+- *Spirit Balm* — Prayer of Healing (3rd level) 1/day
+- *Word of Hope* — Beacon of Hope 1/day
+- *Clarity* — Heroism (3rd level) 1/day
+
+Boons are permanent innate abilities requiring no spell slots or material components. Full stat block entries to be written in the DM Guide appendix.
+
 **Acceptable offering:** TBD — to be reviewed during DM Guide writing.
 
 ---
@@ -91,6 +98,13 @@ There are two fundamentally different categories of spirit in Encarnia.
 
 **Role in the adventure:** Introduced to the party by Hope before Act II. Gives the party Revna's scroll (introduction to Placida) and a key for Maritas's cell. Asks them specifically not to mention her uncle to Placida. A key figure in the Unity thread — the spirit of rebellion within a society that has outlawed rebellion.
 
+**Boons (conditional):** If Maritas was freed, Revna will offer each party member a boon when they next commune with her. Each member selects one:
+- *Retributive Strike* — Thunderous Smite (1st level) 3/day
+- *Unshackling* — Freedom of Movement 1/day
+- *Inciting Word* — Crown of Madness 2/day
+
+Boons are permanent innate abilities requiring no spell slots or material components. Full stat block entries to be written in the DM Guide appendix.
+
 **Acceptable offering:** Blood — one party member cuts their palm and bleeds willingly into Revna's stone bowl. A token gift or an unwilling offering will be returned. The act must be voluntary.
 
 ---
@@ -112,6 +126,27 @@ There are two fundamentally different categories of spirit in Encarnia.
 **Role in the adventure:** The identity of Revna's uncle — withheld from the party until the Congress interlude. Held captive in a cell behind the Congress table in the Congress's theartre. The party must decide whether to free him. If freed, he grants each party member a boon (Might / The Secret of Steel / Retribution) and can thereafter be contacted via the Communing ritual. He does not pick sides, but has cause to hate the Unity and will tip the scales in the party's favor from time to time. His freedom is one of the most consequential decisions in the campaign.
 
 **Acceptable offering:** A worthy fight — one party member must volunteer to face a challenger in Maritas's arena and conduct the bout with genuine effort. The outcome is irrelevant; the effort is not. An uninspired performance earns no passage.
+
+---
+
+## Ala
+*Belief domain: Air Travel*
+
+**Names:** Ala
+
+**Nature:** A belief-spirit of limited scope — not the broad abstract that empowers the great spirits, but the specific, focused faith that accrues wherever mortals have trusted their lives to the sky. He emerged from the belief-complex of Novus, whom he considers his big brother. The relationship is warm on his side and indulgent on Novus's. Ala is younger than almost everything he might meet, and it shows: he takes the form of a male teenager in aeronaut gear that reads immediately as antique — different in cut and style from anything the modern Unity produces, civilian or military. He is cheerful, genuinely curious, and entirely without guile. He has never been consciously summoned before and finds the experience highly interesting.
+
+**Foothold:** Ala exists wherever air travel is practiced. He was rooted in the Unity — particularly at Balnor, home of its busiest aerodrome. Once a Unity airship lands on the Archipelago, he will have a foothold there as well.
+
+**Relationships:**
+- **Novus (Progress):** His point of origin; his big brother. Ala split from Novus as air travel became a distinct belief-category in its own right. Their relationship remains close.
+- **Finnean Barnatheses:** Ala remembers meeting someone like Finnean once, just after Finnean's first successful test flight. He does not spell out what he means by this. He refers to Finnean and himself as having "a lot of adventures ahead of them still."
+
+**Role in the adventure:** Ala is not a standard contact and does not operate through the Crossing. He can be summoned at the main aerodrome in Balnor — the busiest aerodrome in the Unity and the world — with the upper observation platform being the ideal site. The summons requires a high-DC Religion check to establish his theological existence as a distinct spirit, and a high-DC Wisdom or Intelligence check to identify an appropriate summoning location. The DM should not coach the party toward either conclusion. A party that arrives at the solution independently may call him.
+
+Ala will cheerfully direct the party to Finnean Barnatheses and offer to join the crossing if they attempt it. If he is aboard for the Middle Sea crossing, the journey proceeds without incident. He will not be summoned again in the same manner — but he will have a foothold in the Isles once the ship lands, and may be encountered or contacted there in Act IV onward.
+
+**Acceptable offering:** None required for the initial summoning. Ala has never been consciously summoned before and considers the experience its own reward. He asks to be taken along instead.
 
 ---
 

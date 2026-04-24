@@ -17,7 +17,7 @@ There are two fundamentally different categories of spirit in Encarnia.
 
 ## Belief-Spirit Mechanics
 
-**Names:** Most belief-spirits have names distinct from the ideal that empowers them. **Hope** is a rare exception — her name is the same as her belief. This is unusual enough that it warrants comment.
+**Names:** Most belief-spirits have names distinct from the ideal that empowers them. **Hope** and **Harmony** a rare exceptions — their name is the same as their belief. 
 
 **Forms and names change over time.** As mortal understanding of a concept evolves, so does the spirit embodying it. A spirit of justice defined by one civilization's laws may become barely recognizable to another civilization's prayers for the same thing.
 
@@ -286,18 +286,27 @@ The **Witch of the Silver Stream** is one such practitioner, but her specific Ol
 
 **Nature:** Follows natural thought patterns, not mortal ones. Focused on the Wildwood. Kind and generous when approached respectfully with an appropriate gift; brooks no quarter for those who despoil his lands.
 
-**Relationships:** TBD — connections to neighboring Old Gods and their regions.
+**Relationships:**
+- **Princessa (The Moonmoth):** Longtime rival and lover. Their alliance is strong; Princessa's neutrality at the Conclave is partly anchored to Carnuth's presence. If Carnuth is killed, Princessa's grief will become rage and she will cross into the opposition camp — losing Carnuth may cost the party two voices at once.
 
-**Role in the adventure:** Leads the eastern resistance against Unity colonization. Most conflicted member of the Old God community regarding the fate of mortals — has seen what mortals can become. His death is a major failure condition in Act III. Potential internal advocate at the Act IV deliberation.
+**Role in the adventure:** Leads the eastern resistance against Unity colonization. Most conflicted member of the Old God community regarding the fate of mortals — has seen what mortals can become. His death is a major failure condition in Act III. Potential internal advocate at the Act V Conclave.
+
+**Conclave stance:** Allied. Feels a deep obligation to the party. Convinced by his own experience that mortals and Old Gods can coexist. Fears what the people of the west have become, but believes those within the Unity can be shown a better way. *If killed in Act IV, his voice at the Conclave is lost.*
 
 **Acceptable offering:** TBD — Carnuth's entry notes that he is "kind and generous when approached respectfully with an appropriate gift"; the nature of that gift is to be determined during DM Guide writing for Act IV.
 
 ---
 
-## The Old Man of the Mountain
-*Old God; identity and domain TBD*
+## Droma — The Old Man of the Mountain
+*Old God of the Great Weald*
 
-**Mortal form:** A foul-mouthed old man, encountered at his mountaintop shrine above the Parna Valley.
+**True name:** Droma. He communicates this to the party at their first meeting.
+
+**Lands:** The Great Weald — the great southern and southeastern expanse of the Sacred Lands, enclosed by the Ringing Mountains.
+
+**Forms:**
+- *The Mountain:* Within the Ringing Mountains, Droma is primarily a great ambulatory mountain. It moves so slowly that its motion cannot be detected without very careful attention. Its colossal size means it can be extraordinarily destructive when it acts.
+- *The Gnome:* His avatar, used mostly in places outside the mountains, is a foul-mouthed old gnome in dirty clothes, an iron skull cap, and beautiful slippers made of precious gemstones.
 
 **Witch:** Hellie — she serves him directly. He is the Old God whose territory encompasses the Parna Valley and surroundings. She directs the party to him after teaching them the nature spirit summoning ritual, explaining that only he can teach them the Crossing ritual (which she calls "old magic" — Witches do not enter the spirit realm unless invited).
 
@@ -307,15 +316,21 @@ The **Witch of the Silver Stream** is one such practitioner, but her specific Ol
 
 **The undead task:** A powerful undead creature has taken up residence on the other side of his mountain. He considers its presence an offense. If the party has not acquitted themselves well, he demands they clear it before he will share the ritual. If they have acquitted themselves well, he asks it as a post-audience favor.
 
-**His domain and true name:** TBD.
+**Conclave stance:** Firmly allied with the party's interests. Believes strongly in coexistence between mortals and Old Gods. Will advocate on the party's behalf.
 
 **Acceptable offering:** TBD — to be reviewed during DM Guide writing for Act I.
 
 ---
 
-## Huma, the Storm Whale
+## Huma — The Storm Whale
 
-*Old God of sea and storm; formerly of the western continent*
+*Old God of the Roaring Shores*
+
+**True name:** Huma.
+
+**Lands:** The Roaring Shores — the great northern fjords, forests, and stormy sea coast along the northern reaches of the western continent.
+
+**Forms:** Huma bears only one known form: a great antlered whale with amber eyes and electricity crackling along his fins and tail. He adjusts his size to context and is careful not to shock smaller creatures.
 
 **Nature:** A primordial spirit of the ocean and its weather. Survived the Unity's suppression longer than other western Old Gods because the sea cannot be developed. Eventually captured in a weakened state by a Unity cabal.
 
@@ -335,7 +350,213 @@ Each boon is a permanent innate ability, usable without spell slots or material 
 
 **Role in the adventure:** Freeing Huma is Act III's central objective. He can be contacted via the Summoning ritual once the party reaches the pressurized chamber — fragmented and confused before the projectors are disabled, coherent after. If freed with minimal harm, he allows the party to contact him via Communing whenever they wish and may offer a boon. He is a witness and potential advocate at the Act V deliberation.
 
+**Conclave stance:** Allied. Has a deep appreciation for the party as a result of his rescue. Willing to vote to preserve mortalkind — but only if mortals commit to stopping the despoilation of the natural world. This condition is genuine and must be addressed during the Great Debate.
+
 **Acceptable offering:** TBD — Huma is contacted via the Summoning ritual rather than the Crossing; the nature of an appropriate gift when petitioning him for aid is to be determined during DM Guide writing for Act III.
+
+---
+
+## Kakita — The Thunderbird
+*Old God of the Long Coast*
+
+**True name:** Kakita.
+
+**Lands:** The Long Coast — the great arid, rocky peninsula making up the southwestern expanse of the western continent. Remote from the continent's main regions; the Unity has no presence here. The last truly wild place in the west.
+
+**Forms:** A titanic eagle with bright purple, red, and blue plumage and a screech like a thunderclap.
+
+**Nature:** Has little interest in mortal affairs. Her lands have never been well populated, and the Unity's absence there has allowed her to remain largely undisturbed. She is deeply concerned about potential future encroachment.
+
+**Conclave stance:** Allied — but narrowly. She will speak for the party solely because of Huma's rescue. Her position is that the Unity must be stopped at all costs; she does not want mass death, but that is the extent of her moderation.
+
+---
+
+## Genna — The Great Mother
+*Old God of the High Forest*
+
+**True name:** Genna.
+
+**Lands:** The High Forest — the great temperate rainforest along the southeastern reaches of the Sacred Lands.
+
+**Forms:**
+- *The Idol:* Genna's spirit primarily occupies a titanic sandstone idol at the center of the forest, where mortals come to worship her and leave gifts.
+- *The Matron:* She occasionally takes the avatar form of a matronly woman of middle years wrapped in a great green shawl.
+
+**Nature:** Has developed a close and mutually sustaining relationship with the mortal people of her lands, who worship her as a goddess — something she rewards and encourages. Her relationship with mortals is the closest of any Old God in the Sacred Lands. Cyrencia found her a kindred spirit, though was uncertain what to make of the worship dynamic morally.
+
+**Conclave stance:** Allied. Firmly aligned with the party's interests. Cannot understand why the other Old Gods do not cultivate similar relationships with the mortals of their realms.
+
+---
+
+## The Green Man
+*Old God of the Great Wilds*
+
+**True name:** Unknown. Cyrencia believes he may have no other name.
+
+**Lands:** The Great Wilds — a belt of forests, plains, and green hills between the Ringing Mountains and the Dividing Range.
+
+**Forms:** A twelve-foot-tall man-tree hybrid, draped in vines and ivy and covered in moss, surrounded by birds and small animals.
+
+**Nature:** Gentle and kind, but largely disinterested in the affairs of mortals. He tolerates the mortals in his lands and will act against them if they damage nature significantly, but does not personally care about the fate of mortalkind as a whole. He will move to protect communities and individuals he has a friendly relationship with.
+
+**Conclave stance:** Neutral. Does not personally care what happens to mortals overall. Provided a friendly warning to Cyrencia against approaching the Forvalaka or the Howler.
+
+---
+
+## The Skymare
+*Old God of the Shining Plain*
+
+**True name:** Unknown.
+
+**Lands:** The Shining Plain — a great expanse of semi-arid plains west of the Dark Vale and north of the Dividing Range.
+
+**Forms:** A massive mare with azure, human-like eyes, running across the sky.
+
+**Nature:** Extremely aloof. Other Old Gods report she rarely speaks with them. Cyrencia encountered her briefly — the Skymare paused to regard her and then sped away without conversation.
+
+**Conclave stance:** Neutral. Her true position is unknown; she does not communicate it.
+
+---
+
+## Princessa — The Moonmoth
+*Old God of the Bight*
+
+**True name:** Princessa.
+
+**Lands:** The Bight — a freshwater inland sea and its environs, found north of the Weald and south of the Wildwood.
+
+**Forms:** A towering, luminous woman with enormous moth-like wings that glow in the light of the full moon.
+
+**Nature:** Disinterested in most mortal affairs. She gives attention only to those who specifically seek her out. She and Carnuth share a strong alliance — they are longtime rivals and lovers.
+
+**Relationships:**
+- **Carnuth:** Longtime rival and lover. Their alliance is one of the oldest between neighboring Old Gods. See the conditional note below.
+
+**Conclave stance:** Neutral — *conditionally*. If Carnuth is alive, Princessa observes but does not act. *If Carnuth was killed, she will be in a state of rage and will align with the opposition.* The death of her rival and lover may shift the Conclave's balance against the party.
+
+---
+
+## The Stone Sovereign
+*Old God of the Dividing Range*
+
+**True name:** Unknown.
+
+**Lands:** The Dividing Range — the largest mountain range in the Sacred Lands, with bands running along its eastern side and across its waist, with a large bulge where the two meet.
+
+**Forms:** A twenty-five-foot-tall stone statue, one half black and one half white, with four distinct faces that its head rotates between. Each face appears to carry its own distinct personality.
+
+**Nature:** Almost completely removed from mortal affairs. Speaks primarily in koans and riddles. Values consensus among the Old Gods above all else.
+
+**Conclave stance:** Neutral. The Old Man noted that the Stone Sovereign always speaks last at a Conclave. Its final word carries unusual weight — it will speak to whichever position has the most agreement among the others.
+
+---
+
+## The Forvalaka
+*Old God of the Dark Vale*
+
+**True name:** Unknown.
+
+**Lands:** The Dark Vale — a massive primeval forest running along the western side of the Dividing Range.
+
+**Forms:** Cyrencia did not meet the Forvalaka directly. She glimpsed it moving at the edges of her perception several times during her travels, as if it were hunting her. It appeared as a massive, shadowy panther with blood-soaked fangs.
+
+**Nature:** Appears to be a personification of nature's rage. Has no interest in communicating with mortals and hunts them actively within its realm. The people of the Dark Vale live in terror of it and attempt to appease it with offerings and sacrifices; this has never produced any response the other Old Gods are aware of.
+
+**Conclave stance:** Opposed. Cyrencia was warned not to approach it by the Green Man, Caspa, and Carnuth. Its Ordeal for the party will be constructed accordingly.
+
+---
+
+## The Feathered Lion
+*Old God of the Expanse*
+
+**True name:** Unknown.
+
+**Lands:** The Expanse — a broad strip of arid brushland and desert along the east coast of the Sacred Lands, on the eastern side of the Dividing Range.
+
+**Forms:** A massive lion-like beast with a mane of rainbow-colored feathers. Its perpetual smile reveals a mouth full of blood.
+
+**Nature:** Permits mortals to exist in his lands, but at a price: a monthly live sacrifice, heart cut out and presented. He makes a circuit across his territory, collecting tribute and hunting mortals and animals at his whim, consuming only the heart. He also dines on their terror. He spoke openly and with apparent pride about all of this when Cyrencia met him.
+
+**Conclave stance:** Opposed. Does not object to mortal life continuing in the abstract, but wants the people of the western continent eliminated. His Ordeal for the party will be constructed with predatory precision.
+
+---
+
+## Caspa — Three-Paw Wolf
+*Old God of the Uplands*
+
+**True name:** Caspa.
+
+**Lands:** The Uplands — a belt of highlands and pine forest between the Wildwood in the south, the Pale in the north, and the Bleak Lands to the east.
+
+**Forms:** A massive, three-legged wolf. His missing leg is ancient and marks an old grievance against mortals.
+
+**Nature:** Carries an old grudge but is more thoughtful than his opposition stance suggests. He hunted Cyrencia down before agreeing to speak with her, insisting on a brief bout first, "to get to know her better." He was genuinely curious about her origins and asked many questions. He understands that mortals have an important place in the world — something he thinks is lost on many of his peers — but believes the people of the western continent specifically are too dangerous to be permitted to continue. He foresees a time when they will no longer be resistable.
+
+**Relationships:**
+- **Howler:** Warned Cyrencia sternly against attempting contact: *"nothing good will come of trying to communicate with that creature."*
+
+**Conclave stance:** Opposed. His opposition is principled rather than purely predatory — he sees the elimination of the western continent's population as a matter of survival for the natural world, not pleasure. His Ordeal will reflect this.
+
+---
+
+## Baita — The Snow Queen
+*Old God of the Pale*
+
+**True name:** Baita.
+
+**Lands:** The Pale — a vast stretch of taiga, tundra, and frozen ice dominating the northern reaches of the Sacred Lands.
+
+**Forms:** A small, pale elven woman with electric blue eyes, wearing a gown of ice, borne about in an ice sleigh pulled by a team of polar bears.
+
+**Nature:** Completely dismissive of mortals, whom she considers beneath her notice. She gives attention only to those who bring significant gifts and flattery, which she finds amusing. She keeps a witch in her service to collect a heavy tax from those living in her lands; she does not care for the wealth itself — only the act of extracting it appears to fulfill some purpose she did not articulate. Despite her opposition, she was warm and interested with Cyrencia during their long sleigh-ride conversation, treating her as something of a peer.
+
+**Conclave stance:** Opposed. She is tired of the existence of mortals and would prefer they all die, but will settle for the elimination of the western continent's population. Cyrencia got the clear impression that convincing her otherwise would be nearly impossible.
+
+---
+
+## Howler
+*Old God of the Bleak Lands*
+
+**True name:** Unknown.
+
+**Lands:** The Bleak Lands — dry, cold hills and arid plains found north of the Shining Plain and south of the Pale.
+
+**Forms:** Unknown to Cyrencia. Baita, Caspa, and the Feathered Lion describe him as a massive, deformed bear-like creature in a state of constant, agonized howling.
+
+**Nature:** The least understood of all the Old Gods. He is known for continuous howling everywhere he goes, with one exception: within the Godshome, he falls entirely silent. No one recalls him speaking more than a few words at any Conclave. He shuns contact with all other Old Gods. His lands are completely depopulated — not of mortals alone, but of most animals and even plants. Cyrencia believes he may be a personification of nature's madness.
+
+**Conclave stance:** Opposed. His Ordeal, if he constructs one, will be unlike anything else the party encounters. Multiple Old Gods warned Cyrencia not to attempt contact with him.
+
+---
+
+# THE NEW GOD OF THE ISLES
+
+Cyrencia occupies a category of her own. She is not a belief-spirit, not an Old God, and not a nature spirit in the conventional sense — she is all three at once. No entry in this document or any other fully describes what she is. This section records what is known.
+
+---
+
+## Cyrencia
+*Old God and Belief-Spirit — The New God of the Isles*
+
+**Names:** Cyrencia. Her name was spoken once — at the moment of the Archipelago's creation — and never recorded. It was assembled by the party through the Five Ordeals, recovered as impressions and sensations rather than words.
+
+**Nature:** Born when the founding practitioners of the Archipelago created the islands through magic. Their act was not merely arcane — it was a profound act of collective belief: belief that they could accomplish what had never been done, that their way of life could endure, that working together they could build something better. This belief did what the formation of any new land does: it called forth an Old God. But because this land was made through mortal belief rather than geological time, the Old God it produced was also, inextricably, a belief-spirit. She is old in power — as old as the Archipelago itself — and young in consciousness. She was almost certainly unaware of her own existence until the party woke her. She is the first being of her kind in the world.
+
+**Domain (spirit world):** The Archipelago as it exists in the spirit world: the same islands, the same geography, stripped of all human construction. What remains is the land as it was before the exiles arrived, and as their belief has shaped it since — primordial, living, vibrating with two centuries of accumulated faith. This domain is reached through an unusual Crossing performed with the Oracle as co-performer of the Communing ritual. The intermediate passage reflects the absence of a named anchor spirit; its nature is to be determined during DM Guide writing.
+
+**Manifestation:** She does not arrive as a form. She arrives as something the Archipelago does — a change in the weather, the behavior of light on the water, the sound the islands make. She then chooses a form, slowly, so the party can speak with her. She is enormous, and she is choosing to be smaller.
+
+**Relationships:**
+- **The Oracle:** The strongest belief-spirit connection available to Cyrencia before she was coherent. She used the Oracle as a conduit for years, producing visions the Oracle could not interpret. The Oracle is aware of this relationship after the fact.
+- **Huma:** She is dimly aware of him across the sea. He feels muffled to her — as though something is blocking the connection between him and the lands he was once tied to.
+- **The Circle:** She created it. It may have been her first conscious act. She called specific individuals together, shaped the Oracle's pronouncement, and ensured those people would find each other. She wanted to be found.
+- **The Old Man of the Mountain:** She is aware of him. He is the one who sensed her presence and named her to the party. Their relationship is that of elder and younger Old God — she has enormous respect for him, and he, in his way, has recognized what she is.
+
+**Role in the adventure:** Act V — the party's patron into the Godshome. The central objective of Act V's opening phase is to find and wake her. Once awake, she serves as the party's sponsor for the Conclave, providing the Old God patronage required for mortals not of the Sacred Lands to enter the Godshome. She is also the party's primary source of the principle behind the sleeping western Old Gods — though she does not state this as instruction.
+
+**Boons:** TBD — to be determined during DM Guide writing for Act V.
+
+**Acceptable offering:** The Summoning at the Council site on Kartos's Isle is the culmination of the process that woke her. By the time the party performs it, she is already prepared to respond. No separate offering is required; the Ordeal sequence was the offering. This should be noted when writing the DM Guide's ritual mechanics for Act V.
 
 ---
 

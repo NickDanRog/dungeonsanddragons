@@ -31,7 +31,10 @@
       "WebFetch(domain:aonprd.com)",
       "WebFetch(domain:pathfinderwiki.com)",
       "Bash(awk 'NR>=6261' \"c:/Users/nroge/OneDrive/Documents/PROJECT/Campaigns/Rainbow_Road_GM_Guide.md\")",
-      "Bash(awk 'NR>=1629' \"c:/Users/nroge/OneDrive/Documents/PROJECT/Campaigns/Rainbow_Road_Stat_Block_Appendix.md\")"
+      "Bash(awk 'NR>=1629' \"c:/Users/nroge/OneDrive/Documents/PROJECT/Campaigns/Rainbow_Road_Stat_Block_Appendix.md\")",
+      "WebFetch(domain:en.wikipedia.org)",
+      "WebFetch(domain:pathfinder.d20srd.org)",
+      "WebFetch(domain:legacy.aonprd.com)"
     ]
   }
 }

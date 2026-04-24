@@ -106,13 +106,13 @@ The major port city of Caskara Bay and the party's first direct encounter with U
 The capital of the Unity, located deep in the interior of the western continent. The party's next stop after Daliketh — reached by airship. Home to the greatest concentration of the Unity Committee belief-spirits (the Congress). The seat of the Unity Council. Further details TBD.
 
 ### Krasno Bay
-A town to the north of Daliketh on the Unity's western coast. An alternative departure point for the party in the event of a four-failure outcome in Daliketh — they travel here aboard the Dawnflower and then proceed to Balnor overland rather than by airship. Details TBD.
+A town to the north of Daliketh on the Unity's eastern coast. An alternative departure point for the party in the event of a four-failure outcome in Daliketh — they travel here aboard the Dawnflower and then proceed to Balnor overland rather than by airship. Details TBD.
 
 ### Karale
 A sizeable agricultural and manufacturing city on the rail line between Balnor and Jindark; a day-4 overnight stop for the party. One of the Unity's most important agricultural regions, but currently in crisis: years of crop failures combined with material shortages have driven chronic food shortages and high unemployment. The social safety net is holding but the population has been stripped of purpose, and resentment toward the capital is building. The local government has seen frequent turnover. A preview of the Unity's internal contradictions at full resolution.
 
 ### Jindark
-A small city in the northwestern province of **Jakor** — the party's final destination in the Unity, reached by train from Balnor. Built into hillsides descending from a high ridge to a coastal harbor, roughly 800 feet of elevation. Highly industrial (ores and minerals from the surrounding hills feed its forges) and unexpectedly picturesque. The harbor is enclosed by a massive artificial breakwater: a solid central mass with a shipping channel at either end, each overseen by a lighthouse; the breakwater top serves as a public promenade and market, one of the city's most distinctive civic features. A large installation is under construction near the ridgeline, publicly described as an airship terminal. This is where the Cabal holds **Huma, the Storm Whale** captive — imprisoned within the breakwater itself. Freeing Huma is the central objective of Act III. The city also serves as the cover origin on the party's false documents.
+A small city in the northwestern province of **Jakor** — the party's final destination in the Unity, reached by train from Balnor. Built into hillsides descending from a high ridge to a coastal harbor, roughly 800 feet of elevation. Highly industrial (ores and minerals from the surrounding hills feed its forges) and unexpectedly picturesque. The harbor is enclosed by a massive artificial breakwater: a solid central mass with a shipping channel at either end, each overseen by a lighthouse; the breakwater top serves as a public promenade and market, one of the city's most distinctive civic features. A large installation is under construction near the ridgeline, publicly described as an airship terminal. This is the Citadel — the Cabal's base of operations in Jindark, from which they monitor and control the containment system. **Huma, the Storm Whale** is held captive not here but beneath the breakwater itself, imprisoned within its submerged foundations. Freeing Huma is the central objective of Act III. The city also serves as the cover origin on the party's false documents.
 
 ### The Parna Valley
 A lightly settled valley in the interior of the Sacred Lands, home to a village of the same name, predominantly human and halfling. The Witch of the Silver Stream lives on a high hilltop overlooking the valley in a small cottage.
@@ -186,7 +186,7 @@ Not a person or organization but an institutional posture: the accumulated weigh
 
 | Name | Pronouns | Role | First Appears | Arc |
 |---|---|---|---|---|
-| The Oracle (current host, name TBD) | she/her | Spirit of Belief in a mortal host; 12 years old; leads the Circle's ascension Council meeting | Act I | Issues the call; well-trained for the role despite her age; may be consulted again |
+| Maya (the Oracle) | she/her | Spirit of Belief in a mortal host; 12 years old; leads the Circle's ascension Council meeting | Act I | Issues the call; well-trained for the role despite her age; may be consulted again; later becomes Cyrencia's Voice and renames her order the Children of the Isles |
 | Vinna Maar | she/her | Half-Elf fighter; Wayfinder representative to the Council; backs up the Oracle at the Circle meeting | Act I | Voice of institutional authority at the meeting; Wayfinder perspective throughout |
 | Malachite | he/him | Tiefling Wayfinder; briefs the party on conduct norms during the road to Dremma | Act I | Friendly but watchful; will report to superiors if party seems a security risk |
 | Sir Mellic | he/him | Path of Virtue Paladin; travels with Malachite; largely silent | Act I | Background presence; grunts and chuckles; not hostile unless directly provoked |
@@ -249,7 +249,6 @@ Not a person or organization but an institutional posture: the accumulated weigh
 | Takowa | he/him | Male hobgoblin; Kalameris's chief lieutenant; stationed in the Wildwood to screen visitors and threats | Act IV | Gatekeeper before the party can reach Kalameris; can be persuaded by honesty or bested in ritual duel to first blood |
 | Sima | he/him | Tall, broad-shouldered half-elf with short grey beard; Carnuth's chief witch; lives in a coastal village ~50 miles south of Tikatowa | Act IV | Entry point to Carnuth's world; has three tasks for the party; will share Carnuth's location after at least one task is complete |
 | Vicona Praest | she/her | Unity Minister of Justice; Circe Lovelace's nominal superior; arrives in Tikatowa at end of Week 3 for the governor's reception | Act IV | Target of Kalameris Mission 2 (kidnapping); carries intelligence that partially overlaps Circe's papers |
-| TBD | TBD | Old God spokesperson at the deliberation | Act V | Final persuasion target; not a villain |
 
 ---
 
@@ -866,7 +865,7 @@ The harbor is Huma's prison. Citizens walk the promenade, fish from it, sell goo
 - *Open the breakwater in controlled sections:* With the projectors already down, Huma can be guided out through a deliberate breach. The harbor sustains significant damage; the port district floods; the city's shipping capacity is severely disrupted. Manageable, eventually.
 - *Full simultaneous destruction:* Projectors and breakwater demolished at once. A panicking, disoriented Old God erupts directly into the harbor with no warning. Total destruction of the port district; a tidal event affecting the entire northern coast; Jindark's economy destroyed. The party should understand before they act that the breakwater is not only Huma's cage — it is also the city's harbor, and everyone in Jindark's lower districts lives and works in the shadow of what they are about to do.
 
-*Note: The large installation under construction near the ridgeline — which the party will have noticed on arrival and which is publicly described as an airship terminal — is a Cabal facility related to the monitoring and maintenance of the containment system. Its true purpose is TBD.*
+*Note: The large installation under construction near the ridgeline — which the party will have noticed on arrival and which is publicly described as an airship terminal — is the Citadel: the Cabal's regional operations base in Jindark, from which they monitor and control the containment system.*
 
 **The Investigation:**
 The party has no contacts in Jindark and no map to follow. They must identify leads, cultivate sources, and piece together a picture of what the breakwater actually is. Four factions or individuals can help them, each offering a different angle on the same truth. The party may find one, two, or all four. They are not expected to follow a prescribed sequence.
@@ -1953,7 +1952,7 @@ He makes his way first to the party and shakes each hand with great enthusiasm, 
 
 When the Congress turns to face him, he makes his announcement — pausing at intervals to curse quietly and thoroughly:
 
-> *"There will be a Convocation. Something which has not occurred for millennia. Against the better judgment of some, you have been invited to send your own representatives."*
+> *"There will be a Conclave. Something which has not occurred for millennia. Against the better judgment of some, you have been invited to send your own representatives."*
 
 Caluma rises and approaches him. He extends a hand with the confidence of a spirit who has exercised this authority before: "Be gone, old man. Mortal-kind no longer answers to the likes of you."
 
@@ -1973,12 +1972,678 @@ He makes one more circuit of the party — shaking each hand, declaring himself 
 
 The door falls to the ground a moment later.
 
-All eleven spirits of the Unity Congress turn, as one, to look at the party.
+All eleven spirits of the Unity Congress turn, as one, to look at the party. The Harmony seated beside you in the stands turns too.
 
 ---
 
 ### Act V: Twilight of the Old Gods (Levels 16–20)
 **Summary:** The party travels deep into the eastern interior to reach the council of Old Gods and make the case for mortal survival. This is not a dungeon crawl but a diplomatic and philosophical challenge: the party must demonstrate that mortals can change, that the damage done to the Old Gods can be repaired, and that coexistence is possible. The evidence they have gathered across all four prior acts — their actions, their relationships, the changes they have set in motion — becomes their argument. The ending is shaped by how well they have prepared.
+
+### Act V: The Battle of Tikatowa (Written into design doc)
+
+**Trigger conditions:** This section occurs only if Kalameris launches his attack on Tikatowa. He attacks unless the party successfully persuaded Carnuth to ask him to stand down *and* Carnuth survived the end of Act IV. If Carnuth was killed after agreeing to restrain Kalameris, the king attacks regardless of prior agreements.
+
+**The Public Gathering**
+
+If the party is inside or near Tikatowa following the Congress meeting, they encounter a large crowd assembled outside the walled Unity government compound. Word of what happened in the Wildwood has reached the city. The governor — backed by the Minister of Justice, if the party did not remove her through the Kalameris faction missions — is addressing the crowd from the compound walls.
+
+The mood of the crowd reflects Carnuth's fate:
+- *Carnuth survived:* Tense and anxious. The Colonial Authority is attempting to reassure them. The mood is on a knife-edge.
+- *Carnuth was killed:* Riotous. The governor's attempts to address the crowd are being shouted down. The situation is on the verge of violence.
+
+During the scene, alarm sirens begin to sound across the city. A large force under King Kalameris is approaching fast.
+
+**How the Party Learns of the Attack**
+
+- *In or near Tikatowa:* The alarm sirens and the crowd's reaction make it immediately apparent.
+- *Outside the city with Sima:* Sima is alerted by Carnuth's Shigori contact network and informs the party directly.
+- *Allied with Kalameris:* The party has advance knowledge as part of his coalition and is expected to participate.
+
+---
+
+**Path A — Stopping the Attack**
+
+The party may approach Kalameris under a parley flag as his forces close on the city. His response depends on whether they have an established relationship with him.
+
+*No established relationship:* He will not negotiate. He states his terms and gives the city one hour to respond: the Unity has three days to begin evacuating all civilian personnel. After that, the assault begins. He warns that Unity officials, government collaborators, and anyone remaining in opposition will face consequences when he enters the city. These terms cannot be altered without a prior relationship.
+
+*Neutral or positive relationship:* He will listen — but he is intent on attacking regardless. The party can appeal to their prior dealings, to Carnuth's position, or to the broader stakes of what they carry into Act V. If the argument is strong enough, he can be convinced to resolve the matter through ritual combat in lieu of an assault: his champions against the party, equal in number to the party. If the party wins, he withdraws. If the party loses, the attack proceeds.
+
+*Ritual combat outcomes:*
+- **Party wins:** Kalameris withdraws his forces. He considers himself honor-bound by the result. He enters negotiations with the Colonial Authority under duress; his military threat remains real, and the Unity — significantly weakened after the Carnuth incident — has little choice but to accept terms. Carries forward into Act V as a moderating factor.
+- **Party loses:** Full attack proceeds. See battle encounters below.
+
+---
+
+**Path B — Allied with Kalameris**
+
+Kalameris dispatches the party into the city to escort his sister **Kaseri**, who will deliver his terms formally to the Colonial Authority and give them one hour to respond (the same ultimatum as above). The party is responsible for her safe return.
+
+The governor does not receive the terms peacefully. He moves to arrest both the party and Kaseri. The party must fight clear and return to Kalameris, at which point the assault begins.
+
+---
+
+**If the Battle Proceeds — Opposition Path**
+
+The party fights through the city against Kalameris's advancing forces. Three escalating encounters:
+
+1. Advance elements — Shigori warriors and hobgoblin irregular infantry cutting through the outer city
+2. Kalameris's veteran core pressing toward the government compound
+3. An elite guard unit securing the approach to the compound gates
+
+**Final encounter:** Kalameris himself, accompanied by champions equal in number to the party. If Kalameris is captured, killed, or otherwise removed from the field, his forces lose cohesion and retreat. The coalition he built was held together by his personal authority; without it, his influence dissipates rapidly and cannot be reconstructed as a significant political force in Act V.
+
+---
+
+**If the Battle Proceeds — Allied Path**
+
+After returning from the failed terms delivery, the party fights alongside Kalameris's forces through the city. Three escalating encounters:
+
+1. Unity constabulary forces at the government precinct perimeter, supported by light infantry
+2. Colonial Authority Field Teams and a military unit defending the inner precinct
+3. Kalameris and his lieutenants join the party as they breach the perimeter
+
+**Final encounter:** The governor's mansion. The elite of the Colonial Authority's remaining forces defend it. **Circe Lovelace leads the defenders** if she survived Act IV; if she was killed in a prior encounter, she is replaced by a senior Colonial Authority officer of equivalent capability. Kalameris and his lieutenants participate in this fight.
+
+*Occupation outcome:*
+- Unity civilians are evacuated from Tikatowa over the following months; the process is coerced but not violent toward those who comply.
+- Unity government officials, government-aligned locals, and those Kalameris designates as collaborators are imprisoned and later deported deep into the interior.
+- Kalameris rules from Tikatowa and works to return the city to its pre-colonial state. This will take years; the disruption is significant.
+- The Unity's position in the Sacred Lands is effectively ended. Kalameris's coalition consolidates around the victory. He is now the paramount power on the eastern coast.
+
+---
+
+**Tikatowa Outcomes — Carrying into Act V**
+
+| Outcome | Kalameris's Status | Carries into Act V |
+|---|---|---|
+| Convinced not to attack + Carnuth alive (no battle) | Negotiating with Unity under terms | Strong positive: willing partner, Sacred Lands under negotiated framework |
+| Defeated in ritual combat | Withdrawing; honor-bound to negotiate | Moderate positive: diminished but intact; argues for peace from restraint |
+| Defeated in battle | Coalition broken; influence dissipated | Neutral/negative: no coherent Sacred Lands political authority to point to |
+| Takes Tikatowa (allied path) | Rules eastern coast; Unity expelled | Complicated: stability achieved but through expulsion; Old Gods will note this |
+
+---
+
+### Act V: Finding the Godshome 
+
+**The Central Problem**
+
+The party has a formal invitation to the Conclave but no knowledge of what the Godshome is or how to reach it. They have six new moons — approximately four and a half months — to solve this. Their base of operations may be Tikatowa or the Archipelago; the investigation requires them to consult the network of spirits and mortals they have built relationships with across all prior acts. No single source has the complete picture. The party must triangulate.
+
+**Dead Ends**
+
+These sources can confirm the Godshome exists as a concept but provide nothing actionable:
+
+- *Belief spirits (any):* Heard of it as a mythical place. No information on its location or nature. They exist where mortals believe; no mortal has believed in the Godshome in thousands of years.
+- *Lesser nature spirits (any except the Hidden Vale):* Know it as the place where the Old Gods gather when they call a Conclave. The last Conclave was more than two thousand years ago. If any were present, the memory has faded to impressions rather than retrievable information. They cannot help.
+- *The Archipelago (if party returns to the Isles):* No one in the Archipelago has any information beyond legend and conjecture. Even weeks of consultation and research among the Isles' thirty-plus factions yields nothing of substance. The Guardians of the Hidden Vale are an exception — see below.
+
+**The Hidden Vale Spirits (Conditional — requires Hidden Vale initiation)**
+
+If the party was initiated into the Guardians of the Hidden Vale in Act IV, the spirits of the Vale can be contacted. They know:
+- The Godshome is the place where the Old Gods meet when they call a Conclave.
+- This was common in ancient times, before mortals. It has become vanishingly rare as the Old Gods turned their attention to maintaining the natural balance in their chosen lands.
+- Their kind travel there only at the Old Gods' invitation; they have not been invited in living memory.
+
+They point the party directly to **Hellie**, describing her as a keeper of lore about ancient times. Guardians sect members on the Isles know the same information and will share it.
+
+**Sima**
+
+Carnuth's chief witch knows what the Hidden Vale spirits know, and can also point directly to Hellie as a keeper of "the old lore." He adds one piece sourced from Carnuth himself: the Godshome exists at an intersection between the physical and spiritual worlds, and it is forbidden for mortals to tread there unless the Old Gods themselves are involved in — or have sanctioned — any such crossing.
+
+**Hellie**
+
+Hellie can confirm everything the party has gathered from other sources. She then tells them the **Tale of the First Witches**.
+
+*The Tale of the First Witches:* Maeve and Tirion were the first witches — mortals who lived in the Sacred Lands in ancient times, during a period when many of the Old Gods sought to destroy mortalkind. Over the course of their legendary adventures, the pair completed a series of quests to demonstrate that mortals could live in harmony with the natural world, and fought against other mortals who sought to destroy it, proving that not all of their kind were a threat. The Old Gods of their native lands became their patrons, and Maeve and Tirion became the First Witches. They passed on what they had learned and trained those who came after them.
+
+After Maeve was killed by a treacherous mortal king, Tirion sought to petition the Old Gods to return her soul from the afterlife. His patron — the Old Man in the Mountain — helped him undertake a quest to travel to the Godshome and make his case in person. Several of the other Old Gods were opposed and set Ordeals in Tirion's path. Tirion overcame each Ordeal and arrived at the Godshome.
+
+Even the assembled Old Gods could not return Maeve's soul to the mortal world. But it is said they were able to reincarnate her within the Godshome itself — and that Maeve and Tirion remain there to this day.
+
+Hellie recommends approaching the Old Man directly, as he was present for all of this and may be of direct help.
+
+**Huma**
+
+Huma is still in the process of recovering himself; his memories of ancient times remain fragmented. He can confirm that the Godshome is accessible to Old Gods directly, and that he is aware of mortals being brought there — but he cannot clearly articulate how the process works.
+
+He offers one piece of information no other source can provide: **the other Old Gods of the western continent are not dead. They are sleeping.** He does not expect to see them at the Conclave, but he would like whatever help he can get in waking them. He has been thinking about this constantly, though most of his energy has gone toward restoring himself. He points the party to the Old Man as the best source on the Godshome.
+
+*DM note:* The sleeping western Old Gods are a thread to carry into Act V. Huma's plea is genuine; the party's capacity to address it — or their choice not to — is part of what they will be presenting before the Conclave.
+
+**Carnuth**
+
+Carnuth can confirm everything the party has gathered from other sources. He can verify the Tale of the First Witches and confirm that Maeve and Tirion are living in the Godshome as its caretakers. He cannot act as a patron for the party — he would if he could — but this is simply not within his power. Unlike the Old Man, he has not sensed the presence of something new emerging in the Archipelago; his attention has always been fixed on his own lands, and he lacks that proximity.
+
+**The Old Man in the Mountain**
+
+The Old Man is the only source who can assemble the complete picture. He confirms everything gathered elsewhere and will tell the Tale of the First Witches himself if Hellie has not already done so. He adds what no other source can provide:
+
+- Maeve and Tirion are the **immortal caretakers** of the Godshome. They have lived there since the end of the Tale.
+- He **cannot serve as the party's patron** into the Godshome. Tirion was of his lands; the party is not. Sponsoring a mortal into the Godshome requires a patron Old God whose lands the mortal was born in or has spent most of their life within. This is not a rule he can bend.
+- However: he has been dimly aware of something new emerging — something felt at the edges of his perception, growing slowly in the west. He calls it the **New God of the Isles**.
+
+The Archipelago was created by mortals through magic — a land that did not previously exist was made to exist. But every land in the world has its own Old God. His reasoning is simple: if a new land arises, a new Old God must follow. He has felt the presence of this being but cannot identify it with any precision; it is young, probably unaware of its own nature. He believes the party is better positioned to find it than he is — they come from those lands, and it would be of their lands.
+
+Finding and communing with the New God of the Isles is the path into the Godshome.
+
+---
+
+**Investigation Summary**
+
+| Source | What They Know | Where They Point |
+|---|---|---|
+| Belief spirits | Exists as myth; no usable details | Nowhere specific |
+| Lesser nature spirits | Place where Old Gods gather; last Conclave ~2,000 years ago; memories faded | Nowhere specific |
+| Hidden Vale spirits / Guardians (conditional) | Same as above; Hellie is keeper of old lore | Hellie |
+| Sima | Same as Hidden Vale + intersection of worlds; forbidden to mortals without Old God sanction | Hellie |
+| Hellie | Full lore; Tale of the First Witches; Maeve and Tirion as immortal caretakers | Old Man in the Mountain |
+| Huma | Accessible to Old Gods; mortals have been brought there; western Old Gods sleeping, not dead | Old Man in the Mountain |
+| Carnuth | Confirms all; caretakers confirmed; cannot act as patron | Old Man in the Mountain |
+| Old Man in the Mountain | Complete picture; cannot be patron; senses the New God of the Isles | New God of the Isles |
+
+---
+
+### Act V: Waking Cyrencia (Written into design doc)
+
+**Cyrencia — The New God of the Isles**
+
+Cyrencia is unique among all spirits in the world: she is simultaneously an Old God, tied to the physical land of the Archipelago, and a belief-spirit, born from and sustained by mortal faith. She came into being when the founding practitioners created the Archipelago — their act of collective belief was so profound that it did what the creation of a new land always does: it called forth an Old God. But because that land was made through belief rather than geological time, the Old God it produced was also, inextricably, a belief-spirit. She has existed since the founding, old in power and young in consciousness, almost certainly unaware of her own nature.
+
+**The Old Man's Direction**
+
+When the party consults the Old Man about reaching the Godshome, he tells them plainly that he cannot serve as their patron — they are not of his lands, and the sponsorship of a mortal into the Godshome requires a patron whose lands the mortal was born in or has spent most of their life within. This is not a rule he can bend.
+
+He has, however, been dimly aware of something emerging in the west — a presence he calls the New God of the Isles. He believes she exists, that she can be named, and that naming her is the path. He does not have the name himself. He tells the party:
+
+*"I think you'll need to speak the name of this New God. The chief spirits of your land may know this name — or have a key to it."*
+
+This is the full extent of his direction.
+
+**The Oracle**
+
+The party returns to the Oracle. On questioning, she reveals that she has been experiencing visions she cannot interpret: fragments of the founding moment, faces of practitioners from two centuries past, a sensation of something vast and patient beneath the islands. She has not mentioned this to anyone because she has no framework for understanding it.
+
+When the party shares what the Old Man told them, she understands. She has been the conduit Cyrencia is attempting to manifest through — the strongest belief-spirit connection available to her. The Oracle does not hold the name itself. What she holds is the key: her bond with the Belief spirit allows her to open a Crossing not to any named spirit's domain, but to a reflection of the Archipelago itself — the spirit world space that Cyrencia occupies without knowing it. The Ordeals within that space will reveal the name.
+
+The Oracle agrees to perform the Communing ritual together with the party, joining her power to theirs to open this unusual Crossing.
+
+**The Crossing — Spirit World Reflection of the Isles**
+
+The Crossing opens differently than any the party has performed before. There is no named spirit receiving them, no domain shaped by a spirit's personality. The intermediate passage reflects this absence: the party enters a version of the Archipelago as it exists in the spirit world — the same islands, the same geography, but stripped of all human construction. What remains is the land as it was before the exiles arrived, and as belief has shaped it since: primordial and living, vibrating with two centuries of accumulated faith.
+
+This is Cyrencia's space. She is not present as a coherent being. She is the space itself.
+
+**The Five Ordeals**
+
+Each Ordeal takes place at the spirit world reflection of a significant location in the Archipelago. Completing an Ordeal reveals a fragment of Cyrencia's name — not as text or sound, but as an impression, a quality, a sensation. The party will assemble these fragments after all five are complete. The Ordeals are genuine situations the spirit world presents, shaped by what Cyrencia is; they are not scripted challenges. Specific encounter vignettes for each are deferred to the DM Guide.
+
+1. **Survival despite loss** — Something precious is ending and cannot be stopped. The Ordeal is to preserve what matters within an unpreventable loss, not to prevent the loss itself.
+2. **Creation despite opposition** — Something new and vulnerable is being actively suppressed. The Ordeal is to protect and complete it against resistance.
+3. **Cooperation between genuine disagreement** — Two forces with legitimate grievances are in conflict. The Ordeal requires brokering something real — not a ceasefire, but a working arrangement.
+4. **Belief without proof** — The right course of action is uncertain and cannot be verified before acting. The Ordeal requires the party to commit on principle alone.
+5. **Return what was taken** — Something that belongs somewhere has been displaced. The Ordeal is to restore it regardless of who now holds it.
+
+Each Ordeal, when resolved, leaves a fragment of the name with those who carried it through. After the fifth, the party holds a complete name — assembled not through logic but through accumulation.
+
+**The Summoning**
+
+The party returns to the physical world through the same Crossing. They have the name: Cyrencia.
+
+They perform the Summoning ritual at the geographic and spiritual center of the Archipelago — the Council site on Kartos's Isle, the seat of the Isles' governing body and the location of greatest accumulated belief. This is a public event. Word spreads quickly. By the time the ritual reaches its conclusion, much of the Archipelago's population is aware that something is happening at the Council site.
+
+This Summoning works differently than any prior use of the ritual. Previous Summonings called known spirits to places of importance to them. This one calls an unknown spirit to a place that is entirely her domain. When Cyrencia responds, the effect will be visible to everyone present.
+
+**Cyrencia's Manifestation**
+
+Cyrencia manifests as something the Archipelago itself does — a change in the weather, the behavior of light on the water, a sound the islands make. She is not a form so much as a presence that then chooses a form, slowly, so the party can speak with her. She is not disorienting from hostility. She is simply enormous, and she is choosing to be smaller.
+
+She knows the party immediately. She has been aware of them — dimly, the way she has been aware of everything — since before she was coherent. She tells them what she has understood since she began waking:
+
+She created the Circle. It may have been her first conscious act — she is not entirely certain of the order, or certain what "first" means for something like her. But she knows she called specific individuals together, shaped the Oracle's pronouncement, and ensured those people would find each other. She wanted to be found. She has been waiting for the party to complete this, in the same way the Archipelago has been waiting since the founding. She is now awake, and she is their patron.
+
+**Cyrencia and the Western Old Gods — Implicit Thread**
+
+Cyrencia, born of collective mortal belief, can articulate something about her own creation that no other spirit understands from the inside: what calls an Old God into being, and by extension what causes one to go silent. She does not know the western Old Gods personally. She is aware of Huma — faintly, across the sea — and notes that he feels different from how she would expect: muffled, as though something is blocking the connection between him and the lands he was once tied to.
+
+She does not explain what this means. She is new, and learning what she knows as she speaks it. The party is left to draw their own conclusions.
+
+---
+
+### Act V: Cyrencia's Awakening
+
+**Avatar and Address**
+
+After the Summoning concludes and the crowd has had a moment to take in what has happened, Cyrencia coalesces into a form the assembled people can engage with. She takes a humanoid shape that includes features of every racial group present in the Archipelago — no single heritage dominant, all of them legible. She is not trying to be human. She is trying to be legible.
+
+Her first act is to turn to the Oracle. She inclines her head, says something brief that only the Oracle hears, and gestures toward the shrine nearest the Council site. The two of them enter together. They are inside for approximately twenty minutes. The crowd waits.
+
+When they return, Cyrencia steps back. The Oracle speaks.
+
+**The Oracle's Announcement**
+
+The Oracle announces that she will no longer hold the title of Oracle. She gives her birth name: Maya. Her role going forward will be to serve as Cyrencia's Voice — the primary point of contact between Cyrencia and the people of the Archipelago. She will hold this office for as long as she and Cyrencia agree she should hold it, and she will choose her successor from within her order when the time comes.
+
+The order itself is changing. The Keepers of the Veil will take a new name: the Children of the Isles. Their mission is to serve the people of the Archipelago and to commune with Cyrencia when necessary. Their ranks will be open to anyone who wishes to join. They will no longer be a women-only order. They will no longer be bound by an oath of silence.
+
+Cyrencia then addresses the crowd directly. She tells them that she will always be here — that whenever people want to be near her, to feel her, she is the islands themselves, and they need only to step outside. She does not expect or want them to come to her in worship. She will not govern them. She will not decide things for them. As far as she can tell, they have been doing more than a good enough job of that on their own.
+
+She then turns to the party. She tells them she needs to confer with others — the other Old Gods, some of whom she has already begun to reach. She asks them to return in one week's time. When they come back, they should perform the Summoning ritual at this same site and include Maya when they do. She will be ready to speak with them then.
+
+**Downtime**
+
+The party has one week before the next stage of the campaign begins. This is unstructured time. What they do with it is their own affair. Any loose threads from Acts I–IV are available to pursue; any factions with whom they have standing will have things to say about recent events. The awakening of Cyrencia is the most significant thing to happen in the Archipelago's two-century history.
+
+*DM note:* What the downtime produces narratively is a party that arrives at the next Summoning having had time to reflect. The Conclave deadline — six new moons from the end of Act IV — is still in effect; one of those weeks has now passed.
+
+---
+
+### Act V: The Crossing to the Godshome
+
+**Cyrencia's Briefing**
+
+When the party returns a week later and performs the Summoning ritual with Maya present, Cyrencia manifests promptly. She has spent the interval in contact with the Old Gods. She is ready to tell them what she learned.
+
+She can open a portal that will take the party on an extended Crossing — not to a named spirit's domain, but to the Godshome itself. The journey will be unlike any Crossing they have taken before: the passage will be longer, stranger, and more dangerous. But it leads where they need to go.
+
+**Subjective Time**
+
+Time spent inside the Crossing is subjective in nature. The party will enter the portal when they choose, and — should they complete their journey — will arrive at the Godshome as the Conclave is beginning. This means that as long as they ask Cyrencia to open the portal at least one day before the deadline, they will arrive in time. If they choose to enter before then, they will still arrive at the right moment. The portal is not a fixed duration. It bends to deliver them when they need to be there.
+
+**The Old Gods' Responses**
+
+Cyrencia reached out to the Old Gods in advance. She received a range of responses.
+
+The Old Gods the party is aligned with — the Old Man, Huma, and potentially Carnuth, depending on the outcome of Act IV — received her warmly and are prepared to advocate for the party's right to be heard. Most of the other Old Gods were neutral: watchful, neither welcoming nor opposed. A number refused to speak with her at all. Among this last group are the Old Gods who stand opposed to the party's inclusion in the Conclave.
+
+The Old Gods in opposition will not be passive. They will subject the party to **Ordeals** during the Crossing — tests they are entitled to set, according to rules agreed upon in ancient times whenever mortals sought the right to be heard before the Old Gods.
+
+**The Rules of the Ordeals**
+
+The rules governing these Ordeals are old and inviolable. Every Old God present at the Conclave knows them. They cannot be waived or modified.
+
+1. Each Old God opposed to the party must present them with three tests as part of their Ordeal: a **test of Wisdom**, a **test of Insight**, and a **test of Courage**. All three must be passed, without failure, or the Ordeal is considered lost.
+2. The **test of Wisdom** is a puzzle or problem that requires correct reasoning to resolve — there is a right answer, and the party must find it.
+3. The **test of Insight** examines the party's moral judgment and their ability to distinguish truth from deception.
+4. The **test of Courage** tests whether the party can endure and persevere through physical hardship.
+5. The three tests within an Ordeal may be presented in any order.
+6. Once an Ordeal has begun, the Old God who set it cannot interfere with the party's attempt. They can watch, but not act.
+7. All of the Old Gods will be observing the Ordeals — both to ensure each one was constructed according to the rules, and to ensure no one interferes from outside.
+
+**The Stakes**
+
+Cyrencia tells the party plainly: do not attempt this crossing unless they are absolutely ready.
+
+The historical success rate for mortals undertaking the Ordeals is low. The Old Gods opposed to the party will have constructed tests designed to be failed, within the constraints of the rules. There is nothing preventing them from making something that kills.
+
+If the party fails an Ordeal, they will not be returned to the physical world. They will be lost inside a region of the spirit world that is metaphysically very distant from anything else — distant from known domains, distant from spirits that might hear them. The party could, in theory, find their own way back to the physical world, but this would be extremely difficult to accomplish. Help from friendly spirits would be a long time coming, if it came at all. The chance of permanent loss is real.
+
+**Preparation**
+
+Cyrencia encourages the party to use whatever time remains before the deadline to investigate the Ordeals. The Old Gods who will set these tests are honor-bound not to offer the party any additional assistance in preparation — but the party can seek out other sources of knowledge. The factions of the Archipelago, the witches, and any other contacts the party has built over the course of the campaign may have information relevant to what the opposed Old Gods are likely to set as their tests.
+
+The structure of these possible clue sources and what each can provide is deferred to the DM Guide.
+
+**A Final Instruction**
+
+Before the second meeting concludes, Cyrencia makes one request. The party should not attempt to summon her during the Conclave, and they should not speak her name aloud while they are there. She tells them:
+
+*"I will be nearby. I will be watching. You will know when the time is right, and when it is, call on me. Until then, trust yourselves to see this through."*
+
+---
+
+### Act V: The Old Gods 
+
+The following information is delivered to the party by Cyrencia during the second Summoning — the meeting that takes place one week after her awakening. She shares what she learned from her attempts to contact the Old Gods of the Sacred Lands in preparation for the Conclave. She is candid about the limits of her knowledge: some refused to speak with her; others she could only observe at a distance; and several she was specifically warned not to approach.
+
+---
+
+**Allied**
+
+**Droma — The Old Man of the Mountain**
+*True Name:* Droma. He communicated this to the party at their first meeting.
+*Lands:* The Great Weald — the great southern and southeastern expanse of the Sacred Lands, enclosed by the Ringing Mountains.
+*Forms:* Within the Ringing Mountains, Droma is primarily a great ambulatory mountain. It moves so slowly that its motion cannot be detected without very careful attention; its colossal size means it can be extraordinarily destructive when it acts. His avatar, used mostly outside the mountains, is a foul-mouthed old gnome in dirty clothes, an iron skull cap, and beautiful slippers made of precious gemstones.
+*What Cyrencia knows:* Droma is firmly aligned with the party's interests and believes strongly in coexistence between mortals and the Old Gods. She communicated freely with him and found him already prepared to advocate on the party's behalf.
+
+**Huma — The Storm Whale**
+*True Name:* Huma.
+*Lands:* The Roaring Shores — the great northern fjords, forests, and stormy sea coast along the northern reaches of the western continent.
+*Forms:* Huma bears only one known form: a great antlered whale with amber eyes and electricity crackling along his fins and tail. He adjusts his size to context and is careful not to shock smaller creatures.
+*What Cyrencia knows:* Huma has a deep appreciation for the party as a result of his rescue. Despite his captivity he finds unnecessary death and destruction genuinely distasteful, and he is willing to vote to preserve mortalkind — but only if mortals commit to stopping the despoilation of the natural world. This condition is not rhetorical. It will need to be addressed during the Great Debate.
+
+**Carnuth — The Stag of the New Moon**
+*True Name:* Carnuth.
+*Lands:* The Wildwood — the western temperate rainforest of the Sacred Lands.
+*Forms:* See the existing Carnuth entry in the Spirits Reference.
+*What Cyrencia knows:* Carnuth feels a deep obligation to the party and is persuaded by his own experience that mortals and Old Gods can coexist. He fears what the people of the west have become, but knows not all mortals are the same, and hopes those within the Unity can be shown a better way. *If Carnuth was killed in Act IV, his voice is lost.* The party enters the Great Debate without one of their most persuasive advocates — and potentially with a new enemy, depending on how Princessa responds to his death.
+
+**Kakita — The Thunderbird**
+*True Name:* Kakita.
+*Lands:* The Long Coast — the great arid, rocky peninsula making up the southwestern expanse of the western continent. Remote from the continent's main regions; the Unity has no presence here. The last truly wild place in the west.
+*Forms:* A titanic eagle with bright purple, red, and blue plumage and a screech like a thunderclap.
+*What Cyrencia knows:* Kakita will speak for the party, but solely because they freed Huma. She has little interest in interacting with mortals generally. Her chief concern is that the Unity will eventually encroach on her lands. She does not want mass death, but believes the Unity must be stopped at all costs. Her alignment is reliable but narrow in its motivation.
+
+**Genna — The Great Mother**
+*True Name:* Genna.
+*Lands:* The High Forest — the great temperate rainforest along the southeastern reaches of the Sacred Lands.
+*Forms:* Genna's spirit primarily occupies a titanic sandstone idol at the center of the forest, where mortals come to worship her and leave gifts. She occasionally takes the avatar form of a matronly woman of middle years wrapped in a great green shawl.
+*What Cyrencia knows:* Genna was exceptionally excited to meet her. Cyrencia sensed a kindred spirit — another Old God who has developed a close, sustaining relationship with the mortal people of her lands, who worship her as a goddess, which she rewards and encourages. Cyrencia is somewhat uncertain what to make of this arrangement. Genna cannot understand why the other Old Gods do not cultivate similar relationships and is firmly aligned with the party's interests.
+
+---
+
+**Neutral**
+
+**The Green Man**
+*True Name:* Unknown. Cyrencia believes he may have no other name.
+*Lands:* The Great Wilds — a belt of forests, plains, and green hills between the Ringing Mountains and the Dividing Range.
+*Forms:* Cyrencia encountered him as a twelve-foot-tall man-tree hybrid, draped in vines and ivy and covered in moss, surrounded by birds and small animals.
+*What Cyrencia knows:* She found the Green Man to be gentle and kind, but largely disinterested in mortal affairs. He tolerates the mortals in his lands and will act against them if they damage nature significantly, but does not personally care about the fate of mortalkind as a whole. He will move to protect communities and individuals he is friendly with. He offered a gentle warning against approaching the Forvalaka or Howler.
+
+**The Skymare**
+*True Name:* Unknown.
+*Lands:* The Shining Plain — a great expanse of semi-arid plains west of the Dark Vale and north of the Dividing Range.
+*Forms:* Cyrencia encountered her as a massive mare with azure, human-like eyes, running across the sky.
+*What Cyrencia knows:* Almost nothing. The Skymare paused to regard her for a moment and then sped away. Other Old Gods Cyrencia consulted described her as extremely aloof — she rarely speaks with them, either.
+
+**Princessa — The Moonmoth**
+*True Name:* Princessa.
+*Lands:* The Bight — a freshwater inland sea and its environs, found north of the Weald and south of the Wildwood.
+*Forms:* Cyrencia encountered her as a towering, luminous woman with enormous moth-like wings glowing in the light of the full moon.
+*What Cyrencia knows:* Princessa was largely uninterested in conversation — she offered vague and monosyllabic answers and asked nothing of her own. Carnuth noted that the two of them share a strong alliance, and that they are longtime rivals and lovers. *If Carnuth was killed, Princessa will not remain neutral.* Her grief will become rage, and she will cross into the opposition camp. Losing Carnuth may cost the party two voices at once.
+
+**The Stone Sovereign**
+*True Name:* Unknown.
+*Lands:* The Dividing Range — the largest mountain range in the Sacred Lands, with bands running along its eastern side and across its waist.
+*Forms:* Cyrencia encountered the Sovereign as a twenty-five-foot-tall stone statue, one half black and one half white, with four distinct faces that its head rotates between. Each face appears to carry its own distinct personality.
+*What Cyrencia knows:* Her conversation with the Sovereign was exceptionally long and largely incomprehensible — it speaks almost entirely in koans and riddles. From what she could piece together, it is almost completely removed from mortal affairs but places supreme value on consensus among the Old Gods. The Old Man noted that the Stone Sovereign always speaks last at a Conclave.
+
+---
+
+**Opposed**
+
+**The Forvalaka**
+*True Name:* Unknown.
+*Lands:* The Dark Vale — a massive primeval forest running along the western side of the Dividing Range.
+*Forms:* Cyrencia did not meet the Forvalaka directly. She glimpsed it moving at the edges of her perception several times throughout her travels, as if it were hunting her. It appeared as a massive, shadowy panther with blood-soaked fangs.
+*What Cyrencia knows:* Very little. She was warned not to approach this Old God by the Green Man, Caspa, and Carnuth. From what she could gather, the Forvalaka appears to be a personification of nature's rage — it has no interest in communicating with mortals and hunts them actively within its realm. The people of the Dark Vale live in terror of it and attempt to appease it with offerings and sacrifices, none of which have ever produced any response that the other Old Gods are aware of.
+
+**The Feathered Lion**
+*True Name:* Unknown.
+*Lands:* The Expanse — a broad strip of arid brushland and desert along the east coast of the Sacred Lands, on the eastern side of the Dividing Range.
+*Forms:* A massive lion-like beast with a mane of rainbow-colored feathers. Its perpetual smile reveals a mouth full of blood.
+*What Cyrencia knows:* The Lion agreed to speak with her, but circled throughout the conversation as if hunting. He permits mortals to exist in his lands — at a price: a monthly live sacrifice, heart cut out and presented. He makes a circuit across his territory, collecting tribute and hunting mortals and animals at his whim, eating only the heart. He told Cyrencia he also dines on their terror, and was open about this in a way that seemed deliberately designed to unsettle her. He is not opposed to mortal life continuing in the abstract — but he wants the people of the western continent eliminated.
+
+**Caspa — Three-Paw Wolf**
+*True Name:* Caspa.
+*Lands:* The Uplands — a belt of highlands and pine forest between the Wildwood in the south, the Pale in the north, and the Bleak Lands to the east.
+*Forms:* Cyrencia encountered him as a massive, three-legged wolf.
+*What Cyrencia knows:* Her encounter with Caspa was among the most striking of her travels. He hunted her down and demanded a brief bout before agreeing to speak with her, to "get to know her better." He appeared genuinely interested in her — more so than any other Old God she encountered — and asked many questions about her origins. He carries an ancient grudge against mortals; his missing leg is the evidence of it. Despite this, he understands that mortals have an important place in the world — something he believes is lost on many of his peers. He would prefer not to kill them all, but insists the people of the western continent are too dangerous to be permitted to continue. He foresees a time when the Old Gods will no longer be able to resist them, and cites the Unity's recent encounter with Carnuth as evidence. Caspa gave a stern warning against approaching Howler: *"nothing good will come of trying to communicate with that creature."*
+
+**Baita — The Snow Queen**
+*True Name:* Baita.
+*Lands:* The Pale — a vast stretch of taiga, tundra, and frozen ice dominating the northern reaches of the Sacred Lands.
+*Forms:* Cyrencia encountered Baita as a small, pale elven woman with electric blue eyes, wearing a gown of ice, borne about in an ice sleigh pulled by a team of polar bears.
+*What Cyrencia knows:* Baita was interested in Cyrencia and her origins, and despite being firmly opposed, the two talked at length over a long sleigh ride. Baita is completely dismissive of mortals — she considers them beneath her notice and only gives attention to those who bring her significant gifts and flattery, which she finds amusing. She keeps a witch in her service to collect a heavy tax from those living in her lands; she has no interest in the wealth itself, only in the act of extracting it. She told Cyrencia she is tired of the existence of mortals and would prefer they all die, but will settle for the extermination of the people of the west. Cyrencia got the clear impression it would be nearly impossible to convince her otherwise.
+
+**Howler**
+*True Name:* Unknown.
+*Lands:* The Bleak Lands — dry, cold hills and arid plains found north of the Shining Plain and south of the Pale.
+*Forms:* Unknown to Cyrencia. Baita, Caspa, and the Feathered Lion describe him as a massive, deformed bear-like creature in a state of constant, agonized howling.
+*What Cyrencia knows:* Very little — even the other Old Gods were at a loss to explain his nature or motivations. He is known for continuous howling everywhere he goes, with one exception: within the Godshome, he is said to fall entirely silent. No one recalls him speaking more than a few words at any Conclave, and he shuns contact with all other Old Gods. His lands are completely depopulated — not of mortals alone, but of most animals and even many species of plants. Based on what she was able to gather, Cyrencia believes Howler may be a personification of nature's madness.
+
+---
+
+**Research and Clues**
+
+The names and details Cyrencia provides form the basis for further investigation. The party can seek additional information through the archives and libraries of the Archipelago, though most relevant sources are available only in the Sacred Lands themselves. The structure of these clue sources and what each can provide is deferred to the DM Guide.
+
+---
+
+### Act V: The Five Ordeals
+
+**Research**
+
+For each of the five Ordeals, a total of three clues exist — fifteen in total. These are scattered across sources in the Archipelago and the Sacred Lands. The clue framework is deferred to the DM Guide.
+
+**Progression**
+
+The Ordeals proceed from least to most difficult. Each is constructed by one of the five opposed Old Gods and must be passed in its entirety — all three tests — before the party can advance.
+
+---
+
+**Ordeal 1: Caspa — Three-Paw Wolf**
+
+*Test of Insight:* The party is confronted with a scenario in which they must choose who lives and who dies. The choice cannot save everyone. The correct answer is whichever decision leads to the greatest good. There is a right answer.
+
+*Test of Courage:* A tactically driven combat scenario that cannot be resolved through individual action alone. The party can only succeed by working together as a pack — genuine coordination is required.
+
+*Test of Wisdom:* TBD.
+
+---
+
+**Ordeal 2: The Feathered Lion**
+
+*Test of Wisdom:* The challenge reflects the Lion's belief that the strong exist to serve the weak. The party must correctly demonstrate or articulate this principle.
+
+*Test of Courage:* The party faces an enemy that appears impossible to defeat. If they persevere rather than retreat, the enemy will expose a weakness. The Ordeal rewards persistence over initial assessment.
+
+*Test of Insight:* TBD.
+
+---
+
+**Ordeal 3: Howler**
+
+Unlike the other four, Howler's Ordeal does not present its three tests in sequence. All tests are present simultaneously, jumbled and overlapping. Finding a solution to one allows the party to find solutions to all of them. The nature of each test and the form the Ordeal takes are deferred to the DM Guide.
+
+---
+
+**Ordeal 4: Baita — The Snow Queen**
+
+*Test of Insight:* A demonstration that all creatures fall into a natural hierarchy. The party must navigate or confront this hierarchy correctly.
+
+*Test of Wisdom:* An elaborate deception that the party must see through. The form of the deception is deferred to the DM Guide.
+
+*Test of Courage:* The party faces slightly more powerful versions of themselves — shades. Two things are true about these shades: they can be weakened if the party collectively refuses to believe they are real, and they are incapable of working together. They can only act in their own self-interest. The party's ability to function as a unit is their decisive advantage.
+
+---
+
+**Ordeal 5: The Forvalaka**
+
+*Test of Wisdom:* The Ordeal is designed to prove that the law of nature is kill or be killed, and that only the strong are worthy to survive. The exact form of the test is deferred to the DM Guide.
+
+*Test of Courage:* A direct confrontation with a mass of beasts that will attempt to overwhelm the party through numbers and coordinated assault.
+
+*Test of Insight:* TBD.
+
+---
+
+### Act V: The Godshome
+
+**Arrival**
+
+Once all five Ordeals are completed, the Crossing delivers the party to the Godshome. They are met by Maeve and Tirion — the First Witches, the immortal caretakers who have lived here since the end of the tale the party first heard from Hellie. The Witches welcome the party as successful petitioners and bring them to a place of rest.
+
+Maeve and Tirion explain how the Conclave will proceed.
+
+**The Conclave Format**
+
+1. The party, as successful petitioners, speaks first. They may address the assembled Old Gods with their petition. Afterward, any Old God may ask a question; the party may respond to every question put to them before the next phase begins.
+2. Each Old God speaks in turn to state their position. Once all positions are on the table, the party may debate them — questions and responses continue until no further questions remain.
+3. The party delivers a final address to the Conclave.
+4. The Conclave votes on three proposals, each brought forward by at least one Old God. Every Old God present is required to vote; abstention is not a concept they possess.
+5. The Conclave will attempt to reach consensus. Its members are not completely bound by the majority outcome.
+
+---
+
+### Act V: The Great Debate
+
+The questions the Old Gods ask, and what each finds most persuasive, are heavily influenced by the party's history. Relevant factors include:
+
+- How the party freed Huma, and how much harm was done in the process
+- Whether Maritas was freed from the Congress theatre
+- Whether Carnuth survived his encounter with the Unity in Act IV
+- Whether the party took steps that began the process of waking the sleeping Old Gods of the western continent (they will not be present at the Conclave, but the assembled Old Gods will be aware they are recovering)
+- How the party handled the Battle of Tikatowa, or whether they prevented it entirely
+- The party's specific answers to questions put to them during the Conclave itself
+
+Two of the Old Gods — the Forvalaka and Howler — will not vote for any outcome that favors mortals regardless of the party's conduct or words. All remaining members can be swayed.
+
+*DM note:* The Great Debate is the culmination of every relationship and decision made across the entire campaign. The specific questions, the speeches each Old God is likely to make, and what each responds to best are to be developed in full during DM Guide writing for Act V.
+
+---
+
+### Act V: The Three Votes
+
+Three proposals will be brought before the Conclave as formal questions, each raised by at least one of the Old Gods. The outcome of each vote is measured on a five-point scale:
+
+- **Best:** 11 or more votes in favor of the best outcome
+- **Good:** 9–10 votes
+- **Split:** 6–8 votes
+- **Bad:** 4–5 votes
+- **Worst:** 1–3 votes
+
+There are fourteen Old Gods attending the Conclave. Fifteen once Cyrencia is counted, but she will be present only after the votes.
+
+*If the first vote produces a Bad or Worst outcome, the remaining two votes become moot.*
+
+---
+
+**Vote 1: Should mortals be eradicated?**
+
+| Outcome | Result |
+|---|---|
+| **Best** | Consensus: no. Old Gods currently oppressing or hunting mortals in their own lands may continue to do so, but they may be persuaded to reconsider. |
+| **Good** | Consensus: no. Some dissenting Old Gods may begin or escalate attacks against mortals in their own lands. |
+| **Split** | No consensus. Some Old Gods may step up or initiate attacks against mortals at their own discretion. |
+| **Bad** | Consensus: yes. Dissenting Old Gods may attempt to protect mortal communities within their own lands, but will do so alone, with few allies, and against their kin. |
+| **Worst** | Consensus: yes, including within lands whose Old Gods object. To defy this consensus means open war among the Old Gods themselves. |
+
+---
+
+**Vote 2: What should be done with the settlers from the west?**
+
+| Outcome | Result |
+|---|---|
+| **Best** | Settlers may remain, provided they agree not to despoil nature or attack the Old Gods or their peoples. |
+| **Good** | Settlers may remain, but must conform their way of life to that of the local peoples. They are being watched. |
+| **Split** | Settlers must leave the Sacred Lands. The Old Gods grant three months to withdraw. |
+| **Bad** | Settlers must leave immediately or be destroyed. |
+| **Worst** | The settlers must be eliminated. |
+
+---
+
+**Vote 3: What should be done about the Unity?**
+
+| Outcome | Result |
+|---|---|
+| **Best** | The Old Gods will not attack the Unity. The Unity must allow the Old Gods of the west to reawaken and must work with them to undo the damage done to their lands. The Old Gods will work with the Archipelago to provide relief to the Unity's people until their lands recover. *(Only achievable if the party's actions set the western Old Gods on the path to waking.)* |
+| **Good** | The Old Gods will not attack the Unity. New settlers from the west will not be welcome in the Sacred Lands unless they agree to live by the Old Gods' terms. The Old Gods will not interfere with Archipelago relief efforts. The Unity is eventually doomed unless it can find a way to restore its Old Gods. |
+| **Split** | No concerted war effort, but dissenting Old Gods may strike the Unity regardless. Anyone caught in fighting is considered fair game. Archipelago relief efforts will not be directly opposed. |
+| **Bad** | The Old Gods have reached consensus and will move to destroy the Unity as an institution — not to kill its people, but to eliminate their way of life. This will eventually prove beneficial, but not without significant loss of life. Formal aid from the Archipelago will be treated as an alliance with the Unity. |
+| **Worst** | The Old Gods have spoken: the Unity must be destroyed entirely, in response to its crimes and to avenge their fallen kin. |
+
+*In a Good or Best outcome for this vote, the Old Gods will ask the party to act as their representatives to the Unity and will offer to transport them there when the Conclave concludes.*
+
+---
+
+### Act V: The Arrival of Cyrencia
+
+Once the votes have been taken, the party will understand it is time to call on Cyrencia. If they do not, she will whisper a reminder to one of them.
+
+Cyrencia's appearance at the Godshome is unprecedented. She is the first new member of the Old Gods' number to come here since the beginning of this world. Her arrival will prompt considerable discussion among the assembled Old Gods.
+
+Her arrival does not alter the vote outcomes already recorded — but it determines the final character and lasting significance of the Conclave itself.
+
+To determine the overall Conclave outcome, average the results of the three votes. Where two outcomes are identical and one differs, round to favor the better-ranked result.
+
+*Example: two Good outcomes and one Split = overall Good.*
+
+| Overall Outcome | What Cyrencia's Arrival Produces |
+|---|---|
+| **Best** | After Cyrencia speaks, the Old Gods recognize her as one of their number. Many openly call her mother, recognizing her as superior to them or as the inevitable shape of things to come. Even the Forvalaka and Howler sit at her feet in a gesture of supplication. The Conclave comes to understand that they must each decide to evolve as she has evolved — or begin to fade into lesser nature spirits. |
+| **Good** | All Old Gods recognize Cyrencia as one of their number. Some resist the change she names as inevitable; a few leave the Conclave in shame rather than accept it. Most will eventually evolve. |
+| **Split** | No consensus on Cyrencia. Some recognize her as superior; most at least acknowledge her as one of them; some refuse entirely and leave, never to return. Most will eventually accept their evolution; some will fade into myth. |
+| **Bad** | Few Old Gods recognize Cyrencia as one of their number, though a few see what she represents. The Sacred Lands will undergo a century of turmoil as the evolution of its spirits comes to pass for those who learn to accept it. |
+| **Worst** | The Old Gods do not accept Cyrencia. The Sacred Lands will face centuries of warfare and strife as the Old Gods fight against her and amongst themselves. The same end is inevitable regardless of their choices; only the cost differs. |
+
+---
+
+### Act V: The Final Showdown with the Unity
+
+**Preparation at the Godshome**
+
+This scene takes place regardless of the Conclave's outcome. If the Old Gods do not ask the party to carry their message to the Unity, Cyrencia will make the same request of them herself.
+
+Before the party departs, they are offered a chance to rest. If they accept, Maeve and Tirion bring them to their home for a long rest. When the party is ready to leave, any Old Gods who voted in the party's favor will be available for a final consultation.
+
+Cyrencia will note that the party should also seek out the Unity Congress — the belief-spirits who embody the Unity's foundational values. They will need to be involved in whatever change is coming. As Harmony previously noted, even though the Congress does not think of itself as divine, its influence over the people of the Unity is very strong. Cyrencia leaves the specifics to the party's judgment.
+
+*DM note:* This observation contains an important clue. The party can use the Summoning ritual to bring Congress members into the events of the final scene — doing so will transform what would otherwise be a pure combat encounter into a narrative resolution. Cyrencia should not state this directly; it should be implicit in her suggestion.
+
+When the party is ready, Cyrencia opens a portal that deposits them directly into the Unity Council chamber in Balnor, which is currently in session. Their arrival will come as a shock.
+
+---
+
+**The Unity Council Chamber**
+
+*For the DM Guide read-aloud block:* The chamber is a wonder of modern engineering — three hundred feet long and two hundred feet high at the apex of its vaulted ceiling. At the north end, a balcony stretches the full width of the room; government ministers sit in individual boxes, each fronted by the seal of their department, chief among them the First Minister's box at the center. To the south, closer to the ground but no less grand, the Unity Council occupies its own tiered seating: eleven chairs filled by Council members, the largest and most central occupied by the Speaker, who is currently staring with his mouth open. The east and west walls are lined with tiered public boxes — a full house tonight, with approximately a thousand people in attendance. The chamber has one primary exit: a pair of massive doors set into the base of the eastern box. The acoustics are perfect; a voice from any point in the room carries throughout.
+
+---
+
+**The Scene**
+
+When the party arrives, some officials immediately call for the guard. The First Minister himself stands and calls for order. He has already encountered intelligence reports placing this group in Jindark some months prior, and he suspects their involvement in recent troubles in the colony as well. Whether the party confirms or denies this, he will calmly ask who they are, where they come from, and why they are here.
+
+While the party speaks, an official in his box will approach and speak to him urgently. The First Minister will wave him off; the official will exit through a door at the west end of the balcony.
+
+As the party speaks, the crowd and officials will react in real time. When the party finishes, other ministers will bring forward questions. The scene will become chaotic quickly; the Speaker will pound his gavel for order repeatedly.
+
+Into the chaos, the east doors open. An elite cadre of soldiers enters with Circe Lovelace at their head — or her replacement if she was killed — accompanied by two other inner Cabal members. She orders the soldiers to arrest the party. The fight begins.
+
+---
+
+**The Encounter**
+
+The party faces a number of BEST (Balnor Elite Strike Troop) commandos and three of the Cabal's inner circle. The following events occur during the encounter regardless of how the combat is going.
+
+*End of Round 1:* Civilians and officials begin fleeing. They will find all exits to the chamber sealed. The crowd is trapped.
+
+*End of Round 2:* Smoke begins drifting into the chamber. The Council House is on fire.
+
+*Round 2 onward — The Congress intervention:* If the party acted on Cyrencia's suggestion and performed the Summoning ritual for at least one Congress member before departing the Godshome, those spirits will have filtered anonymously into the crowd before the fight began. They will act at the end of Round 2. If the party did not do so in advance, any party member may attempt the Summoning ritual during the encounter — it requires two full rounds of concentration and no other actions, with concentration checks required if the caster is interrupted.
+
+If only some of the Congress are present, those present will summon the remainder at the end of Round 2; the full Congress arrives at the end of Round 3.
+
+*End of Round 4:* The chamber begins to burn in earnest. Without intervention, civilians will start dying. Combatants also begin taking fire damage.
+
+*End of Round 8:* If the encounter is not resolved, the majority of civilians will have succumbed to fire and smoke.
+
+**The party's objectives:** Defeat Circe and her companions. Protect the civilians. The only windows in the chamber are far above and unreachable without ladders; all exits remain sealed. Circe controls the mechanism that seals them, and her plan is to kill the party, then lead a "heroic" escape, framing the entire incident as a terrorist attack. War with the Archipelago and the Sacred Lands will be the result.
+
+**The Congress intervention (if present):** Heedless of the flames and chaos, the Congress will form a circle around Praefecta and link hands. Their forms merge. Praefecta grows to twenty feet in height. She raises her hands to the ceiling — it is blown open from below by divine force — and the fire is immediately drawn out of the chamber. In a commanding voice she orders the soldiers to arrest Circe and her cohorts. The fight is over.
+
+---
+
+**Outcomes**
+
+| Outcome | Conditions | Result |
+|---|---|---|
+| **Best** | Congress was brought into play | Unity — the combined deific form of the full Congress in Praefecta's shape — manages the situation directly. She explains the conspiracy to the assembled officials and thanks the party publicly. Unity will work with the government to begin reforms and honor the requests made by the Old Gods. |
+| **Good** | Conspirators defeated with minimal civilian loss of life; Congress not involved | The First Minister and Minister of Justice approach the party after the battle. The party's efforts to protect people were noted. They are not under arrest — the First Minister acknowledges they probably couldn't be held regardless — but are asked to remain in the city as investigation begins. Quarters are provided. Over the following days, the conspiracy is unmasked and several Cabal members are arrested. The party is publicly thanked. |
+| **Split** | Battle won with some civilian loss of life | Outcome resembles the Good result, but the party faces significant suspicion. The investigation takes a month before results emerge. The political situation in Balnor begins to fracture as factions form. |
+| **Bad** | Battle lost, or won with significant civilian loss of life | The party is ordered to leave the city immediately. Trust will be a long time in building. Unrest begins in Balnor almost immediately. |
+| **Worst** | Party killed in whole or in part | No functioning government remains to challenge or help the party. The surviving Cabal members maneuver to seize direct emergency control. Balnor and the surrounding region descend into anarchy. |
+
+*Addendum:* In a Good or Split outcome, if the party later contacts the Unity Congress, the Congress can help them navigate the political situation — steering the investigation, restoring order, and eventually moving the government toward accepting the Old Gods' requests. The dramatic manifestation of Unity will not occur in this path, but the entity will still evolve over time.
+
+---
+
+**Codas**
+
+Three coda sections — one for the Unity, one for the Sacred Lands, and one for the Archipelago — are to be written during DM Guide development. Their content will depend on the combined outcomes of the Conclave votes and the Final Showdown.
+
+---
 
 **Act V Chapters:** TBD
 

@@ -143,6 +143,8 @@ A simple checklist so you know what you're building:
 
 The complete adventure, for the DM's eyes only. The DM Guide expands every section of the Design Document into full, usable content: detailed world-building, scene-by-scene chapter content, mechanical systems, stat blocks, and reference tables. It is the authoritative source. The Player's Guide draws from it.
 
+**TBD notations:** Any content marked TBD in the Design Document must be called out explicitly when the corresponding DM Guide section is written, and resolved before that section is considered complete. Do not carry TBD language forward into the DM Guide as a placeholder — either write the content or flag it immediately for resolution. A TBD in a finished DM Guide section is a gap, not a placeholder.
+
 ---
 
 ## Document Structure
@@ -168,7 +170,7 @@ The complete adventure, for the DM's eyes only. The DM Guide expands every secti
 *Mythic Tiers X–Y (if using Mythic Adventures)*
 ```
 
-**About This Adventure** — 2–3 paragraphs covering: the setting, the central premise (stated plainly for the DM), the two or three major antagonists, and a statement about player agency. This is where you frame the adventure's dramatic shape for the DM before they read anything else.
+**About This Adventure** — 2–3 paragraphs covering: the setting, the central premise (stated plainly for the DM), the two or three major antagonists, and a statement about player agency. This is where you frame the adventure's dramatic shape for the DM before they read anything else. Do not name specific NPCs here — antagonists and factions are described by role and category only. Named characters belong in the adventure chapters, not the introduction.
 
 **How to Use This Guide** — Brief navigation aid. Name the four major sections of the document (The Realm, Running the Adventure, Chapters, Appendices) and describe what each contains in 1–2 sentences.
 
@@ -183,6 +185,8 @@ The complete adventure, for the DM's eyes only. The DM Guide expands every secti
 ### The Realm
 
 The world-building section. Written with full DM knowledge; sections containing secrets are labeled accordingly.
+
+**Scope:** The Realm is source material — geography, culture, factions, NPCs, and power structures the DM needs to understand the world. It does not contain adventure-specific details: encounter mechanics, scene structure, decision points, and plot beats belong in Running the Adventure and the chapter content. If a detail only matters in the context of a specific scene, it does not belong in The Realm.
 
 **The Central Location**
 - Physical description: geography, major features, what makes it distinctive

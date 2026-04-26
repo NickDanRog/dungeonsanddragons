@@ -1603,7 +1603,7 @@ His proposition is simple. If the party member agrees to send him a few souls �
 
 The Stranger does not press for an answer. He presents this as information, tells the party member he will take their first use of the phrase as acceptance of the terms, and leaves. He gives them time to think.
 
-*Whether to accept is a genuine moral question. Souls sent to the Stranger serve him for a year and a day, after which their fate is unspecified. He implies, with characteristic understatement, that after their service is complete they receive "very comfortable accommodations." Whether this is true is his own business.*
+*Whether to accept is a genuine moral question. Souls sent to the Stranger serve him for a year and a day, after which their fate is unspecified. He implies, with characteristic understatement, that after their service is complete they receive "whatever was comin to em anyhow."*
 
 ---
 
@@ -1644,9 +1644,9 @@ What follows is two days on the road to Dremma. A Wayfinder escort arrives at ca
 
 ### Scene 1: The Summons
 
-> *The road to Sanctuary runs east through rice paddies and then into old-growth forest. An hour before the village, the canopy begins to thin and the trees step back from the path, and ahead the forest opens into a clearing that was not made by clearing — the trees simply stopped, as though asked to. At the center of the clearing, set low into the earth, is the Council site: a broad bowl of worked stone, its rim rising almost to ground level, open to the sky. Four bands of runic inscription circle the stone. Cylindrical pillars stand at the rim, etched from base to crown with the same script, and attached to their tops is a wide inverted bowl of woven wood and living vine that filters the light entering from above. Woven into this roof are charms and strips of inscribed cloth in such quantity that the whole structure moves slightly in any wind and makes, very quietly, what sounds like a room full of people at rest.*
+> *The road to Sanctuary runs east through rice paddies and then into old-growth forest. An hour before the village, the canopy begins to thin and the trees step back from the path, and ahead the forest opens into a clearing that was not made by clearing — the trees simply stopped, as though asked to. At the center of the clearing, set low into the earth, is the Council site: a broad bowl of worked stone, its rim rising almost to ground level, open to the sky. Four bands of runic inscription circle the stone. Cylindrical pillars stand at the rim, etched from base to crown with the same script, and attached to their tops is a wide inverted bowl of woven wood and living vine that filters the light entering from above. Woven into this roof are charms and strips of inscribed cloth in such quantity that the whole structure moves slightly in any wind and makes, very quietly, what sounds like a room full of people at rest. *
 
-> *Acolytes are waiting at the clearing's edge. They direct you down.*
+> *Acolytes are waiting at the clearing's edge. They direct you down. *
 
 The party members have been separately called to Sanctuary. They do not yet know why, or that they have been called as a group.
 
@@ -1670,13 +1670,13 @@ The party meets each other at the clearing's edge, directed inward by the acolyt
 
 A figure stands at the center of the bowl, waiting. She is perhaps twelve years old, in pale robes that have been carefully maintained. She has been watching the entrance since before the party arrived. **Maya**, the Oracle.
 
-> *She is small for her age and entirely at ease standing at the center of something this large. Her eyes are older than the rest of her. When the last of you descends to the floor of the bowl, she waits for the quiet to settle.*
+> *She is small for her age and entirely at ease standing at the center of something this large. Her eyes are older than the rest of her. When the last of you descends to the floor of the bowl, she waits for the quiet to settle. *
 
-> *"The Circle has been named. That is why you are here."*
+> *"The Circle has been named. That is why you are here." *
 
-> *A pause.*
+> *A pause. *
 
-> *"I have waited three years to be able to say that." She does not look triumphant. She looks relieved. "I will explain what that means. And then I will tell you what you are being asked to do."*
+> *"I have waited three years to be able to say that." She does not look triumphant. She looks relieved. "I will explain what that means. And then I will tell you what you are being asked to do." *
 
 **Attending the session:** This is a private Council session, convened at the Oracle's request. Those in the wicker chairs at the rim include:
 
@@ -1710,7 +1710,7 @@ She presents the mission in outline: there is a spirit who seeks them, and a way
 
 Two days northwest through the forest. The road is used and maintained, soft underfoot, cool in the shade of old canopy.
 
-> *The road to Dremma runs northwest through the heart of Kartos's Isle on a path that has been walked long enough to compress the earth into something close to stone. The forest here is old — canopy closing overhead before noon, undergrowth thin for want of light, the road running between roots that have been growing since before the first settlers arrived. Birdsong carries through the middle distance. Other travelers pass in both directions: farmers with carts piled with produce bound for Dremma; a family who may be moving house, their belongings bundled onto the back of a patient mule; a pair of monks from the Path of Virtue in matching grey cloaks who nod and continue without stopping. It is a working road through a settled island, used daily by people with ordinary destinations.*
+> *The road to Dremma runs northwest through the heart of Kartos's Isle on a path that has been walked long enough to compress the earth into something close to stone. The forest here is old — canopy closing overhead before noon, undergrowth thin for want of light, the road running between roots that have been growing since before the first settlers arrived. Birdsong carries through the middle distance. Other travelers pass in both directions: farmers with carts piled with produce bound for Dremma; a family who may be moving house, their belongings bundled onto the back of a patient mule; a pair of monks from the Path of Virtue in matching grey cloaks who nod and continue without stopping. It is a working road through a settled island, used daily by people with ordinary destinations. *
 
 **Night 1 — Malachite and Sir Mellic:**
 
@@ -1786,7 +1786,7 @@ She asks what the Oracle sent them to do.
 
 The road drops out of the forest onto a low cliff above the harbor. The settlement spreads below: a working port without pretension, buildings functional and weathered, streets smelling of salt and woodsmoke. The **Waning Moon** occupies a corner one block from the waterfront, with dock lights visible through its north-facing windows.
 
-> *The common room runs long and low, fire at one end, bar at the other. Tables are crowded for a weeknight. Someone is playing an instrument in the back corner, poorly but with enthusiasm. Woodsmoke and roasted fish. If you have been walking all day, it is an excellent smell.*
+> *The common room runs long and low, fire at one end, bar at the other. Tables are crowded for a weeknight. Someone is playing an instrument in the back corner, poorly but with enthusiasm. Woodsmoke and roasted fish. As you have been walking all day, it stikes you as an excellent smell. *
 
 **Varley Rathmandantus** is already here. He finds the party before they finish their first drink — a gnome, elderly by gnomish standards, in academic robes that have seen years of use. He arrives at the table carrying a teapot and extra cups, somewhat unsteadily, which he sets down before asking whether he may sit. He pours for everyone, including himself.
 
@@ -1804,11 +1804,11 @@ Morning. The Pale Current is two-thirds provisioned in the organized confusion o
 
 **Beldwin Stonefinger** approaches before the party boards. Dwarf, broad, direct. He does not circle around his point.
 
-> *"Name's Beldwin Stonefinger. Arcane Practitioners Association. I won't take much of your time." He holds out a card. "The Association wants what the Oracle has set in motion to be preserved regardless of what happens to you. We're not hedging — we just know how missions end, and we want the knowledge to survive even if you don't. When you come back, bring me what you learned. I'll make it worth your while. Each of you, individually." He holds eye contact until he is sure he has been heard. "Travel safely." He turns and walks.*
+> *"Name's Beldwin Stonefinger. Arcane Practitioners Association. I won't take much of your time." He holds out a card. "The Association wants what the Oracle has set in motion to be preserved regardless of what happens to you. We're not hedging — we just know how missions end, and we want the knowledge to survive even if you don't. When you come back, bring me what you learned. I'll make it worth your while. Each of you, individually." He holds eye contact until he is sure he has been heard. "Travel safely." He turns and walks. *
 
 The party boards. The lines are cast off. The ship moves out into the harbor.
 
-> *Dremma falls away behind you. The hills of the island are visible for a time above the rooftops, then just the harbor mouth,  then the island itself, then nothing but open water. Whatever the Oracle put in your hands — the charge, the sending stone, the weight of it when she said your name in the bowl — you are carrying it out to sea.*
+> *Dremma falls away behind you. The hills of the island are visible for a time above the rooftops, then just the harbor mouth,  then the island itself, then nothing but open water. Whatever the Oracle put in your hands — the charge, the sending stone, the weight of it when she said your name in the bowl — you are carrying it out to sea. *
 
 ---
 
@@ -1853,11 +1853,11 @@ The Pale Current clears Dremma's harbor and picks up the morning wind off the no
 
 What follows is ordinary sailing — deck work, the rhythm of watch rotations, meals belowdecks — for approximately half a day before the fog begins.
 
-> *It comes in gradually: first a haze on the horizon that you mistake for cloud, then a thickening at sea level that reduces visibility to the length of the ship, then a density of white that makes the air feel solid. The crew does not increase their pace. Captain Holt does not change his expression. He stands at the wheel and steers as though he can see perfectly.*
+> *It comes in gradually: first a haze on the horizon that you mistake for cloud, then a thickening at sea level that reduces visibility to the length of the ship, then a density of white that makes the air feel solid. The crew does not increase their pace. Captain Holt does not change his expression. He stands at the wheel and steers as though he can see perfectly. *
 
-> *And then the fog tears.*
+> *And then the fog tears. *
 
-> *Not gradually. In sections, like cloth pulled apart at the seam — shredding into long horizontal strips, dissolving as they separate. What replaces it is not clear air. It is something the eye does not immediately know how to handle: layered sheets of light stretched across the water as far in either direction as you can see, translucent and slow-moving, draped like cloth hung out to dry on a line that runs all the way to the horizon. The colors shift as you watch — not cycling through a spectrum, but moving between states that are not quite colors, states without names. The compass needle spins freely. The sound of water changes. The light coming through the sheets does not come from the sun.*
+> *Not gradually. In sections, like cloth pulled apart at the seam — shredding into long horizontal strips, dissolving as they separate. What replaces it is not clear air. It is something the eye does not immediately know how to handle: layered sheets of light stretched across the water as far in either direction as you can see, translucent and slow-moving, draped like cloth hung out to dry on a line that runs all the way to the horizon. The colors shift as you watch — not cycling through a spectrum, but moving between states that are not quite colors, states without names. The compass needle spins freely. The sound of water changes. The light coming through the sheets does not come from the sun. *
 
 > *The sailors continue to work.*
 
@@ -1883,7 +1883,7 @@ Captain Holt runs a quiet ship. He answers questions directly and economically, 
 
 On the fourth morning, the shoreline appears.
 
-> *Land. Low and forested, sitting on the horizon as though it has been there all along — which it has, for longer than anything you know how to measure. No cliffs, no dramatic approach. Just a dark line of trees above a dark line of beach, heavy and still in the morning haze, growing more detailed as you close the distance. It does not look like the Isles. The Isles were made. This was not.*
+> *Land. Low and forested, sitting on the horizon as though it has been there all along — which it has, for longer than anything you know how to measure. No cliffs, no dramatic approach. Just a dark line of trees above a dark line of beach, heavy and still in the morning haze, growing more detailed as you close the distance. It does not look like the Isles. The Isles were made. This was not. *
 
 ---
 
@@ -1893,13 +1893,13 @@ The Pale Current makes landfall at Keshigo as the morning moves toward noon. The
 
 They have not quite cleared the gangplank before people appear on the beach.
 
-> *A wild elf woman with a basket of dried herbs and roots is already calling something in a language you don't know, gesturing at the ship, gesturing at the basket. Behind her a gnome in an apron has materialized from somewhere and is asking, in accented but comprehensible Common, whether you have "anything mechanical, clockwork, cogs, springs, anything at all." On his right, a hobgoblin in worn leather armor is holding up a side of cured meat with the patient expression of someone who knows exactly what it is worth and is prepared to wait all day. A fourth person — human, you think, though the dye in their clothes and the way they've wrapped their hair suggests neither the Isles nor anywhere near them — is speaking very rapidly in something that is not Common, making eye contact with each of you in turn as though one of you is bound to understand.*
+> *A wild elf woman with a basket of dried herbs and roots is already calling something in a language you don't know, gesturing at the ship, gesturing at the basket. Behind her a gnome in an apron has materialized from somewhere and is asking, in accented but comprehensible Common, whether you have "anything mechanical, clockwork, cogs, springs, anything at all." On his right, a hobgoblin in worn leather armor is holding up a side of cured meat with the patient expression of someone who knows exactly what it is worth and is prepared to wait all day. A fourth person — human, you think, though the dye in their clothes and the way they've wrapped their hair suggests neither the Isles nor anywhere near them — is speaking very rapidly in something that is not Common, making eye contact with each of you in turn as though one of you is bound to understand. *
 
 > *They are not threatening. They are simply doing business, and the ship in the harbor is a potential transaction.*
 
 Captain Holt fields the gnome's question without breaking stride — nothing to trade, this trip — and waves off the others in a way that suggests he has done this before.
 
-> *Behind the beach: a settlement. Not a port, not a market town — something else. Buildings sit at irregular intervals back from the water, some permanent (timber and fitted stone, old enough that moss has gotten into the seams), some less so (thatch structures, an open-sided shelter, what appears to be a very large tent that has been in the same location long enough to have acquired a permanent fire ring). Between them, paths have been worn rather than built. The whole thing sits against the treeline as though the forest stepped back just enough to let it exist.*
+> *Behind the beach: a settlement. Not a port, not a market town — something else. Buildings sit at irregular intervals back from the water, some permanent (timber and fitted stone, old enough that moss has gotten into the seams), some less so (thatch structures, an open-sided shelter, what appears to be a very large tent that has been in the same location long enough to have acquired a permanent fire ring). Between them, paths have been worn rather than built. The whole thing sits against the treeline as though the forest stepped back just enough to let it exist. *
 
 Keshigo does not look like anywhere in the Archipelago. The Archipelago was assembled carefully, its communities built with intention. Keshigo has been accumulating. Whatever order it has found, it found without asking anyone to plan it.
 
@@ -1913,7 +1913,7 @@ Before the party has gotten their bearings, a woman appears at their left should
 
 When the party needs to move on, Captain Holt materializes beside them and provides the piece of information they actually need.
 
-> *"Trading house," he says, nodding toward the settlement's center. "That's where you want to start. Large structure — you'll see the roof." He picks up a crate from a crewmember. "I'll be here for the if you need the ship. Let me know when you've found what you're looking for, and we can set ourselves back home. I assume you remember how to call for a ride?"*
+> *"Trading house," he says, nodding toward the settlement's center. "That's where you want to start. Large structure — you'll see the roof." He picks up a crate from a crewmember. "I'll be here for the if you need the ship. Let me know when you've found what you're looking for, and we can set ourselves back home. I assume you remember how to call for a ride?" *
 
 **The Trading House**
 
@@ -2004,9 +2004,9 @@ Caravans from Keshigo travel the forest route to Meeting on a regular schedule d
 
 The morning of departure. Keshigo at the edge of the forest as the sun comes up.
 
-> *She is waiting at the place where the track leaves the settlement — at the exact point where the trees close in on either side and the open ground behind you becomes, definitively, behind you. She has her pack, her bow, her letter bag. She gives each of you a look that registers you Then she turns and walks toward the wood.*
+> *She is waiting at the place where the track leaves the settlement — at the exact point where the trees close in on either side and the open ground behind you becomes, definitively, behind you. She has her pack, her bow, her letter bag. She gives each of you a look that registers you Then she turns and walks toward the wood. *
 
-> *Within a few minutes, Keshigo is gone. Within twenty, the light changes — filtered now through a canopy so dense the sky is only visible in pieces. The forest is very quiet. The forest is also, you begin to realize, not empty.*
+> *Within a few minutes, Keshigo is gone. Within twenty, the light changes — filtered now through a canopy so dense the sky is only visible in pieces. The forest is very quiet. The forest is also, you begin to realize, not empty. *
 
 *If traveling with the caravan: the column forms at the same hour — traders, pack animals, two hired guards. More noise, less attention. The forest is the same.*
 
@@ -2167,6 +2167,382 @@ At sunset, the girls will light lanterns around the porch area, after which Hell
 | Hellie's apprentices (×2) | Background observers | No stat block |
 | Silver | Spirit of the Silver Stream incognito | Social only; stat block not applicable |
 | Beam | Spirit of the Parna Valley farmsteads incognito | Social only; stat block not applicable |
+
+---
+
+## Chapter 4: Old Magic *(Levels 3–4)*
+
+The party wakes at Hellie's cottage with both rituals still to learn — the demonstration at Silver Stream will teach them the Witch's method, and the Old Man of the Mountain will provide the Crossing ritual they came for. This chapter covers the hike to the Silver Stream shrine, the three-day journey across the Parna Valley to the Old Man's mountain, the audience with Droma, the encounter with the wight on the eastern face of the mountain, and the return to Hellie's cottage. It ends with the party ready to depart for Keshigo.
+
+---
+
+### Scene 1: Silver Stream
+
+Silver, Beam, and Senna (if she was present) are gone by the time the party wakes.
+
+> *The cottage is warm when you come downstairs. Molly is at the hearth turning something in a pan; Polly is setting bowls on the table. There is bread, and something with eggs, and a smell of dried herbs from the bundles overhead. Hellie is already at the worktable with her back to you. She does not look up. Outside, the valley lies in quiet early morning shadow. *
+
+Molly and Polly will answer any questions in exactly as many words as the question requires. They do not know where Senna went. They will not speculate.
+
+Hellie puts the party to work for the first hour — fetching water, splitting wood — without preamble or apology. When she is satisfied, she announces it is time, takes her satchel, and walks out the door, biudding the party to follow.
+
+**The hike to the Silver Stream** takes three hours on a path that climbs steadily into the hills above the cottage. The valley spreads out below as they ascend. The stream can be heard well before it is seen — a persistent sound, higher in pitch than one expects.
+
+> *You hear the water before you clear the last rise, and then you see it: a fall of perhaps forty feet dropping from a ledge above, running straight down the rock face into a pool below. In the noon light, the water is genuinely silver — the light catches something in the stone behind the fall and turns the whole column bright. The word for it is not metaphor. *
+>
+> *Behind the waterfall, visible through the sheet of water, there is a ledge. Dry. A carved marker at the far end, and at its base, old offerings — small bundles of cloth, something that was once food, a corroded coin. *
+
+The shrine behind the falls is a flat dry ledge protected from the water by an overhang. The marker is carved in a script the party does not recognize. The offerings are from previous petitioners over many years.
+
+**The Summoning Ritual — Hellie's instruction:**
+
+Hellie places her own offering at the marker — a small cloth bundle she does not explain — and speaks the name Silver aloud. She then steps back and gestures for the party to try.
+
+*The ritual has three components: the right place, a sincere offering, and the name spoken aloud if it is known. There is no ability check. If the party performs the ritual at a location important to the spirit, places an appropriate gift, and speaks the name, the spirit responds. Failure occurs only if the wrong location is chosen or the gift is an insult. A spirit whose name is not known may or may not respond, at the DM's discretion, depending on the sincerity of the offering and the spirit's temperament.*
+
+*Hellie's framing, verbatim if useful:* "The hard part is knowing which place and what gift. The ritual itself is not the barrier."
+
+*If the party brought bourbon — Silver mentioned it at supper — it is an appropriate gift, and his reception will reflect that they were paying attention. If prompted, Hellie will bring them through the village briefly, where they can trade with the village's elder for the liquor. If they bring something else of genuine value and sincerity, the ritual still works; the tone of the audience will be warmer for the bourbon, but Silver does not require it. An insulting gift causes Silver not to appear. Hellie will observe this without comment and suggest they try again with something they actually mean.*
+
+**Silver's manifestation:**
+
+*Track A — party was respectful at supper:*
+
+> *The old gnome is standing at the edge of the ledge. You did not hear him arrive. He is looking at the offering with the expression of someone who mentioned something in passing and did not expect it to be remembered. Then he looks at each of you in turn.*
+>
+> *"Decent," he says. "I've had worse." *
+
+Silver introduces himself by name with formal warmth. He speaks freely about the valley, the stream, and what the party will find ahead:
+
+- The valley has been quiet, but there has been unusual southward traffic in recent months — people coming from the north, more than is normal.
+- The Old Man is expecting them. Silver tells them this because it is true and they should know.
+- He confirms that the ritual they have just learned is real — it will work wherever there is a spirit with reason to respond. A true name and a good gift improve the odds considerably. Location is everything.
+- He will not confirm his own identity unless the party is both perceptive and direct. The DM may disclose it at their judgment.
+
+*Track B — party was disrespectful at supper:*
+
+*Hellie turns to the party. Her expression is neutral. "He says he requires an apology before he will speak." She says this without editorial.*
+
+Once the apology is made — and it must be sincere; Silver will not appear for a rote acknowledgment — he manifests. The dressing-down is thorough, specific, and unhurried. He names the exact thing they did. He is not cruel; he simply will not pretend the slight did not happen. When he is finished, he proceeds with the same information as Track A.
+
+**Return to the cottage:**
+
+The descent takes the same three hours. Hellie answers questions on the walk.
+
+At the cottage, over tea, she explains what the ritual is and is not:
+
+- It summons a spirit in its place of power. It requires the right location and a sincere gift.
+- It is the Witch's method, it is not the Crossing ritual they came for.
+- The Crossing ritual is old magic. Witches do not enter the spirit realm unless invited; the Crossing ritual requires the caster to go across. That is a different kind of magic, and she cannot teach it.
+- The ritual they need is in the possession of the Old Man of the Mountain, whose place of power in a mountaintop shrine, three days across the valley. She describes him as blunt.
+
+*She will answer any honest question. She will not volunteer that she has already sent him word about the party.*
+
+---
+
+### Scene 2: The Valley Road
+
+Three days' travel from Hellie's cottage to the foot of the Old Man's mountain. The valley is settled, farmed, and quiet — woodlots and farmsteads across broad flat ground, with the mountain visible from the first morning.
+
+**Parna village (Day 1 or 2):**
+
+The party passes through. Human and halfling population; the village is small but well-established, with a permanent market area and a covered shelter for travelers. Trade is available; barter is the local currency. Coin is accepted at a significant discount. Standard provisions, rope, tools. No weapons or armor of note.
+
+*If the party asks about the Old Man, locals will not give directions to the shrine — "you'll know the mountain when you see it" — but they speak of him with easy familiarity and without any detectable fear. He is a feature of the landscape.*
+
+**Wildlings encounter (Day 2–3):**
+
+A band of Wildlings has staked a claim on a section of the valley and is actively discouraging travel through it.
+
+*This is a different band from the ambush in the old-growth forest — different territory, different individuals, same people. The valley road Wildlings are territorial and pragmatic rather than purely aggressive.*
+
+*Encounter composition: 5 goblins, 1 goblin boss.*
+
+*Default posture: ambush.* The goblins have set a rudimentary trap along the trail — rope or net strung at ankle height, concealed by brush and leaf cover. **DC 14 passive Perception** to detect before the lead party member triggers it. On failure, the lead character is restrained (Strength DC 13 to break free) and the goblins emerge. The goblin boss hangs back until the opening round.
+
+*Diplomacy option:* A character who speaks Goblin, succeeds on a **DC 13 Persuasion check**, or offers something of tangible value — rations, a useful tool, a small coin — can negotiate passage. The boss wants acknowledgment of his claim on this stretch of road and something to show for it. He is not looking for a fight. If the party attempts diplomacy after combat has begun, the DC rises to 16.
+
+*If combat:* Hard encounter for a Level 3 party. The goblin boss retreats if reduced below half hit points, taking surviving goblins with him. He will not fight to the death for a road.
+
+*Stat blocks: Goblin ×5, Goblin Boss ×1 (Monster Manual).*
+
+*Droma is watching this encounter. How the party handles it — particularly whether they kill the boss when negotiation was available — is part of his assessment.*
+
+---
+
+### Scene 3: Old Man's Mountain
+
+**Day 4:** The mountain comes into full view from the valley floor. Its profile is distinctive — broader at the crown than at the base, a gradual inverted slope that becomes more apparent as the distance closes. The path up begins at a cluster of old carved stones at the mountain's foot.
+
+> *The mountain does not look right. It takes a moment to understand why: it is wider at the top than the bottom — not dramatically, not a cliff, but a gentle persistent broadening that the eye keeps trying to correct and cannot. The carved stones at the base are old enough that the carvings have rounded at the edges. The path between them is well-worn. *
+
+The ascent takes half a day. The path is unmaintained but clear — old use has worn it deep into the rock. The altitude rises quickly. By the time the summit shrine is visible, the Parna Valley is spread out in both directions.
+
+> *The shrine is simple: a low stone structure, an altar, and at the altar's base a collection of offerings spanning what appears to be several human lifetimes — small objects, cloth bundles, coins, things that have corroded past identification. Some are very old. The valley is visible in both directions from here, and the sky feels close. *
+
+**The Summoning Ritual for Droma:**
+
+The party performs the ritual learned at Silver Stream. The location is satisfied — this is Droma's shrine. A gift must be placed at the altar.
+
+*Droma does not require any specific gift. He requires something the party means. Appropriate gifts include fine objects, significant personal items, or materials of genuine value to the giver. Time and evident sincerity also function as offerings. An inadequate or contemptuous gift results in a colder reception; the ritual still works, but Droma's opening remarks will reflect his opinion of what they brought.*
+
+**Droma's manifestation:**
+
+> *The air changes quality — not temperature, not pressure, but something less specific, the way a room changes when someone enters it from behind you. The old gnome is sitting on the altar. He was not there a moment ago. *
+>
+> *His clothes are dirty. On his head is a small iron skull cap. On his feet are slippers made from precious gemstones — deep red garnets and green tourmalines, cut and set in a pattern that catches the afternoon light — and they are extraordinarily beautiful, the most beautiful thing on the mountain, and he is wearing them with the casual ease of someone who uses them every day. *
+>
+> *He looks at each of you in turn. He has the manner of someone who has already formed an opinion. *
+>
+> *"Took you long enough," he says gruffly. Then something short and considerably ruder, which you believe functions as a greeting. *
+
+He does not introduce himself. He is waiting to see if they already know the name.
+
+*If the party uses his name — Droma — his expression shifts very slightly. He does not confirm it. It is simply noted.*
+
+**Droma's audience:**
+
+*Droma has been watching the party since they entered his lands at Keshigo. His judgment is based on how they treated the people and spirits they encountered, whether they killed when they did not have to, and how they conducted themselves at supper with his witch Hellie. He has Senna's report and has Silver's as well (via Hellie). He does not explain any of this to the party. He already knows what he thinks.*
+
+*Track A — good conduct (party has respected the land, been courteous, avoided unnecessary killing):*
+
+After the opening exchange, Droma settles. He names himself — "Droma" — and gives the name a beat before continuing.
+
+- He acknowledges what they are trying to do. He does not make it smaller.
+- He teaches the Crossing ritual. *The Communing ritual — his name for it — differs from Hellie's Summoning ritual in an essential way: it does not draw a spirit into the physical world. It opens a portal to the spirit realm itself. The party must make the Crossing. They go across, in body. He describes what this entails without being asked: the preparation is the same as the Summoning ritual; the threshold will be felt as they pass through it, not seen; the spirit realm is populated, purposeful, and will know they are there; they should not stay longer than they need to. He will say the last part more than once.*
+- *One thing he tells them that Hellie did not know — because Witches have no occasion to know it — is that only a Circle can perform the Communing ritual. A single caster cannot open the crossing alone. This is not a limitation of the ritual; it is what the ritual is.*
+- *The ritual can be used to contact any belief spirit whose true name the party knows, or any of the Old Gods on the same terms.*
+- He gives them the name of the first spirit who seeks them: **Hope**. She is a belief-spirit, older than most. She has been looking for the party since before they knew what they were looking for.
+- He explains the difference between the two rituals in brief: Hellie's summons a spirit into the physical world at its place of power; his opens a door to the spirit world and requires the party to go through it. Both need a true name to work reliably. The Communing ritual needs nothing else.
+- At the end of the audience, he asks a favor. On the eastern face of this mountain, something has taken up residence — a wight, in a ravine below the summit. He wants it gone. It has been there long enough to become an affront. This is a request, not a condition; he has already given them what they came for.
+
+*Track B — poor conduct (party killed carelessly, was disrespectful, or otherwise gave reason for doubt):*
+
+Droma does not proceed past the greeting without addressing the conduct. He is blunt and specific — he names what they did, where, and what it means to him. This is not a speech; it is a statement of position.
+
+- Before he will share anything, he has a task. On the eastern face of this mountain, a wight has taken up residence in a ravine below the summit. He wants it gone. That is the condition.
+- Once the party returns with confirmation that the wight is destroyed, he teaches the Crossing ritual and gives them the name of Hope. The information is identical to Track A; the difference is order and what it costs.
+
+**What Droma tells them about the Old Gods:**
+
+In both tracks, after the ritual has been taught, Droma offers what he knows about the wider situation — if the party asks, or if he judges the moment right. He does not monologue. He responds to questions and volunteers information in fragments.
+
+The substance: The Old Gods are in deliberation regarding what to do about mortalkind. The argument has been going on for some time and is not resolved. Some want all mortals gone. Some want only the Unity and its people removed. He takes no position yet — he is watching for evidence that the argument for restraint can hold. He is, however, comitted to protecting the people of his lands. 
+
+The driving grievances: the Unity's expansion into the Sacred Lands and its ongoing violence against the people and spirits there; and the loss of contact with the Old Gods of the western continent, who have gone silent one by one over generations and are now almost certainly gone. He does not know what happened to them. He fears the worst.
+
+He asks the party — asks, not commands — to learn what they can about the fate of the western Old Gods and bring word back if the chance arises.
+
+*He is explicit about the range of opinion among his kind because it is true, not to motivate the party. He does not frame their actions as the deciding factor in the deliberation — he frames himself as one voice in a longer argument. Whether the party registers the full stakes is their business. Droma will not undersell and will not oversell.*
+
+---
+
+### Scene 4: The Wight
+
+On the eastern face of the mountain, below the summit, a ravine runs between two rock falls — a natural depression, cold and lightless in shadow for most of the day. The area around it has an absence of animal sound extending perhaps a hundred yards in all directions.
+
+> *The ravine is below you when you clear the rock fall on the eastern slope — a narrow cut between tumbled boulders, deeper than it looks. Nothing moves in it. The rock face at the ravine mouth carries deep scratch marks at about head height, running left to right as if something was dragged along the stone. *
+
+**DC 12 passive Perception** to notice the silence before the marks.
+
+**Area 1: The Ravine**
+
+The ravine floor is a dry stream bed — smooth-worn stone, long since drained, running down into the mountainside. The passage is navigable on foot but narrow enough that the party must move in single file in places. After roughly a hundred feet the stream bed curves and descends into a natural cavern.
+
+*There is nothing in the ravine itself. The encounter is ahead.*
+
+**Area 2: The Painted Cavern**
+
+The first cavern is low-ceilinged and broad. At some point — generations ago, perhaps longer — it was partially worked: the floor has been leveled, and the walls have been smoothed on the interior faces. The smoothed walls carry cave paintings.
+
+> *The paintings cover the far wall and part of both sides — figures in motion, hunters and prey, rendered in red and black ochre with a confidence that makes them feel immediate despite their age. The animals are enormous. The hunters are small. Everything is moving. *
+
+The paintings depict hunting scenes: large creatures being driven, surrounded, brought down. The style is not decorative; it is documentary. Something was killed here, or nearby, and this is the record of it.
+
+*Encounter: 3 zombies (Monster Manual). Medium encounter for a Level 3 party.*
+
+*The zombies are the remains of previous petitioners who came to the mountain and did not leave — animated by the wight's presence seeping through the stone. They do not pursue past the cavern entrance. If the party withdraws into the ravine, the zombies stop at the threshold and wait.*
+
+**Area 3: The Burial Chamber**
+
+Beyond the painted cavern, the passage narrows again before opening into a second chamber. This one was clearly constructed: the ceiling has been cut higher, the walls dressed, and recesses carved along the perimeter. The recesses hold the dead — laid out in alcoves, wrapped in cloth that has long since rotted to grey fiber. Grave goods are stacked at the feet of each alcove.
+
+> *The chamber is quiet in a way that has texture to it. The alcoves run the full perimeter, perhaps thirty dead in all — more, if some of the bundles in the recesses are smaller than they look. At the far end, one of the alcoves is empty, as if whatever was laid there has stood up and walked away. *
+
+**The wight:** *Wight (Monster Manual). CR 3. Hard encounter for a Level 3 party.*
+
+*The wight was once a person of significance to whoever used this burial chamber — a leader, a priest, a warrior of standing. It has been dead long enough that the specifics have dissolved into the anger that animates it. It is purposeful and hostile.*
+
+In combat, the wight prioritizes **Life Drain** against the character who appears most exposed. It moves to maintain contact with a single target rather than distributing attacks.
+
+*If the wight reduces a character to 0 hit points, it may attempt to create a zombie spawn. If this occurs, Droma intervenes — the spawn attempt simply fails, in a way that should not be possible. The character does not rise. The party can observe that something prevented it without understanding what. If they ask Droma, he will confirm only that the wight had no claim on that person on his mountain. He will not elaborate.*
+
+**Treasure:**
+
+Most of what is in the alcoves has rotted beyond recovery — cloth, wood, leather, organic material of any kind. What remains is stone and metal. A party that spends time searching the chamber (10 minutes, thorough examination) will find it is worth the time.
+
+*The DM should roll for 2 random magic items using the Individual Treasure tables in the 5e Dungeon Master's Guide, using the CR 0–4 Treasure Hoard table as a guide for rarity. Whatever is found was buried here long ago and will look it — corroded, worn, but functional.*
+
+**Return to the summit shrine:**
+
+The party returns to report. If Droma is still present, they report directly. If he has gone, they perform the summoning ritual again — the location is satisfied, and a brief sincerity of offering will bring him back.
+
+*Track A: Droma acknowledges the completion with a short, foul-mouthed expression of satisfaction. That is all.*
+
+*Track B: He teaches the Crossing ritual and gives them the name of Hope. The exchange proceeds as in Scene 3.*
+
+**Descent and return to Hellie's cottage:**
+
+Three days back across the valley. The Wildlings, if not killed, give the party a wide berth on the return. Parna village is available for resupply. The party arrives at Hellie's cottage on the evening of the third day.
+
+**Final evening at Hellie's:**
+
+She was expecting them.
+
+> *Hellie comes out the gate before you reach it. She looks each of you over the same way she did when you first arrived. Then she nods, once, and beckons them inside. There is food on the table. *
+
+Molly and Polly are at their places. Hellie asks how it went — not "did you succeed," simply "how was it" — and listens without comment.
+
+She will answer honest questions. On Droma's request about the western Old Gods: she has heard the same worry, does not know more than they do. She provides honest context on both rituals and on what comes next.
+
+*The party now holds both rituals: Hellie's Summoning ritual and Droma's Crossing ritual. They have the name Hope.*
+
+*They may stay as long as they wish; Hellie's terms remain the same. When they are ready to go, she will see them to the gate. She will not tell them to be careful. She will tell them that the stream will remember them.*
+
+*Transition to Chapter 5: There, and Back Again.*
+
+---
+
+## Chapter 5: There, and Back Again *(Levels 3–4)*
+
+The party returns through the old-growth forest to Keshigo, calls the ship, and waits four days for it to arrive. The wait is not uneventful. Act I ends when they board.
+
+---
+
+### Scene 1: The Forest Road (Return)
+
+Hellie sees the party to the gate in the morning. She does not tell them to be careful. She tells them the stream will remember them.
+
+If Senna returned to the cottage while the party was at Droma's mountain, she is here. She can accompany them if they want her company. She offers without pressure.
+
+*The return journey is not the same as the outbound. The party traveled the forest as strangers on the way in; they leave as people who have been accounted for. The forest knows they were at the Old Man's mountain. Not everyone who noticed them approves.*
+
+*Senna's evaluation arc concluded at Droma's mountain — he had her report before the party arrived. On the return, she is a guide and companion, not an assessor. If she is absent, the forest is less legible and the encounters carry more risk.*
+
+**Return Forest Encounter Table (d6):**
+
+Roll at least twice over the three-day journey. Re-roll duplicates.
+
+| d6 | Encounter | What It Reveals |
+|----|-----------|-----------------|
+| 1 | A wild elf scouting party has been following the party for a day. They approach openly and ask, without preamble, whether the party intends to return and approximately when. They want a name — someone the party will send word to before coming back. DC 12 Insight: this is not bureaucracy; the forest keeps track. | The party now has standing in the Sacred Lands that requires acknowledgment |
+| 2 | A column of 8–10 refugees moving south, heavily burdened. One adult — a hobgoblin elder who speaks Common — was a village council member in the northern Sacred Lands before the Unity advance made that impossible. He describes what happened in a few sentences: the soldiers came before the administrators; the administrators came after. He is not asking for anything. He is just saying what happened. | The colonial situation is not abstract; it has already displaced people by the hundreds |
+| 3 | A Wildlings band — different from any the party has encountered — blocks the trail. These ones are not claiming territory; they are angry. Word has spread through the Wildlings network that strangers have been moving through their lands with impunity. DC 15 Persuasion (DC 12 if the party has a reputation for diplomacy from earlier encounters) to negotiate passage; otherwise hard combat (Goblin ×4, Goblin Boss ×1, MM). | The party's passage through Wildlings territory has accumulated consequences |
+| 4 | The 200-foot tree from the old-growth — or one indistinguishable from it — is ahead on the trail. The party passes beneath it. Nothing happens. The awareness that was ambient before is now specifically directed at them. DC 14 passive Perception: the offerings at its roots are fresh. Someone else was here recently. | The forest has noted their departure as it noted their arrival |
+| 5 | A wild elf trader — older, traveling alone — asks who they serve. Not "where are you from" or "where are you going." Who do they serve. If the party invokes Hellie's name, the Parna Valley, or the Old Man, the question is answered to her satisfaction and she continues without comment. If the party doesn't know how to answer, she waits. She will not say what the right answer is. | The Sacred Lands asks questions the Archipelago does not |
+| 6 | A lone Unity officer — not in formation, not with troops, in the kind of clothes that suggest she is not supposed to be here — is at the western edge of the forest. She startles when she encounters the party. She is scouting, and the party has caught her. She will attempt to disengage without incident if the party lets her; she is not looking for a fight. If captured or cornered: DC 14 Insight to confirm she is Unity; she will not confirm it herself. | The Unity's reach extends further than the party realized |
+
+---
+
+### Scene 2: Keshigo
+
+> *The smell of salt reaches you before the tree line breaks. Then the coast, and the harbor, and Keshigo spread out below — the trading house, the boats at anchor, the loose sprawl of the settlement. It is smaller than you remember, or you are larger.*
+
+The party uses the sending stone. The stone speaks their location and goes cold. The Pale Current will arrive in four days.
+
+Pell, the haregon warden, is the person to ask about where to wait. He keeps a room available for travelers in transit; he has no additional information about the ship.
+
+**Keshigo during the wait:**
+
+The settlement is more crowded than when the party arrived. There are more displaced persons visible. A gnomish family near the trading house edge is spread out on a cloth, selling household items — kitchen implements, a musical instrument, a child's toy with the paint worn off. They are businesslike. **DC 12 Insight:** the items are not trade goods. They came from somewhere that is no longer home.
+
+**Tinsel:**
+
+*Tinsel is a gnomish woman displaced from the northern Sacred Lands by colonial violence. She is clear-eyed about what happened to her and not broken by it.*
+
+She can be found in Keshigo asking about travel south — looking for somewhere to go. If the party notices the displaced persons and asks questions, they will find her within a day. She approaches the party herself if she hears they came from the interior; she wants to know whether it is getting worse up there.
+
+What she tells the party, once she trusts them enough to speak directly:
+
+- The Unity established a colonial administration in the northern Sacred Lands several years ago. It has been expanding — new settlers, new troops, new administrators, each wave larger than the last.
+- The communities in the north have been pushed off their land, officially reclassified as "unsettled territory," and told to relocate. Those who refused were removed.
+- There is organized resistance. It is led by a local king named **Kalameris** and an entity the people of the north call **Carnuth** — she does not explain what Carnuth is, only that the Unity cannot kill it and has stopped trying. The resistance has held in some places.
+- She was not in a place the resistance could hold.
+- She does not know where she is going. She knows she is not going back.
+
+*Tinsel's account is the party's first direct witness testimony of the colonial situation. She speaks about specific people and specific places. She is memorable as a person, not only as an information source. If the party offers her anything — coin, food, a plan for where to go — she accepts without false pride.*
+
+**Lady Vigo:**
+
+*If Lady Vigo was killed in Act I, she is replaced by a different Avengers operative with the same mandate. The scene plays identically.*
+
+Lady Vigo is in Keshigo. She has been waiting. The Stranger's orders, relayed through Avengers leadership, are explicit: the party must not return to the Archipelago and perform the Crossing. She knows what they have found.
+
+She approaches the party during the wait — not at the dock, not on the road, but in a quiet moment at the trading house or their lodging. She has two acolytes with her; they are not visible until needed.
+
+*Her opening is more sophisticated than the road ambush.* She does not claim to want to fight. She addresses the party by name and asks them, directly, what they intend to do with what they found.
+
+**If the party agrees to abandon the mission — to not perform the Crossing:** She accepts this and leaves. *The Communing ritual is knowledge; it cannot be taken from them. What she is after is their commitment not to use it.* This is a significant failure state: Hope is not contacted, the spirits' witness is not provided, and Huma remains trapped.
+
+**If the party convinces her they share her goal — destruction of the Unity:** DC 16 Persuasion. She is not easily fooled; she has been doing this for a long time. Success: she withdraws, tells them she will be watching, and leaves. If they genuinely share her goal and the DM judges the argument authentic, the DC drops to 13.
+
+**If neither:** She and her acolytes attack. Their objective is capture — to prevent the party from boarding the ship. A detained party cannot complete the Crossing. She is not trying to acquire the ritual; she is trying to stop it from being used.
+
+*Combat composition: Lady Vigo + 2 Cult Fanatics (Monster Manual). Challenging encounter for a Level 3–4 party.*
+
+*Lady Vigo's attacks are nonlethal by default (see Appendix B). She teleports away using her Ring of Teleportation when reduced to 26 HP or fewer, or when she judges the combat lost. The cult fanatics fight until dropped.*
+
+*If Lady Vigo is captured:* She can be questioned about her patron. She genuinely believes he is a powerful spirit allied with the Avengers' holy cause and will describe him accordingly. She does not know his true name or nature.
+
+*Lady Vigo reappears in later acts if she survives. How the party treated her here — whether they engaged her argument honestly, whether they showed her dignity if she was captured — shapes subsequent encounters.*
+
+---
+
+### Scene 3: Departure
+
+On the fourth day, the Pale Current enters the harbor.
+
+> *The ship is smaller than you remember, or the harbor has grown. She comes in on a morning tide, moving with the deliberate ease of a vessel that knows this approach. The crew doesn't hurry. Captain Holt is at the rail before she's fully berthed.*
+
+Tavan Holt greets the party without ceremony and asks if they are ready to go. He does not ask what they found. Sir Mellic is already on board. He greets the party with recognition and is slightly more forthcoming than the party may remember — he will answer a direct question in more than one sentence if the mood is right. He volunteers nothing unprompted.
+
+The party boards. Keshigo shrinks behind them.
+
+> *The settlement gets smaller until it is a smudge on the coast, and then the coast is a dark line, and then the Sacred Lands are behind you and there is only open water. The Pale Current runs well. The sky is clear.*
+
+**Level 4 milestone.** Act I is complete.
+
+*The party carries: Hellie's Summoning ritual, Droma's Crossing ritual, the name of Hope, and the Old Man's warning about the Old Gods' deliberation. They carry what Tinsel told them. They carry the knowledge that the Unity's reach extends further than they were told. None of it will keep.*
+
+*Once the coast is out of sight, Sir Mellic tells the party that Malachite is waiting for them in Dremma. He says nothing else.*
+
+*Transition to Act II.*
+
+---
+
+## Chapter 5 NPC Summary
+
+| NPC | Role | Notes |
+|-----|------|-------|
+| Senna | Optional escort from Hellie's cottage | Stat block in Appendix B |
+| Tinsel | Refugee; information source | Social only |
+| Lady Vigo | Avengers antagonist; conversation → possible combat | Stat block in Appendix B |
+| Cult Fanatics ×2 | Lady Vigo's acolytes | Cult Fanatic (MM) |
+| Tavan Holt | Captain, Pale Current | Social only |
+| Sir Mellic | Wayfinder representative | Social only |
+
+---
+
+## Chapter 4 NPC Summary
+
+| NPC | Role | Notes |
+|-----|------|-------|
+| Hellie | Morning chores; ritual instruction; final debrief | Social only |
+| Molly & Polly | Morning texture; final evening | Background |
+| Silver | First summoned spirit | Social only; conduct track references Chapter 3 supper |
+| Wildlings band | Valley road encounter | Goblin ×5, Goblin Boss ×1 (MM) |
+| Droma | Old God; teaches Crossing ritual | Social only; no combat stat block |
+| Wight | Undead task (condition or favor) | Wight (MM) |
 
 ---
 

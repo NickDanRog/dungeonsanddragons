@@ -878,7 +878,7 @@ Taita is scattered in a way that initially conceals how much she knows. She carr
 
 A dwarf woman who left the Unity five years ago after a career as a scholar of pre-True Way history — work that became professionally untenable as the Unity's historiographical suppression, working as intended, continued to find more targets. She arrived at the Isles with clear eyes about what she left and why, and has spent every year since making herself useful. She has clerical powers and the bearing of someone who does not separate conviction from competence. She is the most demanding of the three instructors — she drills mannerisms, speech, and customs with a precision that can feel relentless — because she knows what a mistake inside the Unity looks like and what it costs.
 
-**The DM should know:** If no party member has a Unity background, Tiamane will privately offer to serve as the party's guide inside the Unity for the duration of their time there. She frames this as a duty to the Isles, not a personal preference, and this framing is accurate. Her offer is genuine and her capabilities exactly what she claims.
+**The DM should know:** If no party member has sufficient Unity background for cultural fluency in the field, Tiamane presents them with a journal at the end of training. She wrote it during her years in the Unity — daily life, customs observed, things that could not be said aloud — and expanded it after arriving on the Isles. It is the most complete account of ordinary Unity life in the Wayfinders' possession. She says nothing when she hands it over.
 
 ---
 
@@ -1205,11 +1205,11 @@ The Crossing is organized into five acts and twenty-three numbered chapters, wit
 | Chapter | Title | Ends When |
 |---------|-------|-----------|
 | 6 | The First Crossing | Party returns from spirit world after meeting Hope |
-| 7 | Know Your Enemy | Training complete; party departs Isles for the Unity |
+| 7 | An Education | Training complete; party departs Isles for the Unity |
 | 8 | Kelpie's Isle | Party leaves Kelpie's Isle |
 | 9 | Landfall | Party reaches Mahakam Island |
 | — | *Interlude: The Rescue Mission (Optional)* | Rescue arc resolves |
-| 10 | The Unfamiliar World | Party departs Daliketh for Balnor |
+| 10 | A World So Strange | Party departs Daliketh for Balnor |
 
 **Act III: Into the West** *(Levels 9–12)*
 
@@ -2409,7 +2409,22 @@ She will answer honest questions. On Droma's request about the western Old Gods:
 
 *They may stay as long as they wish; Hellie's terms remain the same. When they are ready to go, she will see them to the gate. She will not tell them to be careful. She will tell them that the stream will remember them.*
 
+**Level 4 milestone.** The Communing ritual has been received. The Old Man's warning has been heard.
+
 *Transition to Chapter 5: There, and Back Again.*
+
+---
+
+## Chapter 4 NPC Summary
+
+| NPC | Role | Notes |
+|-----|------|-------|
+| Hellie | Morning chores; ritual instruction; final debrief | Social only |
+| Molly & Polly | Morning texture; final evening | Background |
+| Silver | First summoned spirit | Social only; conduct track references Chapter 3 supper |
+| Wildlings band | Valley road encounter | Goblin ×5, Goblin Boss ×1 (MM) |
+| Droma | Old God; teaches Crossing ritual | Social only; no combat stat block |
+| Wight | Undead task (condition or favor) | Wight (MM) |
 
 ---
 
@@ -2425,9 +2440,9 @@ Hellie sees the party to the gate in the morning. She does not tell them to be c
 
 If Senna returned to the cottage while the party was at Droma's mountain, she is here. She can accompany them if they want her company. She offers without pressure.
 
-*The return journey is not the same as the outbound. The party traveled the forest as strangers on the way in; they leave as people who have been accounted for. The forest knows they were at the Old Man's mountain. Not everyone who noticed them approves.*
+*The return journey is not the same as the outbound. The party traveled the forest as strangers on the way in; they'll be leaving the Sacred Lands with a better understanding. Some of the region's denizens know they were at the Old Man's mountain, and not everyone who noticed approves.*
 
-*Senna's evaluation arc concluded at Droma's mountain — he had her report before the party arrived. On the return, she is a guide and companion, not an assessor. If she is absent, the forest is less legible and the encounters carry more risk.*
+*Senna's evaluation arc concluded at when they reached Hellie, and through his witch the Old Man had her report before the party arrived. On the return, she is a guide and companion, not an assessor. If she is absent, the land is less approachable and the encounters carry more risk.*
 
 **Return Forest Encounter Table (d6):**
 
@@ -2435,18 +2450,18 @@ Roll at least twice over the three-day journey. Re-roll duplicates.
 
 | d6 | Encounter | What It Reveals |
 |----|-----------|-----------------|
-| 1 | A wild elf scouting party has been following the party for a day. They approach openly and ask, without preamble, whether the party intends to return and approximately when. They want a name — someone the party will send word to before coming back. DC 12 Insight: this is not bureaucracy; the forest keeps track. | The party now has standing in the Sacred Lands that requires acknowledgment |
-| 2 | A column of 8–10 refugees moving south, heavily burdened. One adult — a hobgoblin elder who speaks Common — was a village council member in the northern Sacred Lands before the Unity advance made that impossible. He describes what happened in a few sentences: the soldiers came before the administrators; the administrators came after. He is not asking for anything. He is just saying what happened. | The colonial situation is not abstract; it has already displaced people by the hundreds |
+| 1 | A wild elf scouting party shadows the party for the better part of a day. They approach openly and ask, without preamble, whether the party intends to pass through their lands again, and if so, approximately when. They speak in heavily accented Common. They exchange names with the party and might be willing to trade the spoils of their recent hunt and some other small craft items if approached respectfully. DC 12 Insight: this is not bureaucracy; it is the people of the Sacred Lands keeping track. | The party now has standing in the Sacred Lands that requires acknowledgment |
+| 2 | A column of 8–10 refugees moving south, heavily burdened. One adult — a hobgoblin elder who speaks Common — was a village council member in the northern Sacred Lands before the Unity advance made that impossible. He describes what happened in a few sentences: the soldiers came before the administrators; the administrators tried to make them servents on their own land - the tribe would have killed them but the soldiers had strange and powerful weapons. He is not asking for anything. He is just saying what happened. | The colonial situation is not abstract; it has already displaced people by the hundreds |
 | 3 | A Wildlings band — different from any the party has encountered — blocks the trail. These ones are not claiming territory; they are angry. Word has spread through the Wildlings network that strangers have been moving through their lands with impunity. DC 15 Persuasion (DC 12 if the party has a reputation for diplomacy from earlier encounters) to negotiate passage; otherwise hard combat (Goblin ×4, Goblin Boss ×1, MM). | The party's passage through Wildlings territory has accumulated consequences |
-| 4 | The 200-foot tree from the old-growth — or one indistinguishable from it — is ahead on the trail. The party passes beneath it. Nothing happens. The awareness that was ambient before is now specifically directed at them. DC 14 passive Perception: the offerings at its roots are fresh. Someone else was here recently. | The forest has noted their departure as it noted their arrival |
-| 5 | A wild elf trader — older, traveling alone — asks who they serve. Not "where are you from" or "where are you going." Who do they serve. If the party invokes Hellie's name, the Parna Valley, or the Old Man, the question is answered to her satisfaction and she continues without comment. If the party doesn't know how to answer, she waits. She will not say what the right answer is. | The Sacred Lands asks questions the Archipelago does not |
-| 6 | A lone Unity officer — not in formation, not with troops, in the kind of clothes that suggest she is not supposed to be here — is at the western edge of the forest. She startles when she encounters the party. She is scouting, and the party has caught her. She will attempt to disengage without incident if the party lets her; she is not looking for a fight. If captured or cornered: DC 14 Insight to confirm she is Unity; she will not confirm it herself. | The Unity's reach extends further than the party realized |
+| 4 | The 200-foot tree from the old-growth seems to beckon to them from the trail. When party passes beneath it they will feel a sense of being watched - not hostile, but slightly playful. The awareness that was ambient before is now specifically directed at them. DC 14 passive Perception: the offerings at its roots are fresh. Someone else was here recently. | The forest has noted their departure as it noted their arrival |
+| 5 | A wild elf peddler — older, traveling alone — asks who they serve. Not "where are you from" or "where are you going." Who do you serve. If the party invokes Hellie's name, the Parna Valley, or the Old Man, the question is answered to her satisfaction and she continues without comment. If the party doesn't know how to answer, she waits. She will not say what the right answer is. | The Sacred Lands asks questions the Archipelago does not |
+| 6 | A lone Unity surveyor — she is trying to blend in, but the manufacture of her clothes give her away. She startles when she encounters the party. She is scouting, and the party has caught her. She will attempt to disengage without incident if the party lets her; she is not looking for a fight. If captured or cornered: DC 14 Insight to confirm she is Unity; she will not confirm it herself and will otherwise be evasive unless very sorely pressed. | The Unity's reach extends further than the party realized |
 
 ---
 
 ### Scene 2: Keshigo
 
-> *The smell of salt reaches you before the tree line breaks. Then the coast, and the harbor, and Keshigo spread out below — the trading house, the boats at anchor, the loose sprawl of the settlement. It is smaller than you remember, or you are larger.*
+> *The smell of salt reaches you before the tree line breaks. Then the coast, and the harbor, and Keshigo spread out below — the trading house, the boats at anchor, the loose sprawl of the settlement. It is smaller than you remember, or you are larger. *
 
 The party uses the sending stone. The stone speaks their location and goes cold. The Pale Current will arrive in four days.
 
@@ -2454,21 +2469,21 @@ Pell, the haregon warden, is the person to ask about where to wait. He keeps a r
 
 **Keshigo during the wait:**
 
-The settlement is more crowded than when the party arrived. There are more displaced persons visible. A gnomish family near the trading house edge is spread out on a cloth, selling household items — kitchen implements, a musical instrument, a child's toy with the paint worn off. They are businesslike. **DC 12 Insight:** the items are not trade goods. They came from somewhere that is no longer home.
+The settlement is more crowded than when the party arrived. There are more displaced persons visible. The town is doing its best to take them in, in its own way. No one appears to be going hungry, and there are large parties of (obvious refugees by their dress) people hunting and gathering along the treeline, and fishing along the docks. 
 
 **Tinsel:**
 
 *Tinsel is a gnomish woman displaced from the northern Sacred Lands by colonial violence. She is clear-eyed about what happened to her and not broken by it.*
 
-She can be found in Keshigo asking about travel south — looking for somewhere to go. If the party notices the displaced persons and asks questions, they will find her within a day. She approaches the party herself if she hears they came from the interior; she wants to know whether it is getting worse up there.
+She can be found in Keshigo asking about travel south — looking for somewhere to go. If the party notices the displaced persons and asks questions, they will find her within a day. She approaches the party herself if she hears they came from the interior; she wants to know the conditions in that direction. 
 
 What she tells the party, once she trusts them enough to speak directly:
 
 - The Unity established a colonial administration in the northern Sacred Lands several years ago. It has been expanding — new settlers, new troops, new administrators, each wave larger than the last.
-- The communities in the north have been pushed off their land, officially reclassified as "unsettled territory," and told to relocate. Those who refused were removed.
+- The communities in the north have been pushed off their land, officially reclassified as "unsettled territory," and told to either assimilate into the workforce or relocate. Those who refused were removed.
 - There is organized resistance. It is led by a local king named **Kalameris** and an entity the people of the north call **Carnuth** — she does not explain what Carnuth is, only that the Unity cannot kill it and has stopped trying. The resistance has held in some places.
 - She was not in a place the resistance could hold.
-- She does not know where she is going. She knows she is not going back.
+- She does not know where she is going, but she knows she is not going back.
 
 *Tinsel's account is the party's first direct witness testimony of the colonial situation. She speaks about specific people and specific places. She is memorable as a person, not only as an information source. If the party offers her anything — coin, food, a plan for where to go — she accepts without false pride.*
 
@@ -2482,7 +2497,7 @@ She approaches the party during the wait — not at the dock, not on the road, b
 
 *Her opening is more sophisticated than the road ambush.* She does not claim to want to fight. She addresses the party by name and asks them, directly, what they intend to do with what they found.
 
-**If the party agrees to abandon the mission — to not perform the Crossing:** She accepts this and leaves. *The Communing ritual is knowledge; it cannot be taken from them. What she is after is their commitment not to use it.* This is a significant failure state: Hope is not contacted, the spirits' witness is not provided, and Huma remains trapped.
+**If the party agrees to abandon the mission — to not perform the Crossing:** She accepts this and leaves. *The Communing ritual is knowledge; it cannot be taken from them. What she is after is their commitment not to use it.* If they give their word on this and hold to it this is a significant failure state: Hope is not contacted, the spirits' witness is not provided, and Huma remains trapped.
 
 **If the party convinces her they share her goal — destruction of the Unity:** DC 16 Persuasion. She is not easily fooled; she has been doing this for a long time. Success: she withdraws, tells them she will be watching, and leaves. If they genuinely share her goal and the DM judges the argument authentic, the DC drops to 13.
 
@@ -2502,19 +2517,19 @@ She approaches the party during the wait — not at the dock, not on the road, b
 
 On the fourth day, the Pale Current enters the harbor.
 
-> *The ship is smaller than you remember, or the harbor has grown. She comes in on a morning tide, moving with the deliberate ease of a vessel that knows this approach. The crew doesn't hurry. Captain Holt is at the rail before she's fully berthed.*
+> *The ship is smaller than you remember, or maybe the harbor has grown. She comes in on a morning tide, moving with the deliberate ease of a vessel that knows this approach. The crew doesn't hurry. Captain Holt is at the rail before she's fully berthed. *
 
-Tavan Holt greets the party without ceremony and asks if they are ready to go. He does not ask what they found. Sir Mellic is already on board. He greets the party with recognition and is slightly more forthcoming than the party may remember — he will answer a direct question in more than one sentence if the mood is right. He volunteers nothing unprompted.
+Tavan Holt greets the party without ceremony and asks if they are ready to go. He does not ask what they found. Sir Mellic is already on board. He greets the party with recognition and is slightly more forthcoming than the party may remember — he will even answer a direct question using a full sentence if the mood is right. He volunteers nothing unprompted.
 
 The party boards. Keshigo shrinks behind them.
 
-> *The settlement gets smaller until it is a smudge on the coast, and then the coast is a dark line, and then the Sacred Lands are behind you and there is only open water. The Pale Current runs well. The sky is clear.*
+> *The settlement gets smaller until it is a smudge on the coast, and then the coast is a dark line, and then the Sacred Lands are behind you and there is only open water. The wind catches and Pale Current runs fast atop the waves. The sky is clear. *
 
-**Level 4 milestone.** Act I is complete.
+**Level 5 milestone.** Act I is complete.
 
-*The party carries: Hellie's Summoning ritual, Droma's Crossing ritual, the name of Hope, and the Old Man's warning about the Old Gods' deliberation. They carry what Tinsel told them. They carry the knowledge that the Unity's reach extends further than they were told. None of it will keep.*
+*The party carries: Hellie's Summoning ritual, Droma's Crossing ritual, the name of Hope, and the Old Man's warning about the Old Gods' deliberation. They carry what Tinsel told them. They carry the knowledge that the Unity's reach extends further than they were told.*
 
-*Once the coast is out of sight, Sir Mellic tells the party that Malachite is waiting for them in Dremma. He says nothing else.*
+*Once the coast is out of sight, Sir Mellic tells the party that Malachite is waiting for them in Dremma. He says nothing else unless otherwise engaged.*
 
 *Transition to Act II.*
 
@@ -2533,16 +2548,681 @@ The party boards. Keshigo shrinks behind them.
 
 ---
 
-## Chapter 4 NPC Summary
+# ACT II: THE CROSSING
+
+*Levels 4–8*
+
+The party has returned from the Sacred Lands carrying the Communing ritual, the name of the spirit looking for them, and the Old Man's warning. This is only the start of their journey. Act II is the long work between knowing and doing: a first Crossing to the spirit world, a formal decision to take on the mission offered by Hope, six months of preparation at the Wayfinders' Lodge in Heida, a second visit to the spirit world to meet a new spirit, and a sea crossing that ends when they step off a boat in the Unity for the first time.
+
+Three zones, three registers. The Archipelago is home — familiar, fractious, and becoming aware of who they are and what that means. The Middle Sea is the liminal passage, a long and expensive voyage, punctuated by what the sea throws in their way. The Unity is alien: clean streets, impossible technology, warmth that functions as surveillance, and magic that has been quietly illegal for three hundred years.
+
+The act ends when they step off an airship in Balnor, the Unity's capital city.
+
+**Act II Chapters:**
+- Chapter 6: The First Crossing
+- Chapter 7: An Education
+- Chapter 8: Kelpie's Isle
+- Chapter 9: Landfall
+- Chapter 10: A World So Strange
+
+---
+
+## Chapter 6: The First Crossing *(Levels 4–5)*
+
+### Chapter Summary
+
+The party arrives home and finds the Archipelago has been waiting. Malachite takes them to Sanctuary. The Oracle asks them to report everything, and then offers them a ritual space. The first Crossing is performed here, before the Council's deliberations have resolved. Hope, the spirit who sought them out, thanks them for finding her, shows them a vision, and asks them to save the world. The next morning, the Oracle asks whether they will accept the mission. The chapter closes with a week of downtime before their departure for Heida, on the far side of the Big Island.
+
+**Characters introduced:** Tarak Maal, Morning Wren, Hope, Lon.
+**Characters returning:** Sir Mellic, Malachite, Vinna Maar, Belladonna, the Oracle.
+**Optional contacts:** Varley Rathmandantus, Beldwin Stonefinger (conditional on Act I agreements).
+
+---
+
+### Scene 1: The Pale Current, Homeward
+
+The ship is at sea. Four days from Keshigo to Dremma. No encounter table — this is transit and texture, not a challenge zone.
+
+**Sir Mellic:** On the outbound voyage he offered almost nothing. On the return, with the mission complete and the formal escort context resolved, he is slightly more forthcoming. He will answer a direct question in more than one sentence. He has worked as a sea escort for the Wayfinders for years and encountered scores of people rescued from the Unity — he knows the culture well from those encounters, though he has little on-the-ground experience of the Unity itself. He does not volunteer this; the party must ask.
+
+*Sir Mellic remains reserved. "Slightly more forthcoming" means one full sentence instead of a grunt. He is not becoming a confidant. He tells them Malachite is waiting in Dremma and that Malachite will want to hear everything.*
+
+**On the crossing:** The party has four days to process what happened in the Sacred Lands, compare accounts, and consider what they want to bring Hope as a gift. The DM may offer one moment of quiet texture — a conversation at the rail, a night watch, the shape of the islands appearing on the horizon — but this scene should arrive at Dremma efficiently.
+
+> *The Pale Current comes into the harbor on a quiet morning. The green of the islands is a welcome site — you know what those hills are, you know where that road goes — and after two voyages at sea you understand the difference between looking at a coast and recognizing one. Dremma smells like wood smoke and salt and someone's breakfast. The Waning Moon's familiar sign is visible from the dock. *
+
+---
+
+### Scene 2: Dremma
+
+Malachite is at the **Waning Moon**, as Sir Mellic said. He greets the party with warmth but moves quickly to assessment — he wants to know if the mission succeeded before he can properly relax. He is visibly relieved when told it did.
+
+He explains the Oracle is at her pagoda in Sanctuary and asked to be notified the moment the party arrived. He is prepared to leave immediately or to give them a day in Dremma if needed. He does not push; he lets the party decide.
+
+**Optional contacts (conditional on Act I agreements):**
+
+- **Varley Rathmandantus (Eightfold Path):** If the party honored their terms in Act I, he receives word of their return through the usual island networks and seeks them out before they depart. He expresses sincere gratitude and says he hopes to assist them going forward. Nothing transactional yet — this is the relationship beginning.
+
+- **Beldwin Stonefinger (APA):** More businesslike. A small chest waits at the Waning Moon, kept behind the bar at his instruction. The chest is larger on the inside than the outside; it contains one magic item per party member — surprisingly well-tailored to each — plus small gems worth 100gp per party member. He presents this without ceremony if the party fulfilled their agreement, and does not mention it if they did not.
+
+*Neither contact delays the Sanctuary journey. Both are brief scenes, available at any point in between the morning of their arrival to the last hour before their departure.*
+
+---
+
+### Scene 3: The Road to Sanctuary
+
+Sir Mellic and Malachite escort the party into the interior. The journey is peaceful. They follow the same road that runs through rice paddies and then into old-growth forest before the trees thin near the village.
+
+Malachite has worked extensively inside the Unity and will share what he knows if asked — he notes the Oracle will want a full account, but he does not discourage conversation on the road. If the party asks what happens next, he says it depends on what they tell the Oracle, but certain plans have been in motion since before they left. He will not be forthcoming as to the nature of these plans. 
+
+The village of Sanctuary is small and organized around the practical needs of the Oracle's sect. The Oracle's Pagoda sits on a hilltop above it, overlooking the Council Site. The party has been here before; the DM should acknowledge this without dwelling on it.
+
+---
+
+### Scene 4: The Meeting at Sanctuary
+
+> *The pagoda sits behind a low gate at the top of the hill. Inside: a paved central courtyard, a massive gnarled cherry tree at its center old enough that the lower branches have grown nearly horizontal. Two cats are asleep in them. A small shrine stands at the tree's base. The outbuildings around the courtyard are simple — dark wood paneling, peaked roofs, no ornamentation. The place is clean and very quiet. The only movement is the occasional passing of the Oracle's attendants: veiled women who go about their business without speaking, the hem of their robes making a soft sound on the paving stones. *
+
+At the Oracle's Pagoda, waiting for the party:
+
+- **Maya** (the Oracle)
+- **Vinna Maar**
+- **Malachite**
+- **Belladonna** (Hidden Vale)
+- **Tarak Maal** — a powerfully built human in his mid-sixties; Blue Star Adepts representative; takes careful notes; says almost nothing until he has heard everything
+- **Morning Wren** — a small, shy halfling woman; Greensingers representative; visibly moved by nearly everything the party describes
+
+*Tarak Maal and Morning Wren are unknown to the party. Malachite can introduce them briefly if asked, but does not offer context unprompted. They are here to observe.*
+
+The group questions the party at length — the Witch, the Summoning ritual, Silver, the valley road, the Old Man of the Mountain. The questioning has the quality of a careful debriefing, not an interrogation. When the party reaches the Old Man's revelation — the Old Gods are deliberating whether mortals can be permitted to continue existing — the room goes quiet.
+
+> *Tarak Maal's pen stops moving. Morning Wren presses her hands flat on the table. Malachite does not look surprised, leading you to suspect he has already imagined this possibility and did not want it confirmed. Vinna Maar glances at the Oracle, who has not moved. *
+
+After several hours, the Oracle calls for a break. She tells the party that if they wish to attempt the ritual and contact Hope, she can provide them a space to do so. She says this as though it is a small practical matter.
+
+*The Oracle moves the scene along deliberately — she does not want the Council discussion to run ahead of the ritual. The party may perform the Crossing before the deliberations continue; she judges this correct.*
+
+---
+
+### Scene 5: The First Crossing
+
+**The gift:** The Oracle asks whether the party has brought something for Hope. If not, she produces a folded piece of paper from her sleeve without comment and sets it on the table: a **haiku poem**, handwritten. This is an acceptable gift; she knows this. She does not say who wrote it.
+
+*If any party member prepared a gift during the voyage, the Oracle will not produce the poem. Gifts the party chose themselves make for a stronger scene — encourage improvisation. Hope responds to sincerity, not formality.*
+
+She leads them to the **ritual space carved into the rock beneath the pagoda**: well-lit, clearly prepared, with an anticipatory quality to it as though it has been waiting a long time for this particular use. **Tarak Maal** and **Morning Wren** join them at the Oracle's invitation. The Oracle herself stands at the room's edge.
+
+**The ritual:** The party follows the words taught by Droma. A portal opens.
+
+**The passage:**
+
+> *Dark corridors lined with lost things — a single glove, a letter sealed and addressed but never sent, a child's shoe, a coin from a country that no longer exists. They have the quality of things that mattered to someone and then were gone: not thrown away, just lost. An ethereal light moves ahead of you. You follow it. *
+
+> *The light stops. Ahead: a plain altar of grey stone, and behind it, a door. The door has no visible lock, no handle — it is sealed in a way that suggests it does not open from this side. The altar is bare. The light waits. *
+
+Placing the gift on the altar — or, in the case of the poem, reading it aloud — causes the door to open.
+
+**Hope's domain:**
+
+> *An abandoned city square at twilight. The buildings are intact but not inhabited: windows dark, doors closed, facades worn in the way of things that have been standing longer than anyone planned. The fountain at the square's center trickles, nearly dry. The light has the specific quality of the hour before dark, when the sky is still blue but the color has started to leave everything else. *
+
+**Hope** sits on the edge of the fountain. **Lon** is beside her — he looks up when the party enters, meets their eyes once, and withdraws into the nearest side street without speaking.
+
+**What Hope tells them:** She thanks the party with complete sincerity — she is glad they came. Then, without preamble:
+
+- She needs them to help her return more fully to the world. The people of the world need her, and she is too small right now to reach them. She is asking them to save the world. She does not say this dramatically.
+- If asked why them, or why the Circle was called to this: *"Your souls felt right."* She is not being evasive. This is the true answer.
+- She asks them to look into the fountain.
+
+> *The water is shallow and still, and then, a scene begins to form within in. Something huge and pale moves in it — a creature the size of a city block, whale-shaped but different, the body of something that has been in one place so long it has started to become the place. Chains cover the creature, but other things also: architectural things, stone and metal marked with arcane sigils in a configuration that reads as purposeful imprisonment. The creature moves in its small space in a way that suggests confusion and discomfort. Its sorrow emmanates from within the vision. The fountain goes still again. *
+
+This is Huma, the Storm Whale — an Old God, one of the last great primordial spirits of the western continent. He has been held captive by elements within the Unity's government for several years and cannot survive many more. Freeing him is the mission she is asking them to take on. Doing so may help persuade the Old Gods that not all mortals mean them harm — she believes this matters.
+
+She asks them to return to her before they leave for the Unity. There is someone else she wants them to meet.
+
+She will answer questions, but carefully — her connection to the physical world is tenuous and limits what she can say. When the conversation is over, she opens a second portal.
+
+**The return:** Tarak Maal reports that the party was gone for only a few moments before a second portal opened and they stepped back through. Morning Wren says quietly that she felt Hope's presence when the second portal opened. No one contradicts her.
+
+---
+
+### Scene 6: The Decision
+
+The following morning, the Oracle convenes the same group. She asks for the party's full account of what happened during the Crossing.
+
+After they have spoken, she asks directly: are they willing to take on this quest?
+
+*The Oracle does not apply pressure and does not assume. She is asking because the answer must be freely given. A party that refuses ends this chapter in failure — Huma remains captive, Hope cannot grow, the Old Gods' deliberation continues unaddressed. The DM should make the weight of refusal real without forcing the answer.*
+
+**Once the party accepts:** Malachite speaks. Plans have been in motion since before they left, against exactly this answer. He and a small team of Wayfinders will spend the next several months at the Lodge in Heida training the party in everything they need to infiltrate and survive in the Unity.
+
+- **Unity background check:** If one or more party members are Unity refugees who crossed in their teenage years or later, Malachite asks that person to serve as expedition leader once inside. If no one qualifies, the party's cultural training at Heida will address the gap — this is what Tiamane Irongate is there for.
+- **Timeline:** Six months of training. It is summer now; the Middle Sea crossing should not be attempted in fall or winter. Six months provides thorough preparation and still leaves time for a safe crossing.
+
+After the meeting, the Oracle tells the party they have a week before they are expected in Heida. They may tell people they are going on a mission to the Unity, but she asks them to keep the specifics private. She expects the secret to leak eventually.
+
+**Level 6 milestone.** The Circle has committed.
+
+*The week of downtime:* Standard PHB Chapter 8 rules apply. Sanctuary is small and quiet — rice farms, the pagoda sect's household, the road. Dremma is a day's travel if needed. The DM may offer one or two brief roleplay scenes — a visit to someone the PC cares about, a conversation with Malachite or Belladonna, a quiet moment at the pagoda — but the week moves at low pressure.
+
+*Transition to Chapter 7: An Education.*
+
+---
+
+## Chapter 6 NPC Summary
 
 | NPC | Role | Notes |
 |-----|------|-------|
-| Hellie | Morning chores; ritual instruction; final debrief | Social only |
-| Molly & Polly | Morning texture; final evening | Background |
-| Silver | First summoned spirit | Social only; conduct track references Chapter 3 supper |
-| Wildlings band | Valley road encounter | Goblin ×5, Goblin Boss ×1 (MM) |
-| Droma | Old God; teaches Crossing ritual | Social only; no combat stat block |
-| Wight | Undead task (condition or favor) | Wight (MM) |
+| Sir Mellic | Sea escort; slightly more forthcoming than previously | Social only |
+| Malachite | Wayfinder coordinator; escorts to Sanctuary; proposes training | Social only |
+| Varley Rathmandantus | Optional Eightfold Path contact in Dremma | Conditional on Act I agreement; social only |
+| Beldwin Stonefinger | Optional APA contact in Dremma | Conditional on Act I fulfillment; delivers reward |
+| Maya (the Oracle) | Convenes the meeting; provides ritual space; asks the formal question | Social only |
+| Vinna Maar | Present at Sanctuary meeting | Social only |
+| Belladonna | Present at Sanctuary meeting | Social only |
+| Tarak Maal | Blue Star Adepts; witnesses First Crossing; reports the party was absent only moments | Social only |
+| Morning Wren | Greensingers; perceives Hope's presence on the party's return | Social only |
+| Hope | First Crossing target; reveals Huma; assigns mission; requests second visit | Social only; no stat block |
+| Lon | Present at Hope's fountain; withdraws when party enters | Background only |
+
+---
+
+## Chapter 7: An Education *(Levels 6–7)*
+
+### Chapter Summary
+
+The party travels to Heida and spends six months at the Wayfinders' Lodge. Three instructors cover the history, politics, society, and culture of the Unity. Between sessions, several Archipelago factions make their approach. One month before departure, the party meets Warebock, the Tidecaller captain who will take them across the Middle Sea. The chapter ends on departure day, when the party walks out of Heida for the last time. One promise remains — Hope asked them to return before they board. That is Chapter 8's opening.
+
+**Characters introduced:** Kelvar Garth, Professor Liandrin Taita, Tiamane Irongate, Bix Harbaugh, Urdo Vhane, Tamar, Warebock, Cuculahan.
+**Characters returning:** Malachite, Morning Wren, Belladonna, Beldwin Stonefinger (conditional).
+
+---
+
+### Scene 1: Heida
+
+The road that leads here from Dremma is not marked on any public map. The village is small and organized entirely around the operations of the Wayfinders' Lodge — most residents have some connection to it or its support network. It feels like a place that does not want to be found.
+
+> *The last section of road descends through pine forest and opens onto a small coastal village in the late afternoon light. The harbor holds a dozen fishing boats and one mid-sized deep water craft that seems somewhat out of place. The Wayfinders' Lodge occupies the eastern edge of the village: a large functional timber building with a fenced training yard, smoke from two chimneys. The White Willow House is visible from the main road — a teahouse, warm-lit, with a painted sign of a willow in white. The village smells like salt and sawdust and fresh bread. It is very quiet. *
+
+**The Lodge:** The party is housed here for the duration of training. Quarters are communal but private enough; the building runs on a schedule. Malachite is based here. The training yard is used for field-skills work outside the formal curriculum.
+
+**The White Willow House:** The village's social gathering point for outsiders and Lodge visitors. The party will spend time here throughout the six months — it is where Urdo Vhane approaches them.
+
+---
+
+### Scene 2: Training — History and Politics
+
+*A few weeks. The shorter phase. The party may find it taxing — the material is dry and academic, and their instructors relish a captive audience.*
+
+**The instructors:**
+
+- **Kelvar Garth** — half-elf proctor of the Founders' Keep; lectures in a droning monotone; perks up visibly when asked a genuinely good question; bickers constantly with Taita
+- **Professor Liandrin Taita** — half-elf, somewhat scattered; carries an enormous stack of notebooks she references constantly; bickers constantly with Garth
+
+**The highlight moment:** Early in the first week, the two instructors enter mid-argument about whether the One True Way's conversion campaign or the Last War was the proximate cause of the exiles' departure. Both cite different sources. The argument is old; neither expects to win. When it finally dies, Garth looks at the party and says: *"Questions."* He means it as an invitation. A party member who asks something substantive earns a different lecturer than the one who was droning moments before.
+
+**The curriculum** *(reference material for DM use)*:
+
+- *Pre-Unity history:* A thousand years of competing kingdoms, wars fought in the names of competing divine pantheons, fueled by destructive magic.
+- *Sister Neema and the One True Way (approx. 600 years ago):* A human monk who claimed divine revelation founded a movement with two tenets: the future is already determined, and wholly devoted practitioners could know it; mortal ingenuity — not the divine or arcane — was the only true path to progress and freedom. Her movement grew across decades through uncanny predictive accuracy and exhaustion from the wars. After her death, acolytes continued expansion by manufacturing "predictions" while working, in secret, to make them come true.
+- *The Last War:* The conversion campaign became a military campaign, lasting a century. An anti-magic, anti-divine pogrom followed. The original exiles built the Archipelago during this period.
+- *The Great Schism (approx. 300 years ago):* An elite True Believer unit discovered undeniable evidence that the sect's leadership had been fabricating prophecy since Neema's death. Their leader, a half-orc named **Maakan**, spent a decade distributing this information. The resulting civil war lasted a generation.
+- *The Unity's founding:* Maakan's faction organized society around the One True Way's genuine humanist and communal elements, establishing a democracy with firm checks and balances. The declaration at the founding: *"Universal peace and an end to history."*
+- *Political structure:* Citizens participate through local councils (max 1,000 citizens), which elect representatives up to regional councils, provincial councils, and finally the **Unity Council** of ten provincial representatives. Terms are shortest at the local level; rotating turnover at every level. A plebiscite system allows any issue to cascade down the chain if called by majority. It is complex and deeply beloved.
+
+---
+
+### Scene 3: Training — Society and Culture
+
+*The longer phase. Taught by Tiamane Irongate — a dwarf woman who left the Unity five years ago after a career as a scholar of pre-True Way history. She arrived at the Isles with clear eyes about what she left and why. She drills the party mercilessly on speech, mannerisms, and customs — she considers thorough preparation a personal duty.*
+
+**The curriculum** *(reference material for DM use)*:
+
+- *Language and greeting:* "Good day, citizen." / "Greetings, brother/sister." Farewell: "Unity endures!" / "Kind day to you, citizen." Expressions of surprise or joy: "Unity preserve us!" / "By the Unity!"
+- *Communal behavior:* Citizens help those in obvious distress; neighbors visit unbidden; communal eating and shared social hours are the norm. Modesty and privacy instinct are rare.
+- *Mutual responsibility:* Everyone contributes. Roles are found for children, the disabled, and the elderly. No one goes hungry or unhoused if it can be prevented.
+- *Work culture:* Strict working, resting, and social hours with mandatory breaks; three days off per week.
+- *Nosiness:* Citizens are openly curious and expect others to have opinions. Tiamane's specific warning: an uninformed political opinion draws attention. Her recommended approach: engage, but stay neutral. *"I haven't made up my mind yet"* is always an acceptable answer.
+- *Dress:* Utilitarian; ostentatious wealth is deeply frowned upon.
+- *Arts:* Music, comedic theatre, and political satire are the most popular forms. Citizens know instinctively where the line is, even though no one can define it precisely.
+- *Education:* Children live at school during the work week, returning home on weekends. The school system has long served as a vehicle for social indoctrination.
+- *Law enforcement:* Omnipresent, generally fair, generally unarmed. Officers are helpful, friendly, and extremely nosy. Suspected supernatural practitioners are referred to specialists — the Advocates.
+- *Social deviants:* Citizens who persistently refuse Unity social norms may be registered by their local council and sent to "reeducation" — structured communal living, regular evaluation, close supervision. It is presented as care, not punishment.
+- *Magic collars:* Citizens with inborn magical ability are required to wear a collar that monitors their use; casting immediately alerts the relevant authorities and transmits their precise location. The collar can be audited. Citizens who wear one are regarded as model citizens. *The party should be aware: any magic use in the Unity is potentially traceable.*
+- *Technology:* Roughly late Victorian — cartridge rifles and pistols, public gas lighting and heating, basic plumbing, steam engines powering steamships and early locomotives, dirigibles as the most popular long-distance transport.
+- *Views on the outside world:* The Sacred Lands are "an opportunity." The Archipelago is officially a myth.
+
+**The highlight moments** *(play these out)*:
+
+*At some point during the social norms unit, Tiamane pauses mid-lecture and says something she has clearly been working out how to say for a while:*
+
+> *"The communal warmth is genuine. Neighbors really do help each other. People really do care. But the same infrastructure that makes that possible makes total mutual accountability possible — and they are the same infrastructure. Being different in any way that doesn't map to Unity norms is immediately visible and immediately uncomfortable. People learn, at a cellular level, to flatten their inner lives in public. Not because guards are watching. Because everyone is." *
+
+*She says she knew for years something was wrong with this part of Unity life and could not name it until she left. She moves on without further comment.*
+
+*Later, near the end of the unit, she covers what she calls the hardest thing to explain:*
+
+> *"The Unity's founding ideology declared the great work finished — 'universal peace and an end to history.' That declaration did not die with the One True Way. It survived into the culture, quietly. Citizens have everything their ancestors fought for. They are cared for, housed, fed, entertained. What I came to understand, slowly, living here, is what this does to hope. Hope requires an open future — the genuine possibility that things could be different, better, changed. The Unity's culture forecloses this without forbidding it. No one tells citizens they cannot want something new. They simply stop." *
+
+**Tiamane's journal (conditional):** If no party member has sufficient Unity background for cultural fluency in the field, Tiamane approaches them at the conclusion of training and hands over a large, handwritten journal without ceremony. She wrote it during her years in the Unity — daily observations, social customs, things that could not be said aloud at the time — and continued adding to it after arriving on the Isles. It is the most complete account of ordinary Unity life in the Wayfinders' possession. She says nothing when she hands it over.
+
+---
+
+### Scene 4: Faction Interludes
+
+*These encounters are available at any point during the six months of training. The DM should place them at felt intervals — not all at once, and not clustered at either end. They should feel like the texture of the period: the world continuing to make demands while preparation is underway.*
+
+**Morning Wren (Greensingers):** Shyly approaches a party member she trusts and asks whether the party would be willing to discuss Hellie's Summoning ritual. She believes the Greensingers' practice of **spirit singing** is closely related — an insightful party member may have already made this connection. If the party shares what they know, she asks them to seek out any local spirits they encounter in the Unity and report back whatever they find about the spirit world there. If a party member belongs to the Greensingers, she adds privately that if the link is confirmed, it would transform her sect's understanding of its own practice.
+
+**Belladonna (Hidden Vale):** Approaches if the party had a positive Act I encounter with her, or if a party member belongs to her sect. She explains directly that she believes there is a connection between her sect's rituals and Hellie's Summoning ritual, and asks to discuss it. If the party agrees, she is delighted and invites them to take part in the Hidden Vale's initiation rituals on their return.
+
+**Bix Harbaugh (Eightfold Path):** Appears only if the party fulfilled their Act I terms with the Eightfold Path. A halfling lawyer arrives in Heida with a contract and a proposal: he wants the party to covertly deliver an arcane device into the Unity. He frowns deeply at the word "smuggle." Placement is flexible but closer to the capital is better. In exchange: 2,000gp in gems plus two specifically requested magic items delivered a few days before departure, and one powerful magic item (or equivalent GP) per party member upon return. The contract includes a clause that the party may not reveal the device's origin, though they may acknowledge its existence if discovered or asked. *Placing this device creates specific complications in Act III.*
+
+**Beldwin Stonefinger (APA):** Travels to Heida personally to make an offer — if the party fulfilled their Act I terms with the Association. He wants technical specifications on Unity public works (dams, levees, canals) and/or detailed specifications for airships or locomotives. His goal is to blend technology with magic to improve Archipelago life. He cannot offer anything upfront; he promises a custom magic item created for each party member at the Association's expense on their return.
+
+**Urdo Vhane (Avengers):** A sinister-looking human warlock approaches the party at the White Willow House and introduces himself as the Avengers' inquisitor. He wants to ask about their encounters with Lady Vigo — and, if applicable, the Avengers-affiliated warlock from the Act I Sacred Lands encounter. He has +12 to Insight against any Deception attempt. If he believes the party is truthful, he thanks them formally and sincerely, then offers two things: first, a small rod capable of summoning a CR 4 Incubus to perform a single demanded service; second, a separate request for Unity military and defensive intelligence. He frames the second as patriotic duty and notes that the party, as a neutral party, is not bound by "those perpetual do-gooders'" constraints.
+
+*Stranger thread note: Urdo's investigation of Lady Vigo is partly theater and partly genuine. He suspects the faction's patron is connected to the problem. He does not believe she acted alone. He is watching the party throughout this meeting for any sign they have encountered something that might give him answers. His doubts about the patron are real and unshared.*
+
+**Tamar (Wild Bunch):** A wandering duelist appears outside the Wayfinder's Lodge gates and asks to speak with the party. She has heard of their "legendary journey" to the east and wants to fight one of them — to first blood. She offers a **javelin of lightning** to anyone who can defeat her. If no one accepts, she warns she travels far and will share the news; a second refusal earns a curse and she walks away. She is gracious in both victory and defeat.
+
+*Tamar uses a CR 3 Veteran stat block. Appendix B entry required.*
+
+---
+
+### Scene 5: Warebock, End of Training, Departure
+
+**Warebock's introduction:** Approximately one month before departure, the party is introduced to **Warebock** — a short, gruff, veteran human Tidecaller with extensive Middle Sea experience. He is short on crew and willing to take the mission if the party supplements his roster aboard ship. He does not attempt to be charming.
+
+**Cuculahan's orientation:** A few days before departure, the Dawnflower's First Officer — **Cuculahan**, a nervous gnomish man who designed and maintains the clockwork machines that run much of the ship — spends a few days training the party on how the ship and its mechanisms work. His machines do not share his anxiety.
+
+**End of training:** The six months close without ceremony. Tiamane gives the party one final evaluation — not a formal test, more of a calibration. She notes what still needs work and does not pretend the rest is entirely fixed. She wishes them well without sentiment.
+
+*Two weeks of downtime separate the end of training from departure. Standard PHB Chapter 8 rules apply. The party may be in Dremma or Heida for this period. One promise has not yet been kept — Hope asked them to return before departure. If the party has not acted on this, she will visit one of them in a dream as a reminder.*
+
+**Departure day:** Malachite sees the party off. He does not give a speech. He tells them they are as ready as he can make them and that he will be here when they return.
+
+**Level 7 milestone.** Six months of preparation. The party walks out of Heida for the last time.
+
+*Transition to Chapter 8: Kelpie's Isle.*
+
+---
+
+## Chapter 7 NPC Summary
+
+| NPC | Role | Notes |
+|-----|------|-------|
+| Malachite | Training coordinator; final send-off | Social only |
+| Kelvar Garth | History and politics instructor | Social only |
+| Professor Liandrin Taita | History and politics instructor | Social only |
+| Tiamane Irongate | Society and culture instructor; journal gift (conditional) | Social only |
+| Morning Wren | Greensingers interlude | Social only |
+| Belladonna | Hidden Vale interlude | Social only; conditional |
+| Bix Harbaugh | Eightfold Path interlude; device delivery proposal | Social only; conditional on Act I |
+| Beldwin Stonefinger | APA interlude; intelligence request | Social only; conditional on Act I |
+| Urdo Vhane | Avengers inquisitor; White Willow House meeting | Social only this chapter; Appendix B entry needed |
+| Tamar | Wild Bunch duelist; first-blood challenge | Combat possible; Appendix B entry needed |
+| Warebock | Tidecaller captain; crew agreement | Social only |
+| Cuculahan | Dawnflower first officer; ship orientation | Social only |
+
+---
+
+## Chapter 8: Kelpie's Isle *(Levels 7–8)*
+
+### Chapter Summary
+
+Chapter 8 opens with the Circle's departure from the Archipelago — the first time they have left the Isles since returning from the Sacred Lands — and does not resolve until the Dawnflower clears an unnamed island in the Middle Sea and resumes its course westward. Between those two points: approximately two months of open water.
+
+The crossing is not purely a bridging passage. The Dawnflower carries a full crew, three of whom have their own agendas. A random encounter table covers the texture of the voyage — weather, discoveries at sea, and the small revelations that accumulate in close quarters over eight weeks. It is the party's first sustained exposure to people from outside the Archipelago's networks, and it should feel like one.
+
+Midway through the crossing, the ship is forced into a major detour to avoid two leviathans migrating across the shipping lane. The detour takes the Dawnflower into uncharted territory. On the second day, a magical fog rolls in — one that Orthon, the ship's weather wizard, cannot identify or dispel. Visibility drops to nothing. The ship runs aground on a sandbar. When the fog lifts, an island is visible fifty yards off the port rail.
+
+The party will spend three days here while the hull and rudder are repaired. The island has a nature spirit — a small, old, solitary being named Kelpie — whose shrine has been profaned by a community of hideously deformed Sahuagin that colonized the island some years ago. The chapter's central encounter chain is clearing that shrine: combat through three waves of Sahuagin, followed by the careful work of restoring the damaged shrine, and finally the Summoning ritual that brings Kelpie out of the water to speak with the party for the first time.
+
+Kelpie is not dangerous, and her island offers no tactical advantage for the mission ahead. She is, however, honest, lonely, and grateful — and the Voice of the Sea she offers the party is one of the more unusual items they will carry into the Unity. The chapter ends with the Dawnflower departing.
+
+*No milestone fires in Chapter 8. The party remains at Level 7 for the remainder of the crossing.*
+
+**Characters introduced:** Chimal, Orthon, Dalen, Kelpie.
+**Characters returning:** Warebock, Cuculahan.
+
+---
+
+### Scene 1: Departure
+
+*Chapter 8 opens with the journey from Heida to Dremma — a half-day's travel along coastal tracks — and ends with the Archipelago disappearing behind the ship. This is the Circle's last look at home before two months at sea and several more months in the Unity. Take time with it.*
+
+The road from Heida follows the coast before dropping into Dremma's harbor district. The town is working at its usual pace when the party arrives: cargo moving, chandlers open, fishermen back from the morning's work. The Dawnflower is at the far end of the dock, loaded and crewed, the only vessel in the harbor that is not going local.
+
+**Warebock and Cuculahan** are already known to the party from Chapter 7. Three crew members are new:
+
+**Chimal** is a female Aasimar who handles ship security — watches, protocols, and the quiet work of keeping the crew safe and accountable. She introduces herself to the party pleasantly and briefly, then finds a position that gives her a natural view of several of them at once. She is observant in the way of someone who makes a professional habit of it. The party may or may not notice.
+
+**Orthon** is a male elf Wizard with weather-worn robes and the faint salt smell of someone who has crossed large bodies of water many times. He is already working when the party arrives — tracking something through a small brass instrument — and acknowledges them with a nod. He specializes in weather magic and maintains a magical device that detects large sea creatures at range. He is precise and economical with words.
+
+**Dalen** is a halfling Ranger who works for the Seawatch. He is conspicuously relaxed — the kind of relaxed that comes from doing a thing long enough that it stops requiring effort. His animal companions are **Funi**, a giant albatross who makes himself at home in the rigging when not out scouting, and **Kuni**, a giant dolphin who is somewhere in the harbor and surfaces once while the party is boarding, for no apparent reason other than to take a look at them.
+
+**Party duties:** Cuculahan gives a brief, brisk tour of the ship's clockwork mechanisms and explains which parts the party is expected to maintain and which they should not touch. The cook needs two rotating helpers on a daily schedule. Crow's nest watch runs in two-person shifts and the party is integrated into the rotation from the first night. Warebock explains his rules without preamble: follow orders, don't complain to him about weather, and stay clear of Orthon when he is working.
+
+**Read-aloud (departure):**
+
+> *The Dawnflower clears the harbor mouth late in the morning. Dremma fades behind you — the fishing boats pulled up on the beach first, then the warehouses, then the rooftops, then the hills. The Isles are still visible for another few hours: a smudge of green alogn the edge of the blue. Then they are gone too. *
+>
+> *Ahead: nothing in particular. The Middle Sea in every direction, flat and featureless and enormous. Warebock has already gone below. Cuculahan is talking to one of his machines. Dalen sits in the bow with his legs hanging over and his face in the wind. *
+>
+> *Two months. *
+
+---
+
+### Scene 2: Open Water
+
+*The crossing takes approximately eight weeks. Rather than playing through the voyage day by day, use the random encounter table below to give the period its shape. Roll once per week at a moment that feels natural — a quiet dinner, the start of a new watch, the end of a long day of good weather — and re-roll if the same entry comes up twice in a row. Not every entry is dramatic; several exist to develop the crew as characters and deepen the party's sense of who they're travelling with.*
+
+**The random encounter table (d8):**
+
+| d8 | Encounter |
+|----|-----------|
+| 1 | **The Storm** — Orthon forecasts heavy weather and cannot soften it. The party is needed on deck for twelve continuous hours; each party member must make a DC 12 Constitution saving throw or gain one level of exhaustion. Dalen's companions come into their own here — Kuni scouts submerged hazards ahead of the hull, and Funi flies point through rain that reduces visibility to a few feet. Warebock is entirely in his element. |
+| 2 | **Dead Calm** — Three days without wind. The clockwork oars run on stored power and Cuculahan is visibly worried about the draw on the mechanism. Crew morale flattens. Chimal uses the stillness to observe the party at their most unguarded — idle, tired, honest. Dalen remarks (and Orthon confirms), without urgency, that something large but not particularly hostile has been keeping pace beneath and behind the ship for the past day. He offers no further analysis. |
+| 3 | **The Wreckage** — The Dawnflower passes through scattered debris: a section of hull plank, a shattered barrel stenciled with a shipping mark, a waterlogged ledger sealed in oilskin. The mark and ledger suggest a Unity-registered vessel. Orthon can estimate the age of the wreckage — three to five years. The ledger contains cargo manifests and a partial crew roster. The last entry ends mid-word. |
+| 4 | **Funi's Report** — Dalen's albatross returns from a wide scouting arc and lands on the railing near him with unusual urgency. He translates without comment: Funi saw something large and unidentifiable on the western horizon, moving slowly north. By the time Orthon turns his instruments in that direction, it is gone. Dalen records it in his log and does not speculate. |
+| 5 | **The Night Watch** — A party member on the 2 AM watch sees a light deep beneath the surface — faint, pulsing at irregular intervals, moving slowly east. By the time they alert another crew member, it is gone. Orthon notes, when told in the morning, that the sea bottom here exceeds the range of his depth instruments. He logs it and moves on. |
+| 6 | **Trade Winds** — Two days of ideal sailing conditions. Warebock seems almost pleased. Cuculahan uses the smooth running to perform deferred maintenance, humming to himself. At some point during these two days, Chimal falls into easy conversation with a party member and asks a question that seems casual — a DC 14 Insight check reveals it as a careful probe to determine what their mission is. She is not aggressive about it; and will leave off her questioning if called on it. |
+| 7 | **Kuni's Find** — Dalen's dolphin surfaces alongside the ship with a water-sealed bottle in his mouth. Inside: a rolled letter in an unfamiliar script, sealed with a spiral wax impression. The letter is undated. No one aboard recognizes the script or the seal. Dalen says Kuni found it floating at the surface with no vessel in sight. *The DM may develop or discard this as a future hook.* |
+| 8 | **Chimal's Briefing** — At dinner one evening, Chimal mentions she read the party's file before departure — standard practice, she says, for anyone she'll spend two months in close quarters with. She lets that sit for a moment, then asks a direct but easy question: how did the meeting with Urdo Vhane go? She is pleasant and collegial, not pressing for anything specific. What she is actually measuring is how freely the party shares information with an Avengers member who has not offered anything in exchange. A party that answers openly reads to her as available — a relationship worth cultivating, something she will report to Avengers leadership accordingly. A party that hedges or deflects reads as transactional or guarded — not hostile, but not assets either. A DC 14 Insight check reveals that she has already reached a conclusion before the conversation ends. She does not share what it is. |
+
+*Chimal's observations of the party are ongoing and will inform how the Avengers engage with the Circle later in Act II. She is not hostile — she is a professional doing her job, and her job is to have an accurate read on the people she is travelling with.*
+
+---
+
+### Scene 3: The Leviathan and the Fog
+
+**The detection:** Orthon reports to Warebock early one morning: two leviathans are on an intersecting course with the ship. They are migrating, not hunting — there is no suggestion the ship has been noticed — but their path crosses the Dawnflower's heading. Warebock orders a major course correction immediately. The new heading takes the ship away from every chart anyone aboard has used. Several of the crew have crossed the Middle Sea before; none of them have been this far out of the established lane. A sense of unease falls over the vessel. 
+
+**The second day of the detour:** Early morning, a fog visible on the horizon — low, thin at the edges, moving against the wind. Orthon examines it for some time.
+
+> *"Magical in origin. I've probed it, but I cannot dispel it." Warebock does not ask follow-up questions. The fog moves toward you at a steady and foreboding pace. *
+
+Over the next two hours, visibility deteriorates from poor to non-existent. The crew navigates by feel and by sound. The fog affects sound in ways that are hard to explain — voices carry in one direction and not another; the creak of the rigging seems to come from somewhere other than the rigging.
+
+Land announces itself before anyone sees it: surf on rock, somewhere close; birds calling, then abruptly silent. Then the grinding impact, slow and steady, as the ship runs aground on a sandbar. No one falls. No one is hurt. The sails go slack.
+
+The fog begins lifting within minutes of the grounding. By the time Cuculahan has gone over the side to assess the hull, it is nearly gone.
+
+**Cuculahan's assessment:** He surfaces with a controlled expression that the party has learned to interpret as suppressed alarm. The starboard planking along the bow has been scored but not holed. The rudder pintles have been strained in the impact and need to be reset. His estimate: two to three days' work to repair the ship to a condition he is willing to certify as safe. 
+
+**Read-aloud (the island revealed):**
+
+> *The last of the fog burns off by midmorning. The island is small enough that you can see both ends from the rail — forested, green, unnaturally quiet. The northern shore is rocky; something dark is just visible at the base of the cliff face. There are birds on the island, but none of them are singing. *
+>
+> *Warebock stands at the rail for a long time before he speaks. *
+>
+> *"I'm not ordering anyone ashore. But the repairs take the time they take." *
+
+---
+
+### Scene 4: The Island
+
+*The island takes a full day to explore thoroughly. The DM should let the party develop theories before they find evidence — the strangeness of the place accumulates gradually, and the northern shore is more impactful if it arrives after a morning of something being quietly wrong.*
+
+**The southern shore:** Where the party most naturally lands from the ship's boat. The beach is white sand and flat stones, some of which are arranged in a partial arc that may once have been a path or a threshold marker. The ruins here — a low wall, a stone basin, two collapsed outbuildings — are old but deliberate. Someone visited this island regularly in the past, and built something here. They did not live here; there are no signs of permanent habitation. A DC 12 History or Religion check suggests the layout is consistent with a small spirit-tending site.
+
+**The interior:** Dense forest with a faint trail still visible if a party member succeeds on a DC 10 Survival check. The trail runs northward, worn by old traffic rather than maintained. It is overgrown but not erased.
+
+Along the way, the party will notice: birds that track their movement and fall silent well before the party is close enough to startle them. Plants in the interior track the sun faster than they should. Fruit on two trees near the trail has been hollowed out — not rotted, not pecked, simply empty, the flesh consumed from within with no entry wound.
+
+**The northern shore:** The smell arrives before the shore does — rot, old decay, something animal and wrong. The trail ends at a rocky beach scattered with massive piles of bones: animal bones, carved fragments, shells, things that have been there a long time alongside things that have not. Outside a low cave mouth cut into the cliff face.
+
+**The cave entrance:** At low tide the mouth can be entered without swimming. At high tide it is partially submerged. Going deeper requires swimming through a twenty-foot submerged passage, surfacing into an air pocket, and then continuing into the cave's interior.
+
+*A length of old rope is tied to a rock just inside the entrance — it leads through the submerged passage and was placed by someone who came this way long ago. A party without water-breathing capabilities can navigate the passage using the rope as a guide; it is not long. The rope is old but holds.*
+
+---
+
+### Scene 5: The Lair
+
+*The deepest cavern is large — partially natural, partially worked stone. Phosphorescent lichen on the walls and ceiling provides dim light throughout. At the center of the cave stands a stone dais, and on it: a shrine. A carved bowl, a small stone figure, offerings arranged carefully around the base. The bowl has been knocked over. The figure has been defaced. The offerings have been replaced with filth and territorial markings.*
+
+*The Sahuagin that live here are badly deformed — asymmetrical, wrong proportions, some with vestigial additional limbs or joints that flex the wrong direction. They attack on sight.*
+
+**Wave 1:** Six **Sahuagin** (Monster Manual, CR 1/2 each) emerge from crevices in the walls. Their deformities are visible and disturbing — limbs that are too long or too short, eyes set unevenly, bodies that move with a fast, lurching wrongness that is harder to describe than to feel. One carries a crude weapon fashioned from bone. They fight without strategy.
+
+**Wave 2:** Four **Sahuagin** and one **Sahuagin Priestess** (Monster Manual, CR 3) emerge from the passage behind the dais. The Priestess keeps distance and attempts to direct the others. *The defaced shrine makes divine focus difficult in the cavern's interior: any spellcaster within ten feet of the dais who rolls a 1 on their spellcasting die automatically loses concentration on that spell, even if they would otherwise maintain it. This applies to the Priestess as readily as to party casters — she will be aware of the problem and keep her distance accordingly.*
+
+**Wave 3 — The Warden:** A large, four-armed creature emerges from the deepest passage in the cave wall. It is Sahuagin in origin, but barely recognizable as one — the deformity here is not incidental but total. Each pair of arms is a different size and built on a different scale, as though the creature grew in two separate directions at once. It moves toward the dais and positions itself between the party and the shrine. It does not pursue anyone who retreats; it defends.
+
+*The Warden requires an Appendix B entry. See Appendix B for full stat block.*
+
+*During the Warden fight, the DM may choose to have **Alvolea** — a belief-spirit born from the violence the Sahuagin committed when they first arrived on this island — manifest briefly at the edge of the lichen-light: a distorted shape that watches without moving. It disappears when the Warden falls. Alvolea is not a threat and takes no action; its appearance is atmospheric.*
+
+**After combat:** The shrine is repairable. The bowl is intact — only knocked over, not cracked. The figure is defaced but the original form is recoverable with care. Replacing the scattered offerings with fresh ones and restoring the figure takes a short rest's worth of patient work; the most delicate step requires a DC 12 Dexterity check. On a failure, the work takes twice as long but is not permanently ruined.
+
+The Summoning ritual requires an offering appropriate to the spirit being contacted. The repair of the shrine *is* that offering. No separate material gift is needed; the act of restoring it is what Kelpie requires.
+
+---
+
+### Scene 6: Kelpie
+
+*The Summoning ritual can be performed as soon as the shrine is repaired.*
+
+**Read-aloud (Kelpie's arrival):**
+
+> *The restored bowl fills without being poured — the water appears all at once, surface already still. It does not ripple. Then Kelpie is there: sitting on the rim as if the bowl were the edge of a tide pool, half in and half out. She is halfling-sized, finned, her skin the pale green-grey of shallow water over sand. She looks at the party for a moment before she speaks. *
+>
+> *"Kelpie wondered if anyone would come." *
+
+Kelpie is a lesser nature spirit — smaller in scale than an Old God, bound to this single unnamed island, incapable of leaving it. She is not diminished by what happened here, but she is changed by the long absence of company. She speaks in the third person, calmly and without performance. She will answer questions honestly and fully, within the limits of what she actually knows.
+
+**What Kelpie can speak to:**
+
+*Alvolea:* The Sahuagin that colonized her island committed a significant act of violence when they arrived — they destroyed the other community that had previously used the island. That violence, concentrated and witnessed by Kelpie, gave rise to a belief-spirit: **Alvolea**, a spirit of slaughter. "He grew from what the wrong-shaped ones did here," she says. "He is not strong now — Kelpie has him. He was never much." She does not appear troubled by the situation. With the Sahuagin largely destroyed, Alvolea has little left to sustain him.
+
+*The missing visitors:* "Kelpie had the other two legs of the sea, once — the ones who breathed water. They stopped coming." She cannot say precisely when; her sense of time is imprecise in the way of very old beings who do not age. A DC 14 Investigation or History check by a party member can piece together that the timeline of their disappearance aligns with the Sahuagin's arrival. When asked directly, she confirms: the Sahuagin came from the west. "From where the sea is dying," she says. "Kelpie does not know that place."
+
+*General questions:* She has never left her island so her knowledge of the wider world is limited. She will describe what she can of the Middle Sea, the spirits that exist within it, and the nature of spirit experience as she understands it. She is not a source of mission-relevant intelligence, but she is not a dead end either — a thoughtful party will get more from her than a transactional one.
+
+*The Voice of the Sea:* She produces it from the water beside her — a large pale orange conch shell, dry despite its origin. She offers it without fanfare. Her only condition: they bring it back when they are finished with it. "She has waited before," she says.
+
+**Read-aloud (the gift):**
+
+> *The shell is large, pale orange, unmarked. It is dry despite where it came from. Kelpie holds it out and does not let go immediately — she holds it for a moment after your hand closes around it, as if taking one last measure of something. *
+>
+> *Then she releases it, and the bowl is empty. *
+
+*The Voice of the Sea is a minor artifact; full mechanics appear in Appendix B. The return obligation — Kelpie asked that the shell come back to her eventually — is worth tracking. The party made a promise to a spirit, and spirits remember.*
+
+---
+
+### Departure
+
+The hull is repaired. The party boards. Cuculahan signs off on the repair without further comment.
+
+> *Warebock doesn't ask what happened on the island. He looks at the party for a moment — at the shell — and nods once. The Dawnflower's sails fill with the morning wind. *
+>
+> *The island grows small behind you. Then it is only the rocky northern shore. Then it is gone. *
+
+*No milestone. The party remains at Level 7 for the remainder of the crossing.*
+
+*Transition to Chapter 9: Landfall.*
+
+---
+
+## Chapter 8 NPC Summary
+
+| NPC | Role | Notes |
+|-----|------|-------|
+| Warebock | Captain; course decisions | Social only |
+| Cuculahan | First officer; hull assessment | Social only |
+| Chimal | Ship security; Avengers observer | Social only; Stranger thread active throughout |
+| Orthon | APA Wizard; weather and detection magic | Social only; essential to Scene 3 |
+| Dalen | Seawatch ranger; Funi (albatross) and Kuni (dolphin) | Social only; random encounter hooks |
+| Kelpie | Nature spirit of the unnamed island | Summoning ritual; social only |
+| Alvolea | Belief-spirit of slaughter; declining | Not directly encountered; optional visual during Warden fight |
+
+---
+
+## Chapter 9: Landfall *(Level 7)*
+
+### Chapter Summary
+
+The Middle Sea crossing is nearly over. The Dawnflower has been at sea for approximately ten weeks — the last two since the unnamed island — and the crew has been watching the horizon for Unity landmass for several days when land finally appears: the western continent's eastern coast, an unbroken grey-green line that grows more detailed as the ship makes for the peninsula marking the entrance to Caskara Bay.
+
+This chapter is defined by two encounters that, taken together, constitute the party's first real contact with the Unity: the first as a threat that can still be avoided; the second as a society they must now enter and move through without being seen for what they are.
+
+**The Errant Venture** is a Unity fishing trawler the Dawnflower encounters near the peninsula before turning into Caskara Bay. How this encounter is handled — whether the party evades it cleanly, talks their way through it, or triggers the fight that follows a failed exchange — is their first test of the skills six months in Heida were supposed to provide. The decision that follows a combat outcome (what to do with the surviving crew) is the first ethical test the Unity will put to them, and the party should feel the weight of it.
+
+**Mahakam Island** is the Dawnflower's actual destination: a large island at the bay's mouth, where the Wayfinder-operated shipyard run by **Kaman** provides the staging ground for the party's entrance into the continent. Kaman is efficient, experienced, and impossible to fluster. He provides cover documents, cover story, and transport without ceremony. Before the party goes ashore, Warebock makes clear that how they handled the Errant Venture is the first thing Kaman will hear from him.
+
+**Daliketh** is reached by tug in the early afternoon. The city that appears ahead of Kaman's boat is nothing like what the party's maps prepared them for — scale, density, smoke, noise, and crowds of ordinary people going about their ordinary lives. The 90-minute walk to the **Garden House** in the Northgate precinct is the party's first unguided exposure to the Unity. The social encounter table for Daliketh applies here for the first time: the DM rolls three times on first arrival, and each entry is designed to show the party something specific about the place they have entered.
+
+The chapter ends when **Neeta Whitecliff** shows the party to their rooms.
+
+*No milestone fires in Chapter 9. The party remains at Level 7 for the whole of their Daliketh operation.*
+
+**Characters introduced:** Kaman, Kore, Neeta Whitecliff.
+**Characters returning:** Warebock, Cuculahan, Chimal, Orthon, Dalen.
+
+---
+
+### Scene 1: The Approach
+
+*The last leg of the crossing. The party has been at sea for ten weeks. After the island and the weeks since, the voyage has settled into a rhythm — watches, meals, the accumulated small knowledge of who these people are. Then land appears. This opening is quiet; the DM should let the party's reaction to first sight be the scene.*
+
+The western coast appears first as a smudge in the morning light: a continuous line of grey-green that resolves, over several hours, into a low wooded shoreline. The peninsula is visible by early afternoon — a long headland that marks the entrance to Caskara Bay, where the Dawnflower will turn and run south for Mahakam Island.
+
+**Orthon's briefing:** Two to three days to landfall depending on winds. His instruments have detected no coastal patrol vessels at range, but he notes that Unity patrols are common once the ship enters the bay. He describes the geography briefly: Caskara Bay is large and sheltered, the most significant harbor on the eastern coast; Mahakam Island sits at its mouth; the city of Daliketh is at its head. He answers questions precisely and volunteers nothing beyond what he has been asked.
+
+**The last evening aboard:** Give the party time to speak to the crew before the nature of the voyage changes. Warebock is already in a different register — practical, focused, watching the coast. The transition is quiet. Dalen's albatross Funi has been flying wider arcs than usual, and he has said nothing about what she is reporting. Chimal has been watching the horizon.
+
+---
+
+### Scene 2: The Errant Venture
+
+*The encounter occurs as the Dawnflower rounds the peninsula before turning into Caskara Bay. A party member on crow's nest watch makes the check; the outcome determines everything that follows.*
+
+**Perception check: DC 17.** The lookout must spot the Errant Venture before it spots the Dawnflower.
+
+#### If the check succeeds
+
+Orthon is already watching when the lookout reports. He casts *fog cloud* at a high level — thick mist rolls ahead of the Dawnflower within seconds. The Venture has settled in for deep-sea fishing and will not move on for the rest of the day; it is not a threat to fight, only a hazard to navigate around.
+
+Warebock sends the party and Dalen topside to maintain watch from inside the fog. The crew navigates by sound and instrument while Orthon maintains the concealment, maneuvering the Dawnflower in a slow arc around the Venture over the course of the day. By evening, when the Venture has finally moved on and the fog disperses, Orthon reports that he needs a full day of rest before he can work weather magic again. He says this as logistics, not complaint.
+
+The Dawnflower continues without incident.
+
+#### If the check fails
+
+The Venture's crew notice the Dawnflower first. A sailing ship with clockwork automation is a genuine curiosity in the Unity — most vessels of that size run on steam. The Venture's captain brings his ship alongside with evident interest rather than suspicion; his tone when he hails Warebock is friendly.
+
+Warebock assembles the party quickly. His crew are crossing experts; they have no training for what comes next. The party will need to do the talking.
+
+Three exchanges follow as the Venture draws alongside:
+
+1. ***"What is the deal with your ship?"*** The crew is delighted by the Dawnflower's mechanisms. **DC 12 Deception.** The cover story — an experimental vessel from Jindark completing sea trials — needs to hold up against friendly curiosity.
+
+2. ***"Where are you from and where are you heading?"*** The captain knows the regional shipping world. The story must account for why a Jindark technical crew is approaching from open sea rather than a northern port. **DC 15 Deception.**
+
+3. ***"Can we come look at your ship?"*** Unity citizens are communal and enthusiastic — someone with an unusual vessel would typically love to show it off. Any refusal must be carefully worded. **DC 16 Deception.** Cuculahan keeps visible distance from the most unusual mechanisms.
+
+*If all three checks succeed:* The Venture departs with a disappointed but satisfied crew. The captain waves from the rail. Life continues.
+
+*If any check fails:* The captain's tone shifts — he considers aloud whether they might be rebels, or a scout from the east. He has heard the rumors, he says, not unkindly. One final opportunity: a single PC makes a Deception, Intimidation, or Persuasion check against the captain's **+8 Insight**. On a success, he decides he is being overly suspicious and the Venture goes on its way. On a failure, he sends four rifle-armed crewmembers across to the Dawnflower to bring the party in for questioning.
+
+**Combat:** The boarding crew use the **Bandit** stat block (*MM*, p. 343) with a single-shot rifle substituted for their crossbow — the same damage profile; the rifle requires a full action to reload after firing. The captain remains on the Venture's deck. Warebock's crew do not engage; they are not fighters.
+
+**After combat:** The boarding crew are down. The captain has watched from across the water. If more than two of his crew are dead, he is not moving his ship.
+
+The party must decide what to do with the Errant Venture and its surviving crew.
+
+**Chimal** makes her position clear: the Venture must be sunk with all hands. The risk of any survivor reporting this encounter to the Advocates is too great. She is not emotional about this. She is right about the risk, and she knows it. **Warebock** pushes back if the party does not engage — he is not a killer of civilians regardless of the operational calculus, and he will say so plainly. *A party that stays silent while two members of their expedition debate whether to kill civilians has already made a decision.*
+
+*Stranger thread note: Chimal's argument is both genuine security analysis and diagnostic. She is watching the party to learn whether they will make the hard call when circumstances demand it, and she will report her assessment to Avengers leadership. A party that refuses to consider sinking the Venture reads as operationally cautious but potentially unreliable as assets. A party that agrees without discussion reads as considerably more dangerous than expected.*
+
+**Orthon's alternative (if sought):** He was below decks for the encounter — placed there deliberately to reduce suspicion — but if the party seeks him out, he mentions that he has been carrying a set of scrolls for exactly this kind of emergency: *deep slumber* and *modify memory*, enough to put the surviving crew to sleep for several days and alter their memories of the encounter. He does not present this as obviously better than Chimal's solution. She will note that it does not explain the missing boarding crew to anyone who comes looking. Warebock, given the option, will push for the non-lethal approach.
+
+*This is the party's first direct contact with ordinary Unity citizens. Whatever they choose here, and how they choose it, establishes something about who they are inside the Unity.*
+
+---
+
+### Scene 3: Mahakam Island
+
+*The Dawnflower arrives at the mouth of Caskara Bay as evening approaches. Orthon shrouds the ship in fog on approach; a signal light flashes from a cove on the island's southern shore; the ship navigates in by the light and makes fast at the dock. This is the last time the party will stand on a Wayfinder-held landing for several months.*
+
+**Warebock's assessment (on deck, before going ashore):** Not a speech — a few sentences. The party's standing with the Wayfinders is that of an unknown quantity: they will not be trusted until they have earned it, and that begins now. If the Errant Venture encounter went well, he says so explicitly and tells them it will count in their favor when he makes his report to Kaman. If it went badly, or did not occur at all, he has nothing positive to pass on and does not fabricate.
+
+**The shipyard and warehouse:** The cove connects to a Wayfinder-operated shipyard whose attached warehouse has a concealed section — communal sleeping space that currently serves as a staging area for rescued practitioners awaiting passage to the Isles. The party is quartered here alongside **Kore**, a half-elf druid who arrived recently and is waiting for the Dawnflower's return. She has been inside the Unity for two years. She does not want to talk about it yet; she is sleeping more than twelve hours a day and eating everything set in front of her. Warebock and his crew are resting here as well — they are waiting on Kore's departure before the Dawnflower returns to the Isles.
+
+**Kaman:** The Wayfinder who has run this leg of the operation for thirty years, using the shipyard as cover. He speaks briefly with Warebock on arrival — a quick private debrief — then disappears for the night. He returns very early the next morning with cover documents for each party member: identities backed by actual Daliketh registration records, which he maintains through a contact in the city's housing bureau. The party's cover is a technical crew from Jindark returning north after completing consulting work on an experimental vessel at his yard. Their Daliketh contact will arrange transportation for the next leg and provide instructions for how to reach them. He gives the party an hour, then loads them onto the tug.
+
+*If the party had a direct encounter with the Errant Venture but successfully talked the crew away:* A constabulary patrol visits the shipyard before the party departs. The warehouse goes into lockdown while Kaman handles the constables with professional ease; no one is found. After they leave, he gives Warebock a thorough, unemotional tongue-lashing on the dock and reschedules the party's departure for the following morning.
+
+---
+
+### Scene 4: Daliketh — First Sight
+
+*The tug journey from Mahakam Island to Daliketh takes several hours, moving up Caskara Bay past fishing boats and cargo vessels. The city comes into view gradually — smoke first, then the outline of buildings, then detail that keeps revealing more detail. The party arrives just before midday on a break day, when citizens are out in force.*
+
+> *Daliketh does not announce itself. The smoke was visible from the island — a persistent smudge against the sky — but the scale only becomes clear as the bay narrows and the dock district resolves ahead of you. The port stretches in both directions past the point where you can see either end. Behind it: buildings and more buildings, chimneys and bridges and something enormous and dark framing the city's western quarter that your eye keeps trying to interpret as a hill, even when you are close enough to see it is not.*
+>
+> *Citizens are out in force on the waterfront. A community event of some kind — tables, banners, children. Someone is arguing about something on a pier. Everyone looks entirely comfortable being here.*
+>
+> *Kaman cuts the engine and ties up at a working dock south of the main waterfront. He doesn't look at the city — he looks at each of you in turn.*
+>
+> *"Papers are in the satchel. Main boulevard north off the dock, ask anyone for Northgate — they'll point you right. Hour and a half on foot. Your contact will find you at the Garden House." He pauses. "If something's not clear, ask it now. Once you're off this boat I can't help you."*
+
+*Allow the party to ask questions. Kaman answers directly and without impatience: the cover story, what to expect from the city, how to behave, what not to do. He has briefed enough people to know what gaps actually matter. If the party asks nothing, he takes that as its own kind of answer.*
+
+> *When the questions are done, he looks at the dock, then back at the party. "Thirty years I've been running people through this city. Most of them made it. The ones who didn't were the ones who thought it would be easier than it looks." He picks up a line. "It isn't. But you're better prepared than most." A short nod. "Go."*
+
+---
+
+### Scene 5: The Walk to the Garden House
+
+*The party is alone in a Unity city for the first time. The 90-minute walk from the waterfront to the Garden House passes through three distinct neighborhoods — the port district, the city center, and the Northgate precinct — and requires three Intelligence checks to follow Kaman's directions.*
+
+**Navigation checks: DC 13 each.** A failed check means the party has gone wrong somewhere and must backtrack or stop to ask directions — add 30 minutes to the walk and one additional encounter table roll. Characters with an urban background, or who succeeded consistently on Tiamane's cultural drills during training, may make one check with advantage at the DM's discretion.
+
+**The Daliketh Encounter Table (d10):** This table is available throughout the party's entire time in Daliketh — during this walk, during the days they spend at the Garden House, and during the operational sequence in Chapter 10. On first arriving in the city, the DM rolls three times, re-rolling duplicates. Each entry illustrates something specific about the Unity as a lived society; the DM should let the entry breathe rather than rushing through it.
+
+| d10 | Encounter | Unity Aspect Showcased |
+|-----|-----------|------------------------|
+| 1 | **The Helpful Constable** — A constable notices the party consulting their directions and walks two blocks with them, pointing out landmarks. He asks, with complete naturalness, where they're from, how long they're staying, and whether they've registered with the local housing board. He is not interrogating them — this is simply how he talks to everyone. | Institutionalized nosiness; the constabulary as simultaneously helpful and surveillant |
+| 2 | **The Collar** — A confident, well-dressed woman passes wearing a slim metal collar etched with faint markings. Passersby greet her with particular warmth. If the party asks, a local explains she is a registered practitioner — "very civic-minded, wears her collar voluntarily." Said with evident admiration. | The collar system; compliance as social distinction; the inversion of what the party expects |
+| 3 | **The School Break** — A crocodile of children, perhaps eight years old, crossing an intersection in two neat lines under grey-coated adult supervision. Happy and chatting, but moving with practiced orderliness. No child holds a parent's hand. No adult on the street seems to be waiting for a specific child. A perfectly ordinary Tuesday. | The school system; children in state care as unremarkable routine |
+| 4 | **The Political Debate** — A small crowd in a plaza has gathered around two men arguing loudly about a proposed regional water levy. Both are well-informed and impassioned; people stop to listen, chip in, take sides. Someone produces a pamphlet. If the party tries to join in, they are welcomed and asked their opinion immediately. | Plebiscite culture; the expectation of political engagement; the danger of uninformed opinions |
+| 5 | **The Satire Line** — A queue outside a theatre for *THE COUNCILOR'S NEW TROUSERS — A COMEDY IN THREE ACTS*, advertised with a caricature of a Unity Council member in absurdly large trousers. The queue is cheerful and opinionated. "He deserves it — have you heard his position on the Keldmar grain allocation?" | The vibrant satirical culture and its coexistence with the line that cannot be crossed |
+| 6 | **The Communal Table** — In a small square, a long table has been set up and neighbors are sharing a meal — each household contributed something. A man the party has never met waves them over and tells them to help themselves. If they hesitate, he assumes they're shy and plates food for them personally. Refusing would be rude. | Radical communal generosity; warmth as social pressure |
+| 7 | **The Quiet Pressure** — Outside an apartment building, a calm cluster of neighbors gently confronts a young man who has been keeping odd hours and skipping the building's maintenance rota. They're not angry — they're *worried*. "We just want to make sure you're all right." He apologizes and says he's been struggling. They nod warmly and continue pressing. | Social enforcement through care; the suffocating weight of mutual accountability |
+| 8 | **The Dirigible** — A low thrum overhead. A massive dirigible in Unity colors passes directly over the street. Pedestrians glance up with the casual appreciation of people who have seen this a thousand times. A child points; a parent answers without looking up. The shadow passes. Life continues. | The technological gap; the party's first visceral sense of what they're up against |
+| 9 | **The Tax Conversation** — Two people ahead of the party discuss their annual tax contribution — a work rotation at the waterworks versus preserved goods from an allotment. Neither mentions currency. If a party member asks about paying in coin, both look briefly baffled, then explain patiently that coin is technically an option, "but the contribution office can be a bit difficult about the exchange rate." | The Unity's economic system; labor-as-tax as social norm; a quiet tell for outsiders |
+| 10 | **The Man Who Stopped** — A man sits on a bench in a park watching a fountain. Not reading, not eating — just watching. Two neighbors have already stopped to check on him; both times he smiled and said he was fine. A party member with a high Insight check gets a feeling they cannot name. He isn't sad exactly. He isn't anything. The fountain trickles. *(Works well as the last encounter before reaching the Garden House.)* | Lon's presence in the Unity; the "end of history" made flesh; hope's absence that doesn't look like despair |
+
+**The Garden House:** A boarding house and restaurant in the Northgate precinct — clean, warm, ordinary. **Neeta Whitecliff** is a halfling woman who runs the place with the ease of someone who has never needed to perform warmth. She meets them in the dining room, shows them to a private suite on the second floor, and reminds them not to draw attention to themselves. She does not explain what she knows about them or why she is helping. Not here.
+
+> *The suite is clean and large enough for all of you. Two rooms, four beds, a window that looks onto the side street. Neeta has left bread and a covered pot on the table.*
+>
+> *Outside: a street that looks exactly like every other street in this city. Busy. Ordinary. Nothing like home.*
+
+*They are on their own until the following day.*
+
+*No milestone. The party remains at Level 7.*
+
+*Transition to Chapter 10: A World So Strange.*
+
+---
+
+## Chapter 9 NPC Summary
+
+| NPC | Role | Notes |
+|-----|------|-------|
+| Warebock | Captain; pre-departure Wayfinder standing assessment | Social only |
+| Cuculahan | First Officer; present throughout | Social only |
+| Chimal | Ship security; Errant Venture argument; Stranger thread active | Social only |
+| Orthon | Fog concealment (spotted track); scroll alternative (combat track) | Tactical/Social |
+| Dalen | Watch duty (spotted track); present throughout | Social only |
+| Kaman | Mahakam Island operator; cover documents; tug escort | Social only |
+| Kore | Recent rescue awaiting passage; female; minor presence | Social only |
+| Neeta Whitecliff | Garden House owner; Wayfinder contact | Social only |
 
 ---
 
@@ -2626,4 +3306,46 @@ Senna may be drawn into combat if a forest encounter escalates in her presence. 
 **Reactions**
 
 ***Uncanny Dodge.*** When Senna is hit by an attack she can see, she can use her reaction to halve the damage.
+
+---
+
+## The Warden *(Chapter 8)*
+
+The Warden is what became of the Sahuagin that claimed the shrine's dais as its territory. Larger than any of the others, it has four functional arms of mismatched proportion — two heavy and low-set, two longer and lighter — each apparently the product of a separate deformity at a different stage of its life. It does not speak and cannot be reasoned with. It fights to hold the dais against any encroachment and does not pursue past the cave mouth.
+
+*Large monstrosity, unaligned*
+
+**Armor Class** 14 (natural armor) | **Hit Points** 133 (14d10 + 56) | **Speed** 30 ft., swim 40 ft.
+
+| STR | DEX | CON | INT | WIS | CHA |
+|-----|-----|-----|-----|-----|-----|
+| 20 (+5) | 10 (+0) | 18 (+4) | 4 (-3) | 10 (+0) | 5 (-3) |
+
+**Saving Throws** Str +8, Con +7
+**Skills** Perception +3
+**Senses** Darkvision 60 ft., passive Perception 13
+**Languages** —
+**Challenge** 5 (1,800 XP)
+
+---
+
+**Blood Frenzy.** The Warden has advantage on melee attack rolls against any creature that doesn't have all its hit points.
+
+**Four-Armed Grappler.** The Warden can grapple up to two creatures simultaneously. While maintaining one or two grapples, it can still make its full Multiattack against any target.
+
+**Territorial.** The Warden will not pursue prey beyond the cave mouth. If forced past that threshold, it stops, returns to the dais, and does not re-engage unless attacked.
+
+#### Actions
+
+**Multiattack.** The Warden makes two claw attacks.
+
+**Claw.** *Melee Weapon Attack:* +8 to hit, reach 5 ft., one target. *Hit:* 14 (2d8 + 5) slashing damage.
+
+**Pinning Grab (Bonus Action).** The Warden attempts to grapple one creature within 5 feet (escape DC 16). If it already has one creature grappled, it may use this action to grapple a second creature with its other pair of arms.
+
+#### Reactions
+
+**Holding Strike.** When a creature within 5 feet of the Warden moves, the Warden makes one claw attack against it as a reaction. Unlike a standard opportunity attack, this reaction triggers on any movement within reach, not only when the target leaves reach.
+
+*The Warden has no treasure.*
 

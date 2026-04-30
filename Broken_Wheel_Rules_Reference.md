@@ -1,4 +1,4 @@
-# BROKEN WHEEL — RULES REFERENCE
+﻿# BROKEN WHEEL — RULES REFERENCE
 
 > **Note on "CR" abbreviation:** In these rules, "Command Rating" is always written in full to avoid collision with "Challenge Rating" (also CR) in standard Pathfinder usage. A distinct shorthand may be adopted before finalization.
 
@@ -29,7 +29,7 @@ A Unit is a single military formation of approximately 64 soldiers. All Units us
 | **Defense Value (DV)** | ACR + 10 (plus resource and ability bonuses) |
 | **Offense Modifier (OM)** | ACR (plus resource and ability bonuses) |
 | **Morale** | Starts at 0; range –4 to +4 |
-| **Consumption** | ACR ÷ 2 RP per Turn (minimum 1 RP; see Part VII) |
+| **Consumption** | Defined per unit type; see Part XXI |
 
 ### Morale
 
@@ -37,7 +37,7 @@ Morale modifies Loyalty checks and tactic availability. A Unit whose Morale fall
 
 ### Tactics
 
-Units learn new tactics through battlefield victory. A Unit may know a maximum number of tactics equal to ACR ÷ 2 (minimum 0). Available tactics:
+Units learn new tactics through battlefield victory. A Unit may know a maximum number of **earned** tactics equal to ACR ÷ 2 (minimum 0). Named unit entries (see Part XXI) may list **starting tactics** that are innate to that unit type; starting tactics do not count against the earned-tactic maximum. A unit's total tactics at any time = starting tactics + earned tactics. Available tactics:
 
 | Tactic | Effect |
 |---|---|
@@ -68,9 +68,10 @@ Resources are purchased with RP at Unit creation or during Turn Resolution. Each
 | Magic Armor | 15 RP | +2 RP/Turn | +2 DV |
 | Improved Weapons | 5 RP | +1 RP/Turn | +1 OM |
 | Magic Weapons | 50 RP | +3 RP/Turn | +2 OM |
-| Mounts | RP = mount ACR | +1 RP/Turn | +2 OM and DV |
-| Ranged Weapons | 2 RP | +1 RP/Turn | Grants ranged attack capability |
-| Siege Engines | 15 RP each | +2 RP/Turn each | +2 OM; reduce enemy fortification DV by 1d4 per engine |
+| Light Warhorse Mounts | 1 RP | +1 RP/Turn | +1 OM and DV |
+| Heavy Warhorse Mounts | 2 RP | +2 RP/Turn | +2 OM and DV |
+| Throwing Weapons | 2 RP | +1 RP/Turn | Grants Ranged(2) attack capability |
+| Bows | 2 RP | +1 RP/Turn | Grants Ranged(3) attack capability |
 
 *Full RP costs and acquisition procedures are defined in Part VII when the economic system is finalized.*
 
@@ -167,10 +168,10 @@ The controlling player or Commander selects an active tactic (if any) and a Stra
 | Reckless | –4 | +4 | +6 |
 
 **2. Ranged Phase**
-Units with ranged capability make one ranged attack against any valid target within range. Roll 1d20 + OM vs. target DV. On a hit, damage = result – DV. See Ranged Weapons below for range rules.
+Units with ranged capability make one ranged attack against any valid target within range. Roll 1d20 + OM vs. target DV. On a hit, damage = result – DV (minimum 0). See Ranged Weapons below for range rules.
 
 **3. Melee Phase**
-Engaged Units make melee attacks simultaneously. Roll 1d20 + OM vs. target DV. On a hit, damage = result – DV. Melee phases repeat until one side routs, is destroyed, or withdraws.
+Engaged Units make melee attacks simultaneously. Roll 1d20 + OM vs. target DV. On a hit, damage = result – DV (minimum 0). Melee phases repeat until one side routs, is destroyed, or withdraws.
 
 ### Ranged Weapons
 
@@ -240,7 +241,7 @@ Calculate the following for each side before rolling:
 ### Aggregate Resolution
 
 1. Both sides' Commanders select a Strategy Track position (default: Standard if no Commander is present). Apply modifiers to Aggregate OM, DV, and damage.
-2. Roll 1d20 + Aggregate OM vs. enemy Aggregate DV. On a hit, damage = result – DV. Both sides roll simultaneously.
+2. Roll 1d20 + Aggregate OM vs. enemy Aggregate DV. On a hit, damage = result – DV (minimum 0). Both sides roll simultaneously.
 3. Apply damage to each side's Aggregate HP.
 4. Resolve Ranged Phase first (if applicable), then repeat Melee Phase up to three times, or until one side's Aggregate HP triggers a rout check.
 5. When Aggregate HP falls to the sum of all Units' ACR values or below, the Commander makes a DC 15 Morale check (using the army's average Morale). On failure, all Units rout.
@@ -288,11 +289,7 @@ Enemy forces operate under the same rules as the party. Enemy Commanders lead Ar
 
 ### Unit Consumption
 
-Each Unit pays Consumption at Turn Resolution (end of each Turn, monthly).
-
-> **Base Consumption = ACR ÷ 2 RP per Turn (minimum 1 RP)**
-
-Resource upgrades increase Consumption as listed in the Unit Resources table (Part II). A Commander with the Live off the Land boon reduces the Army's total Consumption by 1 RP per Turn.
+Each Unit pays Consumption at Turn Resolution (end of each Turn, monthly). Each unit type's Consumption is a designed upkeep cost listed in its entry in Part XXI. Resource upgrades increase Consumption as listed in the Unit Resources table (Part II). A Commander with the Live off the Land boon reduces the Army's total Consumption by 1 RP per Turn.
 
 **Missed Consumption:** If a Unit cannot pay its full Consumption for a Turn, its Morale decreases by 2. If Morale falls to –5, the Unit disbands.
 
@@ -354,8 +351,6 @@ A Unit reduced to 0 HP is destroyed. The GM determines narrative consequences: p
 
 ---
 
----
-
 # ECONOMIC SYSTEM
 
 ---
@@ -379,7 +374,7 @@ Region I (Severan) contains Settlements directly without Province subdivision.
 
 ## XIV. Settlement Statistics
 
-Each Settlement has five statistics:
+Each Settlement has six statistics:
 
 | Statistic | Description |
 |---|---|
@@ -718,12 +713,1519 @@ Each Turn of a siege, both sides may take the following actions. Actions are dec
 
 ---
 
-## XXI. Reserved: Unit Types
+## XXI. Unit Types
 
-*Unit type definitions, base costs, and per-settlement recruitment lists — defined in the Unit Types section.*
+> *Terminology note: "Unit" in these rules corresponds to "Army" in the Pathfinder SRD. "Army" in these rules refers to a group of Units under a Commander (see Part III). Cross-reference the SRD accordingly.*
 
 ---
 
+### Special Abilities
+
+The following special abilities appear on unit entries. Additional abilities may be defined as specific unit types require.
+
+**Fly** — On the tactical map, this unit moves over all terrain without penalty. Only flying units or units with Ranged capability can engage it while airborne. It may choose to land and fight as a ground unit.
+
+**Raiding** — This unit is trained for rapid strikes and plunder. It may participate in Raid Settlement and Objective Raid strategic actions (see Part XXII).
+
+**Scouting** — This unit is trained for reconnaissance. It may be assigned to the Scouting strategic action (see Part XXII). While performing a Scouting action, the unit detaches from any Army it belongs to and is unavailable for engagements during that Turn.
+
+---
+
+### Unit Entry Format
+
+Each unit entry uses the following format. Stats reflect the unit's baseline configuration; purchased resource upgrades modify DV, OM, and Speed as noted in each resource entry.
+
+| Stat | Description |
+|---|---|
+| **Type** | Creature type of the unit's soldiers |
+| **ACR** | Army Challenge Rating — CR of individual soldiers (no size modifier) |
+| **Speed** | Tactical squares / strategic squares per Round |
+| **HP** | ACR × average HD value |
+| **DV** | ACR + 10 (plus resource bonuses) |
+| **OM** | ACR (plus resource bonuses); Ranged(n) noted where applicable |
+| **Morale** | Starts at 0; range –4 to +4 |
+| **Consumption** | RP cost per Turn |
+| **Resources** | Equipment built into the unit at baseline |
+| **Tactics** | Starting tactics (if any) and maximum tactics (ACR ÷ 2) |
+
+---
+
+### Unit Entries
+
+---
+
+#### Infantry
+*A formation of roughly 100 soldiers armed with a variety of hand weapons and outfitted with medium armor. The backbone of any conventional fighting force.*
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human or mixed-race); Fighter 1 |
+| **ACR** | 1 |
+| **Speed** | 1/5 |
+| **HP** | 5 |
+| **DV** | 12 |
+| **OM** | +1 |
+| **Morale** | +0 |
+| **Consumption** | 2 RP/Turn |
+| **Resources** | — |
+| **Tactics** | None (max 0 earned) |
+
+**Special Abilities:** None
+**Recruitment:** 5 RP — Administrative, Military, Trade, Industrial
+
+---
+
+#### Slingers
+*Light troops armed with slings. The cheapest ranged option available, capable of supporting formations even while on the move.*
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human or mixed-race); Fighter 1 |
+| **ACR** | 1 |
+| **Speed** | 1/5 |
+| **HP** | 5 |
+| **DV** | 11 |
+| **OM** | +1; Ranged(2) |
+| **Morale** | +0 |
+| **Consumption** | 1 RP/Turn |
+| **Resources** | — |
+| **Tactics** | None (max 0 earned) |
+
+**Special Abilities:**
+- **Mobile Fire** — This unit may use its Ranged attack in the same phase it moves.
+
+**Recruitment:** 2 RP — Any
+
+---
+
+#### Spearmen
+*A formation of soldiers armed with spears, shields, and light armor. Trained to hold ground and break cavalry charges.*
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human or mixed-race); Fighter 1 |
+| **ACR** | 1 |
+| **Speed** | 1/4 |
+| **HP** | 5 |
+| **DV** | 11 |
+| **OM** | +1 |
+| **Morale** | +0 |
+| **Consumption** | 2 RP/Turn |
+| **Resources** | — |
+| **Tactics** | Defensive Wall (starting — innate); max 0 earned |
+
+**Special Abilities:**
+- **Spear Formation** — This unit gains +2 OM against mounted units.
+
+**Recruitment:** 5 RP — Administrative, Military, Trade, Industrial
+
+---
+
+#### Militia
+*A formation of citizen soldiers, armed with a mix of weaponry and light armor. Less effective in the open field, but formidable when defending their own settlements.*
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human or mixed-race); Fighter 1 |
+| **ACR** | 1 |
+| **Speed** | 1/4 |
+| **HP** | 5 |
+| **DV** | 10 |
+| **OM** | +0 |
+| **Morale** | +0 |
+| **Consumption** | 1 RP/Turn |
+| **Resources** | — |
+| **Tactics** | None (max 0 earned) |
+
+**Special Abilities:**
+- **Home Ground** — While within 5 squares of a friendly settlement, this unit gains +3 DV and +1 Morale. When this unit begins and ends a strategic Turn garrisoned within a friendly settlement, its Consumption for that Turn is 0.
+
+**Recruitment:** 2 RP — Any
+
+---
+
+#### Arbalestiers
+*Soldiers armed with heavy crossbows. Their bolts hit harder than a shortbow at equivalent range, but the time required to reload limits how often they can fire.*
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human or mixed-race); Fighter 1 |
+| **ACR** | 1 |
+| **Speed** | 1/5 |
+| **HP** | 5 |
+| **DV** | 12 |
+| **OM** | +2; Ranged(3) |
+| **Morale** | +0 |
+| **Consumption** | 2 RP/Turn |
+| **Resources** | — |
+| **Tactics** | None (max 0 earned) |
+
+**Special Abilities:**
+- **Slow Reload** — After making a Ranged attack, this unit may not make another Ranged attack during the following phase. It may make normal melee attacks in any phase.
+
+**Recruitment:** 3 RP — Administrative, Military, Trade, Industrial
+
+---
+
+#### Monks
+*Disciplined martial artists who fight with fist and foot, trained in monastic orders. Individually devastating and difficult to disrupt, though still fragile at low experience.*
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human or mixed-race); Monk 1 |
+| **ACR** | 1 |
+| **Speed** | 1/5 |
+| **HP** | 4 |
+| **DV** | 12 |
+| **OM** | +2 |
+| **Morale** | +0 |
+| **Consumption** | 2 RP/Turn |
+| **Resources** | — |
+| **Tactics** | Cautious Combat (starting — innate); max 0 earned |
+
+**Special Abilities:**
+- **Flurry of Blows (1/engagement)** — This unit gains +1 OM for one phase.
+- **Stunning Strike (1/engagement)** — On a successful attack, the target unit takes –2 OM for the following phase.
+
+**Recruitment:** 4 RP — Religious, Educational
+
+---
+
+#### Archers
+*A unit of soldiers trained with shortbow or longbow, providing basic ranged support to formations that need it.*
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human or mixed-race); Fighter 1 |
+| **ACR** | 1 |
+| **Speed** | 1/5 |
+| **HP** | 5 |
+| **DV** | 11 |
+| **OM** | +1; Ranged(3) |
+| **Morale** | +0 |
+| **Consumption** | 2 RP/Turn |
+| **Resources** | — |
+| **Tactics** | Sniper Support (starting — innate); max 0 earned |
+
+**Special Abilities:** None
+**Recruitment:** 3 RP — Administrative, Military, Trade, Industrial
+
+---
+
+#### Skirmishers
+*Javelin-armed light troops trained to harry the enemy line before engagement. They strike at the edges of battle and melt away before their targets can respond.*
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human or mixed-race); Fighter 1 |
+| **ACR** | 1 |
+| **Speed** | 2/10 |
+| **HP** | 5 |
+| **DV** | 11 |
+| **OM** | +1; Ranged(2) |
+| **Morale** | +0 |
+| **Consumption** | 2 RP/Turn |
+| **Resources** | — |
+| **Tactics** | Withdraw (starting — innate); max 0 earned |
+
+**Special Abilities:**
+- **Skirmish Throw** — In any phase this unit uses the Withdraw tactic, it may make a Ranged(2) attack against one target before completing the withdrawal. This does not prevent the Withdraw.
+
+**Recruitment:** 3 RP — Administrative, Military, Agricultural
+
+---
+
+#### Scouts
+*Light-footed trackers and skirmishers, trained to observe and report. More useful for what they learn than what they kill.*
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human or mixed-race); Ranger/Rogue 1 |
+| **ACR** | 1 |
+| **Speed** | 2/10 |
+| **HP** | 4 |
+| **DV** | 11 |
+| **OM** | +1; Ranged(3) |
+| **Morale** | +0 |
+| **Consumption** | 2 RP/Turn |
+| **Resources** | — |
+| **Tactics** | Withdraw (starting — innate); max 0 earned |
+
+**Special Abilities:**
+- **Scouting** — This unit may be assigned to the Scouting strategic action (see Part XXII).
+- **Sneak Attack (1/engagement)** — If this unit attacks a target that is currently engaged with another friendly unit, it gains +2 OM for that phase.
+
+**Recruitment:** 3 RP — Agricultural, Military
+
+---
+
+#### Siege Engineers
+*Trained operators of heavy siege engines, as comfortable calculating trajectories as maintaining equipment under fire. When properly supported, they are the deciding factor in any siege.*
+
+At recruitment, choose one siege engine type. This choice is permanent and determines the unit's OM, Ranged value, and siege effects.
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human or mixed-race); Fighter 2 |
+| **ACR** | 2 |
+| **Speed** | 1/4 |
+| **HP** | 11 |
+| **DV** | 12 |
+| **OM** | See engine type |
+| **Morale** | +0 |
+| **Consumption** | 5 RP/Turn |
+| **Resources** | Siege Engines (1) |
+| **Tactics** | Siegebreaker (starting — innate); max 1 earned |
+
+**Siege Engine Options:**
+
+| Engine | OM | Fortification Effect |
+|---|---|---|
+| **Ballista** | +4; Ranged(4) | No standard fortification DV reduction; see Piercing Bolt. |
+| **Catapult** | +3; Ranged(5) | Reduce target settlement DEF by –1d4 per engagement. |
+| **Trebuchet** | +2; Ranged(7) | Reduce target settlement DEF by –2d4 per engagement; see Deploy. |
+
+**Special Abilities:**
+- **Piercing Bolt (Ballista; 2/engagement)** — This attack ignores up to 2 DV from armor and fortification resources. Gains +2 OM when targeting a unit that is not benefiting from fortification DV.
+- **Scatter Shot (Catapult; 1/phase)** — When this unit targets a square occupied by an enemy unit, all enemy units adjacent to that square take 1 HP collateral damage.
+- **Bombardment (Trebuchet; 1/engagement)** — When attacking a fortified position whose DEF has been reduced to 0 or below this Turn, deal an additional 2 HP damage to the defending unit.
+- **Deploy (Trebuchet)** — The trebuchet must spend one full phase deploying before it can fire. It cannot fire in the phase it moves. If it moves after deploying, it must spend another full phase redeploying before firing again.
+
+**Recruitment:** 9 RP — Military, Industrial
+
+---
+
+#### Horse Archers
+*Mounted bowmen trained as mobile skirmishers and raiders. They loose arrows while riding, strike supply lines, and vanish before a response can be organized.*
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human or mixed-race); Fighter 2 (mounted) |
+| **ACR** | 2 |
+| **Speed** | 3/15 |
+| **HP** | 11 |
+| **DV** | 12 |
+| **OM** | +3; Ranged(3) |
+| **Morale** | +0 |
+| **Consumption** | 4 RP/Turn |
+| **Resources** | Mounts |
+| **Tactics** | Cavalry Experts, Withdraw (starting — innate); max 1 earned |
+
+**Special Abilities:**
+- **Scouting** — This unit may be assigned to the Scouting strategic action (see Part XXII).
+- **Raiding** — This unit may participate in Raid Settlement and Objective Raid strategic actions (see Part XXII).
+- **Mobile Fire** — This unit may make a Ranged attack in the same phase it moves.
+
+**Recruitment:** 6 RP — Military, Agricultural
+
+---
+
+#### Light Cavalry
+*Mounted troops trained for harassment, raiding, and pursuit. What they lack in staying power they compensate with speed and reach.*
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human or mixed-race); Fighter 2 (mounted) |
+| **ACR** | 2 |
+| **Speed** | 3/15 |
+| **HP** | 11 |
+| **DV** | 12 |
+| **OM** | +4 |
+| **Morale** | +0 |
+| **Consumption** | 4 RP/Turn |
+| **Resources** | Mounts |
+| **Tactics** | Cavalry Experts, Withdraw (starting — innate); max 1 earned |
+
+**Special Abilities:**
+- **Scouting** — This unit may be assigned to the Scouting strategic action (see Part XXII).
+- **Raiding** — This unit may participate in Raid Settlement and Objective Raid strategic actions (see Part XXII).
+- **Pursuit** — When an enemy unit routs or successfully uses the Withdraw tactic, this unit may immediately move up to its full Speed and make one free attack against the withdrawing unit before it exits.
+
+**Recruitment:** 5 RP — Military, Agricultural
+
+---
+
+#### Knights
+*Mounted warriors in medium armor, trained in coordinated cavalry tactics. Fast enough to exploit openings, and disciplined enough to hold a line when needed.*
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human); Cavalier 2 (mounted) |
+| **ACR** | 2 |
+| **Speed** | 3/15 |
+| **HP** | 11 |
+| **DV** | 13 |
+| **OM** | +4 |
+| **Morale** | +1 |
+| **Consumption** | 4 RP/Turn |
+| **Resources** | Mounts |
+| **Tactics** | Cavalry Experts (starting — innate); max 1 earned |
+
+**Special Abilities:**
+- **Challenge (2/engagement)** — This unit declares a target unit and gains +2 OM against it for the remainder of the engagement. The target gains +1 OM against this unit for the same duration.
+- **Mounted Charge** — When this unit moves at least 2 squares before attacking in the same phase, it gains +2 OM.
+
+**Recruitment:** 7 RP — Military, Administrative
+
+---
+
+#### Demon Hunters
+*Hunters trained to track and destroy powerful evil outsiders. Their weapons are consecrated, their tactics are built around the specific weaknesses of demonic creatures, and their conviction does not waver.*
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human); Demon Hunter 2 |
+| **ACR** | 2 |
+| **Speed** | 1/5 |
+| **HP** | 11 |
+| **DV** | 13 |
+| **OM** | +3 |
+| **Morale** | +1 |
+| **Consumption** | 3 RP/Turn |
+| **Resources** | — |
+| **Tactics** | None (max 1 earned) |
+
+**Special Abilities:**
+- **Detect Outsider** — This unit always knows the location of any outsider unit within 10 squares and cannot be surprised by such units.
+- **Smite Demon (2/engagement)** — This unit gains +2 OM and ignores all DV bonuses against a single outsider unit for one phase.
+- **Sacred Arsenal** — This unit's weapons are treated as magical and good-aligned for the purpose of bypassing damage resistance (e.g., Lycanthropic Resilience, Daemon Resilience).
+
+**Recruitment:** 5 RP — Religious, Military
+
+---
+
+#### Ninjas
+*Shadow operatives trained in stealth, misdirection, and sudden lethal strikes. They excel at disrupting enemy formations from unexpected angles and vanishing before a response can be mounted.*
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human or mixed-race); Ninja 2 |
+| **ACR** | 2 |
+| **Speed** | 2/10 |
+| **HP** | 9 |
+| **DV** | 12 |
+| **OM** | +3; Ranged(2) |
+| **Morale** | +0 |
+| **Consumption** | 3 RP/Turn |
+| **Resources** | — |
+| **Tactics** | Withdraw (starting — innate); max 1 earned |
+
+**Special Abilities:**
+- **Sneak Attack (2/engagement)** — When this unit attacks a target currently engaged with another friendly unit, it gains +2 OM for that phase.
+- **Shadow Cloak (1/engagement)** — This unit cannot be targeted by Ranged attacks for one phase.
+- **Poison Use** — After a successful attack, the target unit takes –1 OM until the end of the engagement (cumulative; maximum –3 OM total).
+
+**Recruitment:** 5 RP — Administrative, Military
+
+---
+
+#### Inquisitors
+*Battle-hardened agents of law and faith, trained to identify threats to order and eliminate them with precise, judgmental force. Effective against a wide range of enemy types and difficult to shake from a task.*
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human); Inquisitor 2 |
+| **ACR** | 2 |
+| **Speed** | 1/5 |
+| **HP** | 9 |
+| **DV** | 13 |
+| **OM** | +3 |
+| **Morale** | +1 |
+| **Consumption** | 4 RP/Turn |
+| **Resources** | — |
+| **Tactics** | Spellbreaker (starting — innate); max 1 earned |
+
+**Special Abilities:**
+- **Judgment (2/engagement)** — At the start of a phase, declare one effect: Destruction (+2 OM), Protection (+2 DV), or Justice (+2 to all Morale checks). The effect lasts for that phase.
+- **Bane (1/engagement)** — This unit gains +2 OM against a declared target unit type for one phase. The bonus increases to +4 OM if the target is an evil outsider or undead unit.
+
+**Recruitment:** 6 RP — Religious, Military (LG, NG, or LN factions only)
+
+---
+
+#### Heavy Cavalry
+*Mounted shock troops armed with lances and heavy weapons. Trained to break infantry lines and exploit gaps torn open by other arms.*
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human); Fighter 2 (mounted) |
+| **ACR** | 2 |
+| **Speed** | 3/15 |
+| **HP** | 11 |
+| **DV** | 13 |
+| **OM** | +4 |
+| **Morale** | +0 |
+| **Consumption** | 4 RP/Turn |
+| **Resources** | Mounts |
+| **Tactics** | Cavalry Experts (starting — innate); max 1 earned |
+
+**Special Abilities:**
+- **Bravery +1** — This unit gains +1 on Morale checks against fear effects and rout checks.
+- **Mounted Charge** — When this unit moves at least 2 squares before attacking in the same phase, it gains +3 OM.
+
+**Recruitment:** 7 RP — Military, Administrative
+
+---
+
+#### Wild Men
+*Tribal warriors drawn from frontier communities and wilderness settlements. Armed with great weapons and clad in little armor, they compensate for lack of discipline with raw ferocity and speed.*
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human or mixed-race); Barbarian 2 |
+| **ACR** | 2 |
+| **Speed** | 2/10 |
+| **HP** | 13 |
+| **DV** | 12 |
+| **OM** | +4 |
+| **Morale** | +1 |
+| **Consumption** | 3 RP/Turn |
+| **Resources** | — |
+| **Tactics** | Relentless Brutality (starting — innate); max 1 earned |
+
+**Special Abilities:**
+- **Rage (1/engagement)** — This unit gains +2 OM and –2 DV for one phase. Declared before the phase begins.
+
+**Recruitment:** 3 RP — Agricultural, Military
+
+---
+
+#### Clerics
+*Battle clerics assigned to military formations, providing divine healing and spiritual resilience in the field. Their presence sustains units that would otherwise break.*
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human or mixed-race); Cleric 2 |
+| **ACR** | 2 |
+| **Speed** | 1/5 |
+| **HP** | 9 |
+| **DV** | 13 |
+| **OM** | +3 |
+| **Morale** | +1 |
+| **Consumption** | 4 RP/Turn |
+| **Resources** | — |
+| **Tactics** | Spellbreaker (starting — innate); max 1 earned |
+
+**Special Abilities:**
+- **Channel Energy (3/engagement)** — Restore 2 HP to all friendly units within 3 squares, or deal 2 HP damage to all undead units within 3 squares (no Morale check).
+- **Divine Blessing (1/engagement)** — A target friendly unit within 3 squares gains +2 DV or +2 OM for one phase.
+
+**Recruitment:** 6 RP — Religious
+
+---
+
+#### Irregulars
+*A ragged but effective formation of militia veterans, armed with a mix of hand weapons, hunting bows, and light armor. Experienced in ambush, withdrawal, and hit-and-run tactics.*
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human or mixed-race); Fighter/Ranger 2 |
+| **ACR** | 2 |
+| **Speed** | 1/6 |
+| **HP** | 11 |
+| **DV** | 13 |
+| **OM** | +1; Ranged(3) |
+| **Morale** | +1 |
+| **Consumption** | 3 RP/Turn |
+| **Resources** | — |
+| **Tactics** | False Retreat, Sniper Support, Withdraw (starting — innate); max 1 earned |
+
+**Special Abilities:**
+- **Bravery +1** — This unit gains +1 on Morale checks against fear effects and rout checks.
+- **Favored Enemy (Opposed Faction)** — This unit gains +1 OM against units belonging to the opposing faction.
+
+**Recruitment:** 8 RP — Agricultural, Military
+
+---
+
+#### Grenadiers
+*Alchemist soldiers who hurl explosive concoctions into enemy formations. Dangerous at range and chaos-inducing in tight infantry engagements, but fragile if caught in melee.*
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human or mixed-race); Alchemist 2 |
+| **ACR** | 2 |
+| **Speed** | 1/5 |
+| **HP** | 9 |
+| **DV** | 11 |
+| **OM** | +3; Ranged(3) |
+| **Morale** | +0 |
+| **Consumption** | 4 RP/Turn |
+| **Resources** | — |
+| **Tactics** | Withdraw (starting — innate); max 1 earned |
+
+**Special Abilities:**
+- **Bomb Volley (3/engagement)** — The unit hurls a volley of alchemical bombs. Deal 4 HP damage to a target unit within Ranged(3) and 2 HP damage to each unit adjacent to and engaged with the target.
+- **Mutagen (1/engagement)** — The unit drinks its mutagen. Gain +2 OM and –2 DV for the remainder of the current engagement.
+
+**Recruitment:** 7 RP — Industrial, Educational
+
+---
+
+#### Dwarven Warriors
+*Stocky and slow but nearly immovable in a defensive line. Dwarven warriors excel at holding fortified positions and absorbing punishment that would break lighter infantry. Requires settlements with sufficient dwarven population.*
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (dwarf); Fighter 2 |
+| **ACR** | 2 |
+| **Speed** | 1/4 |
+| **HP** | 11 |
+| **DV** | 16 |
+| **OM** | +4 |
+| **Morale** | +1 |
+| **Consumption** | 3 RP/Turn |
+| **Resources** | — |
+| **Tactics** | Defensive Wall (starting — innate); max 1 earned |
+
+**Special Abilities:**
+- **Dwarven Stability** — This unit gains +2 on Morale checks against fear, rout, and Taunt.
+- **Hardy** — This unit reduces all HP damage it takes by 1 (minimum 1 damage per source).
+
+**Recruitment:** 6 RP — Military, Industrial (requires dwarven settlement)
+
+---
+
+#### Shamans
+*Spirit-speakers who call on ancestral forces of battle and life. They support allied formations with combat blessings and emergency healing, and can read the spirit of a battlefield in ways no standard scout can.*
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human or mixed-race); Shaman 2 |
+| **ACR** | 2 |
+| **Speed** | 1/5 |
+| **HP** | 9 |
+| **DV** | 12 |
+| **OM** | +3 |
+| **Morale** | +1 |
+| **Consumption** | 4 RP/Turn |
+| **Resources** | — |
+| **Tactics** | None (max 1 earned) |
+
+**Special Abilities:**
+- **Battle Spirit (1/engagement)** — The shaman channels a warrior spirit. All friendly units within 3 squares gain +1 OM for one phase.
+- **Life Spirit (2/engagement)** — Restore 2 HP to a target friendly unit within 3 squares.
+- **Wandering Spirit (1/engagement)** — Either grant +1 DV to all friendly units within 3 squares for one phase, or impose –1 Morale on all enemy units within 3 squares.
+
+**Recruitment:** 5 RP — Agricultural, Religious
+
+---
+
+#### Witches
+*A coven of witches whose hexes disrupt enemy formations and turn fortune against their foes. They do not win fights directly — they ensure the enemy loses them.*
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human or mixed-race); Witch 2 |
+| **ACR** | 2 |
+| **Speed** | 1/5 |
+| **HP** | 7 |
+| **DV** | 11 |
+| **OM** | +3; Ranged(4) |
+| **Morale** | +0 |
+| **Consumption** | 4 RP/Turn |
+| **Resources** | — |
+| **Tactics** | Taunt (starting — innate); max 1 earned |
+
+**Special Abilities:**
+- **Evil Eye Hex (3/engagement)** — Target enemy unit within Ranged(4) takes –2 OM or –2 DV (Witch's choice) until the end of the engagement. DC 14 Morale check to resist each phase.
+- **Fortune Hex (2/engagement)** — A target friendly unit within Ranged(4) may reroll one OM roll or Morale check and take the better result.
+- **Cackle** — Whenever the Witch unit attacks or activates a hex, all active hexes on enemy units are extended by one additional phase.
+
+**Recruitment:** 5 RP — Agricultural, Religious
+
+---
+
+#### Heavy Infantry
+*A formation of elite soldiers armed with swords or axes, shields, and heavy armor. Expensive to field, but capable of holding a line against nearly anything.*
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human or mixed-race); Fighter 2 |
+| **ACR** | 2 |
+| **Speed** | 1/5 |
+| **HP** | 11 |
+| **DV** | 15 |
+| **OM** | +3 |
+| **Morale** | +0 |
+| **Consumption** | 3 RP/Turn |
+| **Resources** | — |
+| **Tactics** | None (max 1 earned) |
+
+**Special Abilities:**
+- **Bravery +1** — This unit gains +1 on Morale checks against fear effects and rout checks.
+
+**Recruitment:** 7 RP — Administrative, Military
+
+---
+
+#### Defenders
+*Heavy infantry trained specifically to hold ground. Their offense suffers for it, but they are extraordinarily difficult to dislodge from a position.*
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human); Fighter 2 |
+| **ACR** | 2 |
+| **Speed** | 1/4 |
+| **HP** | 11 |
+| **DV** | 17 |
+| **OM** | +2 |
+| **Morale** | +0 |
+| **Consumption** | 3 RP/Turn |
+| **Resources** | — |
+| **Tactics** | Defensive Wall, Full Defense (starting — innate); max 1 earned |
+
+**Special Abilities:**
+- **Rallying Point** — While this unit is using the Defensive Wall or Full Defense tactic, all friendly units within 3 squares gain +1 DV.
+
+**Recruitment:** 5 RP — Military, Administrative
+
+---
+
+#### Mages
+*A small formation of 10–12 battle wizards trained to provide offensive and defensive support. Fragile on the line but devastating at range.*
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human or mixed-race); Wizard 3 |
+| **ACR** | 3 |
+| **Speed** | 1/4 |
+| **HP** | 10 |
+| **DV** | 10 |
+| **OM** | +5; Ranged(4) |
+| **Morale** | +1 |
+| **Consumption** | 7 RP/Turn |
+| **Resources** | Healing Potions |
+| **Tactics** | Withdraw (starting — innate); max 1 earned |
+
+**Special Abilities:**
+- **Fireball (2/engagement)** — The mage unit targets a square within Ranged(4). The unit in that square takes 6 HP damage. Each unit adjacent to and engaged with the target takes 3 HP damage.
+- **Bull's Strength (2/engagement)** — A target friendly unit gains +2 OM for the remainder of the current engagement.
+- **Mage Armor (3/engagement)** — A target friendly unit gains +3 DV for the remainder of the current engagement.
+
+**Recruitment:** 10 RP — Administrative, Educational
+
+---
+
+#### Battlemages
+*Warrior-mages trained to fight on the front line, channeling destructive spells directly through their weapons. More durable than standard mages and far more dangerous in close quarters.*
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human or mixed-race); Magus 3 |
+| **ACR** | 3 |
+| **Speed** | 1/5 |
+| **HP** | 13 |
+| **DV** | 15 |
+| **OM** | +6 |
+| **Morale** | +1 |
+| **Consumption** | 5 RP/Turn |
+| **Resources** | — |
+| **Tactics** | Dirty Fighters (starting — innate); max 1 earned |
+
+**Special Abilities:**
+- **Spell Combat (2/engagement)** — For one phase, this unit's attacks ignore DV bonuses from non-magical armor resources, and the unit gains +2 OM.
+- **Arcane Pool (3/engagement)** — This unit's weapons crackle with stored arcane energy. Gain +2 OM for one phase.
+
+**Recruitment:** 9 RP — Educational, Military
+
+---
+
+#### Samurai
+*Mounted warriors bound by a strict code of honor, armed with katana and trained for both disciplined formation fighting and single combat. Exceptional morale and an unwillingness to break.*
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human); Samurai 3 (mounted) |
+| **ACR** | 3 |
+| **Speed** | 3/15 |
+| **HP** | 16 |
+| **DV** | 16 |
+| **OM** | +5 |
+| **Morale** | +2 |
+| **Consumption** | 5 RP/Turn |
+| **Resources** | Mounts |
+| **Tactics** | Cautious Combat (starting — innate); max 1 earned |
+
+**Special Abilities:**
+- **Challenge (2/engagement)** — This unit declares a target unit and gains +2 OM and +1 to all Morale checks while fighting that unit. This unit cannot Withdraw from the engagement while the challenge stands.
+- **Resolve (1/engagement)** — This unit automatically passes one Morale check against fear or rout.
+
+**Recruitment:** 8 RP — Military, Administrative
+
+---
+
+#### Paladins
+*Holy warriors sworn to a divine cause, clad in heavy armor and armed with righteous purpose. As much a morale anchor as a fighting force.*
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human); Paladin 3 |
+| **ACR** | 3 |
+| **Speed** | 1/5 |
+| **HP** | 16 |
+| **DV** | 16 |
+| **OM** | +4 |
+| **Morale** | +2 |
+| **Consumption** | 5 RP/Turn |
+| **Resources** | — |
+| **Tactics** | Full Defense (starting — innate); max 1 earned |
+
+**Special Abilities:**
+- **Aura of Courage** — Adjacent friendly units are immune to fear effects and Taunt.
+- **Lay on Hands (2/engagement)** — Restore 3 HP to this unit or an adjacent friendly unit.
+
+**Recruitment:** 7 RP — Religious, Military
+
+---
+
+#### Werewolves
+*A cadre of lycanthropes operating as a shock unit. Nearly impossible to harm without the right weapons, and their bite carries a demoralizing curse that spreads through enemy formations.*
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human, shapechanger); Lycanthrope (werewolf) |
+| **ACR** | 3 |
+| **Speed** | 2/10 |
+| **HP** | 13 |
+| **DV** | 14 |
+| **OM** | +4 |
+| **Morale** | +1 |
+| **Consumption** | 4 RP/Turn |
+| **Resources** | — |
+| **Tactics** | Relentless Brutality (starting — innate); max 1 earned |
+
+**Special Abilities:**
+- **Lycanthropic Resilience** — Non-magical, non-silver weapons deal no HP damage to this unit. Enemy units with Improved Weapons (magical) or equipped with silver weapons bypass this resistance.
+- **Curse of Lycanthropy** — When this unit deals HP damage to an enemy unit, the target unit must make a DC 12 Morale check or take –1 Morale for the remainder of the engagement.
+
+**Recruitment:** 6 RP — Military (Neutral or Evil factions only)
+
+---
+
+#### Warpriests
+*Warpriests who combine martial discipline with divine fervor. Less focused on protection than Paladins, more focused on aggressive sacred combat — consecrating their weapons and burning enemies with channeled faith.*
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human or mixed-race); Warpriest 3 |
+| **ACR** | 3 |
+| **Speed** | 1/5 |
+| **HP** | 13 |
+| **DV** | 14 |
+| **OM** | +4 |
+| **Morale** | +2 |
+| **Consumption** | 5 RP/Turn |
+| **Resources** | — |
+| **Tactics** | Spellbreaker (starting — innate); max 1 earned |
+
+**Special Abilities:**
+- **Sacred Weapon (2/engagement)** — The unit's weapons flare with divine power. Gain +2 OM for one phase.
+- **Fervor (3/engagement)** — Restore 3 HP to this unit, or deal 3 HP damage to an undead unit within 2 squares.
+
+**Recruitment:** 8 RP — Religious, Military
+
+---
+
+#### Halfling Slingers
+*Elite halfling slingers whose precision with a lead slug is the subject of soldiers' stories. Small, hard to hit, and quietly terrifying to face across an open field.*
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (halfling); Fighter 3 |
+| **ACR** | 3 |
+| **Speed** | 1/5 |
+| **HP** | 16 |
+| **DV** | 14 |
+| **OM** | +4; Ranged(3) |
+| **Morale** | +2 |
+| **Consumption** | 5 RP/Turn |
+| **Resources** | — |
+| **Tactics** | Sniper Support, Cautious Combat (starting — innate); max 1 earned |
+
+**Special Abilities:**
+- **Accurate Fire** — When this unit uses the Sniper Support tactic, the OM bonus increases to +3 instead of +2.
+- **Halfling Courage** — This unit may reroll one failed Morale check per engagement and keep the better result.
+
+**Recruitment:** 8 RP — Agricultural, Trade
+
+---
+
+#### Centaurs
+*A warband of centaur warriors — proud, territorial, and devastating at full gallop. They fight as natural cavalry without the need for mounts, combining the speed of horses with the weapons and tactics of trained infantry.*
+
+| Stat | Value |
+|---|---|
+| **Type** | Monstrous Humanoid (centaur) |
+| **ACR** | 3 |
+| **Speed** | 3/15 |
+| **HP** | 16 |
+| **DV** | 14 |
+| **OM** | +5 |
+| **Morale** | +1 |
+| **Consumption** | 4 RP/Turn |
+| **Resources** | — |
+| **Tactics** | Expert Flankers (starting — innate); max 1 earned |
+
+**Special Abilities:**
+- **Natural Cavalry** — This unit gains +2 OM when it moves at least 2 squares before attacking in the same phase. No mount resource is required.
+- **Trample** — When this unit uses a charge maneuver, the target unit takes –1 OM for the following phase in addition to normal charge damage.
+
+**Recruitment:** 6 RP — Agricultural (Non-evil factions only)
+
+---
+
+#### Ogres
+*A cadre of ogres drawn by the promise of plunder. Brutish, hard to discipline, and expensive in supplies, but capable of absorbing punishment and dealing it out in equal measure.*
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (giant); Ogre |
+| **ACR** | 3 |
+| **Speed** | 1/5 |
+| **HP** | 13 |
+| **DV** | 14 |
+| **OM** | +5 |
+| **Morale** | +0 |
+| **Consumption** | 5 RP/Turn |
+| **Resources** | — |
+| **Tactics** | Relentless Brutality (starting — innate); max 1 earned |
+
+**Special Abilities:**
+- **Brute Force** — On a successful melee attack, the target unit takes –1 DV until the end of the current phase.
+- **Plunder** — When this unit participates in a Raid Settlement action, the RP yield is increased by 2.
+
+**Recruitment:** 6 RP — Military (Non-good factions only)
+
+---
+
+#### Pikemen
+*Veteran formation fighters armed with long pikes. Experienced enough to break cavalry charges with confidence and hold a line long after lighter infantry would have buckled.*
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human); Fighter 3 |
+| **ACR** | 3 |
+| **Speed** | 1/4 |
+| **HP** | 16 |
+| **DV** | 14 |
+| **OM** | +4 |
+| **Morale** | +1 |
+| **Consumption** | 4 RP/Turn |
+| **Resources** | — |
+| **Tactics** | Defensive Wall (starting — innate); max 1 earned |
+
+**Special Abilities:**
+- **Phalanx** — This unit gains +3 OM against mounted units.
+- **Stand Firm** — This unit cannot be forced to Withdraw by a charge maneuver. Enemy units that fail a charge against this unit take –1 OM for the following phase.
+
+**Recruitment:** 6 RP — Military, Administrative
+
+---
+
+#### Elite Longbowmen
+*Veteran soldiers trained to deliver coordinated volleys at exceptional range. A well-positioned unit of elite longbowmen can soften an advance before it reaches the line.*
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human); Fighter 3 |
+| **ACR** | 3 |
+| **Speed** | 1/5 |
+| **HP** | 16 |
+| **DV** | 12 |
+| **OM** | +4; Ranged(5) |
+| **Morale** | +1 |
+| **Consumption** | 5 RP/Turn |
+| **Resources** | — |
+| **Tactics** | Sniper Support (starting — innate); max 1 earned |
+
+**Special Abilities:**
+- **Volley Fire (1/engagement)** — This unit fires a coordinated volley over a wide area. All non-engaged enemy units in the target square and adjacent squares within Ranged(5) each take 2 HP damage.
+
+**Recruitment:** 7 RP — Military
+
+---
+
+#### Ducal Guard
+*Battleaxe-armed warriors sworn to the protection of the Ducal Household of Severan. Every soldier is personally selected and tested by the Duke's castellan. Their discipline is absolute; their loyalty is to the house before any cause.*
+
+**Special Recruitment** — May only be recruited through special campaign events.
+**[ELITE UNIT — Limit 1 per faction]**
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human); Fighter 4 |
+| **ACR** | 4 |
+| **Speed** | 1/5 |
+| **HP** | 22 |
+| **DV** | 16 |
+| **OM** | +6 |
+| **Morale** | +2 |
+| **Consumption** | 10 RP/Turn |
+| **Resources** | — |
+| **Tactics** | Full Defense, Defensive Wall (starting — innate); max 2 earned |
+
+**Special Abilities:**
+- **Stand Firm** — This unit cannot be forced to Withdraw or retreat by enemy special abilities. It may voluntarily use the Withdraw tactic, but cannot be compelled to do so.
+- **Bodyguard** — If a PC or NPC Commander attached to this army would be targeted by an enemy special ability that removes them from play or reduces their effectiveness, this unit may intercept. Make a DC 14 Morale check; on success, the effect is redirected to this unit, which takes a minimum of 4 HP damage in place of the original effect.
+- **Battleaxe Strike (2/engagement)** — On a successful attack that deals HP damage, the target must make a DC 14 Morale check or take –1 DV for the following phase.
+
+**Recruitment:** Special Recruitment only — **[ELITE UNIT — Limit 1 per faction]**
+
+---
+
+#### Elite Scouts
+*Veteran rangers operating deep behind enemy lines, equally capable of gathering intelligence and striking supply lines. A flexible asset in any campaign.*
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human); Ranger 4 |
+| **ACR** | 4 |
+| **Speed** | 2/10 |
+| **HP** | 22 |
+| **DV** | 14 |
+| **OM** | +5; Ranged(4) |
+| **Morale** | +1 |
+| **Consumption** | 5 RP/Turn |
+| **Resources** | — |
+| **Tactics** | Sniper Support, Withdraw (starting — innate); max 2 earned |
+
+**Special Abilities:**
+- **Scouting** — This unit may be assigned to the Scouting strategic action (see Part XXII).
+- **Raiding** — This unit may participate in Raid Settlement and Objective Raid strategic actions (see Part XXII).
+- **Favored Terrain** — In natural terrain (forest, hills, plains), this unit gains +1 DV and +1 OM.
+
+**Recruitment:** 9 RP — Military
+
+---
+
+#### Lancers
+*Elite light cavalry who fight in the Lancer tradition — fast, precise, and gone before the enemy can organize a response. Trained to strike at command elements, isolated units, and overextended formations.*
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human); Fighter 4 (mounted) |
+| **ACR** | 4 |
+| **Speed** | 4/20 |
+| **HP** | 22 |
+| **DV** | 14 |
+| **OM** | +6 |
+| **Morale** | +1 |
+| **Consumption** | 7 RP/Turn |
+| **Resources** | Mounts |
+| **Tactics** | Cavalry Experts, Expert Flankers, False Retreat (starting — innate); max 2 earned |
+
+**Special Abilities:**
+- **Scouting** — This unit may be assigned to the Scouting strategic action (see Part XXII).
+- **Lance Strike (2/engagement)** — When this unit charges (moves 2+ squares before attacking), it gains +4 OM for that attack and the target takes –1 OM for the following phase as its formation is disrupted.
+- **Hit and Run** — After this unit attacks in a phase, it may move up to half its Speed without triggering a free attack from the target.
+
+**Recruitment:** 14 RP — Military
+
+---
+
+#### Nobles
+*Allied nobles and their household retinues, whose voices carry weight on the battlefield. Their fighting ability is secondary; their true power is the courage and fury they can draw from the soldiers around them.*
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human or mixed-race); Bard 4 |
+| **ACR** | 4 |
+| **Speed** | 1/5 |
+| **HP** | 18 |
+| **DV** | 14 |
+| **OM** | +3 |
+| **Morale** | +2 |
+| **Consumption** | 6 RP/Turn |
+| **Resources** | — |
+| **Tactics** | Taunt (starting — innate); max 2 earned |
+
+**Special Abilities:**
+- **Inspire Courage** — While this unit is active and unrouted, all friendly units within 5 squares gain +1 OM and +1 to Morale checks.
+- **Dirge of Doom (1/engagement)** — All enemy units within 5 squares take –1 Morale for the remainder of the engagement. DC 14 Morale check to resist.
+
+**Recruitment:** 8 RP — Administrative, Cultural
+
+---
+
+#### Guardians
+*Druids who have turned their attunement to nature toward the art of war. They defend settlements, entangle advancing armies, and harden allied units with bark-thick protective magic.*
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human or mixed-race); Druid 4 |
+| **ACR** | 4 |
+| **Speed** | 1/5 |
+| **HP** | 18 |
+| **DV** | 14 |
+| **OM** | +4 |
+| **Morale** | +1 |
+| **Consumption** | 5 RP/Turn |
+| **Resources** | — |
+| **Tactics** | Spellbreaker (starting — innate); max 2 earned |
+
+**Special Abilities:**
+- **Wild Shape (2/engagement)** — The unit shifts into powerful animal forms. Gain +3 OM and –1 DV for one phase.
+- **Entangle (2/engagement)** — Target a square within Ranged(4). All units in that square and adjacent squares have their Speed reduced by 1 (minimum 0) until the end of the engagement or until they spend a full phase breaking free.
+- **Barkskin (3/engagement)** — A target friendly unit within 4 squares gains +2 DV for the remainder of the current engagement.
+
+**Recruitment:** 7 RP — Agricultural, Religious
+
+---
+
+#### Elite Knights
+*Heavy cavalry at the peak of martial training, mounted on the finest warhorses available. A lance charge from an Elite Knight formation can shatter an infantry line before it has time to brace.*
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human); Cavalier 4 (mounted) |
+| **ACR** | 4 |
+| **Speed** | 4/20 |
+| **HP** | 22 |
+| **DV** | 15 |
+| **OM** | +6 |
+| **Morale** | +2 |
+| **Consumption** | 6 RP/Turn |
+| **Resources** | Mounts |
+| **Tactics** | Cavalry Experts, Expert Flankers (starting — innate); max 2 earned |
+
+**Special Abilities:**
+- **Challenge (3/engagement)** — This unit declares a target unit and gains +3 OM against it for the remainder of the engagement. The target gains +1 OM against this unit for the same duration.
+- **Expert Charge** — This unit does not suffer a DV penalty when using a charge maneuver and gains +2 OM when moving at least 2 squares before attacking.
+
+**Recruitment:** 10 RP — Military
+
+---
+
+#### Cataphracts
+*Heavily armored cavalry mounted on barded warhorses. The cataphract is not subtle — it is the hammer that breaks things that were thought unbreakable.*
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human); Fighter 4 (mounted) |
+| **ACR** | 4 |
+| **Speed** | 3/15 |
+| **HP** | 22 |
+| **DV** | 16 |
+| **OM** | +6 |
+| **Morale** | +2 |
+| **Consumption** | 7 RP/Turn |
+| **Resources** | Mounts |
+| **Tactics** | Cavalry Experts, Relentless Brutality (starting — innate); max 2 earned |
+
+**Special Abilities:**
+- **Expert Charge** — This unit does not suffer a DV penalty when using a charge maneuver and gains +3 OM when moving at least 2 squares before attacking.
+- **Armored Line** — When this unit is targeted by a charge attack, the attacker gains no OM bonus from the charge. The unit's barded mounts absorb the impact.
+
+**Recruitment:** 12 RP — Military, Administrative
+
+---
+
+#### Bushwhackers
+*Veteran ambush fighters and wilderness raiders, equally skilled with blade and bow. They are most dangerous when the enemy doesn't know they're there.*
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human); Fighter/Ranger 4 |
+| **ACR** | 4 |
+| **Speed** | 2/10 |
+| **HP** | 22 |
+| **DV** | 13 |
+| **OM** | +5; Ranged(4) |
+| **Morale** | +1 |
+| **Consumption** | 4 RP/Turn |
+| **Resources** | — |
+| **Tactics** | Sniper Support, False Retreat (starting — innate); max 2 earned |
+
+**Special Abilities:**
+- **Scouting** — This unit may be assigned to the Scouting strategic action (see Part XXII).
+- **Raiding** — This unit may participate in Raid Settlement and Objective Raid strategic actions (see Part XXII).
+- **Ambush (1/engagement)** — The first phase this unit attacks in an engagement, if it has not yet been engaged by an enemy unit, it gains +3 OM and the target cannot apply DV bonuses from fortification for that phase.
+
+**Recruitment:** 8 RP — Agricultural, Military
+
+---
+
+#### Elven Foresters
+*Elven rangers who have spent lifetimes mastering the forest. Their longbows outrange nearly any other unit on the field, and their precision allows them to pick individual targets out of a melee without harming allies. Requires settlements with sufficient elven population.*
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (elf); Ranger 5 |
+| **ACR** | 5 |
+| **Speed** | 2/10 |
+| **HP** | 27 |
+| **DV** | 14 |
+| **OM** | +6; Ranged(5) |
+| **Morale** | +1 |
+| **Consumption** | 6 RP/Turn |
+| **Resources** | — |
+| **Tactics** | Sniper Support, False Retreat, Withdraw (starting — innate); max 2 earned |
+
+**Special Abilities:**
+- **Scouting** — This unit may be assigned to the Scouting strategic action (see Part XXII).
+- **Woodland Stride** — This unit may move through forested and difficult natural terrain without movement penalty on the tactical map.
+- **Elven Accuracy** — When this unit fires into melee, adjacent engaged units take no collateral damage. Only the target takes full damage.
+
+**Recruitment:** 10 RP — Agricultural (requires elven settlement)
+
+---
+
+#### Berserkers
+*Veteran barbarian shock troops hardened by years of brutal combat. Nearly impossible to stop once committed to a charge, and devastating when bloodied.*
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human); Barbarian 5 |
+| **ACR** | 5 |
+| **Speed** | 2/10 |
+| **HP** | 32 |
+| **DV** | 15 |
+| **OM** | +8 |
+| **Morale** | +2 |
+| **Consumption** | 6 RP/Turn |
+| **Resources** | — |
+| **Tactics** | Relentless Brutality, Dirty Fighters (starting — innate); max 2 earned |
+
+**Special Abilities:**
+- **Greater Rage (2/engagement)** — This unit gains +3 OM and –2 DV for one phase. If the unit is below half HP, it gains +4 OM instead.
+- **Intimidating Presence** — When this unit causes an enemy unit to rout, all other enemy units within 5 squares must make a DC 13 Morale check or take –1 Morale until the end of the engagement.
+
+**Recruitment:** 10 RP — Military
+
+---
+
+#### Royal Yeomanry
+*The legendary archers of the Ambracian royal household. Every soldier in this unit can split an arrow at two hundred yards. They were scattered on the night of the executions; reassembling them is a signal to the people of Ambracia that the old kingdom lives.*
+
+**Special Recruitment** — May only be recruited through special campaign events.
+**[ELITE UNIT — Limit 1 per faction]**
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human); Fighter 5 |
+| **ACR** | 5 |
+| **Speed** | 1/5 |
+| **HP** | 27 |
+| **DV** | 15 |
+| **OM** | +7; Ranged(5) |
+| **Morale** | +2 |
+| **Consumption** | 10 RP/Turn |
+| **Resources** | — |
+| **Tactics** | Sniper Support (starting — innate); max 2 earned |
+
+**Special Abilities:**
+- **Arrow Storm (2/engagement)** — This unit fires a disciplined volley. Deal 4 HP damage to all units in a target square within Ranged(5) and 2 HP damage to all units adjacent to that square.
+- **Aimed Shot (3/engagement)** — This unit selects a single target. It gains +3 OM against that target for one phase; this attack ignores DV bonuses from fortification resources.
+- **Covering Fire** — When a friendly unit within 5 squares uses the Withdraw tactic, this unit may immediately make one free Ranged attack against any enemy unit adjacent to or pursuing the withdrawing unit.
+
+**Recruitment:** Special Recruitment only — **[ELITE UNIT — Limit 1 per faction]**
+
+---
+
+#### Crusaders
+*Elite paladins who have fought long campaigns in service of their faith. Virtually unbreakable in defense, and capable of turning the tide of a larger engagement through sheer presence.*
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human); Paladin 5 |
+| **ACR** | 5 |
+| **Speed** | 1/5 |
+| **HP** | 27 |
+| **DV** | 18 |
+| **OM** | +7 |
+| **Morale** | +3 |
+| **Consumption** | 8 RP/Turn |
+| **Resources** | — |
+| **Tactics** | Full Defense, Defensive Wall (starting — innate); max 2 earned |
+
+**Special Abilities:**
+- **Aura of Courage** — Friendly units within 5 squares are immune to fear effects and Taunt.
+- **Smite Evil (2/engagement)** — This unit gains +2 OM and ignores DV bonuses from resources against a single declared target unit for one phase.
+- **Lay on Hands (3/engagement)** — Restore 5 HP to this unit or an adjacent friendly unit.
+
+**Recruitment:** 12 RP — Religious, Military
+
+---
+
+#### Companion Cavalry
+*Heavy cataphract cavalry who serve as the royal guard of the Kingdom of Delft. Each soldier chooses their own scale armor pattern; the effect en masse is dazzling and deliberately intimidating. Opponents who have faced them once do not underestimate the display again.*
+
+**Special Recruitment** — May only be recruited through special campaign events.
+**[ELITE UNIT — Limit 1 per faction]**
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human); Fighter 5 (mounted) |
+| **ACR** | 5 |
+| **Speed** | 4/20 |
+| **HP** | 27 |
+| **DV** | 16 |
+| **OM** | +8 |
+| **Morale** | +2 |
+| **Consumption** | 12 RP/Turn |
+| **Resources** | Mounts |
+| **Tactics** | Cavalry Experts, Expert Flankers (starting — innate); max 2 earned |
+
+**Special Abilities:**
+- **Brilliant Display** — At the start of any engagement, all enemy units within 5 squares must make a DC 15 Morale check or take –1 Morale for the first two phases of that engagement.
+- **Armored Charge** — When this unit charges (moves 2+ squares before attacking), it gains +4 OM rather than the standard +2.
+- **Companion Bond** — While a PC or NPC Commander is attached to this unit's army, the Commander gains +2 to Command Rating and this unit gains +1 OM.
+
+**Recruitment:** Special Recruitment only — **[ELITE UNIT — Limit 1 per faction]**
+
+---
+
+#### Sacred Band
+*Fifteen pairs of married elven warriors sworn to the protection of the Elven Queen. Each pair fights as a single disciplined unit — with spear, spell, and bow — and the loss of any member is irreplaceable. They are never deployed lightly.*
+
+**Special Recruitment** — May only be recruited through special campaign events.
+**[ELITE UNIT — Limit 1 per faction]**
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (elf); Fighter/Wizard 6 |
+| **ACR** | 6 |
+| **Speed** | 2/10 |
+| **HP** | 27 |
+| **DV** | 17 |
+| **OM** | +8; Ranged(4) |
+| **Morale** | +3 |
+| **Consumption** | 12 RP/Turn |
+| **Resources** | — |
+| **Tactics** | Spellbreaker, Sniper Support (starting — innate); max 3 earned |
+
+**Special Abilities:**
+- **Irreplaceable** — This unit cannot recover HP through standard post-engagement recovery, healing abilities, or unit special abilities. HP may be restored only through a direct RP expenditure of 10 RP per HP recovered, declared during Turn Resolution. This cost represents resurrection magic required for fallen members.
+- **Bond of Partners** — After any phase in which this unit takes HP damage, it gains +1 OM in the following phase. This bonus does not stack.
+- **Pair Spellwork (2/engagement)** — Coordinated casting between matched partners. This unit targets a square within Ranged(4) and deals 6 HP magical damage to the unit in that square; each unit adjacent to and engaged with the target takes 3 HP damage.
+
+**Recruitment:** Special Recruitment only — **[ELITE UNIT — Limit 1 per faction]**
+
+---
+
+#### Giants
+*Hill giants recruited into service — lumbering, destructive, and capable of hurling boulders across a formation. What they lack in discipline they compensate for in raw devastation.*
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (giant); Hill Giant |
+| **ACR** | 7 |
+| **Speed** | 2/10 |
+| **HP** | 31 |
+| **DV** | 20 |
+| **OM** | +9; Ranged(3) |
+| **Morale** | +1 |
+| **Consumption** | 9 RP/Turn |
+| **Resources** | — |
+| **Tactics** | Relentless Brutality (starting — innate); max 3 earned |
+
+**Special Abilities:**
+- **Rock Throwing (3/engagement)** — This unit hurls boulders at a target unit within Ranged(3). Deal 5 HP damage to the target; each unit adjacent to and engaged with the target takes 2 HP collateral damage.
+- **Brute Strength** — On a successful melee attack, the target unit takes –2 DV until the end of the current phase.
+
+**Recruitment:** 10 RP — Military (Non-good factions only)
+
+---
+
+#### Evocati
+*Veterans recalled from retirement to guard the members of the Confederation Council. Every soldier in this unit has survived at least one full continental campaign. They do not frighten. They do not break. They have seen everything.*
+
+**Special Recruitment** — May only be recruited through special campaign events.
+**[ELITE UNIT — Limit 1 per faction]**
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human); Fighter 7 |
+| **ACR** | 7 |
+| **Speed** | 1/5 |
+| **HP** | 38 |
+| **DV** | 18 |
+| **OM** | +9 |
+| **Morale** | +3 |
+| **Consumption** | 15 RP/Turn |
+| **Resources** | — |
+| **Tactics** | Full Defense, Defensive Wall (starting — innate); max 3 earned |
+
+**Special Abilities:**
+- **Veteran's Discipline** — This unit is immune to fear effects, Taunt, and all special abilities that reduce Morale. It cannot be demoralized.
+- **Testudo Formation (1/engagement)** — This unit forms a tortoise formation for one phase: gain +4 DV and –2 OM; all Ranged attacks targeting this unit automatically miss for that phase. Other units cannot charge through this unit while the formation is active.
+- **Council Guard** — If a PC or NPC Commander attached to this army would be removed from play, captured, or killed by any effect, this unit may intercept. The unit takes 5 HP damage and the Commander is unaffected. This ability may be used once per Turn.
+
+**Recruitment:** Special Recruitment only — **[ELITE UNIT — Limit 1 per faction]**
+
+---
+
+#### Celestials
+*Aasimar paladins of extraordinary power, guided by divine heritage and years of holy warfare. Radiant in combat and seemingly impervious to fear, they anchor allied forces against the worst the enemy can field.*
+
+**Special Recruitment** — May only be recruited through special campaign events. Available to LG factions only.
+**[ELITE UNIT — Limit 1 per faction]**
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (aasimar); Paladin 8 |
+| **ACR** | 8 |
+| **Speed** | 1/5 |
+| **HP** | 44 |
+| **DV** | 22 |
+| **OM** | +10 |
+| **Morale** | +4 |
+| **Consumption** | 12 RP/Turn |
+| **Resources** | — |
+| **Tactics** | Full Defense, Defensive Wall (starting — innate); max 4 earned |
+
+**Special Abilities:**
+- **Aura of Courage** — Friendly units within 10 squares are immune to fear effects and Taunt.
+- **Divine Radiance (2/engagement)** — Deal 6 HP damage to all evil-aligned units within 4 squares. Friendly units are unaffected.
+- **Smite Evil (3/engagement)** — This unit gains +3 OM and ignores all DV bonuses against a single declared target unit for one phase.
+- **Lay on Hands (4/engagement)** — Restore 6 HP to this unit or an adjacent friendly unit.
+
+**Recruitment:** Special Recruitment only (LG factions only) — **[ELITE UNIT — Limit 1 per faction]**
+
+---
+
+#### Demons
+*A pair of powerful outsiders called from the lower planes. Their presence corrodes the will of nearby enemy troops, and their claws carry a supernatural plague that lingers long after the engagement.*
+
+**Special Recruitment** — May only be recruited through special campaign events. Available to Evil factions only.
+**[ELITE UNIT — Limit 1 per faction]**
+
+> *Stat basis: Leukodaemon (CR 9 Daemon). "Demon" is the in-world colloquial term.*
+
+| Stat | Value |
+|---|---|
+| **Type** | Outsider (daemon, evil, extraplanar) |
+| **ACR** | 9 |
+| **Speed** | 2/10; Fly 3/15 |
+| **HP** | 49 |
+| **DV** | 22 |
+| **OM** | +10 |
+| **Morale** | +2 |
+| **Consumption** | 10 RP/Turn |
+| **Resources** | — |
+| **Tactics** | False Retreat, Withdraw (starting — innate); max 4 earned |
+
+**Special Abilities:**
+- **Fly** — See **Fly** in Part XXI Special Abilities.
+- **Plague Aura** — At the start of each phase, all enemy units within 3 squares must make a DC 15 Morale check or take 1 HP damage from supernatural disease.
+- **Fear Aura** — Enemy units within 5 squares take –1 Morale at the start of each engagement phase. Units immune to fear are unaffected.
+- **Daemon Resilience** — This unit is immune to fear, disease, and poison effects. Ranged attacks against this unit suffer –2 OM unless the weapons are magical or silvered.
+
+**Recruitment:** Special Recruitment only (Evil factions only) — **[ELITE UNIT — Limit 1 per faction]**
+
+---
+
+#### Vampires
+*A small coterie of undead predators — patient, relentless, and nearly impossible to kill by conventional means. Devastating against unprepared armies, but requiring rare and specific conditions to maintain.*
+
+**Special Recruitment** — May only be recruited through special campaign events. Available to NE or CE factions only.
+**[ELITE UNIT — Limit 1 per faction]**
+
+| Stat | Value |
+|---|---|
+| **Type** | Undead (vampire) |
+| **ACR** | 9 |
+| **Speed** | 2/10 |
+| **HP** | 40 |
+| **DV** | 21 |
+| **OM** | +10 |
+| **Morale** | +2 |
+| **Consumption** | 10 RP/Turn |
+| **Resources** | — |
+| **Tactics** | False Retreat, Withdraw (starting — innate); max 4 earned |
+
+**Special Abilities:**
+- **Undead Immunities** — This unit is immune to fear effects, Taunt, and morale-reducing abilities. Abilities that restore HP to living creatures have no effect on this unit.
+- **Blood Drain (3/engagement)** — On a successful attack, the target unit loses 2 HP and this unit restores 2 HP (maximum its listed HP).
+- **Energy Drain (2/engagement)** — On a successful attack, the target unit takes –2 OM and –2 DV for the remainder of the engagement.
+- **Dominate (1/engagement)** — Target enemy unit within 3 squares makes a DC 17 Morale check. On a failure, it does not attack this unit for one phase and takes –2 OM against all targets.
+
+**Recruitment:** Special Recruitment only (NE or CE factions only) — **[ELITE UNIT — Limit 1 per faction]**
+
+---
+
+#### Vindicators
+*Holy warriors who have crossed the threshold from paladin to instrument of divine wrath. Their bodies bear the stigmata of their faith, and they fight with a ferocity that shames lesser soldiers.*
+
+**[ELITE UNIT — Limit 1 per faction]**
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human or mixed-race); Holy Vindicator (Fighter/Cleric 10 equivalent) |
+| **ACR** | 10 |
+| **Speed** | 1/5 |
+| **HP** | 55 |
+| **DV** | 24 |
+| **OM** | +12 |
+| **Morale** | +4 |
+| **Consumption** | 12 RP/Turn |
+| **Resources** | — |
+| **Tactics** | Full Defense, Defensive Wall, Spellbreaker (starting — innate); max 5 earned |
+
+**Special Abilities:**
+- **Vindicator's Shield** — All friendly units within 5 squares gain +2 DV.
+- **Divine Retribution (2/engagement)** — When this unit takes HP damage, it immediately deals equal HP damage back to the attacking unit.
+- **Stigmata (1/engagement)** — This unit voluntarily takes 3 HP damage to activate: restore 6 HP to all friendly units within 5 squares and deal 3 HP damage to all enemy units within 5 squares.
+
+**Recruitment:** Special Recruitment only — **[ELITE UNIT — Limit 1 per faction]**
+
+---
+
+#### Eldritch Knights
+*The rarest and most dangerous of warrior-mages: masters of both blade and spell who have spent years perfecting the art of channeling arcane power directly through martial combat.*
+
+**[ELITE UNIT — Limit 1 per faction]**
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human or mixed-race); Eldritch Knight (Fighter/Wizard 10 equivalent) |
+| **ACR** | 10 |
+| **Speed** | 1/5 |
+| **HP** | 45 |
+| **DV** | 22 |
+| **OM** | +12 |
+| **Morale** | +2 |
+| **Consumption** | 12 RP/Turn |
+| **Resources** | — |
+| **Tactics** | Dirty Fighters, Expert Flankers (starting — innate); max 5 earned |
+
+**Special Abilities:**
+- **Spell Blade (3/engagement)** — For one phase, this unit's attacks ignore all DV bonuses from non-magical armor resources and the unit gains +2 OM.
+- **Arcane Mastery (2/engagement)** — The unit unleashes a devastating area spell. Deal 8 HP damage to a target unit within Ranged(4) and 4 HP damage to each unit adjacent to and engaged with the target.
+
+**Recruitment:** Special Recruitment only — **[ELITE UNIT — Limit 1 per faction]**
+
+---
+
+#### Dragon Riders
+*Two pairs of bonded dragon riders — veteran fighters mounted on adult copper dragons. Among the most destructive forces a good faction can field, capable of reshaping a battle in a single pass.*
+
+**Special Recruitment** — May only be recruited through special campaign events. Available to Good factions only.
+**[ELITE UNIT — Limit 1 per faction]**
+
+| Stat | Value |
+|---|---|
+| **Type** | Humanoid (human); Fighter 6 / Dragon (copper, adult) |
+| **ACR** | 14 |
+| **Speed** | 4/20 (fly); 2/10 (ground) |
+| **HP** | 91 |
+| **DV** | 27 |
+| **OM** | +14; Ranged(5) |
+| **Morale** | +3 |
+| **Consumption** | 20 RP/Turn |
+| **Resources** | — |
+| **Tactics** | Expert Flankers (starting — innate); max 7 earned |
+
+**Special Abilities:**
+- **Fly** — See **Fly** in Part XXI Special Abilities.
+- **Acid Breath (2/engagement)** — Deal 8 HP damage to a target unit within Ranged(5) and 4 HP damage to each unit adjacent to and engaged with the target.
+- **Slowing Breath (2/engagement)** — Target unit's Speed is reduced to 0 for one phase and it cannot use the Withdraw tactic during that phase.
+- **Dragon Hide** — This unit reduces all HP damage it takes by 3 (minimum 1 per source).
+
+**Recruitment:** Special Recruitment only (Good factions only) — **[ELITE UNIT — Limit 1 per faction]**
+
+---
 ## XXII. Strategic Actions
 
 Strategic Actions are declared during the **Orders Phase** of each Turn and take effect at **Turn Resolution** unless otherwise noted. Both factions declare and resolve actions simultaneously.
@@ -949,7 +2451,7 @@ Strike at an enemy Army's logistics to hamper its movement.
 **Check:** DC = 15 + targeted Army's aggregate DV.
 - **Success:** The targeted Army's movement is halved (rounded down) for each Round of the following Turn.
 
-**Action Cost:** 1 | **RP Cost:** targeted Army's aggregate ACR ÷ 2 (rounded up)
+**Action Cost:** 1 | **RP Cost:** 1 per Unit in the targeted Army (minimum 3 RP)
 
 ---
 
@@ -1020,7 +2522,7 @@ Place a persistent spy network in a specific Settlement. Requires a prior succes
 
 Launch a province-wide campaign to improve your faction's standing with the general population.
 
-**Check:** DC = 20 + (2 per enemy-controlled Settlement in the Province) + (2 per Settlement in the Province with Loyalty to your faction of 4 or less) + (3 per Settlement in the Province with Unrest 6 or higher).
+**Check:** DC = 20 + (2 per enemy-controlled Settlement in the Province) + (2 per Settlement in the Province with Loyalty to your faction of 4 or less) + (3 per Settlement in the Province with Unrest 6 or higher). Maximum DC: 40.
 - **Success:** Loyalty to your faction increases by 1 in all Settlements in the Province.
 
 **Action Cost:** 4 | **RP Cost:** 25

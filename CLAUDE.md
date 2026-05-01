@@ -30,6 +30,8 @@ For **Rainbow Road** sessions, read the relevant plan file(s) listed in MEMORY.m
 
 **Committing:** Do not commit or push after edits. Wait for explicit instruction.
 
+**"Demons" (Broken Wheel):** "Demons" are PF1e Daemons. Use Daemon creature type and Daemon stat blocks in GM-facing text. "Demon" is in-world colloquial only.
+
 ---
 
 ## Standing Rules — All Campaigns

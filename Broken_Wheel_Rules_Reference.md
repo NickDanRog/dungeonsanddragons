@@ -273,7 +273,7 @@ At the end of the fourth Round:
 - RP consumption is calculated and paid (see Part VII)
 - Morale penalties apply for any missed Consumption
 - Intelligence and scouting rolls resolve
-- Regional Loyalty shifts apply (see Part IX)
+- Cleared Region loyalty shifts resolve and income is recorded (see Part IX)
 - Strategic actions resolve (negotiations, alliances, supply disruption, propaganda, etc.)
 - The GM performs the same resolution for enemy forces
 
@@ -327,27 +327,498 @@ A Unit reduced to 0 HP is destroyed. The GM determines narrative consequences: p
 
 ---
 
-## IX. Reserved: Regional Loyalty
+## IX. Cleared Regions
 
-*Mechanic definition pending — see Broken Wheel Design Document (Key Mechanics).*
-
----
-
-## X. Reserved: Immortal Escalation
-
-*Mechanic definition pending — see Broken Wheel Design Document (Key Mechanics).*
+A region becomes **cleared** when the party completes its Part objectives and moves on to the next region. Cleared regions continue to generate income, supply recruits, and require governance — but the party's direct leadership is no longer present. This Part governs loyalty, economics, governance, occupying forces, recruitment, and the risk of uprising in cleared regions.
 
 ---
 
-## XI. Reserved: The Cause Tracker
+### Regional Loyalty
 
-*Mechanic definition pending — see Broken Wheel Design Document (The Cause).*
+Each cleared region has a **Loyalty Rating** reflecting the population's commitment to the revolution's cause.
+
+**Loyalty Track**
+
+| Rating | Label |
+|---|---|
+| 5 | Committed |
+| 4 | Loyal |
+| 3 | Neutral |
+| 2 | Skeptical |
+| 1 | Hostile |
+| 0 | Collapsed |
+
+Loyalty 0 (Collapsed) is a special state reached only through counter-revolution escalation (see Counter-Revolution below). Loyalty cannot improve above 5 or fall below 0 through normal conditions.
 
 ---
 
-## XII. Reserved: Cause Divergence Tracker
+### Setting Initial Loyalty
 
-*Mechanic definition pending — see Broken Wheel Design Document (The Cause).*
+When a region clears, its starting Loyalty Rating is calculated from three inputs applied in order:
+
+> **Starting Loyalty = 3 (Neutral base) + Cause modifier (Part XI) + transition conditions**
+
+The Cause modifier is determined by the party's declared Cause when they first arrive in the region (see Part XI: The Cause Tracker). Transition conditions are evaluated once at the end of the Part.
+
+**Transition Conditions**
+
+| Condition | Modifier |
+|---|---|
+| All settlements were liberated (none occupied) by the rebellion | +2 |
+| All settlements were liberated or occupied by the rebellion | +1 (does not stack with row above) |
+| One or more settlements were not controlled by the rebellion at the end of the Part | –1 |
+| The rebellion actively defended all held settlements (none were sacked or razed by enemy forces) | +1 |
+| One or more held settlements were lost to enemy sacking or razing | –1 |
+| The rebellion sacked one or more settlements | –2 |
+| The rebellion razed one or more settlements | –4 |
+| The region was restored to a former ruler or legitimate successor | +1 |
+
+The two liberation conditions (+2 and +1) do not stack; apply whichever is higher. All other modifiers apply simultaneously and stack freely.
+
+Each region also has **specific transition conditions** tied to events unique to its Part. These are listed in the GM Guide entry for the relevant Part.
+
+---
+
+### Ongoing Conditions
+
+The following conditions are re-evaluated at Turn Resolution each Turn. They reflect the current state of the rebellion's relationship with the region and are not permanent modifications to the base Loyalty.
+
+| Condition | Modifier |
+|---|---|
+| The rebellion continues to occupy one or more settlements in the region | –2 |
+| The rebellion levies high taxes on occupied settlements | –1 |
+| The rebellion levies extreme taxes on occupied settlements | –2 (does not stack with high taxes) |
+
+Releasing occupied settlements or changing the taxation model removes the relevant penalty immediately.
+
+---
+
+### Economics for Cleared Regions
+
+Income generated from cleared regions is added to end-of-turn bookkeeping (Part XXIII). All income from cleared regions arrives at the end of the *following* turn — a one-turn delay from collection.
+
+Income cannot be collected from any cleared region with a Loyalty Rating of 2 (Skeptical) or lower.
+
+**Taxation (Occupied Settlements)**
+
+Tax may be extracted from occupied settlements once per Turn. Calculate the total Economy rating of all occupied settlements in the region, then apply the chosen taxation model. Round all results down; minimum 1 RP.
+
+| Model | Calculation | Ongoing Loyalty Modifier |
+|---|---|---|
+| Standard | Total Economy ÷ 4 | None |
+| High | Total Economy ÷ 3 | –1 |
+| Extreme | Total Economy ÷ 2 | –2 |
+
+The taxation model's Loyalty modifier is an ongoing condition. It applies each Turn the model is in use and is removed when the model changes.
+
+**Tribute (Liberated Settlements)**
+
+Tribute may be requested from liberated settlements once every other Turn. Calculate the total Economy rating of all liberated settlements in the region and divide by 5 (round down, minimum 1 RP). The rebellion may collect that amount in RP.
+
+---
+
+### Rulership
+
+When a region clears, the party must decide how it will be governed.
+
+**Restore Local Control**
+
+If a former ruler, legitimate successor, or comparable regional authority was located during the Part, the party may restore governance to local hands. When local control is restored:
+- All settlements in the region are treated as **liberated** for all mechanical purposes, regardless of occupation status at the time of the handoff.
+- The region gains the **+1 Loyalty transition modifier** for restored local rule.
+- The local ruler assumes responsibility for raising and maintaining regional forces; this force is GM-managed and does not draw from the rebellion's war chest.
+
+**Install a Governor**
+
+If no local ruler is available, or if the party chooses not to restore local control, a Governor may be installed to govern the region on the rebellion's behalf. A Governor **must** be installed if the rebellion continues to occupy any settlements after the Part ends.
+
+A Governor functions as a **Commander-type NPC** (Part XXIV). Installing a Governor does not confer the +1 Loyalty modifier for restored local rule.
+
+---
+
+### Occupying Forces
+
+A Governor must be supported by an **army of occupation** to garrison held settlements and defend against uprising or counter-invasion.
+
+- The army of occupation is treated as a single Army for all combat and expense purposes.
+- The army must include a minimum number of units equal to the **number of occupied settlements**.
+- The Governor serves as the army's Commander. Their **Command Rating** (5 + Cha modifier) determines the maximum number of units they may deploy when engaging enemy forces in the field.
+
+If the region is under local control, the local ruler raises and maintains their own regional forces. This force is GM-managed.
+
+The party may reinforce a cleared region using the **Deploy to Cleared Region** strategic action (Part XXII). Dispatched forces arrive at the end of the turn following the one in which they were dispatched — two full turns after the order.
+
+---
+
+### Recruitment from Cleared Regions
+
+The party may recruit units from cleared regions using the Recruitment strategic action (Part XXII), subject to the following modifications:
+
+- Any unit type available in any settlement in the cleared region may be recruited.
+- Recruitment cost: **base RP cost + 2 RP**.
+- Recruited units arrive at the party's current headquarters **two full turns** after the order is issued.
+- Recruitment from a cleared region requires a Loyalty Rating of 3 (Neutral) or higher.
+
+---
+
+### Counter-Revolution
+
+When a cleared region's Loyalty Rating falls to 1 (Hostile) or 0 (Collapsed), it risks active revolt. At Turn Resolution, a **Control check** is made for the region.
+
+**Who Makes the Check**
+
+If a Governor is installed, the Governor makes the check: **1d20 + Cha modifier + (Leadership ÷ 2)**.
+
+If no Governor is installed, the responsible PC designated by the party makes the check using the same formula.
+
+**Control Check DCs**
+
+| Loyalty Rating | DC |
+|---|---|
+| 1 — Hostile | 25 |
+| 0 — Collapsed | 30 |
+
+**Results**
+
+*Loyalty 1, failed check:* The region's Loyalty drops to 0 (Collapsed). No revolt triggers yet.
+
+*Loyalty 0, failed check:* Active revolt breaks out. Resolve based on current governance:
+
+- **Restored local ruler:** The region becomes hostile to the rebellion. No revolt army spawns. A counter-invasion may be launched against the rebellion at a later time, governed by the Immortal Escalation rules (Part X).
+
+- **Governor present:** A revolt army spawns containing **one unit per occupied settlement**. Each unit is of the region's native type (GM discretion — typically the same troop quality as units recruited from this region). If the region's Loyalty was 0 when the revolt triggered, spawn **two units per occupied settlement** instead.
+
+Resolve combat between the revolt army and the occupation forces as **aggregate strategic combat** (Part V). Counter-invasions triggered by regional hostility are likewise resolved as aggregate strategic combat.
+
+---
+
+## X. Immortal Escalation
+
+The Five Immortals are not passive antagonists waiting to be fought. From the moment the revolution becomes visible, they observe, adapt, and respond. This Part provides the GM with a structured system for tracking the High Kingdom's awareness and the Immortals' active countermeasures as the campaign progresses.
+
+---
+
+### The Escalation Track
+
+The **Escalation Track** is a 1–5 measure of how seriously the High Kingdom is treating the revolution as a strategic threat. It rises as the revolution grows in visibility and scope, and falls when Immortals are eliminated or turned.
+
+| Level | Label | Imperial Response |
+|---|---|---|
+| 1 | Unaware | Regional unrest only; no coordinated Immortal response |
+| 2 | Noted | Revolution confirmed; Immortals begin active intelligence operations against the rebellion |
+| 3 | Mobilized | Military countermeasures begin; counter-invasions of cleared regions become possible |
+| 4 | Coordinated | Surviving Immortals share intelligence and act in concert; enemy strategic actions gain +2 to all checks (see Intelligence Coordination below) |
+| 5 | Full Response | Maximum Imperial commitment; counter-invasion forces are larger; Tegea may act directly |
+
+The Track begins at **1** at the start of the campaign. It cannot exceed 5 or fall below 1.
+
+---
+
+### Raising the Track
+
+**Automatic Increases (Part Completion)**
+
+The Track increases by 1 when each of the following Parts is completed. Part I (Severan) is too isolated for the revolution to register as a coordinated threat.
+
+| Part Completed | Modifier |
+|---|---|
+| Part II — Kingdom of Ambracia | +1 |
+| Part III — Kingdom of Delft | +1 |
+| Part IV — The Shining South | +1 |
+| Part V — The Hundred Isles | +1 |
+
+**Event-Driven Increases**
+
+The following events raise the Track by 1 when they occur:
+
+- The rebellion makes its first public declaration of cause
+- The rebellion sacks a major settlement
+- A High Kingdom officer or administrator is publicly executed by the rebellion
+- The rebellion wins a major pitched battle (GM discretion — engagements that become widely known)
+
+Event-driven increases apply only once per event type unless noted otherwise.
+
+---
+
+### Lowering the Track
+
+| Event | Modifier |
+|---|---|
+| An Immortal is eliminated | –1 |
+| An Immortal is redeemed | –2 |
+
+Eliminating an Immortal collapses their regional intelligence network, reducing the High Kingdom's overall situational awareness. Redemption is more destabilizing — the converted Immortal's knowledge of High Kingdom operations actively compromises its intelligence capacity.
+
+---
+
+### Intelligence Visibility
+
+The Escalation Track is not directly visible to the players. Its current level is revealed as a function of successful **Intelligence Gathering** or **Establish Network** strategic actions (Part XXII). When either action succeeds, the GM translates the current Track level into an in-world intelligence report — intercepted orders, courier patterns, troop movements, or agent chatter — appropriate to the action's scope.
+
+| Track Level | What the Intelligence Reveals |
+|---|---|
+| 1 | No unusual activity; High Kingdom communications show no focused interest in the rebellion's region |
+| 2 | Increased courier traffic between Immortal commands; coded references to regional unrest; no orders yet |
+| 3 | Reinforcement orders for threatened regions; specific references to the rebellion by name; Immortal commanders are being briefed |
+| 4 | Intercepted directives showing the Immortals operating in concert; Tegea's seal on coordinated orders; operational security among enemy agents has tightened |
+| 5 | The High Kingdom is treating the rebellion as an existential threat; Tegea is personally directing the response; intelligence references assets and operations not previously known to the rebellion |
+
+---
+
+### Immortal Status
+
+The GM tracks each Immortal's current status throughout the campaign.
+
+| Status | Definition |
+|---|---|
+| Active | The Immortal is alive and operating in their assigned region |
+| Eliminated | The Immortal has been killed and can no longer take escalation actions |
+| Redeemed | The Immortal has turned; they cannot act against the rebellion and may provide unique benefits (see GM Guide) |
+
+Only **Active** Immortals may launch counter-invasions or contribute to Intelligence Coordination.
+
+**Suggested Tracking Format**
+
+| Immortal | Part | Status | Notes |
+|---|---|---|---|
+| General Toma Pendragh | III | Active | |
+| Prelate Anton Olesk | IV | Active | Redeemable — see Part IV GM Guide |
+| General Timur Havel | V | Active | |
+| General Istvan Simic | VI | Active | See Confederation Special Case below |
+| Lady Lazia Jojic | VII | Active | |
+
+---
+
+### Intelligence Coordination
+
+At Track 4 (Coordinated) or higher, the High Kingdom's intelligence network is operating at full capacity. When two or more Immortals are **Active**, all enemy strategic action checks gain **+2**.
+
+This bonus is removed immediately if the Track falls below 4, or if fewer than two Immortals remain Active.
+
+---
+
+### Counter-Invasions
+
+At Track 3 (Mobilized) or higher, any Active Immortal may launch a **counter-invasion** against the cleared region they govern. Counter-invasions represent the Immortal committing forces to retake territory the rebellion has passed through.
+
+**Timing**
+
+Counter-invasions are declared by the GM during the Orders Phase and arrive at the end of the following Turn — the same two-turn transit that governs the rebellion's own force deployments (Part IX).
+
+**Force Size**
+
+The invading force is determined by the Immortal's CR using the formula: **CR ÷ 3 (round up, minimum 2 units)**. Named values:
+
+| Immortal | Base Units |
+|---|---|
+| General Toma Pendragh (CR 9) | 3 |
+| Prelate Anton Olesk (CR 12) | 4 |
+| General Timur Havel (CR 13) | 5 |
+| General Istvan Simic (CR 17) | 6 |
+| Lady Lazia Jojic (CR 18) | 6 |
+
+At Track 5 (Full Response), add 2 units to the base force. The GM selects unit types appropriate to the Immortal's region and military character.
+
+**Resolution**
+
+Resolve the counter-invasion as **aggregate strategic combat** (Part V) between the invading force and the cleared region's garrison or local forces. If the garrison is defeated, the region reverts to High Kingdom control. All economic income, tribute, and recruitment from that region are suspended until the party recaptures it.
+
+---
+
+### The Confederation — Special Case
+
+General Istvan Simic does not follow the standard escalation pattern. Unlike the other Immortals, Simic actively disrupts the rebellion **during Part VI** rather than waiting for a set-piece confrontation. His methods — political interference across the Confederation's dozen factions, intelligence operations, and strategic pressure — are a designed feature of Part VI and are detailed in the GM Guide for that Part.
+
+The standard Immortal Escalation rules apply to Simic in one respect: if he survives Part VI and the party advances to Part VII, he retains the ability to launch a counter-invasion against a cleared Confederation.
+
+---
+
+## XI. The Cause Tracker
+
+**The Cause** is the revolution's declared goal — the answer to the question the party must eventually face: what are we building in place of what we're destroying? It is chosen during Part I and recorded as the revolution's public commitment to its followers and allies. It is a compass, not a constraint: players may make choices that diverge from their stated Cause at any point. The gap between what the revolution declared and what it actually did is the campaign's most important dramatic material.
+
+Four Causes are available:
+
+| Cause | Core Drive |
+|---|---|
+| **Liberation** | Free all seven regions; restore self-governance to each people |
+| **Covenant** | Build a new governing structure that prevents the cycle from repeating |
+| **Reformation** | Purge the demonic influence; reform the High Kingdom into what Xandar intended |
+| **Dominion** | Rule the continent |
+
+---
+
+### Cause Selection
+
+The Cause is chosen formally during the **Part I conclusion** — the moment when the revolution transitions from a local uprising to a continental movement. This is a significant in-world declaration, not a bookkeeping step: the party is committing the revolution to a stated goal in front of the people of Severan and beyond.
+
+**If the party cannot agree:** The GM should play the disagreement out rather than resolving it with a ruling. A revolution that cannot decide what it is fighting for is itself a dramatic condition. The party may defer the declaration, but they cannot receive Cause modifiers to Regional Loyalty (see below) until a Cause is formally declared.
+
+---
+
+### The Cause Record
+
+The GM maintains the following record at all times:
+
+| Field | Entry |
+|---|---|
+| **Declared Cause** | |
+| **Declared During** | Part ___ |
+| **Previous Cause** | *(if switched; blank if none)* |
+| **Switch Occurred During** | Part ___ |
+
+---
+
+### Cause Modifiers to Regional Loyalty
+
+The party's declared Cause affects how each region's population initially receives the revolution. Cause modifiers are applied when the party first arrives in a region, before transition conditions are earned:
+
+> **Starting Loyalty = 3 (Neutral base) + Cause modifier + transition conditions**
+
+| Region | Liberation | Covenant | Reformation | Dominion |
+|---|---|---|---|---|
+| I — Grand Duchy of Severan | +1 | +1 | 0 | 0 |
+| II — Kingdom of Ambracia | +1 | +1 | 0 | 0 |
+| III — Kingdom of Delft | +1 | +1 | 0 | –2 |
+| IV — The Shining South | 0 | 0 | 0 | –2 |
+| V — The Hundred Isles | +2 | +1 | –2 | –2 |
+| VI — The Confederation | +1 | +2 | 0 | –2 |
+| VII — The Highlands | –2 | –2 | +1 | –4 |
+
+**Dominion — Regions III–VII (–2):** Populations that lived through the High Kingdom's conquest read a Dominion revolution as a second conquest in reverse. The –4 for Region VII compounds the conquest penalty with the Highlands population's specific attachment to the High Kingdom as an institution.
+
+**Cause modifiers and Cause switches:** If the party switches Causes before arriving in a region, the new Cause modifier applies. Regions already cleared keep the loyalty established under the previous Cause.
+
+---
+
+### Special Conditions
+
+**Covenant — Regions I and II — Nobility**
+
+The +1 modifier for Covenant in Regions I and II reflects popular support among the common population. Noble-class NPCs and factions in Regions I and II will be less cooperative under a Covenant revolution — Covenant's institutional goals threaten traditional power structures. The GM Guide for Parts I and II identifies the specific factions and NPCs affected.
+
+**Covenant — Region III — Olesk**
+
+The Covenant modifier for Region III assumes the Corrupted Church remains under Olesk's leadership. If Olesk is redeemed or eliminated during Part IV, the common believers' openness to Covenant increases as the Church's institutional hesitation collapses. Apply a **+1 event-driven loyalty shift to Region III** at the end of the Turn in which Olesk's arc resolves, if the declared Cause is Covenant. This shift applies whether Region III is active or already cleared.
+
+---
+
+### Cause Switches
+
+A Cause switch is permitted only at a **Part conclusion** — not mid-Part. It requires a narrative trigger: a revelation, a betrayal, a faction demand, or an internal rupture significant enough to justify changing the revolution's declared goal.
+
+**Procedure:**
+1. The party identifies the triggering event and declares the new Cause.
+2. The new Cause is announced publicly within the fiction — allied factions will react accordingly.
+3. The GM updates the Cause Record.
+4. The new Cause modifier applies to all regions not yet cleared.
+
+A switch between adjacent Causes (Liberation → Covenant) is a significant event. A switch between opposing Causes (Liberation → Dominion) is a campaign-defining rupture. The rules permit both. Prior divergences are not erased — they remain in the Part XII record as historical context.
+
+---
+
+### Mixed-Cause Parties
+
+The revolution has one declared Cause at a time. Individual PCs do not need to agree with it. A PC whose choices consistently contradict the declared Cause is generating divergence entries (see Part XII) — this is the correct dramatic outcome, not a rules problem to resolve.
+
+---
+
+### GM Guidance: Cause-Aligned Moments
+
+At the start of each Part, identify which choices in the upcoming content are aligned with each Cause and which are divergent. When a Cause-aligned option and a Cause-divergent option are both available, present both without editorializing. The party knows what they declared. The GM Guide for each Part marks the key Cause-aligned and Cause-divergent choice points.
+
+---
+
+## XII. Cause Divergence Tracker
+
+The Cause Divergence Tracker is a **GM-facing record** of choices the party makes that contradict their declared Cause. It generates no mechanical penalties during play. Its purpose is to give the GM structured information for one specific task: determining, at campaign close, which ending the party has actually earned.
+
+A party that declared Liberation but consistently occupied settlements, levied extreme taxes, and installed Governors over available local rulers has not earned the Liberation ending — regardless of what they declared in Part I. The Cause Divergence Tracker documents the gap between what the revolution said it was and what it did.
+
+---
+
+### What Counts as Divergence
+
+Divergence is a pattern — a body of decisions that, taken together, point toward a different Cause than the one declared. Single choices explained by circumstance are noted but not heavily weighted. The following identify the types of choices that signal divergence away from each Cause.
+
+**Diverging from Liberation:**
+- Consistently occupying settlements when liberation was possible
+- Installing Governors over available local rulers
+- Retaining military control of cleared regions beyond operational necessity
+- Levying extreme taxation as a sustained policy across multiple regions
+- Leveraging military victory to extract concessions rather than establish self-governance
+
+**Diverging from Covenant:**
+- Refusing to engage with faction-building and institutional diplomacy
+- Destroying or bypassing factions rather than incorporating them into a new structure
+- Consistently choosing military solutions over institutional ones when both are available
+- Declining opportunities to pursue Olesk's redemption when it becomes available
+- Refusing to work with reformable elements of the High Kingdom's administration
+
+**Diverging from Reformation:**
+- Not investigating the demonic pacts as an active campaign goal
+- Treating Tegea as simply an enemy rather than a potentially reachable figure
+- Destroying High Kingdom administrative structures rather than purging and reforming them
+- Not pursuing the demonic patron arc when it becomes accessible
+- Treating each Immortal purely as an obstacle rather than as a figure with a history
+
+**Diverging from Dominion:**
+- Consistently liberating settlements when occupation was available
+- Restoring local rulers over multiple regions rather than installing Governors
+- Declining to extract resources from cleared regions as a sustained choice
+- Building alliances on mutual benefit rather than subordination
+- Pursuing redemption arcs without strategic justification
+
+---
+
+### Recording Divergences
+
+The GM keeps a running log organized by Part. Each entry records:
+- The choice made
+- What the Cause-aligned choice would have been
+- Weight: Minor or Major
+
+| Part | Choice Made | Cause-Aligned Alternative | Weight |
+|---|---|---|---|
+| III | Occupied all Delft settlements; no local ruler installed | Liberate (heir available) | Major |
+| IV | Declined Olesk redemption arc entirely | Pursue (Covenant-aligned) | Major |
+| IV | Imposed extreme taxation on occupied Region III | Standard taxation or tribute | Minor |
+| V | Restored Elven Queen to local control | — | *(no divergence)* |
+
+---
+
+### Divergence Weight
+
+**Minor:** A single choice that contradicts the Cause but is explicable by circumstance. Noted in the log; low weight at campaign close.
+
+**Major:** A choice that represents a sustained pattern or a deliberate statement of intent — occupying every settlement in a region when liberation was possible, categorically refusing institutional engagement across multiple Parts, systematically extracting maximum resources at every opportunity. These define the earned ending.
+
+At campaign close, the GM reviews the full log and weighs major entries heavily. Two or three major divergences in the same direction constitute a clear pattern.
+
+---
+
+### Cause Switches and the Record
+
+When the party switches Causes, prior divergences remain in the record. They are not erased. Divergences accumulated before the switch carry less weight at campaign close than those accumulated after it.
+
+A switch motivated by accumulated divergence — the party finally declaring what they have been doing all along — is itself a meaningful data point and should be noted in the record alongside its triggering conditions.
+
+---
+
+### Campaign Close: Determining the Earned Ending
+
+At the end of Part VII, before the final confrontation, the GM reviews the full divergence record and assesses which Cause the party's accumulated choices most closely match.
+
+**Step 1 — Does the earned Cause match the declared Cause?**
+If the divergence record is thin — mostly minor entries, no sustained pattern in a single direction — the declared Cause is the earned Cause. Proceed to the corresponding ending.
+
+**Step 2 — Is there a clear earned Cause?**
+If the record shows a sustained pattern of major divergences toward a specific other Cause, that Cause is the earned Cause. A Liberation-declaring party whose record shows systematic occupation, Governors installed over available local rulers, and sustained extreme taxation has earned the Dominion ending.
+
+**Step 3 — Is the divergence mixed or ambiguous?**
+If the record shows divergence in multiple contradictory directions without a clear pattern, the party has earned a **fractured ending** — the declared Cause is nominally available but the revolution has not built anything coherent behind it. The GM Guide for Part VII provides framing guidance for this outcome.
+
+**The final confrontation reflects the earned Cause, not the declared one.** How the GM frames Tegea — her words, her choices, the final question she puts to the party — depends on which ending they have earned. A Dominion-earned party faces a different Tegea than a Liberation-earned one. The difference is not mechanical. It is the mirror the campaign has been building since Part I.
 
 ---
 
@@ -2390,6 +2861,16 @@ Strike at an enemy Army's supply train and logistics to steal resources and hamp
 
 ---
 
+#### Deploy to Cleared Region
+
+Send an Army or individual Unit to a cleared region. The dispatched force departs from its current location and arrives at the cleared region at the end of the turn following the one in which it was dispatched — two full turns after the order is issued.
+
+The dispatched force is unavailable for engagements or strategic actions during transit.
+
+**Action Cost:** 1 | **RP Cost:** —
+
+---
+
 ### Intelligence Actions
 
 **Intel Rating:** Intelligence modifier + (Profession–Spycraft ranks ÷ 3, rounded down)
@@ -2571,6 +3052,30 @@ Target a single Settlement with focused outreach — a lower-cost, more targeted
 - **Success:** Loyalty to your faction increases by 1.
 
 **Action Cost:** 1 | **RP Cost:** 5
+
+---
+
+#### Stabilize Cleared Region
+
+Invest diplomatic effort in a cleared region to strengthen the population's commitment to the revolution. Declare the target region before rolling.
+
+**Check:** DC 20.
+- **Success:** The region's Loyalty Rating increases by 1 (maximum 5).
+- **Failure:** No effect.
+
+**Action Cost:** 1 | **RP Cost:** 3
+
+---
+
+#### Release Settlement
+
+Formally convert an Occupied settlement to Liberated status. The rebellion withdraws its occupying garrison and cedes administrative control to the local population. Declare the target settlement during the Orders Phase; the release takes effect at Turn Resolution.
+
+- The settlement's Unrest decreases by 3 and its Loyalty adjusts as for standard Liberation (Part XVI).
+- The cleared region's minimum garrison requirement decreases by 1.
+- If all occupied settlements in a cleared region are released, the occupation ongoing Loyalty modifier (–2) is removed immediately.
+
+**Action Cost:** 0 | **RP Cost:** —
 
 ---
 

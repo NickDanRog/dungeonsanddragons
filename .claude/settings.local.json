@@ -34,7 +34,10 @@
       "Bash(awk 'NR>=1629' \"c:/Users/nroge/OneDrive/Documents/PROJECT/Campaigns/Rainbow_Road_Stat_Block_Appendix.md\")",
       "WebFetch(domain:en.wikipedia.org)",
       "WebFetch(domain:pathfinder.d20srd.org)",
-      "WebFetch(domain:legacy.aonprd.com)"
+      "WebFetch(domain:legacy.aonprd.com)",
+      "Bash(py --version)",
+      "PowerShell(python --version 2>&1)",
+      "PowerShell(py --version 2>&1)"
     ]
   }
 }

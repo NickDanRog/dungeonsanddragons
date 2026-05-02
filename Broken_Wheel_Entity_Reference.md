@@ -68,6 +68,8 @@ Mid-1600s equivalent.
 | General Gabriel Kollar | Demonic Patrons (disguised) | Part IV | Shapeshifted daemon posing as general under Olesk |
 | [Xandar's Elven Servant] | Independent | Part V (if found) | Witnessed Xandar's assassination; has evidence; hiding in Hundred Isles |
 | [Key Revolutionary NPCs] | Revolutionary Forces | Parts I–II | TBD |
+| The Oracle | None | Part I (via The Messenger); Part V (full) | Ancient folkloric figure; foretells destiny of heroes; as often ill as good |
+| Xanatar | Demonic Patrons | Part I (influence); Part VII (full) | Leading daemon voice; primary liaison to Queen Tegea |
 
 ## The Five Immortals
 
@@ -88,8 +90,9 @@ Mid-1600s equivalent.
 | The Corrupted Church | Religious (Imperial) | Shining South | Prelate Anton Olesk |
 | The Elven Remnant | Regional (suppressed) | Hundred Isles | [Elven Queen] |
 | The Confederation's Factions | Regional (multiple) | The Confederation | TBD |
-| The Demonic Patrons | Supernatural | The Highlands (manifest) | TBD |
+| The Demonic Patrons | Supernatural | The Highlands (manifest) | Xanatar (primary daemon liaison to Queen Tegea) |
 | The Straža | Anti-Daemon Order (LG) | TBD — continent-wide scope | Emil Karima (former leader; disappeared 24 AC) |
+| The Freedom Brigade | Revolutionary (pre-existing) | Severan (origin) | Lieutenant Milda Breznice (acting commander, post-Pelagri Dam) |
 
 ---
 
@@ -187,6 +190,8 @@ Mid-1600s equivalent.
 | Freedom Brigade | opposes | High Kingdom (Severan theater) |
 | Freedom Brigade | ideologically founded on | writings of Linus Kateiva |
 | Freedom Brigade | suffered decisive defeat at | Battle of the Pelagri Dam (one week before campaign) |
+| Freedom Brigade | pre-dates | the Conquest (originally fought regional nobility before fighting the High Kingdom) |
+| Freedom Brigade | transforms into (Part I) | Revolutionary Forces |
 | Linus Kateiva | founded (ideologically) | Freedom Brigade |
 | Linus Kateiva | executed by | High Kingdom (43 AC) |
 | Linus Kateiva | alumnus of | Academy (Rumari) |
@@ -261,6 +266,8 @@ Mid-1600s equivalent.
 | The Messenger | initially detained at | Sava (High Kingdom) |
 | The Messenger | appears in | Part I |
 | The Oracle | sends | The Messenger (to the party) |
+| The Oracle | known through | Zidonian folklore (appears to foretell destiny of heroes; as often for ill as for good) |
+| The Oracle | appears in person | Part V |
 | Father Tomais | resides at | The Shrine at Rhunu |
 | Father Tomais | former colleague of | Lord Emil Karima (Straža research) |
 | Father Tomais | knows of | Emerald Coffin |
@@ -272,6 +279,9 @@ Mid-1600s equivalent.
 | Hancastle | located in | Vilniva |
 | Hancastle | is | ducal palace of Grand Duchy of Severan |
 | Hancastle | contains | undercastle (dungeon housing the Emerald Coffin) |
+| Xanatar | speaks for | daemon council (primary liaison to Queen Tegea) |
+| Xanatar | corrupted (through Emerald Coffin) | Alfonse II Karima |
+| Xanatar | assigned | Sigluun (to guard Emerald Coffin) |
 
 ---
 
@@ -1167,6 +1177,23 @@ If found and protected, their testimony reframes the campaign's entire historica
 
 ---
 
+### The Oracle
+
+**Type:** NPC — Ancient Figure | **Pronouns:** she/her | **Alignment:** TBD
+**Faction:** None | **Class/Level:** TBD
+**First Appears:** Part I (through The Messenger); Part V (full coverage)
+
+**Role in Campaign**
+An ancient and mysterious being, well known to the people of Zidonia through folkloric tradition. In the region's folklore the Oracle appears at moments of destiny to meet with heroes and foretell what is to come — as often for ill as for good. Her Part I role is exercised entirely through her servant, The Messenger. Full coverage deferred to Part V.
+
+**Key Relationships**
+- employs: The Messenger (envoy to the party)
+- appears in person: Part V
+
+**Stat Block Reference:** TBD (Part V)
+
+---
+
 # THE FIVE IMMORTALS
 
 ---
@@ -1444,6 +1471,30 @@ Emil Karima (former leader; disappeared 24 AC; whereabouts unknown); current lea
 
 ---
 
+### The Freedom Brigade
+
+**Type:** Revolutionary (pre-existing)
+**Regions Present:** Grand Duchy of Severan (origin); expands with the revolution
+
+**Public Face**
+An anti-imperial resistance movement with roots predating the Conquest itself. Earlier iterations fought the excesses of the regional nobility; the modern Freedom Brigade opposes the High Kingdom. Grounded in the philosophical writings of Linus Kateiva (executed 43 AC), the Brigade has risen and been suppressed repeatedly across generations — by violence as often as by the loss of internal cohesion. It has scored occasional minor victories but has never sustained organized resistance long enough to produce lasting change. The most recent iteration was crushed at the Battle of the Pelagri Dam one week before the campaign begins.
+
+**Hidden Truth (DM Only)**
+The Freedom Brigade's failure pattern is not purely military. The organization has repeatedly collapsed under internal disagreement — factional splits over goals, tactics, and who the movement actually serves. The ideological foundation Kateiva provided is real and resonant; the structural capacity to maintain coherent organization under pressure has never been built. The party will need to build what the Brigade never had.
+
+**Relationship to High Kingdom**
+Existential opposition. The Freedom Brigade exists to oppose imperial authority; the High Kingdom has suppressed it repeatedly by force whenever it became organized enough to threaten stability.
+
+**Relationship to Revolution**
+The Freedom Brigade is the revolution's raw material. Its surviving members — demoralized, leaderless, and retreating after Pelagri Dam — are the party's first recruits and the nucleus of the Revolutionary Forces. The organization transforms or dissolves; there is no third option.
+
+**Key NPCs**
+Linus Kateiva (founder/ideological foundation; executed 43 AC); Lieutenant Milda Breznice (acting commander, post-Pelagri Dam)
+
+**Loyalty to Revolution:** Immediate — survivors are available for recruitment from campaign start; Breznice will follow capable leadership without hesitation
+
+---
+
 ### The Confederation's Factions
 
 **Type:** Regional (multiple)
@@ -1468,7 +1519,34 @@ Variable. The party cannot treat the Confederation as a single faction; each sta
 
 # DEMONIC PATRONS
 
-*Nature, hierarchy, and agenda TBD. Stubs below.*
+*Nature, hierarchy, and agenda TBD. Named individual entries below; generic faction entry follows.*
+
+---
+
+### Xanatar
+
+**Type:** Demonic Patron — Named | **Pronouns:** he/him | **Alignment:** NE
+**Faction:** Demonic Patrons | **CR:** TBD
+**First Appears:** Part I (influence via Emerald Coffin); Part VII (full coverage)
+
+**Nature and Origin**
+A leading voice among the council of daemons seeking influence over the world of Zemia. Xanatar serves as the council's primary representative in its connection to Queen Tegea — the voice through which the daemon compact with the High Kingdom's senior leadership is maintained.
+
+**Agenda**
+TBD — full coverage in Part VII.
+
+**Relationship to Pact**
+Speaks for the daemon council in the compact with Queen Tegea. His influence in the world operates through this connection and through daemon agents assigned to serve High Kingdom ends.
+
+**Physical Form**
+TBD.
+
+**Key Relationships**
+- speaks for: daemon council (primary liaison to Queen Tegea)
+- corrupted (through Emerald Coffin): Alfonse II Karima
+- assigned: Sigluun (to guard Emerald Coffin)
+
+**Stat Block Reference:** Appendix B (to be written in GM Guide, Part VII)
 
 ---
 
@@ -1499,5 +1577,5 @@ TBD. Do they manifest physically? Under what conditions?
 
 ---
 
-*Reference file current as of: May 2026 — World Reference (calendar/tech level); Region I fully detailed (9 settlements including Rhunu, military posture, enemy response protocol, 5 objectives + 1 bonus); Region I NPCs complete (Telaris, Selunis, Kraule, Sigluun, Breznice, Antina Pole, The Messenger, Father Tomais); Alfonse II and Emil Karima entries fully detailed; Emerald Coffin, Hancastle, Rhunu, The Oracle, Xanatar introduced; Relationship Map updated for all Region I entities; Five Immortals fully named and detailed; Princess Marta, Tanya Milik, Gabriel Kollar, [Xandar's Elven Servant] present; world Zemia / continent Zidonia confirmed*
+*Reference file current as of: May 2026 — World Reference (calendar/tech level); Region I fully detailed (9 settlements including Rhunu, military posture, enemy response protocol, 5 objectives + 1 bonus); Region I NPCs complete (Telaris, Selunis, Kraule, Sigluun, Breznice, Antina Pole, The Messenger, Father Tomais); Alfonse II and Emil Karima entries fully detailed; Emerald Coffin, Hancastle, Rhunu fully detailed; Freedom Brigade (faction entry), The Oracle (stub), Xanatar (stub) added; Relationship Map updated for all Region I entities; Five Immortals fully named and detailed; Princess Marta, Tanya Milik, Gabriel Kollar, [Xandar's Elven Servant] present; world Zemia / continent Zidonia confirmed*
 *System: Pathfinder First Edition | Campaign: Broken Wheel | World: Zemia | Continent: Zidonia | Level Range: 1–20*

@@ -39,7 +39,7 @@ This book is organized as follows:
 **Act I: The Four Keys (Levels 1–4)**
 The party is selected by the Oracle — the Archipelago's most sacred institution, a belief-spirit incarnated in a mortal host whose pronouncement names specific individuals as the new Circle — and drawn into something they do not yet fully understand. The act establishes the Archipelago, introduces the belief-spirits and their relationship to mortal faith, and takes the party east into the Sacred Lands, where they learn two rituals no one in the Isles has performed in living memory and receive. The have their first encoutner with one of the Old Gods and receive the first frank account of what they are deliberating and why. Act I ends at sea, the party returning home to the Archipelago with both rituals, the name of the first spirit, and a warning about the state of the world that none of them were prepared for.
 
-**Act II: The Middle Passage (Levels 4–9)**
+**Act II: The Middle Passage (Levels 4–8)**
 The party crosses the Middle Sea westward to Daliketh — the Unity's eastern port city, and the first place most of them have ever set foot in a nation that considers what they are to be criminal. They operate undercover inside a sophisticated society that has no framework for understanding magic or spirits, and must build relationships, cultivate contacts, and navigate the Unity's surveillance apparatus while completing the mission that brought them here. Act II ends with the party having made their first real mark on the Unity and earned the network they will need to go deeper.
 
 **Act III: Into the West (Levels 9–12)**
@@ -1644,7 +1644,7 @@ What follows is two days on the road to Dremma. A Wayfinder escort arrives at ca
 
 ### Scene 1: The Summons
 
-> *The road to Sanctuary runs east through rice paddies and then into old-growth forest. An hour before the village, the canopy begins to thin and the trees step back from the path, and ahead the forest opens into a clearing that was not made by clearing — the trees simply stopped, as though asked to. At the center of the clearing, set low into the earth, is the Council site: a broad bowl of worked stone, its rim rising almost to ground level, open to the sky. Four bands of runic inscription circle the stone. Cylindrical pillars stand at the rim, etched from base to crown with the same script, and attached to their tops is a wide inverted bowl of woven wood and living vine that filters the light entering from above. Woven into this roof are charms and strips of inscribed cloth in such quantity that the whole structure moves slightly in any wind and makes, very quietly, what sounds like a room full of people at rest. *
+> *The road to Sanctuary runs east through rice paddies and then into old-growth forest. An hour before the village, the canopy begins to thin and the trees step back from the path, and ahead the forest opens into a clearing that was not made by cutting — the trees simply stopped, as though asked to. At the center of the clearing, set low into the earth, is the Council site: a broad bowl of worked stone, its rim rising almost to ground level, open to the sky. Four bands of runic inscription circle the stone. Cylindrical pillars stand at the rim, etched from base to crown with the same script, and attached to their tops is a wide inverted bowl of woven wood and living vine that filters the light entering from above. Woven into this roof are charms and strips of inscribed cloth in such quantity that the whole structure moves slightly in any wind and makes, very quietly, what sounds like a room full of people at rest. *
 
 > *Acolytes are waiting at the clearing's edge. They direct you down. *
 
@@ -1694,7 +1694,7 @@ The last Circle was named one hundred and twelve years ago. No one in the bowl h
 
 She presents the mission in outline: there is a spirit who seeks them, and a way to reach her. There is a teacher in the Sacred Lands, east of Keshigo on the western coast, who can provide the first key. More than this she cannot say here — the specifics belong to the road.
 
-> *"There is a spirit who has been waiting for a long time to be heard. You are being sent to learn how to listen. That is not a small thing."*
+> * "There is a spirit who has been waiting for a long time to be heard. You are being sent to learn how to listen. That is not a small thing."*
 
 **Vinna Maar descends into the bowl.** She is a half-elf woman in practical traveling clothes who moves through the Council site with the ease of someone who has been here before. The Wayfinders have made arrangements: a ship in Dremma, a crew, a sending stone. The party will be taken through the Barrier to Keshigo. They should plan for two to three months away, possibly longer. The mission's specifics should not be shared beyond the people in this bowl. She presents the party with a **sending stone** — rough dark-green stone, polished smooth, warm to the touch. They can activate it when ready to return to the Archipelago, and a Wayfinder-prepared ship will come within four days. She admonishes them: do not activate it early, and do not lose it.
 
@@ -1718,7 +1718,7 @@ The party has made camp. An hour after dark, torchlight appears down the road �
 
 **Malachite** is a tiefling, broad-shouldered, with the measured cadence of someone who has delivered this briefing many times. **Sir Mellic** is human, a head taller, in plate armor worn to a working shine. He is a Paladin of the Path of Virtue and almost never introduces himself. Malachite asks if they may sit and does most of the talking.
 
-> *"Name's Malachite. I work with the Wayfinders. This is Sir Mellic — he doesn't usually introduce himself, so I've taken the liberty." Sir Mellic grunts. "We're going to walk with you to Dremma. I have a few things to cover before you ship out."*
+> * "Name's Malachite. I work with the Wayfinders. This is Sir Mellic — he doesn't usually introduce himself, so I've taken the liberty." Sir Mellic grunts. "We're going to walk with you to Dremma. I have a few things to cover before you ship out."*
 
 Malachite's briefing is brief. Two rules. Do not identify yourselves as people from the Isles unless there is absolutely no alternative — it creates expectations and complications you do not need. Never bring anyone back with you: not a guide, not a friend, not someone in distress. That is absolute. If you meet someone you want to help reach the Isles, use the sending stone after you return and give the Wayfinders details; they have their own methods.
 
@@ -1752,7 +1752,7 @@ About an hour before the road enters Dremma, a woman steps out of the tree line 
 
 > *She greets you as though she expected to find you at exactly this time, in exactly this place.*
 
-> *"Please don't reach for anything. I'm not here to fight you — that would be wasteful at this stage. I only want to have a conversation. A short one."*
+> * "Please don't reach for anything. I'm not here to fight you — that would be wasteful at this stage. I only want to have a conversation. A short one."*
 
 **Lady Vigo** is a senior operative of the Avengers. She knows the party is the Circle; she does not know what the Oracle charged them with. Her goal is to learn the mission. If she cannot, she will assess whether it represents a threat to the Avengers' interests — and whether it can be delayed or stopped.
 
@@ -3226,6 +3226,672 @@ The party must decide what to do with the Errant Venture and its surviving crew.
 
 ---
 
+## Chapter 10: A World So Strange *(Level 7)*
+
+### Chapter Summary
+
+Two days. That is how long the party spends in Daliketh before the airship takes them west. Two days in which they must satisfy a contact they have never met that they can be trusted with the mission's next phase; navigate a city that operates on principles fundamentally unlike anything they grew up with; and decide — when a Wayfinder team leader knocks on their door the evening before departure — whether helping him is their problem.
+
+The Daliketh encounter table drives the texture of city life throughout. The vetting sequence establishes Pulara as a force to be respected: she is not difficult for the sake of it, but she has lost people, and she is not handing over tickets to the capital on faith. The rescue mission is optional in the sense that the party may decline it, not in the sense that it goes unnoticed — it is the chapter's mechanical spine, a five-stage covert extraction from the Advocates' Tower, each stage with its own skill challenge and its own weight in the failure count that determines how the party leaves Daliketh.
+
+The chapter closes on the airship dock at dawn.
+
+*Characters introduced: Pulara, Malachai Ironshear, Renata, Turno Ninefingers. Conditional introductions: Inspector Esca (2-failure track), Kastel Swensalvadl (4-failure track).*
+*Characters returning: Neeta Whitecliff, Kaman.*
+
+*No milestone fires within this chapter. Level 8 fires when the party departs Daliketh.*
+
+---
+
+### Scene 1: The First Day
+
+*The party wakes in the Garden House. This is their first full day inside the Unity without a destination or an immediate task. The city is outside the window.*
+
+The Garden House at breakfast is an education in communal living: long tables, neighbors who take for granted that everyone wants to talk, Neeta managing the room with the ease of someone who has run a household for twenty years and enjoys it. The party has cover identities. This is their first sustained test of them.
+
+*The DM should let this scene breathe. There is no mechanical pressure in the morning. Neighbors will ask questions — where they are from, what brings them to Daliketh, what they made of the airship terminal, whether they have opinions on the water levy. Every question is an opportunity to play the cover or to slip. No check unless a party member says something that invites one.*
+
+**The Daliketh encounter table** (introduced in Chapter 9, Scene 5) remains active throughout this chapter. On the first day, roll two or three times for encounters during the party's time in the city — a midday walk, an afternoon in the market, an evening out. Entries 4 (Political Debate), 5 (Satire Line), and 7 (Quiet Pressure) work best during active city operation, when the party is managing their cover in public. The DM may hold any of these for when they are most useful.
+
+**Malachai Ironshear** occupies the suite at the end of the hall. He is a male dwarf, compact and quiet, and noticeable to a party paying attention: **DC 17 Perception or Insight** at any meal to observe that he watches the room with the particular attentiveness of someone who is also not quite what he appears to be. He is at the Garden House on a recovery mission — extracting a practitioner who has been sheltered here for months and moving them to the Dawnflower before she sails. Two members of his team are recovering from an injury in the building. He does not approach the party. If a party member approaches him with obvious operational discretion — no names, no details volunteered, a patient willingness to say nothing until he responds — he acknowledges them briefly and, if they demonstrate the right instincts, arranges a short private meeting in his rooms that evening. Nothing yet. Just acknowledgment.
+
+---
+
+### Scene 2: Pulara
+
+*Day 2, midday. The dining room.*
+
+**Pulara** is a tiefling woman — mid-thirties in apparent age, unhurried, and dressed with the Unity's characteristic indifference to personal distinction. She seats herself at the party's table with the ease of a regular and introduces herself by a name that is probably not her name. She comments on the stew. She asks where they are from.
+
+*The interview reads as conversation. Run it as conversation. Her questions are calibrated:*
+
+- *Where they are staying and how long they plan to stay* — she is checking cover story consistency.
+- *Their impressions of the city* — she is listening for Unity literacy: do they read what they see, or are they simply describing surfaces?
+- *Whether they have run into anyone interesting since arriving* — she knows Malachai Ironshear is in the building. She wants to know if they do.
+
+*She does not seem to be probing. She is probing. A DC 15 Insight check tells a party member that her questions are more focused than casual conversation requires — but this tells them nothing about her affiliation or intentions.*
+
+**Prior Wayfinder standing counts.** A clean resolution of the Errant Venture encounter, clean handling at Mahakam Island, a favorable account from Warebock — any of these shifts her reading of ambiguous answers in the party's favor. The DM should note the party's standing going into this scene and adjust her baseline accordingly. She is not hostile; she is careful. **DC 13 Deception** to hold under active probing; the party makes this check with advantage if their prior Wayfinder standing is good.
+
+**If she is satisfied:** She finishes her meal, sets down her spoon, and thanks them for the company. An hour later she appears in the party's rooms. Brief and direct: she confirms their destination (Balnor, then train to Jindark), gives them airship tickets for just after dawn two days hence, and hands over a sealed envelope. She does not explain its contents. *"Open it on the airship, not before. Read it once. Destroy it."* She tells them not to do anything interesting before dawn. She leaves.
+
+**If she is not satisfied:** She does not return. The party can reach her through Neeta — Neeta knows how to pass a message, and will, but she will note the request and tell Pulara. Pulara will weigh this as data. The party can also make a direct case: providing more context about their journey, invoking Malachai's name if they have made contact with him, demonstrating Unity literacy they failed to show at lunch. Pulara is the final arbiter. The tickets do not move without her.
+
+---
+
+### Scene 3: The Disturbance
+
+*Day 2, evening. The chapter's second thread opens.*
+
+This scene fires regardless of whether the party has spoken to Malachai Ironshear. The disturbance is audible from their rooms: raised voices stripped down to urgent murmurs, movement, the particular sound of people managing a crisis quietly. A **DC 10 Perception** check identifies Malachai's voice among them.
+
+He knocks on their door within the hour. He is controlled. His team went to collect their rescue tonight and walked into Advocates. Two of his operatives and the practitioner they came for are now in the Tower. He has **Renata** — his one uninjured operative, who has been watching the Tower on other assignments for two years — and a window that closes by morning. Advocates move prisoners from Daliketh holding to a central facility on a 48-hour rotation.
+
+*He asks for help. He does not beg, and he does not oversell the odds. He explains what the job is, what it costs if it fails, and what it costs the Wayfinder network if he goes in with one operative and fails anyway. He answers questions directly. He does not answer questions about the people being held beyond what is operationally relevant: they are practitioners; they will die in a central facility.*
+
+**The party can decline.** If they do, Malachai and Renata attempt the extraction alone. This almost certainly results in a third capture and the operational collapse of Kaman's Daliketh network regardless of the party's later actions. That is not the party's failure — but they will hear about it, and the Wayfinder network in Daliketh is degraded whether or not the party acts.
+
+*If the party accepts:* Renata briefs the route in fifteen minutes. She is efficient and does not minimize the risk — she has been looking at this building long enough to know exactly what is hard about it. Malachai remains at the Garden House to manage their cover and coordinate the return. He makes himself available by sending stone.
+
+---
+
+### Scene 4: The Extraction
+
+*The Advocates' Tower. Five stages. The DM tracks the failure count privately. The party is never told their standing.*
+
+**What counts as a failure:** Any action that would prompt an alert Unity citizen to report the party to the constabulary or Advocates — one failure. Detected magical use — one failure. A scene in which Advocates are formally called to the party's location — one to two failures depending on how it resolves. Combat in which a constable or Advocate is killed — counts double.
+
+---
+
+**Stage 1 — Getting to the Tower**
+
+The Tower is a 20-minute walk through a neighborhood that quiets at night but does not empty. A constable patrol crosses their path two blocks from their destination.
+
+**DC 16 Deception or Persuasion** to pass without scrutiny. The cover story — technical crew from Jindark, late errand related to consulting work — holds fine against a routine patrol if delivered with confidence. On failure: combat with a number of **Scouts** (*MM*, p. 349) equal to the party size, rifles substituted for crossbows (same damage profile; a full action to reload after firing). *Malachai's instruction was explicit: no killing.* A 1d4 roll at the end of round 3 indicates whether reinforcements are three rounds away.
+
+*Defeating constables nonlethally and concealing them before the patrol is reported: one failure. Killing any constable: counts double.*
+
+---
+
+**Stage 2 — The Grounds**
+
+The Tower sits behind a low wall. The front gate has a constable post. Renata's entry point is a service door on the eastern face, accessible by crossing the yard from a gap in the wall she identified months ago.
+
+**DC 16 Stealth** — group check, lowest result. A party member providing overwatch from outside the yard, or creating a brief distraction at the street level, grants the rest of the group advantage. On failure: an internal yard patrol spots movement. A high-DC bluff (**DC 18 Deception**) explaining their presence at this entrance at this hour may resolve it without violence. Combat here — one failure, same conditions as Stage 1.
+
+---
+
+**Stage 3 — The Service Entrance**
+
+A locked door with an alarm Renata noted on her last reconnaissance.
+
+1. **DC 14 Perception** to identify the alarm mechanism before touching the lock. This check is automatic if the party asks Renata directly whether the entrance has any traps; she will tell them if asked.
+2. **DC 15 Sleight of Hand** to open the lock.
+3. **DC 14 Sleight of Hand** to disable the alarm. The two Sleight of Hand checks may be attempted in either order.
+
+*Triggering the alarm:* A bell rings somewhere in the garrison — muffled but real. The garrison is on notice. No immediate combat, but Stage 4 Stealth DCs increase by 3, and the window for completing Stage 4 tightens to three rounds before a patrol check.
+
+---
+
+**Stage 4 — The Cells**
+
+A basement corridor. Three cells. Most prisoners are asleep or close to it. The Wayfinder operatives and the practitioner are in the far cell.
+
+Three checks, in any order the party chooses:
+
+- **DC 14 Stealth** — moving through the corridor without waking the other prisoners. A failed check stirs at least one prisoner, who may call out on a second failed Stealth check in the same space.
+- **DC 13 Persuasion or Intimidation** — keeping the rescuees quiet and cooperative once the cell is open. They do not know who is coming for them. They are frightened.
+- **DC 15 Sleight of Hand** — the cell lock. If the garrison was alerted in Stage 3, the party has a three-round window; otherwise the pressure is lower.
+
+**The guards:** Two **Spies** (*MM*, p. 349) on rotation. If the garrison bell rang in Stage 3, they are alert. A party member who spots them before entering (**DC 15 Perception**) and takes both down in the first round prevents any alarm from reaching the rest of the garrison. Otherwise, reinforcements arrive in one round.
+
+**Other prisoners:** The cells hold two to four additional Unity citizens held for minor infractions. They can be freed as a distraction — the guards will respond, buying the party a round of movement — but released prisoners will follow the group out of the Tower and call out if they spot a constable, applying disadvantage to all Stage 5 checks until they are shed. Shedding them requires **DC 16 Persuasion, Deception, or Intimidation**.
+
+---
+
+**Stage 5 — Flight**
+
+Three encounter checkpoints across the city. Malachai is waiting at the dock with a boat.
+
+One check per checkpoint — **DC 13**, party's choice of Stealth, Persuasion, or Deception and who leads each:
+
+- A constable patrol at a plaza intersection
+- Curious waterfront workers who want to chat
+- A dock checkpoint before the tug
+
+*Each prisoner still with the party applies disadvantage to all three checks.*
+
+On a failed check: one constable encounter (same as Stage 1). A party that goes silent for more than ten minutes receives a terse sending-stone message from Malachai: *"Coming to you."* He will extract them if the operation collapses entirely, at significant cost to the network.
+
+---
+
+### Scene 5: Aftermath
+
+**Turno Ninefingers** is waiting at the dock — a halfling, slight, who does not introduce himself until the party is on the boat. If no final combat was triggered, he escorts the party back to the Garden House through back streets while Malachai handles the rescuees. That night, regardless of how the extraction went, Turno quietly extracts Malachai's two wounded operatives from the building. They are gone before the Garden House wakes.
+
+**Malachai's debrief** is brief and takes place at the dock. He takes personal responsibility for the mission failure that created the situation. If the party asks him directly: he will tell them honestly how they performed. If they did well, he says so. He does not fabricate.
+
+---
+
+**Final combat — if triggered:**
+
+*3 failures:* Roll a die — 50% chance the Advocates track the party to Kaman's shipyard on Mahakam Island. *4 failures:* They follow from the docks. Certainty.
+
+**Kaman's shipyard.** The party and ten NPC Wayfinders — Kaman, the Dawnflower crew still in port, the rescued operatives, others — against ten Advocates: one **Veteran** (*MM*, p. 350) leading, two **Bandit Captains** (*MM*, p. 344), remainder **Spies** (*MM*, p. 349). The objective is driving the Advocates back from the dock line and getting the boats out. The combat runs long; the DM may give players tactical control of some of the NPC defenders. Kaman fights. He does not panic.
+
+---
+
+### Scene 6: Departure
+
+**0–1 failures (or no rescue attempted):**
+
+Breakfast at the Garden House — Neeta's household, a morning like the others. She walks the party to the door herself. On the step:
+
+> *"I have heard a little of what you're doing." She doesn't say how. "Know that all our hopes go with you."*
+
+Fifteen minutes to the airship dock. A Unity dawn: coal smoke and gas light, streets filling up for the morning. The airship is already there — enormous, serene, and entirely unlike anything the party grew up with. The boarding crew check their papers without particular interest. Citizens queue for the communal section with the ease of people who do this regularly.
+
+---
+
+**2 failures:**
+
+The Garden House is strained. There was blood in the stairwell; neighbors noticed; Neeta handled it, but she is managing something. She says nothing about it directly. **Inspector Esca** — a human woman, Advocate corps, professional and unreadable — arrives at the door just as the party is leaving, with a colleague behind her. She asks to see their papers. She asks three questions about their stay with the pleasant focus of someone accustomed to detecting lies. *This is purely roleplay; a Deception check triggers only if a party member directly contradicts their cover story.* She returns their papers.
+
+> *"Safe journey, citizen."*
+
+She watches them walk away.
+
+---
+
+**3–4 failures:**
+
+The Garden House is unavailable — Neeta and her family are out. The evacuation was pragmatic; she has handled worse and will leave no trail. Kaman delivers the reward himself and presents two options without apparent preference:
+
+*Stay in Daliketh.* He places the party with **Kastel Swensalvadl**, a gnome who operates a warehouse near the southern docks and maintains a strictly transactional relationship with the Wayfinder network. Kastel is not unfriendly and asks no political questions. He expects manual labor — inventory, loading, whatever the warehouse needs. The party waits until Pulara judges it safe to make contact again. No timeline is given.
+
+*Go north.* The Dawnflower has not yet departed — delayed by weather. Kaman can get them aboard. They sail to **Krasno Bay** and travel overland to Balnor from there. A longer journey by a different route, with lower scrutiny at the other end. *This track changes the Act III arrival scene: the party reaches Balnor by land, not airship.*
+
+---
+
+**The reward:**
+
+Delivered by Neeta at the door (0–1 failures), by Neeta's son catching them on the street a block from the house (2 failures), or by Kaman at departure (3–4 failures). A **small bag of holding** containing: 500 gp in local Unity currency; tents, firestarters, and 30 days of preserved rations; a substantial supply of paper and empty notebooks; and the **Srivvner's Vial** (see Appendix B). The vial is included without explanation.
+
+---
+
+**Level 8 milestone.** Fires when the party departs Daliketh: when they board the airship on a clean track, when the Dawnflower leaves Mahakam Island on the northern track, or when Pulara judges it safe to move them on the delayed 4-failure track. The milestone marks the completion of their first covert Unity operation.
+
+*Transition to Act III.*
+
+---
+
+## Chapter 10 NPC Summary
+
+| NPC | Role | Notes |
+|-----|------|-------|
+| Neeta Whitecliff | Garden House; reward delivery (0–1 failures) | Social only |
+| Pulara | Vetting; airship tickets and sealed envelope | Social only; tiefling |
+| Malachai Ironshear | Rescue request; dock debrief | Social only; male dwarf |
+| Renata | Extraction guide; Tower briefing | Social only; human |
+| Turno Ninefingers | Post-mission escort; overnight wounded extraction | Social only; halfling |
+| Inspector Esca | 2-failure departure interview | Social only (Deception check only if party contradicts cover story); human; Level 5 Rogue, +10 Insight |
+| Kastel Swensalvadl | 4-failure alternate housing | Social only; gnome |
+| Kaman | Final combat (if triggered); 3–4 failure coda; reward delivery | Combat or social; human |
+
+---
+
+# ACT III: INTO THE WEST
+
+*Levels 8–12*
+
+The party leaves Daliketh with cover documents and three days behind them that belong to a different kind of story. What comes next has no safety net. The Wayfinder network ends at the coast; from Balnor onward, the party operates without a handler, without a contact chain, and without the option of being extracted if something goes wrong. The sealed envelope tells them who to find in the capital and how to find him. It says nothing about what they will encounter when they open the passage to the spirits who live in the heart of this state, or about what is waiting in a cell behind the Congress chamber table.
+
+Act III takes the party into the interior: through Balnor, the capital, which is the Unity at its most complete and most convinced of itself; north to Jindark, a coastal city of genuine beauty built on a foundation no one inside it suspects. The chapter in Balnor ends in a theatre beneath the Council chamber with a decision that will define the shape of everything that follows. The chapter in Jindark ends with an Old God free and a city transformed. Everything the party chooses between now and the coast — who they trust, what they reveal, which contacts they build and at what cost — becomes the architecture of the break.
+
+**Act III Chapters:**
+- Chapter 11: The Great Work
+- Chapter 12: City by the Sea
+- Chapter 13: Beneath the Waves
+- Chapter 14: Freedom
+- *(Optional Interlude: Assault on the Citadel)*
+
+---
+
+## Chapter 11: The Great Work *(Level 8)*
+
+### Chapter Summary
+
+The sealed envelope describes a halfling banker waiting at the airship dock in a private carriage. Giacomo Hearthbane has lived in Balnor for forty-two years: senior manager at the Unity Bank, husband to Bedelia, father to nine children who come home from school every two days and ask questions with the relentlessness of people who have been taught that engaging with strangers is a civic obligation. He has stated, matter-of-factly, that he will disavow the party and turn them in if they expose him. He said this as logistics.
+
+Three days in the capital before the northbound train. Balnor is larger than anything the party was prepared for: monuments the size of neighborhoods, an airship terminal that could contain the Archipelago's entire settled area, streets clean and lit and moving in a way Daliketh's never quite managed. The belief-spirits who animate this place hold their session in a theatre beneath the Council building, and one of them — the most self-aware, the one with her feet in two worlds at once — has agreed to bring the party inside. What is locked in the cell behind the Congress table is the reason Revna would not say her uncle's name.
+
+*Characters introduced: Giacomo Hearthbane, Bedelia Hearthbane. Overland track: Esko Voss. Conditional: Inspector Racewind Thrumblecastle (Device Interlude).*
+*Characters encountered: Placida, Maritas.*
+*No milestone fires within this chapter. Level 9 fires when the party boards the northbound train.*
+
+---
+
+### Scene 1: The Journey West
+
+*Daliketh falls away below.*
+
+**The airship track (0–2 failures from Chapter 10):**
+
+Boarding is routine on a clean departure (0–1 failures). A 2-failure boarding involves a document check by a uniformed airship corps inspector at the gate: two **DC 14 Deception** checks, calibrated questions about their Daliketh stay. Documents hold under any single failure; two failures triggers an attempted detention. Pulara has a contact at the aerodrome who creates a distraction and secures an alternative boarding point if needed — this costs one additional day and requires locating the contact independently (**DC 15 Investigation** in the aerodrome area, or reaching Pulara through whatever channel remains).
+
+*On the airship:* Three days. Communal quarters, gas lamps, the lounge and observation deck above. The journey carries them over farmland, then rolling hills, then the long pale flatlands of the central continent. Cities are visible from the observation deck at night — clusters of light receding behind them, each larger than the last.
+
+**The sealed envelope.** Once an hour out from Daliketh and certain no search is coming, the party can open it. The contents are brief: a name (Giacomo Hearthbane), a location (Unity Bank, commercial district), an identification phrase that rotates per departure cycle (included). He will meet them at the airship dock if they arrive by air; if by land, they must go to him at the bank. In Pulara's hand at the bottom: *" If you expose him, he will disavow you. He asked me to tell you this. He is not bluffing and he bears no ill will."*
+
+Balnor overview: capital city, 3-day stay while northbound train tickets are arranged, party covers their own meals and movement. *"The party will have no Wayfinder contacts from Balnor onward. This is as designed."*
+
+**Arrival:** The aerodrome is visible from the observation deck twenty minutes before landing — a cathedral of iron and glass with dozens of dirigibles at tether rings along three great masts. The docking queue is simply that long. Giacomo is at the gate in a dark private carriage: a compact halfling, watchful, none of the warmth his household will shortly suggest. He identifies them by the phrase, confirms they are all present, and opens the door. *"Ten minutes to the house."*
+
+---
+
+**Overland track (3–4 failures from Chapter 10):**
+
+*3 failures:* The airship boarding inspector could not be satisfied; Pulara's contact redirected them to Krasno Bay by courier ship. *4 failures:* The Chapter 10 departure coda already placed them on the ship to Krasno Bay.
+
+Krasno Bay is a working port town two days north of Daliketh by sea: unremarkable, cooperative, no complications. The sealed envelope can be opened here, at the first quiet moment. The overland route to Balnor takes approximately one week.
+
+Three encounters on the road north:
+
+**The Hanging.** In a town square, six soldiers and an Advocate officer have erected a scaffold. Three rebels are being hanged: a young man and two older ones. The crowd is present because attendance is expected. A man — mid-forties, work clothes — is at the officer's shoulder, speaking with his hands. His son is the youngest of the three.
+
+The officer is following procedure. She is not cruel. She explains, without difficulty, that the legal process has concluded. The man cannot touch her argument.
+
+*If the party intervenes:* Six **Scouts** (*MM*, p. 349) with rifles and one **Veteran** (*MM*, p. 350) officer. A direct intervention creates combat that draws the entire town. The only viable extraction is rapid; the young man has nowhere to go and a father who will be questioned about his whereabouts before dark. This is the first close look at why the resistance exists and why it is losing.
+
+**The Rebels.** Midway to Balnor, traveling alone. The party becomes aware, gradually, that they are being followed. Then they are surrounded at a crossroads: twelve outriders, organized rather than aggressive. A large man on horseback introduces himself eventually as **Esko Voss** — former trade union organizer, current cell leader for the active resistance between Krasno Bay and Balnor. He wants to know who they are and whether they are worth talking to.
+
+*Fight:* Twelve CR 1/2 **Thugs** (*MM*, p. 350) with pistol and rapier. Voss withdraws if his people start dying. *Negotiate:* **DC 15 Persuasion** — lower with genuine information about the Isles and the mission's direction. *Cooperate:* A forthcoming party gets a description of Balnor's checkpoint layout, the Unity Bank's location, and a rebel contact who keeps a market stall in the capital.
+
+*If captured:* Voss holds them two days while making inquiries. An army patrol rescues them regardless of whether the party wants rescue — embarrassing, one failure added to the Balnor track.
+
+*Note for later:* If Maritas is freed in Scene 4, Esko Voss's cell becomes the most operationally effective rebel network in the Unity's interior. This consequence fires in Acts III and IV.
+
+**The Roadblock.** One day from Balnor: a checkpoint on the main road, two barricades, a table, eight soldiers and a sergeant.
+
+*Bypass:* **DC 16 Perception** to spot a farm track around the barrier; **DC 14 Stealth** to use it without being observed. *Pass through:* **DC 16 Deception** vs. the sergeant's **+12 Insight**. He is thorough, not hostile. Failure triggers an attempted arrest: eight **Spies** (*MM*, p. 349) and a **Veteran** sergeant. Breaking contact is possible with effort and adds one failure to the Balnor track.
+
+*Arrival:* The party makes their way to the Unity Bank. Giacomo's floor is the fourth. The clerk accepts the contact phrase, disappears for three minutes, returns with a conference room number. Giacomo arrives with his coat on. *"I have twenty minutes before a meeting I cannot cancel."* He gets the essential information out in fifteen.
+
+---
+
+### Scene 2: Giacomo Hearthbane
+
+*The house is in a residential neighborhood an hour's walk from the bank, or thirty minutes by carriage. It is not ostentatious.*
+
+**The introduction.** In the carriage or the conference room, Giacomo states his terms once. The party are technical visitors from Jindark attending a consulting engagement at his firm; Bedelia knows they are old colleagues passing through; the children will know them as such. He will not be asked to lie to his wife. He will not intercede when the children ask questions. He has already purchased the train tickets.
+
+**Bedelia Hearthbane** manages the household with the energy of someone who has made a small community out of whatever is available. She welcomes the party with genuine warmth and makes it immediately clear that supper is communal, the neighbors will be there, and she hopes they have opinions on the water levy. She does not ask professional questions. She is curious about everything else.
+
+*Every communal meal is a cover maintenance challenge. Giacomo does not save the party from their own answers. The DC for neighbor conversation is 13; the neighbors are friendly and curious, not suspicious.*
+
+**Balnor encounter table (d10).** Roll three times on the first full day; table remains active throughout the stay.
+
+| d10 | Encounter | Unity Aspect Showcased |
+|-----|-----------|------------------------|
+| 1 | **The Parade** — A column of Unity soldiers, four abreast, moving through the city center ahead of a brass ensemble. Citizens line the street with banners; the applause is sincere. The soldiers are young, well-fed, and comfortable in the crowd's regard. | The scale and confidence of the Unity military; civic pride as genuine sentiment; the size of what the party is up against |
+| 2 | **The Monument** — A hundred-foot figure in the act of breaking a chain, carved from pale granite. The chain's links are inscribed with old-religion symbols. Pedestrians pass without looking up; it is furniture. A school group nearby is being taught, by a proctor, what the chain represents. The children make notes. | Founding mythology as daily background; religious erasure so complete it has become landscape |
+| 3 | **The Ministry Queue** — Two blocks long, moving steadily. People in it are chatting, eating packed lunches, comparing notes on their respective purposes. No one appears frustrated. The clerk inside manages three windows simultaneously with professional equanimity. | Bureaucracy as social contract; the absence of visible rage; the Unity working as designed |
+| 4 | **The Officer's Table** — Two army officers in dress uniform eating at a café table, warm and enthusiastic about the food. If the party sits nearby, one leans over: *"You're not from here, are you? What do you make of the city?"* His questions are blunt in the way of someone who expects straight answers. He is not interrogating. He is interested. | The very human face of the apparatus; the difficulty of distinguishing friendly curiosity from professional attentiveness |
+| 5 | **The Reeducation Notice** — A public notice on an apartment building names a resident entering "community realignment" and invites neighbors to offer warmth and engagement during the process. Two residents reading it nod and one makes a note on her scheduling board. | Social deviance handled as a care intervention; the suffocating weight of a system that wants to help you behave |
+| 6 | **The Temple Steps** — A handsome stone building with columns and wide steps. A party member with a religious background feels, on a **DC 12 History or Religion** check, that it was once a temple. The inscription reads: FOR THE BENEFIT OF ALL CITIZENS. It is a public library. Three people are sleeping inside on cushioned chairs provided for that purpose. | Civic institutions in the place of spiritual ones; the replacement so complete it has become beautiful |
+| 7 | **The Collar Registry** — Outside a government building, a family completing paperwork at an outdoor desk. The clerk snaps a slim metal collar around a teenage girl's neck. She smiles at it. Her mother squeezes her shoulder. Her father looks proud. | The collar system as a family milestone; compliance as something the Unity has made desirable; the deepest inversion of everything the party was raised to believe |
+| 8 | **The Conversation That Stops** — Two people at a café table, discussing politics with the ease of people who do this constantly. One glances around — brief, automatic — and the topic shifts. The transition is barely noticeable. **DC 16 Insight** to catch it; **DC 20 Insight** to identify which word triggered it. | Instinctive self-censorship practiced long enough to feel normal; an unspoken line that no one can point to |
+| 9 | **The Airship Terminal** — The main Balnor Aerodrome from ground level. The building is visible from a kilometer away. Inside: a vaulted ceiling of iron and glass, departure boards listing destinations across the continent, a crowd that announces the scale of the operation by its volume. The party's entire experience of travel before this moment fits in the secondary concourse. | The infrastructure of Unity; the technological reach of what was built on what was taken; the involuntary moment of being impressed |
+| 10 | **The Face in the Window** — Evening. A man at an apartment window has been there for some time. A neighbor, giving the party directions, nods at him: *"Lost his son in the east last year. Soldier. He believed in the mission."* A pause. *"He still does."* A memorial wreath is on the apartment door. | Human cost glimpsed; grief routed through ideology to prevent it from becoming doubt |
+
+**Giacomo's children.** Day 2, late afternoon: nine children arrive from school in staggered groups over two hours, youngest first. They range from approximately 8 to 17. All have been educated in civic engagement; engaging with strangers is their constitutional right and the party is a resource.
+
+Questions, in approximate ascending order of danger: where are they from, what is it actually like there, do they have trains, what do they eat, are there people who practice magic there, have they met a Unity Council member, what do they think of the colonial expansion, why don't people just move to Unity cities if those are so good...
+
+*Giacomo and Bedelia do not intercede. This is the children's education. Insight-calibrated questions from the eldest begin at DC 16 — she is seventeen, sharp, and has opinions about everything. The eight-year-old accepts any answer that contains a story.*
+
+*The DM should enjoy this scene.*
+
+---
+
+### Scene 3: The Device Interlude
+
+*This scene fires only if the party accepted the Eightfold Path's device in Chapter 7 and designated a Balnor placement.*
+
+**Placement near Giacomo's home:** The Advocates trace the device's origin directly to the house. Giacomo and Bedelia are arrested within hours. The house is sealed. Party descriptions circulated. The city goes on lockdown. Giacomo disavows the party without malice, exactly as stated. The party is on their own: no housing, no train tickets, no support. 
+
+**Placement elsewhere in the city:** The Advocates publish a statement about a "magical attack connected to eastern rebel activity" within hours. Outsiders draw particular scrutiny. Giacomo acts the next time he sees the party.
+
+- *Day 1 or 2 placement:* He produces the newspaper with the headline. **Deception vs. his +15 Insight.** Caught lying: he throws them out, states disavowal calmly, is genuinely sorry about it. Truthful: exasperated, moves them to a boarding house near the train station, tells them to explain something to Bedelia on the way out that is technically true.
+- *Day 3 placement:* They have already departed. Consequences fall in subsequent chapters.
+
+**Placement outside city limits:** A light visible from the walls; source difficult to pinpoint. Party not directly implicated. General heightened alert; apply **+2 to Deception DCs** for interactions with officials during the Balnor stay.
+
+**Inspector Racewind Thrumblecastle** — fires on Day 1 or Day 2 city placement only. The senior Advocates inspector assigned to foreign-magic incidents visits the party's address the morning after the device discharges. He is a gnome; unremarkable in appearance; entirely focused. He has a preliminary theory and wants to rule it out.
+
+He asks three questions with the pleasant precision of someone always listening to what is not being said. **DC 16 Deception** to satisfy him. On failure: he withdraws, and the guardsmen waiting outside the door come in. Four **Veterans** (*MM*, p. 350). A general city lockdown regardless of combat outcome. *See Appendix B for Thrumblecastle's stat block.*
+
+---
+
+### Scene 4: A Seat in the Hall
+
+*The Communing ritual for Placida must be performed near the seat of the Unity Congress's spiritual power. In Balnor, this is the Unity Council precinct — the great civic square at the city's center, where the Council building stands and where thousands of citizens pass each day.*
+
+The party must identify this location on their own. Giacomo can provide directions to the city's government center if asked. The encounter table's entries will have given them a sense of Balnor's civic geography by this point. The ritual fires from any location with a sightline to the Council building that constitutes a gathering place — a plaza, a park, a broad intersection. Dusk, when the daily session is ending and the square is filling, is the natural moment; the ritual has no strict timing requirement.
+
+**The offering.** Revna's scroll serves as the gift: an introduction from a known quantity that Placida will receive without requiring explanation. Any offering that reflects a genuine contribution to the common good also suffices — food given to a stranger, help freely rendered, something that costs the giver without expectation of return. The DM should accept any plausible sincere offering.
+
+**The Communing passage:**
+
+> * The portal opens as a ripple in the dusk air above a paving stone that becomes a doorway. The other side is the same plaza at noon, and the noise that follows you through is not the quiet of the evening city but the noise of a celebration already well underway. Long tables everywhere. The smell of food from several directions. Music from a corner. Children chasing each other under the tablecloths.*
+>
+> * A man with a tray of glasses walks past, nods, and says: "Donations table is near the entrance. Silver one."*
+
+The party cannot find the donations table without asking for directions — it cannot be seen from where they enter. Revna's scroll or their offering placed on the silver tray disappears immediately. Nothing else happens. The party finds seats.
+
+Placida appears in the empty chair beside them: a smiling, matronly woman whose hair holds a quality of light that is not quite ambient. She is not surprised to see mortals here — she has feet in the Archipelago — but she is attentive.
+
+*If Revna's scroll is the offering:* She reads it without expression and sets it aside. Her posture opens slightly.
+
+*If the party mentions Revna's uncle before the session:* Placida's composure shifts. She asks what they know. She cannot be deceived in a space that exists because of collective trust. *"He is War. Setting him loose will inevitably lead to conflict."* She says no more. She will not lead them to the theatre.
+
+*If they do not raise it:* She tells them the Congress convenes shortly, that spectators attend, and that they should find seats in the gallery without drawing attention. She leads them through a back corridor behind the buffet tables.
+
+**The Theatre.**
+
+> * The corridor ends in pine forest. The smell is wrong for the climate — high summer, mountain air, afternoon light at the exact angle of late June at altitude. The bowl drops away ahead of you: tiered stone seating cut into a hillside, a marble dais below, a long polished table with eleven chairs. The Congress spirits are taking their seats.*
+>
+> * Behind the table, set into the stage wall: a row of cells. Most of the figures inside are barely there — dim shapes pressed against the bars, unfocused. One cell at the base level holds a man. He is pacing. When he sees the party, he stops.*
+
+*Finding cover in the gallery:* **DC 12 Stealth.** The theatre is not Placida's domain; she does not use full power here. The gallery tiers offer standing room under overhanging sections. Failure means a Congress member observes them finding their position — roll 1d4: 1–2 Lexan, 3 Sentia, 4 Mnema — who makes a brief note.
+
+**The Congress session.**
+
+Three items are discussed by the Congress. The discussion reflects what the Unity's most fervent citizens currently believe about each matter.
+
+*Item one — the colonial advance in the east.* Placida and Concordia both speak against the pace and methods; their combined weight draws audience response. Caluma frames the east as a resource and logistics question; Novus echoes this in the language of progress. Pax makes a short statement about what is being destroyed and falls silent. Caluma gestures at the cells: *"Let him out and settle it."* Pax flinches.
+
+*Item two — the magical event in Balnor (if the device was placed).* Lexan states the matter gravely; Concordia seconds. Sentia notes the sophistication of the arcane construct. Mnema observes, without particular emphasis, that it has been some time since working of that magnitude appeared inside Unity borders — and sets down her pen to look at what she wrote.
+
+*Item three — the chaining of Huma.* Lexan opens it carefully; Congress has avoided the matter formally. Caluma: a weakened, dwindling entity posed a passive hazard to coastal infrastructure; the Cabal found a productive use for its capacity. The logic is not wrong. Labora confirms the production figures. Before the exchange continues, Praefecta arrives.
+
+>* Her arrival is not announced. The light changes. All eleven Congress spirits bow. She is too bright to look at directly and positions herself at the head of the table accordingly. She speaks briefly: the solution in Jakor province is novel; the matter requires patience and observation, not reaction. Session closed. The audience dissolves. Congress spirits depart one by one.*
+
+**After the session.** The Custodes arrive as the theatre empties: a dozen minor spirits of civic places, in the shapes of city workers, who tend the theatre with focused professional competence. They sweep, polish, check a lantern glass. They are not searching. They will finish in approximately thirty minutes.
+
+*Placida searches for the party if still present.* **DC 12 Stealth** to avoid her; she searches for ten minutes — less if the party did not mention Maritas — and then gives up. If she is still present after ten minutes, she commands the Custodes to join the search: **DC 16 Stealth** against twelve pairs of attentive eyes in a mostly open space.
+
+Any direct physical encounter with Placida or the Custodes returns the party immediately to the physical world. Placida will not permit the Communing ritual to reach her again.
+
+*When the Custodes depart:*
+
+> * "It's safe to come out now, little rabbits."*
+
+**Maritas.**
+
+He does not move toward the bars. He has been in this cell for longer than any single mortal civilization has existed. He is not in a hurry. His voice carries without effort.
+
+He makes his case plainly: the Congress made him useful during their war against the One True Way, then constructed a world nearly free of war and called it peace, then when he had no place in it they tricked him into captivity. He does not expect sympathy. His argument is practical. War is how mortals have survived things larger than themselves throughout history. The Old Gods do not respect mortals who cannot fight. What the party is attempting requires something to point to; at present, the Unity is the only evidence available. He can provide different evidence. He is not asking to be unleashed. He is asking to be free.
+
+*He answers questions:*
+
+*— On the key:* Revna got it from Novus. The alliance was Revna, Placida, and Novus. When Placida understands what has happened, her part ends; Novus will not leave. War is good for progress; their interests are aligned.
+
+*— On Revna:* His niece — daughter of his brother. He cannot recall which brother by name. Perhaps he ate him. He finds this genuinely funny; the expression says he has told this joke to himself in this cell many times and still thinks it lands.
+
+*— On the Old Gods:* Mortals now have a fighting chance. To truly prevail, the party will need to gather beings of comparable power. *"That would be glorious."*
+
+*— On taking sides:* He does not pick sides. He has cause to hate the Unity. When the opportunity arises to tip a scale in the party's favor, he will consider it. He promises nothing more.
+
+*The decision.* He has made his case. He does not press, does not add to it when the party stops asking questions. He waits.
+
+**If freed:** The key from Revna turns in the lock. Maritas steps out, rolls his shoulders once, and looks at the theatre for a moment — a man examining a room he has been in too long. He grants each party member one boon:
+
+- *Might* — Three times per day, the bearer may roll a Strength check or Strength saving throw with advantage.
+- *The Secret of Steel* — Once per day, for 1 minute, one weapon the bearer holds gains a +1 bonus to attack and damage rolls (maximum total bonus +5).
+- *Retribution* — Once per battle, as a bonus action, the bearer may make one weapon attack against a creature that attacked them since the start of their last turn.
+
+Boons are permanent innate abilities requiring no spell slots or material components. Full stat block entries to be written when Revna's boon entries are added.
+
+He opens a portal home. Before the party steps through: *"Don't waste my time."*
+
+**If not freed:** He receives the decision without visible reaction and returns to his pacing. He will dismiss the party by creating a portal for them to return through. 
+
+---
+
+### Scene 5: Departure
+
+*The morning of the train. Balnor at its most ordinary.*
+
+Giacomo is at the table before anyone else. Bedelia has made enough food for an extended engagement; any children still at home eat, argue about something, and leave for school. No ceremony. Giacomo does not do ceremony.
+
+He drives them to the station in the bank's carriage. At the platform he gives them the tickets and a brief, practical summary: the private car, the week's journey, the major stops. At the gate, he stops.
+
+> *"You will have no help from the north. There are no contacts in Jindark. No one at that end of the line is expecting you."* He considers. *"That is as it should be."* He shakes each of their hands in turn. *"Safe journey."*
+
+He turns back toward the carriage before there is time to respond.
+
+> * Similar to the Aerodome, the station is a cathedral of iron and glass — steam hisses, trains depart, and a crowd going about the business of travel with the orderliness of people who have done this before. The northbound train is already in its berth. The private car is at the rear, identified by a small placard in the window. The chief steward opens the door before the party reaches the steps.*
+
+**Level 9 milestone.** Fires when the party boards the northbound train: Balnor operations complete; departure for Jindark secured.
+
+*Transition to Chapter 12: City by the Sea.*
+
+---
+
+## Chapter 11 NPC Summary
+
+| NPC | Role | Notes |
+|-----|------|-------|
+| Giacomo Hearthbane | Cover; housing; train tickets; departure | Social only; halfling |
+| Bedelia Hearthbane | Household; cover maintenance challenge | Social only; halfling |
+| Esko Voss | Overland track; rebel interrogation | Combat or social; human |
+| Inspector Racewind Thrumblecastle | Device Interlude; conditional | Social then combat; gnome; see Appendix B |
+| Placida | Communing target; leads party to theatre | Spirit encounter |
+| Maritas | Congress theatre; the decision; boons | Spirit encounter |
+
+---
+
+# Chapter 12: City by the Sea *(Level 9)*
+
+## Chapter Summary
+
+The train north is seven days. The party has a private car, no handlers, and no one waiting at the other end. For any member from the Isles, a week aboard a moving machine carrying hundreds of people through the heart of the Unity is an education in itself — and an extended cover identity test. Karale on Day 4 gives them the Unity under stress. The hill country and the tunnel give them what the Unity is capable of. Jindark on Day 7 gives them the Unity at its most confident and functional — and a harbor that is also a cage.
+
+There are no Wayfinder contacts in Jindark. There is no map. There is no prescribed sequence. The party will need to find their own leads and assess who can be trusted with how much. Four paths exist. They can find all four, or none. What they accumulate before the strike begins determines the conditions under which they enter the breakwater.
+
+**Characters introduced:** The Chief Steward, Maren (Criminal Underground contact), Sando (Rebellion handler), Vekla Durst (Geologist), Osa Rendl (Harbormaster), Harek (Deputy Harbormaster).
+
+---
+
+## Scene 1: The Train North
+
+*Days 1–7. The private car. The dining car. The observation deck. The continent rolling past.*
+
+The Chief Steward meets the party at the door of the private car before they reach the steps. He is professional, unruffled by the unusual arrangement, and precise about what is and is not part of his remit. He will be their most reliable source of information about each stop and the regions they pass through. He takes his work seriously. He is not trying to charm them.
+
+Private meals are available for an additional fee. The workers will be somewhat put out by the request — these are professional staff, not servants, and they will make that legible. The communal dining car and the double-decker observation lounge are available to the party at any time.
+
+**Train Encounter Table (d6):** Not rolled at chapter start. Available throughout the journey whenever the party ventures into communal spaces. The DM may hold entries or trigger them opportunistically — a night in the observation car, a meal taken in the dining car, a chance encounter while stretching their legs at a stop.
+
+| d6 | Encounter | Notes |
+|----|-----------|-------|
+| 1 | **The Chief Steward** — The senior worker responsible for the party's car introduces himself on the first day: professional, unruffled by the unusual request for privacy, and precise about what is and isn't part of his remit. Over the journey he becomes their most reliable source of information about each stop and the regions they pass through. His pride in the railway is genuine and his knowledge of the route is encyclopedic. He is not trying to charm them; he simply takes his work seriously. | The Unity's professional class; work as identity and dignity; a man who believes in what he does without needing to be told to |
+| 2 | **The Cartographer** — A Unity government surveyor occupying a window seat in the dining car, case open on the table beside her, updating maps of the Jakor region for a planned rail extension beyond Jindark. If the party engages her she is collegial and absorbed — happy to talk about the work. Her maps include the northern coast in considerable detail. She does not offer to share them, but she doesn't close the case either. | The reach of the Unity's administrative infrastructure; maps of a region the party has reason to care about; information available to those who look |
+| 3 | **The Argument** — Raised voices in the dining car: two passengers in a heated dispute over the food distribution system. One is from a northern province and has been on reduced rations for two years; he wants to know why the capital isn't sharing the shortfall. The other defends the policy in the careful language of someone who has read the circulars. Neither is wrong, exactly. A conductor watches from near the door but does not intervene; it is a political discussion, not a disruption. The staff continue serving. | The Unity's internal contradictions beginning to surface; the gap between policy and lived experience; the instinct of the state to let citizens argue themselves out |
+| 4 | **The School Group** — Fifteen children, ten to twelve years old, returning from a civic excursion to Balnor under two teachers. They have visited every major government building and monument in the capital and are eager to discuss all of it. One corners a party member in the observation car. Her questions are innocent, thorough, and completely relentless — where are you from, what do you do, have you been to the Congress building, did you know there are sixteen ministries, what's your favorite ministry. She has a follow-up for every answer. | The civic education system in action; children who have been taught what to be curious about; the dissonance of genuine enthusiasm for a manufactured itinerary |
+| 5 | **The Night Watch** — Late one evening, a party member who cannot sleep finds the observation car nearly empty. A young train worker on break sits in the dark watching the countryside pass. If the party member simply sits with him without speaking, he will eventually say something offhand about the north — he has made this run many times, and he has noticed things about the Jakor coast that he cannot quite explain, and has decided not to ask about. He finishes his break and returns to work without elaborating. | Something is wrong in the north and ordinary people can feel it; the instinct to notice and then not notice; useful foreshadowing for what the party will find in Jindark |
+| 6 | **The Enthusiast** — A middle-aged man with a thick personal notebook documenting the entire railway's engineering features for his own interest. He is delighted to find people in a private car and immediately wants to know everything about their professional backgrounds. His knowledge of the rail infrastructure between Balnor and Jindark — grades, tunnels, bridge spans, planned extensions — is extraordinary, exhausting, and entirely unsolicited. He will talk for as long as anyone will listen. | The Unity's culture of engaged civic interest; a citizen who has found his passion in a public work; incidentally useful information about the infrastructure of the north |
+
+Stops at larger cities along the route last roughly two hours. The party is responsible for returning in time; the train will not wait. After the second stop, the porters recognize them as "the people in the private car" and stop checking tickets.
+
+---
+
+**Day 4 — Karale:** An overnight stop beginning around midday at Karale, a sizeable agricultural and manufacturing center. The party may sleep aboard the train but will be on their own for meals.
+
+Karale is a city on the brink. Crops have been failing for years. The Unity has responded by redistributing food across the continent, producing chronic shortages here — in one of its greatest agricultural regions. Material shortages compound this. The Unity's social safety net is functioning; no one is without shelter or meals. But much of the population has been left without purpose, and the gap between what the Unity promises and what Karale is living is beginning to show. Citizens want to believe. The beliefs are going unfulfilled. The local government has seen four council chairs this year.
+
+Social encounters in Karale carry the texture of the same Unity customs and institutions encountered in Balnor and on the train — but strained. The DM should roll or select freely from the table; Karale has roughly twelve hours of usable time and multiple encounters are appropriate.
+
+**Karale Encounter Table (d8):**
+
+| d8 | Encounter | Unity Aspect Showcased |
+|----|-----------|------------------------|
+| 1 | **The Empty Stall** — A market where half the stalls are bare or closed. A farmer behind a sparse table of root vegetables explains, without self-pity, that the harvest was poor again. Most of what they did grow was redistributed north and east. His neighbor's stall is completely empty; she is sitting beside it anyway, out of habit. | The redistribution system's human cost; the quiet dignity of people who have not yet broken; a wound that is not being named |
+| 2 | **The Idled Worker** — A man in his forties in work clothes, sitting on a bench outside a closed factory gate at midday, lunch pail in hand. He opens it, looks inside, closes it again. He's been on reduced hours for six months due to material shortages. His housing and meals are covered. He just doesn't know what to do with himself. | Purposelessness as a quiet crisis; the safety net working exactly as designed and still failing the person it catches |
+| 3 | **The Council Noticeboard** — Outside the civic hall: a new council chair appointed three weeks ago; a special session called for next week; the previous session's minutes posted in dense summary; the position of agricultural liaison open for applications. A local woman reading it sighs and says to no one in particular that this is the fourth chair this year. | Institutional instability beneath the surface of civic normalcy; the churn of a government scrambling to manage a crisis it cannot solve |
+| 4 | **The Redistribution Queue** — A long queue outside a building marked *CONTRIBUTION ADJUSTMENT OFFICE*. Those waiting are not angry — not quite. They are patient in the tired way of people who have been patient for a long time. A clerk at the door tells the man at the front that his household's adjusted allotment will begin next week; he should not expect an increase before the regional review in three months. | The bureaucracy of scarcity; the patience of people who have internalized that this is what the system looks like now; the distance between the policy and the person |
+| 5 | **The True Believer** — An older woman distributing pamphlets on behalf of the local Unity chapter: Karale's sacrifice is keeping people alive elsewhere on the continent; this is what the Unity means. Most people take the pamphlet without comment. One man takes it, looks at it, and hands it back. She notes his name without making a scene. | Ideological commitment as coping mechanism; the surveillance of social compliance operating through volunteers; the cost of visible doubt |
+| 6 | **The Argument That Isn't** — Two men outside a pub, speaking low and quickly. If the party draws close, it is clearly political — something about the last council session, something promised that didn't arrive. They clock the party and the conversation shifts to a local sporting result, maintained with practiced ease until the party is well past. | Self-censorship so ingrained it is reflexive; the distinction between what people think and what they will say near strangers; an echo of Balnor's café moment, sharper here |
+| 7 | **The Children's Garden** — A public allotment tended by the local school. The beds are carefully labeled in children's handwriting. The yields are visibly poor — the labels name vegetables that clearly aren't there. Two teachers work alongside students staking up wilted plants with quiet determination. One catches a party member's eye and gives a small shrug that communicates everything. | The gap between civic aspiration and material reality; adults maintaining the performance for children who can also see it isn't working; the shrug as an entire argument |
+| 8 | **The Late Night Street** — Toward the end of the evening, the party passes through a residential street. A man leans in a doorway — not drunk, just standing. A harmonica plays somewhere, someone practicing alone. Raised voices from another window, quickly lowered. A Unity constable walks the beat at the far end, unhurried, and nods to the party. Everyone is where they should be. Nothing is wrong. | The surface holding; everything underneath it waiting; a city that has not broken yet and may not — or may |
+
+---
+
+**Day 6 — The Hill Country:** The train enters rough northern hill country. On this day it passes through a long tunnel bored through a small mountain. The DM should play up the engineering wonder — the darkness, the vibration, the improbable scale of what the Unity has built here.
+
+**Day 7 — Arrival:** Late afternoon on the seventh day, the train crests a hilltop overlooking Jindark. Anyone the party has befriended during the journey will flag this view. The city descends from the ridge to the coast in steep layered rows. The harbor is visible from above: a massive artificial arc of stone, sealed, two lighthouse towers at either end, a wide walking path running its length. It is a remarkable thing to look at.
+
+---
+
+## Scene 2: First Impressions
+
+*Day 7. Jindark station. The city beyond.*
+
+No checkpoint at the station — no papers requested, no inspection. The party is responsible for finding their own accommodations. A station noticeboard lists licensed boarding houses. Several are in the upper districts; two are in the harbor quarter.
+
+The walk from the station to any part of the city is a descent. Jindark was built into the hillside and does not apologize for it. Buildings step down the slopes in terraces; the lower structures are held on pillars and stilts above the harbor-level streets. The industrial character is immediate — ore carts, foundry smoke, the distant sound of hammering from somewhere below — but offset by views. From nearly any point in the city, the harbor is visible. The promenade along the breakwater top is already lit by gas lamps in the late-afternoon light, the market stalls folding for the day, couples and families taking the evening air.
+
+Under construction near the ridgeline behind the station: a large terminal building with temporary scaffolding and construction fencing marked *AIRSHIP TERMINAL EXPANSION — AUTHORIZED PERSONNEL*. Workers are visible. It looks like what it says it is.
+
+**Jindark Encounter Table (d12):** On the party's first arrival, the DM rolls three times (re-rolling duplicates) to establish the city's texture. The remaining entries are available throughout their stay. Entry 12 (Promenade at Dusk) works well as a final evening encounter before the investigation reaches its decisive phase.
+
+| d12 | Encounter | Unity Aspect Showcased |
+|-----|-----------|------------------------|
+| 1 | **The Promenade Morning** — The breakwater promenade at first light. Vendors setting up on the market side; fishermen leaning against the seaward rail watching the horizon; a constable on his beat who nods to the party and says, unprompted, that this is the finest hour in Jindark. He says it the way a man says something he has thought many times and still believes. | Civic pride in genuine infrastructure; the Unity producing something people actually love |
+| 2 | **The Forgemaster** — A heavyset woman managing the unloading of ore carts outside a foundry gate. Everything moves with the ease of a system that has run the same way for twenty years. She stops to answer a party question, checks her watch, gives a precise and accurate answer, and returns to work. If the party lingers she looks at them until they feel they are interrupting something. | Industrial competence as a way of life; skilled work as identity; a city that runs because its people know their jobs |
+| 3 | **The Restricted Walkway** — A section of the promenade near the southern lighthouse is cordoned off with neat barriers: *MAINTENANCE ZONE — AUTHORIZED ACCESS ONLY*. Harbor workers in grey coats pass through a gate without being stopped. A constable at the barrier is polite and absolute — no public access, no exceptions, been this way for some time. He has no further information to offer. | Normalized restriction; the Cabal's presence as unremarkable bureaucratic fact; the party's first look at what they will need to reach |
+| 4 | **The Catch** — A fishing crew at the public quay offloading the morning catch, loud and good-natured. The harbormaster's assistant records weights at a podium. One fisherman argues his count is wrong; the assistant produces the log; the fisherman checks it, admits the mistake, and pays the difference without embarrassment. The system works, and everyone knows it. | Good-natured compliance; administrative reach into daily commerce; the contrast with Karale's half-empty market |
+| 5 | **The Apprentice** — A girl of twelve in an ash-smudged work uniform crossing the street at speed with a delivery. If spoken to, she explains she started her industrial track last month and it is the best thing that has ever happened to her. She has a mentor, a schedule, a career track, and plans. She says all of this without irony and at considerable pace, because she does not want to be late. | The apprenticeship system as genuine opportunity; children with futures; the Unity having improved the lives of people who will defend it |
+| 6 | **The Surveyors** — Two Unity cartographers at a café table, working on detailed charts of the harbor floor: depth soundings, current notations, breakwater foundation measurements. They don't hide their work. When the party draws close, one covers a section of her notes near the southern breakwater with her elbow, then moves her elbow back. She does not acknowledge this. | The administrative machinery of a project the party will come to understand; the Cabal's presence legible only in hindsight |
+| 7 | **The Night Market** — After dark, the lower harbor district becomes a working market: tools, manufactured components, marine hardware, replacement parts, specialist equipment from a dozen industries. Lit by lanterns strung between dock bollards. No one haggles — prices are posted. A party member with any trade background has never seen more specialized inventory in one place. | Industrial prosperity made tangible; Jindark as a city that makes things the world needs; the Unity's commercial confidence at full expression |
+| 8 | **The Veterans' Table** — Three older workers — one with service medals on his coat — at a corner table in a dockside pub. The bartender knows their order. They're talking about a road project, someone transferred south, the mountains in winter. They make room for a party member who sits nearby without discussion or invitation. They are entirely comfortable. They have lived long lives in this place and have no complaints worth naming. | The Unity's human community at its most genuine; citizens who did not build this city as ideology but as a life; the warmth that makes its crimes harder to name |
+| 9 | **The Ore Train** — A long train of ore cars is being shunted through the depot crossing, blocking the street. The party waits. A local beside them counts cars without thinking about it — "thirty-eight, thirty-nine" — and mentions it's a light morning. On a heavy day, sixty. That's just the first run. | The industrial scale; Jindark as a gear in a machine larger than the party can see from where they're standing; the city's economic function made inconveniently literal |
+| 10 | **The Compensation Office** — The party passes an office marked *WORKER WELFARE AND INDUSTRIAL COMPENSATION*. Through the window: a short queue, a clerk at a desk, a man with a bandaged hand listening to something, nodding, signing a form, leaving with visible relief. The clerk calls the next number before the door closes. | The safety net working as intended; the Unity's genuine social achievement; the thing that makes its crimes harder to name from the inside |
+| 11 | **The Researcher** — A man in Balnor Institute clothes making careful notes at the harbor offloading area. He introduces himself without prompting: labor efficiency research. He is studying Jindark specifically because the harbor district's output numbers are anomalous — higher than the registered workforce count should produce. He finds this fascinating from a methodological standpoint. He requested access to the southern maintenance section last week and was declined. He accepted that without difficulty. | The Cabal's operation distorting observable data; a researcher standing at the edge of something he cannot see; the party is not obligated to enlighten him |
+| 12 | **The Promenade at Dusk** — The market stalls fold. The walking path fills — couples, families, old people taking the evening air. Someone is playing an instrument somewhere below. The harbor lights come on, then the lighthouse beams, then the city behind them, window by window up the hillside. It is genuinely beautiful. A party member who watches the lighthouses come on will notice — if they are looking — that the southern lighthouse comes on a moment after the northern one, and burns slightly different. | The city at its most human and lovely; the moment that makes what the Cabal has done to it feel like a violation; a tell for the attentive |
+
+---
+
+## Scene 3: The Investigation
+
+*Open-ended. No prescribed sequence. The party may find these leads in any order; multiple may run simultaneously.*
+
+The investigation's scope is the DM's primary tracking task for this chapter. The contacts don't know each other as a network. Three pairings matter for cross-path management:
+
+- **Criminal Underground + Rebellion:** The criminals view political attention as a liability. If the party is visibly associated with both, the criminals become guarded. Kept separate, the two are complementary — criminals have physical access, the rebellion has personnel surveillance.
+- **Geologist + Harbormaster:** Natural allies who have not found each other. If the party connects them carefully, they begin sharing data independently. Together they form the most complete above-board picture of what the Cabal has built.
+- **Rebellion + Harbormaster:** Incompatible. The harbormaster is a Unity loyalist who would feel obligated to report rebel association. Do not expose one to the other.
+
+---
+
+### The Criminal Underground
+
+Jindark is the only Unity city with meaningful organized crime. The Unity's enforced order has suppressed it everywhere else; Jindark's explosive growth over the past five years created gaps the law hasn't had time to close. The people running the organization are career criminals — not idealists, not displaced workers seeking meaning. They use the city's labor casualties as functionaries. The party will never meet the principals.
+
+The network has flagged the breakwater's restricted southern section as professionally intolerable — territory in their harbor they can't read or control. They have also, independently, made a connection no one else in Jindark has: power conduits run from the breakwater's submerged foundations into the city's electrical grid. They don't know what it means. They know it is significant.
+
+**First contact — the tails:** The party will notice they are being followed within a day or two of exploring the harbor district. The tails are not skilled. **DC 15 Perception** (passive counts; active check gives advantage on follow-up tracing) or **DC 15 Insight** to clock the surveillance pattern. Tracing the tails back leads to a private social club in the lower harbor district — nominally a dockworkers' professional club, in practice a known gathering place for certain people.
+
+**Getting inside:** The party's documents identify them as technical crew from Jindark — plausible harbor trade cover. **DC 13 Deception or Persuasion** to present themselves as locals who simply haven't been here before. On failure: turned away; can try again the next day with a different party member leading, or attempt the service entrance (**DC 14 Stealth** + **DC 12 Athletics**). Once inside, **Maren** (female human, mid-30s, event coordinator by title, quiet affect, entirely transactional) approaches them. She already knows they traced the tails. She wants to know what they're here for.
+
+**The offer:** In exchange for a job done — lifting something from a Cabal shipment, creating a distraction for a network operation, dealing with someone who has been talking to the wrong people — the criminal underground will provide: dock worker cover and maintenance access to the restricted zone; Cabal operative rotation patterns for the southern lighthouse section; and what they know about the conduits. Maren presents this without inflection. The job comes first. She does not explain why she is interested in the breakwater.
+
+*Long-term note:* If the harbor is damaged or destroyed when Huma is freed, this network's livelihood suffers. They may feel double-crossed, depending on how the party managed the relationship.
+
+---
+
+### The Rebellion
+
+A small but capable network, run by **Sando** (male human, late 40s, former labor organizer, now operating under cover as a carpenter's workshop owner). The network uses repurposed union communication protocols — a system Sando has used for twenty years and trusts. If Maritas was freed in Chapter 11, this network is actively stronger: additional resources and contacts have arrived that were not there before, and Sando carries himself with a confidence that was absent before. If Maritas was not freed, they are smaller, more cautious, and will ask less.
+
+**First contact:** If the party has any prior connection to the western rebellion — Esko Voss's outriders, rebel contacts in Balnor, or Maritas having been freed — a recognized symbol or phrase arrives at their lodgings, or is murmured to one of them on a busy street. If the party has no prior rebel contact: an anonymous summons arrives, with enough identifying detail to demonstrate the sender knows who the party is. **DC 14 Investigation** to decode the location reference in the anonymous message; on failure, a second attempt arrives the following morning in simpler phrasing.
+
+The meeting is at Sando's workshop, after hours. He is direct. He has partial surveillance on Cabal operatives and incomplete movement maps. He cannot complete the picture alone.
+
+**The offer:** Surveillance data, movement maps, the knowledge that operatives enter the southern lighthouse section and do not exit through the same door. The picture is partial. They want something in return: a piece of hard evidence from inside the Cabal's operation, help protecting a threatened contact, or assistance recruiting someone they have identified as sympathetic. The stronger the network (Maritas freed), the more they ask for and the more they offer.
+
+---
+
+### The Geologist
+
+**Vekla Durst** (female human, early 40s, Balnor Institute faculty, on extended Jindark field posting) has been here eight months. She works on the promenade with portable instruments — careful notation, methodical data collection. She has filed multiple reports about the anomalies she has found. They have been buried. The confusion has recently started hardening into suspicion, though she is not ready to name what she suspects.
+
+**First contact:** The party may observe her being turned away from the restricted section by a harbor official — a small, routine confrontation on the promenade that requires no check to witness. She is easy to approach. An initial conversation costs nothing. She is collegial and absorbed; she wants to talk about the work.
+
+**What she has:** Thermal maps, seismic readings, and current disruption data that — correctly interpreted — outline the shape and position of something enormous within the breakwater's core. She reads this as a geological anomaly. **DC 16 Intelligence (Arcana or Nature)** for a party member to see the data differently and understand what its true shape implies; advantage if any party member has previously made contact with Huma or another Old God. She also knows the restricted zone boundary precisely and exactly when it is guarded — she has been turned away enough times to have memorized the pattern.
+
+**The offer:** She wants access to the restricted zone to take readings she cannot take from the promenade. She cannot get authorization through official channels. She is not asking the party to break the law. She is asking them to help her do her job.
+
+---
+
+### The Harbormaster's Office
+
+**Osa Rendl** (female halfling, career administrator, a decade in this post) is professionally furious. Several years ago, a section of the southern breakwater was placed under central authority jurisdiction. She was not consulted. Officials she had never seen presented credentials she cannot verify. Her complaint went nowhere. A part of her harbor has been taken from her without explanation, and the Unity's processes for handling this have failed her.
+
+She does not know the Cabal by name. She does not know that what has been built beneath the breakwater is a prison for a living being. She knows that her authority ends at a wall she did not authorize, and it makes her angry every time she thinks about it.
+
+**First contact:** The party visits on a legitimate harbor inquiry — freight routes, breakwater construction history, anything plausible. Osa is visibly short-tempered the moment the southern section comes up. Her deputy, **Harek** (male human, more approachable), will be more forthcoming in private. **DC 13 Persuasion** to create the opportunity to speak with him alone, or to find him separately from the office.
+
+**What the office holds:** Procurement documents from the breakwater's construction that do not match any standard engineering specification on record; maintenance logs with redacted sections; the names of the officials who presented the unverifiable credentials; and — most valuable — a complete pre-construction survey of the breakwater's foundations, including the submerged access tunnel, drawn before the Cabal's involvement. Osa does not know what those access points are for. She just knows they are hers.
+
+**The offer:** She wants someone to take this seriously. She is not asking for help, exactly. She is venting to people who are asking the right questions. If the party presents her with enough of what they know to make the situation legible, she will open her records willingly. At that point she is committed, whether or not she fully intends to be.
+
+---
+
+## Scene 4: The Plan Comes Together
+
+*When the party has assembled enough to act.*
+
+There is no prescribed moment at which the investigation ends and the plan begins. The DM manages the pacing. When the party has established relationships with at least one contact and gathered enough to understand what the breakwater is and what it contains, the operational conversation begins.
+
+Each contact is activated differently:
+
+- **Criminal Underground:** The party returns to the social club and states they are ready. Maren arranges the specifics without ceremony.
+- **Rebellion:** The party passes a prearranged signal through the contact channel established at first meeting.
+- **Geologist:** The party asks Vekla to formalize her survey data, or to accompany them. She will ask what they intend to do with it. She will not lie to herself about the answer if the party is honest.
+- **Harbormaster:** The party presents Osa with enough of what they know that she opens her records willingly. At that point she is committed, whether or not she fully intends to be.
+
+What each contact contributes to the strike:
+
+| Contact | What they provide in the approach | What they provide during the strike |
+|---------|-----------------------------------|-------------------------------------|
+| Criminal Underground | Dock worker cover; restricted zone access; Cabal operative rotation patterns | Coordinated distraction drawing Cabal attention during the operation window |
+| Rebellion | Optimal timing window — when Cabal staffing in the southern section is at its lowest | Perimeter watch; slows Unity emergency response |
+| Geologist | Alternate entry route: the outer seabed maintenance hatch, visible in her structural survey data | Can confirm projector locations from observable external features |
+| Harbormaster | Pre-construction tunnel maps; location of the dry-access shaft in the interior mechanical spaces | Can delay official harbor response with bureaucratic obstruction |
+
+Zero contacts means the strike runs at worst conditions — full Cabal presence, no map, no timing intelligence, all prepared hazards active. Each contact removes one major disadvantage. The party makes their own choices; the consequences follow.
+
+**Level 10 milestone.** Fires when the party has their plan and their contacts are activated: Jindark fully mapped; rescue plan in hand. This represents the investigation's completion, not the first blow of the strike.
+
+*Transition to Chapter 13: Beneath the Waves.*
+
+---
+
+## Chapter 12 NPC Summary
+
+| NPC | Role | Notes |
+|-----|------|-------|
+| Chief Steward | Train; practical information source throughout the journey | Social only; human |
+| Maren | Criminal Underground contact; job negotiation and access | Social only; human female |
+| Sando | Rebellion handler; surveillance data and network briefing | Social only; human male |
+| Vekla Durst | Geologist; thermal/seismic survey data; promenade presence | Social only; human female |
+| Osa Rendl | Harbormaster; pre-construction records and professional grievance | Social only; halfling female |
+| Harek | Deputy Harbormaster; more forthcoming in private | Social only; human male |
+
+---
+
 # APPENDIX B: NPC STAT BLOCKS
 
 ## Lady Vigo *(Chapter 1)*
@@ -3348,4 +4014,64 @@ The Warden is what became of the Sahuagin that claimed the shrine's dais as its 
 **Holding Strike.** When a creature within 5 feet of the Warden moves, the Warden makes one claw attack against it as a reaction. Unlike a standard opportunity attack, this reaction triggers on any movement within reach, not only when the target leaves reach.
 
 *The Warden has no treasure.*
+
+---
+
+## Srivvner's Vial *(Chapter 10)*
+
+*Wondrous item, uncommon (requires attunement)*
+
+A slender glass tube three inches long, sealed at both ends with stoppers of dark wax etched with the same sigil repeated four times. The symbols shift position slightly each time the tube is examined closely, though no one has ever seen them move.
+
+**Summoning.** As an action, you may unstop one end of the vial. The imp **Gloof** appears in an unoccupied space within 5 feet. He remains until dismissed (bonus action), until he completes a task you have assigned him, or until you unstop the other end, which dismisses him immediately regardless of what he is doing. He cannot be summoned again for 24 hours.
+
+Gloof uses the standard **Imp** stat block (*MM*, p. 76). He was bound into this vial one year ago on a 100-year service bond; 99 years remain. He is aware of this. He mentions it.
+
+**Gloof's character.** Gloof performs every task he is given efficiently and without complaint about the task itself. He complains extensively about everything else: the quality of the furniture, the weather, the smell of the location, the company, and the fundamental injustice of his situation. He is never wrong about what needs to be done. He will tell you this. He will also note that completing his service sooner is in his interest, and therefore performing his tasks quickly and correctly is in his interest, and therefore you may rely on him entirely — and you are welcome.
+
+The vial is attuned to one bearer at a time. The attunement and the service bond transfer with the vial.
+
+---
+
+## Inspector Racewind Thrumblecastle *(Chapter 11 — Device Interlude)*
+
+Senior Advocates inspector assigned to foreign-magic incidents in Balnor. Thrumblecastle has conducted hundreds of these interviews; he has a preliminary theory before he knocks on the door. He asks three questions and listens to everything between the words.
+
+He does not fight unless the situation demands it. If it does, he moves to cover immediately, puts his four guardsmen in the room first, and directs from a position of safety while taking shots whenever a target presents. He will withdraw from a combat engagement turning decisively against his side.
+
+*Small humanoid (gnome), lawful neutral*
+
+**Armor Class** 14 (studded leather) | **Hit Points** 27 (5d8 + 5) | **Speed** 25 ft.
+
+| STR | DEX | CON | INT | WIS | CHA |
+|-----|-----|-----|-----|-----|-----|
+| 10 (+0) | 16 (+3) | 12 (+1) | 14 (+2) | 18 (+4) | 12 (+1) |
+
+**Saving Throws** DEX +6, INT +5
+**Skills** Insight +10, Investigation +5, Perception +7, Sleight of Hand +6, Stealth +6
+**Senses** Darkvision 60 ft., passive Perception 17
+**Languages** Common, Gnomish
+**Challenge** 3 (700 XP)
+
+---
+
+**Gnome Cunning.** Thrumblecastle has advantage on Intelligence, Wisdom, and Charisma saving throws against magic.
+
+**Sneak Attack.** Once per turn, Thrumblecastle deals an extra 3d6 damage when he hits with an attack and has advantage on the roll, or when a creature within 5 feet of the target is not incapacitated and Thrumblecastle doesn't have disadvantage.
+
+**Evasion.** When Thrumblecastle is subjected to an effect that allows a Dexterity saving throw to take half damage, he takes no damage on a success and half on a failure.
+
+#### Actions
+
+***Unity Pistol.*** *Ranged Weapon Attack:* +6 to hit, range 30/120 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage. Reloading is a bonus action.
+
+***Dagger.*** *Melee or Ranged Weapon Attack:* +6 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 5 (1d4 + 3) piercing damage.
+
+#### Bonus Action
+
+***Cunning Action.*** Thrumblecastle can take the Dash, Disengage, or Hide action as a bonus action.
+
+#### Reactions
+
+***Uncanny Dodge.*** When Thrumblecastle is hit by an attack he can see, he can use his reaction to halve the attack's damage.
 

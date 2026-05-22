@@ -3892,6 +3892,549 @@ Zero contacts means the strike runs at worst conditions — full Cabal presence,
 
 ---
 
+# Chapter 13: Beneath the Waves *(Level 10)*
+
+## Chapter Summary
+
+The operation runs tonight. The contacts the party built in Chapter 12 are not passive advisors — they are active assets, each removing a prepared disadvantage from the strike. What the party has going in is what they earned. What waits in Zone 3 is what the Cabal designed for exactly this scenario.
+
+Three zones: the Surface (lighthouse exteriors, projector locations), the Interior (service corridors, turbines, monitoring station, guard posts), the Deep (submerged tunnel and pressurized chamber). The Zone 3 final combat is the chapter's climax. After it, both projectors go down. Huma begins to clear. The freeing itself — Huma coherent, the breach choice, the coda — is Chapter 14.
+
+No milestone leveling in this chapter. Level 11 fires in Chapter 14 when Huma is freed.
+
+**Characters introduced:** Irena Doss (named operative; Zone 3), Calder Mun (arcane operative; Zone 3), Tor Veskin (martial operative; Zone 3). Huma is briefly present in his pre-projector state — confused, fragmented, atmospheric.
+
+---
+
+### Scene 1: The Night Before
+
+The party makes final preparations and activates their contacts. Each activation runs as established in Chapter 12: return to the social club (Criminal Underground), pass the prearranged signal (Rebellion), formally request Vekla's survey data or ask her to accompany them (Geologist), present Osa with enough of what they know that she opens her records (Harbormaster).
+
+The contacts are not present during the strike. They are running parallel operations.
+
+> **DM — Contact deployment tonight**
+>
+> | Contact | Active operation |
+> |---|---|
+> | Criminal Underground | Dock worker cover and restricted zone access in place; Cabal patrol rotations already delivered; coordinated distraction timed to the operation window |
+> | Rebellion | Perimeter watch active; slows Unity emergency response; current window is the lowest Cabal staffing of the week |
+> | Geologist | Structural survey data delivered; can confirm projector locations from observable external features if she accompanied the party to the promenade |
+> | Harbormaster | Pre-construction tunnel maps already handed over; will delay official harbor response with bureaucratic obstruction once events begin |
+
+Track which contacts are active. The party never sees this table. What they will feel is the difference between a prepared operation and one conducted in the dark.
+
+---
+
+### Scene 2: Zone 1 — The Surface
+
+The promenade and the lighthouse exteriors. The containment projectors are at the base of each lighthouse, disguised as maintenance equipment. Both must be disabled to collapse the containment lattice.
+
+If the Criminal Underground is active: patrol rotations are known; guard positioning is predictable; the party has dock worker cover if challenged at the restricted zone entrance.
+
+If the Rebellion is active: the current window is the lowest Cabal staffing the party will get.
+
+The core constraint: **disabling one projector without the other weakens the lattice and triggers an immediate Cabal alert.** Zone 2 and Zone 3 operatives go to full combat readiness. Splitting the party to disable both simultaneously means two separated fights at the same moment — possible, but the party is then divided when they reach the deep zone.
+
+The correct play for most parties is to leave both projectors for Zone 3's master control panel, which shuts them simultaneously and remotely. Zone 1 still needs to be traversed and its guards handled; the projectors are simply not the target here.
+
+**Encounter:** 2–3 Cabal operatives on patrol, dressed as harbor maintenance workers. Their training is genuine. Use **Veteran** (*MM*, p. 350) for each.
+
+---
+
+### Scene 3: Zone 2 — The Interior
+
+Below the promenade. Service corridors, turbine maintenance spaces, guard posts, and the Cabal's operational monitoring station.
+
+The turbines are enormous, loud, and hazardous to anyone who enters the maintenance passages directly. Their vibration runs through the breakwater's structure. **Stealth checks throughout Zone 2 are made with disadvantage** unless the party has identified and moved through the quieter structural corridors — the passages that run alongside, not through, the turbine spaces. Locating these routes requires a DC 15 Investigation or Perception check. Once found, stealth checks against guards proceed normally.
+
+Guard posts are staffed by Cabal operatives in harbor maintenance worker disguise. Use **Veteran** (*MM*, p. 350) for patrol guards. The monitoring station is staffed by two senior operatives: increase each Veteran's maximum HP by 10 and add +2 to all their saving throws. They are not unique enough for separate stat blocks; they are simply the best operatives in Zone 2.
+
+**The monitoring station** contains two recoverable items. The DM determines the order in which the party finds them.
+
+*Plot item — operational notes:* Detailed technical records explaining the containment system: projector calibration, the master panel's function, and the chamber's prepared hazards including the exact location of the electrical discharge conduit runs. **If the party reads and understands these before entering Zone 3, they can neutralize the electrical discharge hazard before combat begins — identifying the conduit runs costs no action; they simply know where not to stand, and they can route the discharge against the Cabal themselves.** Without the notes, the Cabal deploys the discharge in round 1.
+
+*Story item — internal reports:* Cabal documents confirming what Huma is, when he was brought here, and what the power extraction has produced. Written in the Unity's bureaucratic administrative style. The horror is in the matter-of-fact tone. The party reads what has been done to Huma in language designed to manage it.
+
+---
+
+### Scene 4: Zone 3 — The Deep
+
+The submerged tunnel beneath the breakwater's central mass. The pressurized chamber at harbor floor level.
+
+**Two entry points.**
+
+*The dry-access shaft* descends from Zone 2's mechanical spaces. Two Cabal operatives guard the base of the shaft. No swimming required. This is the default route for parties without the Geologist's data. The harbormaster's pre-construction survey identifies it; without her records, finding the shaft in Zone 2 requires a DC 16 Investigation check.
+
+*The outer seabed hatch* is on the breakwater's harbor face — not the interior. The Geologist's structural survey identified it as a mechanical anomaly in the foundation. Reaching it requires swimming approximately 30 meters underwater, working an external hatch mechanism (DC 12 Dexterity with appropriate tools, DC 16 without), and entering from the sea side, bypassing Zone 3's interior guards entirely.
+
+The seabed route requires a means of underwater breathing. If the Criminal Underground or the Harbormaster is active, equipment was arranged as part of their contribution. If neither contact is active, the party can purchase underwater breathing apparatus independently: it is expensive, technically specialized, and its purchase from a Jindark supplier may attract low-level attention from Cabal affiliates (DC 14 Investigation check triggered 1d4 days after purchase — relevant only if the party delays the operation).
+
+**The airlock.** The pressurized chamber is accessed through an airlock-style entry. Correct operation requires understanding the mechanism. If the party has the operational notes from the monitoring station, they can operate it without difficulty. Without the notes: DC 14 Intelligence check (or proficiency with engineering-adjacent tools) to operate correctly on the first attempt. A failure does not seal the entry — it triggers a brief pressurization alert. Any Cabal operatives still unaccounted for in Zone 2 are alerted and will arrive in 3 rounds.
+
+---
+
+**Pre-projector contact with Huma.** Before engaging the Cabal, the party can attempt the Summoning ritual in the chamber. Huma is physically present — he hears the ritual and responds — but he is deeply confused. He knows he is surrounded. He knows something is holding him. He does not understand the geometry of his prison. He does not know how long he has been here. Communication is fragmented: responses arrive as pressure changes in the water, low resonance in the stone walls, and temperature shifts that form into something almost like language. The party cannot have a meaningful exchange. What they can feel is that something immense is here, that it is aware of them, and that it is frightened.
+
+*This contact is atmospheric, not interactive. The ritual is not required. Some parties will attempt contact first; others will clear the room first. Either sequence is valid. The confusion is the same whenever the ritual is attempted.*
+
+---
+
+**The final combat.** Three senior Cabal operatives: Irena Doss (tactical; named), Calder Mun (arcane), Tor Veskin (martial). They have been on alert since Zone 1 if the party triggered the lattice alarm, or at readiness if the party navigated Zone 1 cleanly. They are not surprised by the party's presence. This room was designed for it.
+
+The Cabal can deploy four prepared hazards. Each is a DM-managed resource, independent of the operatives' action economy — the operatives activate them on their turns (usually as bonus actions), but the hazards themselves run on the chamber's systems.
+
+**Prepared hazards:**
+
+*Electrical discharge.* Exposed conduit runs from the turbine system line the floor and structural contacts in two sections of the chamber. A Cabal operative can direct current through one section as a bonus action. Creatures in the affected section take 14 (4d6) lightning damage; DC 14 Dexterity saving throw for half. **If the party recovered and understood the operational notes from Zone 2,** they identified these conduit runs before combat began. They can neutralize a section as an action (permanently removing it from use) or route the discharge against an operative who attempts to trigger it (DC 14 Intelligence; on success, the operative takes the damage instead).
+
+*Partial flooding.* Irena Doss can initiate a controlled flood as an action (one use; she will use it when the party reaches the master panel or when she judges the combat lost). A 20-foot section of the chamber floor is covered in 1 foot of rapidly rising water. The section becomes difficult terrain, and creatures that end their turn there must succeed on a DC 13 Strength saving throw or fall prone. The flood does not reach the panel.
+
+*Pressure doors.* The tunnel connections back to Zone 2 can be sealed. Any operative can seal them as a bonus action on their first turn or in response to a party member attempting to retreat. Sealed doors separate any party members still in the tunnel and create a clock element if someone is cut off. A sealed door can be forced open from either side with a DC 18 Strength check, or operated correctly using the monitoring station's notes (DC 10 Dexterity).
+
+*Turbine spillover.* If combat extends into the maintenance passages adjacent to the chamber, those passages are acutely hazardous. A creature that ends its turn in the turbine passage takes 10 (3d6) bludgeoning damage from the turbine pressure differential (no saving throw). Cabal operatives will attempt to maneuver the party into these passages. They will not enter them themselves.
+
+**The master control panel** is at the far end of the chamber. Activating it shuts both projectors simultaneously (DC 10 Intelligence, or automatic with the operational notes). Reaching it during combat requires crossing the chamber under fire. Irena will use partial flooding to complicate approach to the panel if she has not used it already.
+
+---
+
+**Irena Doss speaks in defeat or capture.** She does not plead. She confirms, without apology: the Cabal's intent was never to kill the party in this room. They are more useful as interrogatees. The installation on the ridgeline — the one publicly described as an airship terminal under construction — is the Citadel. It is the Cabal's regional operations base. That is where the party would have been taken. She knows what they came here to do. She does not say whether they will succeed. She has already accepted the outcome of this room.
+
+She will answer a limited set of questions: what the Citadel is, who leads the Jindark operation, what is done with prisoners. She will not name Cabal contacts within the Unity government, but she will not deny their existence.
+
+---
+
+**Projectors disabled.** Both lighthouses go dark. The hum that Jindark has lived with for years — the vibration in the promenade stone that residents learned to stop noticing — stops. In the chamber, a pressure change passes through the walls from all directions at once, a low resonance that is not quite sound. The fragmentation that held Huma is gone.
+
+He has not spoken yet. That is Chapter 14.
+
+*No milestone fires in this chapter. Transition to Chapter 14: Freedom.*
+
+---
+
+## Chapter 13 NPC Summary
+
+| NPC | Role | Notes |
+|---|---|---|
+| Irena Doss | Zone 3 senior tactical operative; speaks in defeat; Citadel confirmation | Combat; human female |
+| Calder Mun | Zone 3 arcane operative; chamber hazard integration | Combat; human male |
+| Tor Veskin | Zone 3 martial operative | Combat; human male |
+| Huma | Pre-projector atmospheric contact; no dialogue | No combat; present through the ritual only |
+
+---
+
+# Chapter 14: Freedom *(Level 10 → Level 11)*
+
+## Chapter Summary
+
+The projectors are down. The lattice is gone. Huma has his mind back for the first time in years.
+
+What happens in the next hour determines the fate of Jindark's harbor. The party has one conversation to get this right — with a being who has been in a cage for years, who does not fully understand what just happened, and who will not act until he does. A party that communicates clearly and earns his trust will have maximum control over what follows. A party that cannot explain itself, or whose actions have left Huma frightened, will not.
+
+After the breach: the city sees what happens. The extent of the damage is a direct consequence of what the party chose and how they managed the conversation. The post-freeing window is short — Day 1 is the largest window the party will have; by Day 2, the Unity's response is active and everything gets harder. The Optional Interlude (Assault on the Citadel) runs within this window or not at all.
+
+**Level 11 milestone.** Fires when Huma passes through the channel into the open sea.
+
+*Characters appearing: Huma (coherent; full encounter). All four Jindark contacts reappear depending on the party's escape choices.*
+*No new characters introduced.*
+*No milestone fires prior to Level 11. No Appendix B entries for this chapter. Circe Lovelace will be written with the Optional Interlude.*
+
+---
+
+### Scene 1: Huma's Clarity
+
+The chamber after the combat. Both projectors are down. The shift that passed through the walls at the end of the previous chapter deepens now.
+
+Huma speaks through the structure of the breakwater — not through a body. Vibration in the stone. Resonance in the water. A pressure in the air that forms into something almost like language. The party will not see him. They will feel the chamber around them become the medium for something that has been silent for years and is no longer.
+
+**Voicing Huma for the DM:** The experience is not eerie or threatening. It is the sensation of presence at scale — of something vast becoming, for the first time, legible. The language is slightly formal, a little archaic, not quite modern in its rhythms. He has been listening for a long time through the prison, and his first words are not demands or protests. They are observations.
+
+*"You disabled the machines."*
+
+A pause. Then:
+
+*"I was lured. I should have known what kind of call it was."*
+
+He is not asking for sympathy. He is stating a fact about himself he has had years to arrive at.
+
+**What Huma asks, and what the DM should be ready to answer:**
+
+*What has happened in the world?* His knowledge is years out of date. He knows the Old Gods have been in deliberation — he has felt this distantly through the prison — but does not know the specifics. The party can tell him whatever they know. He listens carefully and without interruption. He asks one clarifying question for each major piece of information: a confirmation of what he heard, nothing more.
+
+*How was I held?* He does not fully understand the mechanism of his own prison even now. He can feel the lattice is gone. The lighthouses are known to him as structures, but their true function was concealed from him. This is a moment of revelation, not reassurance — it may anger him, and the DM should let that anger be present without resolving it immediately. He is allowed to be furious about what was done to him. He will move on from it when he is ready.
+
+*What do you want me to do?* This is the central question. He will not act until he understands the situation. What the party tells him here directly shapes the outcome. He will repeat it back to confirm he has understood. If there is a contradiction in what the party has said, he will identify it — not as an accusation, but as a clarifying question: *"You said one thing and then another thing. Which one is true?"*
+
+**The communication quality matters.** A party that speaks clearly, answers his questions honestly, and gives him a coherent picture of what they came here to do will find him cooperative. He is not warmly trusting — he has just been imprisoned for years — but he is fair. His regard is earned in this conversation, not given. This is the beginning of a relationship that will matter in Act V.
+
+**The risk of chaos.** If the party's situation at first contact is genuinely chaotic — multiple members giving conflicting information, the chamber partially flooded, critical systems destroyed, nobody able to give a coherent account of what is happening — Huma does not become hostile. He becomes frightened. A frightened Old God is dangerous regardless of intent. A frightened Huma behaves equivalently to the Full Simultaneous Destruction outcome regardless of whatever method the party planned: he erupts into the harbor without guidance. The DM should adjudicate communication quality against the actual state of the room, not against an abstract standard. The risk is chaos; the failure condition is nobody making sense.
+
+---
+
+### Scene 2: The Choice
+
+Huma will not breach the harbor on his own authority. He asks the party how to proceed. The choice belongs to them.
+
+Three approaches are available. The DM presents the information through what Huma says, not through a mechanical prompt. He tells the party he can feel the structure above him. He knows the geometry now. He describes each path as he understands it and asks what they decide.
+
+| Method | How it works | Harbor consequence | Huma's state through breach | Party's agency |
+|---|---|---|---|---|
+| **Projectors down, guided breach** | Huma cooperates with a deliberate structural opening; a specific section of the breakwater is breached in a controlled sequence | Significant flooding of port district; harbor disrupted but structurally present; shipping eventually recoverable | Coherent, cooperative, grateful | Maximum |
+| **Projectors and breach simultaneously** | Huma passes through two sections opened at once; faster, less controlled | Severe flooding; structural damage extends beyond the port district | Disoriented but responsive | Limited |
+| **Full simultaneous destruction** | Everything comes down at once | Port district destroyed; harbor becomes open sea; tidal event on the northern coast; effects reach beyond Jindark | Panicking, disoriented; dangerous | None |
+
+If the party chooses full destruction: Huma will comply with a direct instruction. He will ask once if the party is sure. He will not ask again. The party should understand — from context, from what they have seen of the harbor district, from everything Jindark showed them in Chapter 12 — that the breakwater is not only his prison. It is also the city's harbor, and the lower districts live and work in its shadow.
+
+**Level 11 milestone.** Fires when Huma passes through the channel into the open sea. Whether he moves as a managed breach or an eruption, the moment he clears the lighthouse gap and reaches open water, the imprisonment ends. The party has freed an Old God.
+
+---
+
+### Scene 3: The Coda
+
+There is no version of this that goes unnoticed. The city is watching.
+
+**Controlled outcome — guided breach.** The lighthouses go dark simultaneously. The promenade shudders once. From the harbor, something moves: a shape that does not fit the space it occupies, that fills the harbor from end to end and then passes through the gap between the lighthouses and is gone into the open sea in a matter of seconds. Citizens of Jindark have watched something impossible in broad daylight. The port district has significant flooding — street-level, several blocks, manageable in weeks. The city is stunned and does not know what it watched.
+
+**Significant breach.** As above, but the breakwater's structure is opened in two places. The flooding is severe: several blocks of the port district are underwater; structures near the waterline are damaged. Huma's passage is longer and more violent. The spectacle lasts. More people are in danger during it and more people witness what emerges. The city will not recover its shipping capacity for months.
+
+**Full simultaneous destruction.** The breakwater collapses. The harbor becomes open sea in minutes. Huma erupts into it in panic and confusion — a presence in the water that panics vessels, pulls structures off their foundations, and generates a tidal surge that moves along the northern coast. The port district is destroyed. The sky above where the harbor was is wrong for hours afterward in ways that are difficult to describe to anyone who was not there. This is a catastrophe. Its effects will be felt in Act IV and are not forgotten in Act V.
+
+---
+
+### DM Reference: Post-Freeing Timeline
+
+*DM-facing. Not scene text. The party moves through this window at their own pace; the DM tracks where they are in it.*
+
+| Day | City situation | Active escape routes | Window notes |
+|---|---|---|---|
+| **Day 1** | Shock; harbor operations suspended; Unity emergency apparatus mobilizing but nothing in its experience prepared it for this | Criminal Underground (sea); Harbormaster (official departure, controlled outcome only) | Largest window; party can move with relative freedom |
+| **Day 2** | Unity response in earnest; military and Advocate units deploy to harbor district; initial lockdown of affected area | Rebellion (overland) | If the Citadel has not yet been attacked, this is the last viable window — the ridgeline is under observation by day's end |
+| **Day 3–4** | Investigation spreads outward; lockdown extends; Cabal assets in city administration in full crisis mode | All contact routes remain available but conditions are hardening | Party is a named priority; scrutiny at any departure point is elevated |
+| **Citadel destroyed** | Ridgeline explosion visible from the whole city; Advocates mobilize within hours of the harbor event; no delay before active pursuit | No contacts beyond those already established | Day 1 is a race, not a window |
+
+---
+
+### Scene 4: Escape Avenues
+
+No prescribed route. The DM presents the available options based on what the party established in Chapter 12 and what choices they made in this chapter. The party navigates their own exit.
+
+**By sea — Criminal Underground.** If the harbor is navigable — controlled or significant breach — and the criminal network is an active contact, this is the fastest exit available. Their boats know the harbor; their dock workers know the chaos patterns. Not available in the full destruction outcome. There is no harbor left to depart from.
+
+**By land — Rebellion.** The safe house chain leads out of the city through the hill country, regardless of harbor state. The route takes 2–3 days of moving through the lockdown, lying low while the investigation is active. Slower than a sea departure; more reliable in bad conditions. If Maritas was freed earlier in Act III, this network is stronger — more safehouses, more experienced handlers, a more direct route.
+
+**Official departure — Harbormaster.** Available in the controlled outcome only. On Day 1, Osa retains nominal authority over harbor departures and the chaos is total. She could authorize a vessel's exit — if the party reaches her before she understands the full scope of what they did, and if the relationship between them is enough for her to use her institutional position on their behalf. This is the most difficult avenue to access. It requires either a persuasive argument for why she should protect the people who just devastated part of her harbor, or a relationship with genuine depth. **DC 18 Persuasion**, or automatic if the party's engagement with Osa went beyond a transactional information exchange and reached something that looked like trust.
+
+**Overland without contacts.** Possible; slow; exposed. The mountain terrain surrounding Jindark provides cover but not speed. No safehouses, no timing intelligence, no support. Viable for a party with no remaining contacts or for one that chose not to cultivate them.
+
+**By air — Citadel infrastructure.** If the party did not destroy the Citadel, the ridgeline facility has incomplete but potentially functional airship infrastructure. Reaching it requires moving through a now-monitored area. Operating the equipment requires someone capable of managing it, or the time to learn. The Cabal will know what left from where. This option is available only if the Citadel was spared. The fuller version of this route — involving a trained crew and the Middle Sea crossing — is covered in the Act III–IV Interlude.
+
+*Chapter ends when the party has departed Jindark. Transition to Optional Interlude: Assault on the Citadel — or, if the party does not attack the Citadel, directly to Act III–IV Interlude: The Return.*
+
+---
+
+## Chapter 14 NPC Summary
+
+| NPC | Role | Notes |
+|---|---|---|
+| Huma | Coherent post-projector conversation; the breach; the freeing | No combat; Old God; speaks through the structure |
+| Maren | Sea escape activation | Social only; human female |
+| Sando | Overland escape activation | Social only; human male |
+| Osa Rendl | Official departure (controlled outcome; Day 1 only) | Social only; halfling female |
+
+---
+
+# Optional Interlude: Assault on the Citadel
+
+## Interlude Summary
+
+The party does not need to do this. Huma is free. The Cabal's energy extraction operation is ended. But the Citadel — the installation on the ridgeline the party has known about since Chapter 12 — is still standing, and everything the Cabal planned for the region and beyond is inside it.
+
+There are three things this building offers that the harbor strike did not: a permanent break on Cabal operations in Jindark, vital intelligence (including the earliest warning of the Act IV threat), and a reckoning with the person who ran this operation. If none of that matters to the party, they leave it standing. The window closes on Day 2.
+
+**Timing:** This interlude can run on Day 1 or Day 2 of the post-freeing timeline (per Chapter 14's DM Reference). If the party departs Jindark before attempting the Citadel, it is not attacked. A party that escapes by sea on Day 1 and does not return has closed this option.
+
+*Characters introduced: Circe Lovelace (Cabal regional leader; Oath of Devotion Paladin). Stat block in Appendix B.*
+
+---
+
+### Area 1: The Surface Construction
+
+Construction cover is nearly complete but not convincing at close range. Scaffolding, fencing, legitimate workers on the exterior. The party has seen this building every day since they arrived in Jindark. They watched it from the station platform and from the promenade. They know what it is now.
+
+The operational areas are accessible only through disguised entry points within the construction zone. **DC 15 Investigation or Perception** to locate a concealed entry without help. If Irena Doss named the Citadel in defeat but gave no layout details, this DC applies. If she said more — DM discretion, based on how the Chapter 13 capture conversation went — directional information reduces the DC to 12.
+
+Cabal security: 2–3 operatives disguised as construction supervisors. If the criminal underground's dock worker cover is still active, it carries here. Legitimate workers are not threats; if the party begins fighting openly, they flee and the alarm reaches Area 2 one round before the party arrives.
+
+The security posture is elevated and chaotic. The harbor event is less than 24 hours old. Communications with Zone 3 are dead. The operatives on the surface know something went badly wrong. They do not yet know what the party looks like or that the party is responsible. Both of those facts are in the process of changing.
+
+---
+
+### Area 2: The Operational Level
+
+Communications equipment, monitoring stations, personnel quarters. The stations that tracked the breakwater containment system are disrupted and dark — feeds that died when the projectors were disabled at the end of Chapter 13. Several Cabal personnel are visibly attempting to re-establish contact with the harbor operation and failing. The room has the character of a command post in the first hours after a disaster.
+
+**Detention cells:** If any party members were separated and captured during Chapter 13's Zone 3 combat — cut off by sealed pressure doors and unable to rejoin — they are held here. This is a conditional rescue element; the DM should track any Chapter 13 captures and use this as the resolution.
+
+**Guard posts:** 3–4 operatives on full alert. Use Veteran (*MM*, p. 350) with +2 to all saving throws and +10 maximum HP — the same elevated profile as Zone 2's monitoring station guards in Chapter 13.
+
+**Archive sections.** The intelligence the party can recover from the Citadel is organized in four sections, all physically stored in Area 3. Each section represents documents, communications, and records that survive only if the party protects them in Area 3's combat. The DM tracks which sections survive; the party does not see this table.
+
+| Section | Contents | Consequence if recovered |
+|---|---|---|
+| **A — The Carnuth Warning** | Notes in Circe's own hand on Carnuth's role in the eastern rebellion and the Cabal's developing plan to "deal with it permanently" | Earliest warning of the Act IV threat; the party knows what is coming |
+| **B — Containment Specifications** | Technical documentation for the breakwater containment system, sufficient to identify similar installations elsewhere | Changes what questions the party asks in Act IV |
+| **C — Personnel Roster** | Identities of Cabal agents embedded in the Advocate corps and government ministries | Triggers the Advocates' internal investigation and the shadow war with the Cabal that runs through Act IV |
+| **D — Rebellion Materials** | Documentation that, if circulated, exposes the Cabal's existence and methods to the Unity public | The Unity government will call them forgeries; the reputational damage is real regardless |
+
+---
+
+### Area 3: Archive and Command
+
+The deepest level. The intelligence repository. Circe's office. The final confrontation.
+
+**Circe Lovelace** and 2 lieutenants. Use the Appendix B entry for Circe; use the modified Veteran profile (same as Area 2 guards) for the lieutenants.
+
+Circe is an original founder of the Cabal and a member of its inner circle — an Oath of Devotion Paladin whose devotion is the Unity itself, elevated to the status of a sacred cause. She has done monstrous things. She knows it. She considers them necessary and has made peace with that. She deeply cares for her subordinates; killing one in her presence sends her into cold rage.
+
+This fight is structurally different from Zone 3 of Chapter 13. The pressurized chamber was a kill zone built for intruders. Area 3 is Circe's home ground — optimized for operations, not defense. She is not trying to kill the party. They are more useful as interrogatees, and she has not yet abandoned that preference. But her priority is the archive, and she knows exactly how long she has.
+
+**The dual-objective combat.** From the first round of the encounter, Circe and her lieutenants are fighting to buy time while systematically destroying archive materials. Any Cabal operative can spend their action to destroy one archive section — no check required, they know exactly where everything is. A section destroyed is gone. The party can protect a section by physically taking it — picking up documents, grabbing containers, interposing a body. A protected section cannot be destroyed while a party member holds it, but the party member holding it is occupied.
+
+The party cannot simultaneously fight, protect all four sections, and pursue Circe. They choose what matters more. There is no correct answer. The DM plays the consequences of whatever they decide.
+
+**DM:** Begin each round of combat by resolving any operative action to destroy a section before the party takes their turns. Lieutenant priority: Section A first, then C, then D, then B. Circe follows the same order if she spends her action on destruction rather than combat.
+
+**Circe's negotiation.** If Circe is cornered or reduced below 80 HP, she will attempt to make the party understand why the Cabal exists and why its work must continue. She is not performing conviction. She has it. She believes, genuinely, that what she has done is what the world required. She will not pretend otherwise. She will not apologize. This can be interrupted; it can be refused; it cannot change her escape.
+
+**Circe's escape.** Regardless of how the encounter ends, Circe enacts her escape protocol. When she is reduced to 50 HP or her last lieutenant falls — whichever comes first — she uses her bonus action to cast *misty step* (clearing any melee grapples) and then activates a prepared *Scroll of Word of Recall* as her action. The scroll is sanctified to a location outside the Unity's core territory, prepared years in advance.
+
+The party can attempt to stop her: counterspell the Word of Recall, and physically restrain her after the Misty Step, and succeed on every step of both. Barring that combination, she escapes. The DM's intent is that she escapes. She will be encountered again in Act IV.
+
+---
+
+### Destruction of the Citadel
+
+The Citadel's electrical infrastructure connects to the now-disabled breakwater containment system. With the containment down, those connections are live and unstable. The party can initiate a full destruction sequence by striking three nodes in order: the main power coupling (Area 2), the monitoring system hub (Area 2), and the communications array (Area 3). Each node requires one action to damage.
+
+*Immediate sequence:* The collapse begins 2 rounds after the third node is struck. If destruction is active during the Circe encounter, this is a 4-round hard clock from the moment the third node goes down.
+
+*Delayed sequence:* DC 14 Intelligence with tinker's tools or similar to set a 10-minute delay. The party has a controlled exit window — but the delay also triggers the lockdown alarm faster. The explosion will be seen.
+
+The ridgeline explosion is visible from the entire city. If the party has not yet escaped Jindark when it fires, their remaining window compresses significantly.
+
+---
+
+## Optional Interlude NPC Summary
+
+| NPC | Role | Notes |
+|---|---|---|
+| Circe Lovelace | Cabal regional leader; final confrontation; negotiation; escape | Combat; human female; returns in Act IV |
+
+---
+
+# Act III–IV Interlude: The Return
+
+## DM Setup
+
+Before running any part of this interlude, establish four variables. They govern which routes are available, how difficult each is, and how the Archipelago receives the party on arrival.
+
+| Variable | What to note |
+|---|---|
+| **How Huma was freed** | Controlled (guided breach) / Significant (simultaneous) / Full destruction — affects Hope's transit form, Hope's boon availability, and the available escape window |
+| **Whether the Citadel was destroyed** | Yes / No — affects Balnor scrutiny and whether the airship route exists |
+| **State of Jindark contacts** | Which of the four contacts remained active — governs which escape avenues were available in Chapter 14 |
+| **Balnor and Daliketh exposure** | Whether the device interlude exposed the party; whether Giacomo is still free; whether the Daliketh Wayfinder network was dismantled in Act II |
+
+---
+
+## Route Options
+
+Three paths back to the Archipelago. The party may pursue any one, or a combination. Most parties will commit to one primary route.
+
+---
+
+### Option 1: The Original Plan
+
+Retrace the Wayfinder network's route in reverse: rail from Jindark to Balnor, aerodrome to Daliketh, Kaman's network to the next outbound ship.
+
+**Jindark to Balnor.**
+If Huma was freed without catastrophic harbor damage and the Citadel was not destroyed: a narrow window remained on Day 1 of the post-freeing timeline. The rebellion and criminal network contacts could get the party onto a northbound train before it closed. Once it closed, rail service from Jindark was suspended for approximately a week. When it resumes, checkpoint scrutiny approaches the impenetrable — only exceptional cover work carries the party through.
+
+If the Citadel was also destroyed: the rail window effectively did not exist. The explosion was visible from the city and Advocate response began within hours. Both incidents compound the scrutiny. Escape via rail without active contact support was not viable in the immediate aftermath.
+
+**Balnor.**
+Depends on two variables: the party's exposure from the device interlude, and whether news of the Jindark events has arrived before them.
+
+If the device did not expose the party and did not lead to Giacomo's arrest: he is still available. He will provide accommodations under the same terms as before — he will disavow them without hesitation if pressed — and can arrange aerodrome tickets. If the Citadel was destroyed, news will arrive at roughly the same time as the party. The capital will be in uproar. Scrutiny at the aerodrome will be significantly elevated, and the party will face intensive examination at boarding.
+
+If prior events compromised the party in Balnor or led to Giacomo's arrest: no contact, no safe house, no freedom of movement in the city.
+
+**Daliketh.**
+If the rescue mission at the end of Act II dismantled the Wayfinder network: Kaman's operation no longer exists. Pulara is still in the city, overseeing the evacuation of the last remaining network personnel. She can be reached through whatever channel the party established before departure. She will be cautious, pressed for time, and unwilling to take unnecessary risks — but she will get them out if they reach her.
+
+If the Daliketh network is intact: Kaman's operation runs on its usual schedule. The party waits for the next outbound ship.
+
+---
+
+### Option 2: Asking the Spirits
+
+The spirits have not yet demonstrated the ability to transport people between locations in the physical world. They can do this. The party simply has no reason to know it is possible unless they think to ask. This option is available to any party that considers it — spirits can only move people between places within their sphere of influence, and not all will help.
+
+**Hope.**
+Hope answers without hesitation. She does not require the party to complete a full crossing — she meets them in transit instead.
+
+The form of the transit reflects the outcome of Huma's freeing. If he was freed cleanly with minimal harm: the party finds themselves on a beautiful sunlit afternoon on the Jindark breakwater promenade — the promenade they walked for days without knowing what was beneath it, now peaceful and full of ordinary life. If the freeing was more damaging: the scene is quieter, the light thinner, the promenade less populated. In either case, Hope offers to send the party home directly and does so with very little ceremony.
+
+If Huma was freed with minimal loss of life, Hope also offers each party member a boon. Each member selects one; the selection is permanent.
+- *Spirit Balm* — see Appendix B
+- *Word of Hope* — see Appendix B
+- *Clarity* — see Appendix B
+
+**Placida.**
+Placida answers only if the party did not free Maritas. She also skips the full crossing, meeting the party in transit in the form of a public civic celebration — glad or subdued depending on how Huma was freed.
+
+If the party encountered Maritas but did not free him: she addresses this directly. She thanks them, absolves them of any residual complicity in Revna's scheme, and tells them they made the right choice. She does not comment on Huma's release — she views it as an unambiguous public good and a driver of necessary change. She will not offer to transport the party home unprompted. If asked, she will.
+
+**Revna.**
+Revna answers regardless of circumstances. She does not extend the same courtesy as Hope or Placida. The full crossing is required.
+
+The crossing passes through five spaces. Each presents a question. There are no correct answers; what matters is that the party answers honestly and from the heart. A party member who deflects, equivocates, or answers dishonestly is called out by name, and the question is directed to someone else.
+
+| Space | Setting | Question |
+|---|---|---|
+| The Classroom | A teacher at the front of a room full of students looks past them at the party | *"What is the Unity's biggest problem?"* |
+| The Restaurant | Friends around a long table; an old man at the head sets down his fork | *"Are people in the Unity free?"* |
+| The Funeral | Mourners around a casket; a red-eyed relative turns to the party | *"Do the people of the Unity believe it's worth fighting for?"* |
+| The Rally | A massive political gathering; the speaker interrupts and points directly at the party | *"In the end, what will make the people of the Unity rise up?"* |
+| The Altar | A mountaintop beneath a surreal storm-heavy red sky; a monk in a black robe meditates at an altar; below it, a stone bowl stained by generations of use | *"What are you willing to sacrifice for the Revolution?"* This is not a question — it is an invitation. The acceptable offering is blood: one party member cuts their palm and bleeds into the bowl (1 HP piercing damage, dealt willingly). A gift judged insufficient is returned. Blood offered willingly opens a door in the cliff face leading to Revna's domain. |
+
+Revna's domain appears as before, but more active — evidence of plans being made, work underway. If Maritas was freed, it has a more organized and militant character.
+
+*If Maritas was freed:* Revna greets the party with genuine warmth. Great things are ahead; they have made a true alliance. She offers to return them to the Archipelago without being asked. She also offers each party member a boon. Each member selects one; the selection is permanent.
+- *Retributive Strike* — see Appendix B
+- *Unshackling* — see Appendix B
+- *Inciting Word* — see Appendix B
+
+*If Maritas was not freed:* Revna upbraids them — not with shouting, but with the colder anger that comes naturally to her. She tells them exactly what their failure cost. She returns them, without ceremony, to wherever they conducted the ritual.
+
+**Maritas.**
+Maritas answers the party's call only if he was freed. He enforces the full crossing.
+
+The transit takes the form of a crowded, bloodsoaked arena. The party materializes behind the portcullis to the arena floor. The master of gladiators — a heavily scarred human woman — looks them over and asks which of them volunteers as the challenger. The portcullis drops behind the volunteer, separating them from the rest of the party.
+
+The volunteer faces a challenger of equal level who is their functional opposite: an arcane caster faces a martial fighter; a Paladin faces a Warlock; a Rogue faces a Cleric. Use a CR-appropriate opponent built to complement the volunteer's weaknesses. The bout is fought to unconsciousness or surrender; the outcome does not matter, only that it is fought with genuine effort. A volunteer who gives less than their best will find the crowd silent and the master unmoved.
+
+Whether the volunteer wins or loses, the master calls it and the crowd responds. The volunteer is restored to full hit points. The master leads them through a doorway.
+
+Maritas's domain: a ridge overlooking a wide battlefield on a clear sunny day. Thousands of bodies. The winning side's soldiers and workers are visible below — finishing off the dying, aiding the wounded, stripping the dead. Maritas sits on a rock nearby, picking his fingernails with a small knife, entirely unbothered.
+
+He will look up when the party arrives and ask what they want. If they ask him to send them home, he refuses — flatly and without heat.
+
+*"I am not your wet nurse. Deal with your own problems, my little rabbits. And don't bother coming again unless you've found something worthy of my attention."*
+
+A dismissive gesture. The party is returned to wherever they conducted the ritual. He is not punishing them. He simply does not provide this service. He is the spirit of War.
+
+---
+
+### Option 3: Stealing an Airship
+
+Available only if the party attacked the Citadel and the airship tethered to the ridgeline was not destroyed in the collapse. The party exits the Citadel and finds it above them, unattended in the immediate chaos.
+
+**Taking control.** A Unity airship's controls are not intuitive. Any party member may attempt a DC 18 Intelligence check to get it airborne; the party may make up to three attempts before the situation forces resolution.
+
+On success: the airship is airborne. If the Citadel's destruction sequence was active, they clear the blast radius.
+
+On failure after three attempts: the airship's passive buoyancy prevents a fatal fall — if the Citadel explodes, the vessel is thrown to the ground. Each party member takes 2d6 force damage and 3d8 bludgeoning damage. They are alive, outside the Citadel, with their escape window significantly narrowed.
+
+**Crew.** Keeping the airship aloft over any meaningful distance requires a trained crew. Two contacts can provide one.
+
+*The Rebellion:* Arranges a crew of volunteers immediately — people who have been waiting for exactly this opportunity. The cost is minimal; the hidden cost is that the rebellion wants to keep the airship. It represents a significant resource for their operations, and they will make this clear before the crew boards.
+
+*The Criminal Network:* A competent no-questions-asked crew for 1,000 gp or the airship delivered to a specified contact in Daliketh. They do not negotiate on either option.
+
+If the party hires independently: possible, but very difficult in the current chaos. Time-consuming, expensive, and scrutinized.
+
+**Fuel.** The airship cannot reach Daliketh without a resupply stop. Three options:
+
+*Karale:* The party knows this city from the train journey north. Standard scrutiny; news from Jindark will not have arrived before the party does. At the edge of the airship's comfortable range — feasible, no margin.
+
+*Balnor:* Fully equipped, no supply constraints. News from Jindark will have arrived. Scrutiny at the aerodrome is significant; the party will face questions about cargo, route, and credentials.
+
+*Bashere:* A large manufacturing city on Lake Janelia in the central hills region — considerably further south than the route the party knows. Low alert probability; a trained crew will know the route and can advise on feasibility.
+
+**Military patrols.** A Unity military patrol may intercept the party in transit. Military vessels communicate by semaphore and will ask the party to identify themselves, state their cargo, and declare their destination. Failure to respond convincingly results in a boarding action. The military vessel is armed with cannon; the party's vessel is not. This is not a fight designed to be won. The party's best tools are compliance, preparation, and a coherent cover story.
+
+**The Middle Sea.** Flying across the Middle Sea under standard conditions is not viable — the distance is too great, the fuel insufficient, and the weather lethal for a civilian vessel. There is a path that makes it possible. The DM does not offer it; the party must find it.
+
+*Finding Ala.* The solution begins with thinking to summon a spirit of air travel. Confirming the theological basis for such a spirit requires a DC 18 Religion check. Identifying the ideal summoning site — the main aerodrome in Balnor, specifically the upper observation platform — requires a DC 18 Wisdom or Intelligence check. Both conclusions must be reached independently.
+
+Ala arrives in the form of a male teenager wearing aeronaut gear that is old-fashioned and distinct from anything the party has seen — neither civilian crew dress nor military uniform. He is delighted to be summoned and is, in his own words, "always happy to talk about airships." He is genuinely excited by what the party is describing. He thinks the crossing is impossible — but if anyone could make it possible, it would be Finnean Barnatheses, the original inventor of the airship, now retired in Balnor. He gives the party Finnean's exact address. He offers his name freely, and closes with: *"Take me along for the ride, if you go. It sounds like an adventure."*
+
+*Finnean Barnatheses* is 228 years old — ancient even by gnomish standards — and always happy to talk about airships. He will hear the party out and initially dismiss the idea as preposterous, then catch himself, and begin thinking it through, pulling books from the shelves and digging into old schematics. He had a similar idea once.
+
+A mention of Ala by name ends his ambivalence entirely. He will stop mid-thought. A tear will come to his eye. He remembers meeting someone like that once — just after his first successful test flight.
+
+Finnean's commitment provides two things: the technical knowledge that makes the crossing survivable, and social cover — his celebrity status within the Unity makes him beyond reproach, and his visible involvement with the party provides a measure of protection in what is now a very nervous capital city.
+
+During whatever preparation is underway, a party member who looks up to the observation platform may see Ala waving down at them.
+
+*The crossing.* With Finnean directing, the party can make the Middle Sea crossing — but only barely. Every margin is tight. If Ala is aboard, the journey proceeds without difficulty. He approaches Finnean at some point, claps him on the shoulder, and tells him how excited he is for their next adventure together. The crossing takes approximately three weeks.
+
+Before departing for the spirit world, Ala will suggest to Finnean that he stay in the Isles. He is happy in a new place, and he and Finnean still have a great deal to teach people.
+
+*Arrival.* The appearance of an airship over the Archipelago is a generational event. Everyone in the region will flock to Heida to watch the approach. The party will be celebrated throughout the islands for the fact of the arrival itself — not yet for what they did in the Unity, which most people do not yet understand.
+
+*Finnean in the Isles.* He stays, needing little convincing. He feels his usefulness in the Unity has run its course, though he still believes sincerely in its founding ideals and will serve as an informal goodwill ambassador if the occasion arises. He settles in Heida and establishes a collective focused on building airships of their own design. The collective produces its first working model within a year. If the party has an existing relationship with Beldwin Stonefinger, the two will meet while Beldwin studies the Unity airship and immediately establish a working partnership — airships produced in the Isles will incorporate both technological and magical elements that neither man could have achieved alone.
+
+---
+
+## Arriving Home
+
+Whether the party arrives by sea, by spirit transit, or by airship, several standing threads activate on landfall.
+
+**The Oracle.** If the party does not seek her out within two days of arrival, she seeks them. If the party makes landfall at Dremma, Malchite approaches within a few hours to escort them. If they arrive at Heida, Vinna Maar makes the same offer. Both will accommodate reasonable rest time before arranging the meeting.
+
+If the party has not communed with Hope since Huma was freed, the oracle recommends they do so as soon as possible — her ritual space is available. Hope will note, during this meeting, that the party should also commune with Revna if they have not already done so.
+
+**The Eightfold Path.** The Path's headquarters is in Dremma. Varley Rathmandantus will grant an immediate meeting. He will be extremely grateful: the device intelligence has generated a substantial body of data his people are still processing. If the party raises complications they encountered with the device, he will ask them to overlook the "unforeseen variables" in light of their positively developing relationship.
+
+If the party presses the issue rather than accepting this framing: they find themselves teleported outside the guildhall. The relationship with the Eightfold Path is at an end.
+
+If the relationship holds: Varley asks extensive questions about what they found in the Unity. He informs them his Heida contact is Bix Harbaugh. He also informs them that the Path's crafting services — not generally available to the public — are now at the party's disposal: magic items crafted by Path artificers at a 20% cost reduction.
+
+**The Arcane Practitioners Association.** If the party approaches Beldwin, he meets with them immediately. The original agreement requires at least three pieces of actionable intelligence. Qualifying items include: schematics for any public works project, airship or locomotive schematics, or comparable technical documentation. Technical notes recovered from the Citadel's archives count double toward this threshold.
+
+If the party brought the stolen airship back: Beldwin's reaction is significant — visibly, uncharacteristically excited. Allowing him to study it for two weeks fulfills the agreement regardless of any other intelligence recovered. He states with confidence that he can replicate it.
+
+If the terms are met: Beldwin puts his associates to work on the party's commissioned items immediately. Delivery takes approximately one week; Beldwin delivers personally. Going forward, the party may commission additional custom items from the Association at a 20% discount. Custom item rules:
+
+1. A custom weapon or armor of +3 or less. For every reduction of +1 from the maximum bonus, the item may instead reproduce the effects of a level 0–2 spell. Such items have 10 charges and restore 1d4 charges each day.
+2. A custom item that reproduces the effects of a spell of up to 3rd level. Same 10-charge, 1d4-restoration parameters; spell level equals charges used.
+3. A custom item that reproduces the effects of any three common magic items, or any two uncommon magic items. 12 charges; a common effect uses 1 charge, an uncommon effect uses 2. The item restores 1d4 charges each day.
+
+**The Oracle's Debriefing.** The full debrief session takes the better part of a day. The same advisors who attended the Act I council meeting are present: Belladonna, Vinna Maar, Morning Wren, and Tarak Maal. They question the party in depth and ask extensive follow-up questions. This is a full social encounter and should be played for its full weight — the party has returned from somewhere no one else has gone, and the people in this room understand what that means.
+
+At the close of the debriefing, the oracle announces she has called a full meeting of the Council. The date is set for two weeks from today. She asks the party to prepare a formal report. She would like to meet with them beforehand to review what they plan to say; the advisors present will be available at that preparation meeting as well.
+
+*This meeting ends the interlude. Act IV begins with the two-week downtime period and the Council meeting.*
+
+---
+
+## Act III–IV Interlude NPC Summary
+
+| NPC | Role | Notes |
+|---|---|---|
+| Hope | Spirit transit; boons if Huma freed cleanly | Social only |
+| Placida | Spirit transit if Maritas not freed | Social only |
+| Revna | Spirit transit (full crossing); boons if Maritas freed | Social only |
+| Maritas | Full crossing; refuses transport | Social only; freed only |
+| Ala | Air spirit; identifies Finnean Barnatheses | Social only; Balnor aerodrome |
+| Finnean Barnatheses | Original airship inventor; enables Middle Sea crossing; settles in Isles | Social only; 228-year-old gnome |
+| Varley Rathmandantus | Eightfold Path leader; device debrief; crafting access | Social only |
+| Beldwin Stonefinger | APA; intelligence exchange; custom items | Social only |
+| Oracle | Seeks out party; ritual space; announces Council meeting | Social only |
+
+---
+
 # APPENDIX B: NPC STAT BLOCKS
 
 ## Lady Vigo *(Chapter 1)*
@@ -4074,4 +4617,228 @@ He does not fight unless the situation demands it. If it does, he moves to cover
 #### Reactions
 
 ***Uncanny Dodge.*** When Thrumblecastle is hit by an attack he can see, he can use his reaction to halve the attack's damage.
+
+---
+
+## Irena Doss *(Chapter 13)*
+
+Senior Cabal tactical operative. Zone 3 field commander. She has operated in the Unity's most sensitive installations for over a decade. She knows the chamber's systems and uses them as combat tools. She speaks in defeat without apology.
+
+*Medium humanoid (human), lawful neutral*
+
+**Armor Class** 18 (plate) | **Hit Points** 97 (13d8 + 39) | **Speed** 30 ft.
+
+| STR | DEX | CON | INT | WIS | CHA |
+|-----|-----|-----|-----|-----|-----|
+| 18 (+4) | 12 (+1) | 16 (+3) | 14 (+2) | 13 (+1) | 12 (+1) |
+
+**Saving Throws** Str +7, Con +6
+**Skills** Athletics +7, Insight +4, Intimidation +4, Perception +4
+**Senses** passive Perception 14
+**Languages** Common
+**Challenge** 7 (2,900 XP)
+
+---
+
+**Indomitable (2/Day).** Irena can reroll a saving throw she fails. She must use the new roll.
+
+**Systems Control.** Irena has extensive knowledge of the chamber's mechanical systems. Once on each of her turns, she can activate one prepared hazard as a bonus action: triggering the electrical discharge in one floor section, initiating the partial flood (if unused), or sealing one pressure door.
+
+#### Actions
+
+**Multiattack.** Irena makes three longsword attacks.
+
+**Longsword.** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8 (1d8 + 4) slashing damage, or 9 (1d10 + 4) if used two-handed.
+
+**Rallying Command (Recharges after a Short or Long Rest).** Each Cabal operative Irena can see within 30 feet may immediately move up to half their speed without provoking opportunity attacks.
+
+#### Reactions
+
+**Parry.** Irena adds 3 to her AC against one melee attack that would hit her. She must see the attacker and be wielding a melee weapon.
+
+*Irena does not attempt to escape this room. She accepts defeat as a professional consequence.*
+
+---
+
+## Calder Mun *(Chapter 13)*
+
+Cabal arcane operative. Stationed in Jindark for four years. He understands the chamber's containment mechanics better than anyone outside the Cabal's engineering division and has integrated that knowledge into his combat approach. He uses the chamber's electrical systems as an extension of his own spellcasting.
+
+*Medium humanoid (human), lawful neutral*
+
+**Armor Class** 14 (Mage Armor) | **Hit Points** 58 (13d8) | **Speed** 30 ft.
+
+| STR | DEX | CON | INT | WIS | CHA |
+|-----|-----|-----|-----|-----|-----|
+| 9 (-1) | 14 (+2) | 10 (+0) | 18 (+4) | 13 (+1) | 11 (+0) |
+
+**Saving Throws** Int +7, Wis +4
+**Skills** Arcana +7, Investigation +7, Perception +4
+**Senses** passive Perception 14
+**Languages** Common, two additional
+**Challenge** 6 (2,300 XP)
+
+---
+
+**Spellcasting.** Calder is a 12th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). He has the following spells prepared:
+
+Cantrips: *fire bolt*, *shocking grasp*, *mage hand*
+1st level (4 slots): *mage armor*, *magic missile*, *shield*
+2nd level (3 slots): *misty step*, *scorching ray*
+3rd level (3 slots): *counterspell*, *lightning bolt*
+4th level (3 slots): *banishment*, *greater invisibility*
+5th level (2 slots): *wall of force*
+6th level (1 slot): *chain lightning*
+
+**Discharge Attunement.** As a bonus action, Calder can trigger the chamber's electrical discharge in one floor section without using the control panel — this does not require Irena's Systems Control trait.
+
+#### Actions
+
+**Multiattack.** Calder casts one spell and makes one *shocking grasp* attack, or makes two *fire bolt* attacks.
+
+**Fire Bolt.** *Ranged Spell Attack:* +7 to hit, range 120 ft., one target. *Hit:* 11 (2d10) fire damage.
+
+**Shocking Grasp.** *Melee Spell Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 9 (2d8) lightning damage; target cannot take reactions until the start of its next turn.
+
+---
+
+## Tor Veskin *(Chapter 13)*
+
+Cabal martial operative. Zone 3's physical enforcer. He knows the chamber's layout precisely and uses it to compress the fighting space against opponents — toward walls, toward sealed doors, toward the turbine passages.
+
+*Medium humanoid (human), lawful neutral*
+
+**Armor Class** 17 (splint mail) | **Hit Points** 82 (11d8 + 33) | **Speed** 30 ft.
+
+| STR | DEX | CON | INT | WIS | CHA |
+|-----|-----|-----|-----|-----|-----|
+| 19 (+4) | 10 (+0) | 16 (+3) | 10 (+0) | 11 (+0) | 9 (-1) |
+
+**Saving Throws** Str +7, Con +6
+**Skills** Athletics +7, Perception +3
+**Senses** passive Perception 13
+**Languages** Common
+**Challenge** 5 (1,800 XP)
+
+---
+
+**Pressure Advance.** When Tor hits a creature with a melee attack, he can force the target to make a DC 15 Strength saving throw. On a failure, the target is pushed 5 feet directly away from Tor. If this movement would push the target into a wall or a sealed pressure door, the push fails but the target takes 7 (2d6) bludgeoning damage and is knocked prone instead.
+
+**Brutal Critical.** When Tor scores a critical hit with a melee weapon attack, he rolls one additional damage die.
+
+#### Actions
+
+**Multiattack.** Tor makes two greatsword attacks.
+
+**Greatsword.** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 11 (2d6 + 4) slashing damage.
+
+#### Reactions
+
+**Hold the Line.** When a creature within 5 feet of Tor moves away from him without taking the Disengage action, Tor can make one opportunity attack against it with advantage.
+
+---
+
+## Circe Lovelace *(Optional Interlude: Assault on the Citadel)*
+
+Cabal regional leader and original founder. An Oath of Devotion Paladin whose devotion is not to a deity but to the Unity itself — elevated to the level of a sacred cause. She is short, serious, dark-skinned, with close-cropped hair. She does not make speeches. She makes arguments, and her arguments are the product of a lifetime spent doing things she knew were monstrous and doing them anyway.
+
+She fights to buy time for the archive. She escapes.
+
+*Medium humanoid (human), lawful neutral*
+
+**Armor Class** 20 (plate, shield) | **Hit Points** 152 (16d8 + 80) | **Speed** 30 ft.
+
+| STR | DEX | CON | INT | WIS | CHA |
+|-----|-----|-----|-----|-----|-----|
+| 18 (+4) | 10 (+0) | 20 (+5) | 14 (+2) | 16 (+3) | 18 (+4) |
+
+**Saving Throws** Wis +8, Cha +9
+**Skills** Athletics +9, Insight +8, Intimidation +9, Persuasion +9
+**Senses** passive Perception 13
+**Languages** Common, two additional
+**Challenge** 9 (5,000 XP)
+
+---
+
+**Aura of Protection.** While Circe is conscious, allied creatures within 10 feet of her add +4 to all saving throws.
+
+**Aura of Courage.** While Circe is conscious, allied creatures within 10 feet of her cannot be frightened.
+
+**Indomitable (2/Day).** Circe can reroll a saving throw she fails. She must use the new roll.
+
+**Spellcasting.** Circe is a 13th-level spellcaster. Her spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). She has the following paladin spells prepared:
+
+1st level (4 slots): *bless*, *command*, *protection from evil and good*, *shield of faith*
+2nd level (3 slots): *lesser restoration*, *zone of truth*
+3rd level (3 slots): *beacon of hope*, *dispel magic*, *protection from energy*
+4th level (1 slot): *freedom of movement*
+
+**Divine Smite.** When Circe hits with a melee weapon attack, she can expend a spell slot to deal additional radiant damage: 2d8 for a 1st-level slot, +1d8 per slot level above 1st (maximum 5d8). She will use this against the party's most durable member.
+
+#### Actions
+
+**Multiattack.** Circe makes two longsword attacks.
+
+**Longsword.** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 8 (1d8 + 4) slashing damage plus 9 (2d8) radiant damage, or 9 (1d10 + 4) slashing damage plus 9 (2d8) radiant damage if used two-handed.
+
+**Destroy Archive (Action).** Circe destroys one archive section (A, B, C, or D). She will prioritize Section A (the Carnuth warning) first, then Section C (personnel roster), then D, then B.
+
+#### Bonus Action
+
+**Sacred Weapon (1/Minute).** Circe adds +4 to her weapon attack rolls for 1 minute. The weapon sheds bright light 20 ft., dim light 20 ft. further.
+
+**Tactical Misty Step (1/Short or Long Rest).** Circe casts *misty step* without using a spell slot. She uses this exclusively to clear melee range when activating her escape protocol.
+
+#### Reactions
+
+**Parry.** Circe adds 3 to her AC against one melee attack that would hit her. She must see the attacker and be wielding a melee weapon.
+
+---
+
+**Escape Protocol.** When Circe is reduced to 50 HP or fewer, or when her last lieutenant falls (whichever comes first), she uses her bonus action to cast *misty step* (clearing any melee grapples) and then activates a prepared *Scroll of Word of Recall* as her action. The scroll is sanctified to a location outside the Unity's core territory, prepared years in advance. She cannot be prevented from escaping unless the party counterspells the Word of Recall AND physically restrains her after the Misty Step. The DM's intent is that she escapes. She will be encountered again in Act IV.
+
+---
+
+## Maritas Boons *(Chapter 11)*
+
+Granted when Maritas is freed at the Congress theatre in Chapter 11. Each party member who receives a boon selects one of the following. The selection is permanent.
+
+**Might.**
+Once per day, when you fail a Strength check or Strength saving throw, you may reroll it and take the higher result.
+
+**Secret of Steel.**
+Once per turn, when you reduce a creature to 0 hit points with a melee weapon attack, you gain 2d6 temporary hit points.
+
+**Retribution.**
+Once per short rest, when a creature within 5 feet hits you with a melee attack, you may use your reaction to make one melee weapon attack against it.
+
+---
+
+## Hope's Boons *(Act III–IV Interlude)*
+
+Granted by Hope when the party communes with her, if Huma was freed with minimal loss of life. Each party member selects one of the following. The selection is permanent. All boons are innate abilities — no spell slots, no material components required. Concentration requirements of the base spell do not apply unless noted.
+
+**Spirit Balm.**
+Once per day, you may cast *prayer of healing* as a 3rd-level spell. Casting time is 10 minutes.
+
+**Word of Hope.**
+Once per day, you may cast *beacon of hope*. The effect lasts 1 minute and does not require concentration.
+
+**Clarity.**
+Once per day, you may cast *heroism* as a 3rd-level spell, affecting up to 3 creatures of your choice. The effect lasts 1 minute and does not require concentration.
+
+---
+
+## Revna's Boons *(Act III–IV Interlude)*
+
+Granted by Revna when the party communes with her, if Maritas was freed. Each party member selects one of the following. The selection is permanent. All boons are innate abilities — no spell slots, no material components required.
+
+**Retributive Strike.**
+Three times per day, when you hit a creature with a melee weapon attack, you may expend one use to deal an additional 2d6 thunder damage. The target must succeed on a DC 14 Strength saving throw or be pushed 10 feet directly away from you.
+
+**Unshackling.**
+Once per day, you may cast *freedom of movement* on yourself. The effect lasts 1 hour.
+
+**Inciting Word.**
+Twice per day, you may cast *crown of madness* (spell save DC 14).
 

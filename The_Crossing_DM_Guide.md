@@ -1030,7 +1030,7 @@ A hobgoblin of significant military competence who serves as Kalameris's primary
 
 ---
 
-### Sima
+### Sima (Witch of the Six Stones)
 *Tall, broad-shouldered half-elf; Carnuth's chief witch*
 
 A half-elf man with a short grey beard and the physical presence of someone who has spent decades in physical country. He lives in a coastal village approximately fifty miles south of Tikatowa and serves as Carnuth's primary mortal representative — chief among the Old God's witches. He evaluates the party slowly and speaks carefully. He has tasks he will put to the party before he shares Carnuth's location, and at least one must be completed before he will trust them with it.
@@ -4434,6 +4434,845 @@ At the close of the debriefing, the oracle announces she has called a full meeti
 | Oracle | Seeks out party; ritual space; announces Council meeting | Social only |
 
 ---
+# ACT IV: REBELLION
+
+*Levels 11–16*
+
+The party returns to the Archipelago as people who have done something that no one here fully understands yet. The Council will ask them to explain it. What they say, and how they say it, will determine what the Isles does with the answer — and the Old Gods in the east are not waiting on the Archipelago's deliberations.
+
+Act IV is the campaign's turn from operation to consequence. The party moves from operatives to voices: people whose account of events carries institutional weight, whose relationships with the factions now become the Isles' relationships with the east, and whose decisions about how much to say and what to ask for will shape the campaign's final arc. The chapter that opens here is social, but its stakes are as structural as anything that preceded it.
+
+**Act IV Chapters:**
+- Chapter 15: Unfinished Business
+- Chapter 16: The New Front
+- *(Optional Interlude: A Fine Shindig)*
+- Chapter 17: Of Gods and Men
+- Chapter 18: Death Comes for the Old Gods
+
+---
+
+# Chapter 15: Unfinished Business *(Level 11 → Level 12)*
+
+## Chapter Summary
+
+Act IV opens not with action but with reckoning. The party has returned from the Unity; the Archipelago is responding to what they did. Before formal downtime begins, three unresolved threads demand resolution: Urdo Vhane receives their military intelligence and the long-deferred question of the Avengers' patron may finally surface; Morning Wren asks what nature spirits they encountered in the Unity; and Belladonna, if conditions are met, extends an invitation to the Hidden Vale for an initiation that runs through the first night of downtime.
+
+A fourteen-day period follows — the campaign's longest unstructured stretch — structured around faction encounters, personal connections, and the commissioned items and alliances the party wants to carry into what comes next. The chapter builds to the full Council session: every faction leader on the Isles in one room, the party giving a formal account of what they found, and the Oracle's pronouncement at the session's close. Harmony — the spirit of Cooperation — is calling, and she will accept only a single offering: the unified voice of the assembled factions, speaking through the party. The chapter closes when the Communing ritual completes.
+
+**Level 12 milestone.** Fires when Harmony accepts the offering and the Communing ritual completes.
+
+*Characters appearing: Urdo Vhane, Morning Wren, Belladonna, the Oracle, Vinna Maar, Tarak Maal, all named faction leaders, Cassiel (Troubadours). Harmony appears at the chapter's close.*
+*New characters introduced: Kamena (halfling, Concordat leader; session facilitator); Cassiel (Troubadours); Harmony (belief-spirit).*
+
+---
+
+### Scene 1: Three Threads
+
+*The Oracle debriefing has concluded. The party stands somewhere between exhausted and famous — the Isles is already responding to their return, and the network of people who have been waiting for them to come back is beginning to make itself known. Before the official start of downtime, three conversations need to happen.*
+
+**Order and timing:** The three NPCs approach on their own initiative. The DM may run them sequentially, interleaved, or across the same afternoon as separate brief encounters. None require a dedicated scene; all three should be complete before the next morning.
+
+---
+
+**Urdo Vhane (Avengers)**
+
+Vhane approaches before the party leaves Sanctuary, alone and without ceremony. His manner is cautious but hopeful — the manner of someone who provided a significant resource to people he had no leverage over and is now finding out whether it mattered.
+
+He asks, specifically, whether the item proved useful. If the Srivvner's Vial came into the party's possession, he can confirm these items are produced by his sect; that the demon receives something in exchange for its service — typically access to a specific spellbook, a particular item, or knowledge that improves its standing. He will not elaborate on the specifics of the arrangement.
+
+He will accept any military intelligence the party brings back and ask detailed follow-up questions: how Unity armed forces are organized, how they are equipped, what direct encounters the party had with them. Intelligence that satisfies: names of military units stationed in the capital; details on armament and outfitting; a Unity-produced firearm; one of the arcane collars. Intelligence documents recovered from the Citadel's archives satisfy the requirement entirely, without enumeration. **At least three specific, substantive pieces are required** — general impressions do not count.
+
+If satisfied: the party's standing with the Avengers improves significantly. Vhane thanks them with evident sincerity and tells them he will deliver a personal gift at the Council meeting — a magic item tailored to each member of the party. He means this. *The DM should prepare these items ahead of the Council session. Thoughtful, personalized selections that reflect what each party member has done and what they might need. These are a significant reward and should feel like it.*
+
+**The Stranger thread.** If the party has learned the truth — that the Avengers' patron is not a fiend but the Stranger, the oldest belief-spirit of death, whose goal is a mass death event that would give him extraordinary power — and can present this convincingly, Vhane's reaction is controlled and unmistakable. He does not acknowledge being surprised. He goes quiet. He asks, in a carefully neutral tone, how they came to know this. He listens without comment.
+
+If the evidence is compelling: he thanks them, ends the meeting politely, and begins the long work of deciding what to do with what they have told him. He will not discuss it further at this meeting. What happens next — whether the Avengers faction begins to fracture, whether Vhane becomes a quiet ally, whether the faction's standing changes — should be played out during the fourteen days of downtime or addressed in Chapter 16, depending on the campaign's pacing needs. *If this thread resolves positively (Vhane concludes the party is right and acts on it), his gift at the Council meeting reflects it — something personal, given by someone who understands the weight of what the party did.*
+
+---
+
+**Morning Wren (Greensingers)**
+
+Morning Wren approaches after the Oracle meeting. She is shy about the approach itself — she knows the party has just spent several hours in a formal debrief and she does not want to intrude — but she is clearly waiting for a moment to ask.
+
+She wants to know whether the party made contact with any minor nature spirits during their time in the Unity.
+
+If the party can describe substantive contact with three or more nature spirits, her manner shifts. The shyness gives way to something faster and more focused. She has questions about every spirit they encountered: the circumstances of contact, what each spirit was like, how they communicated, what the party did or said. She is not interrogating — she is brimming.
+
+If the party has nothing meaningful to report, she is disappointed but will not press.
+
+**Three or more spirits:** Standing with the Greensingers improves. Morning Wren thanks them — genuinely, not formally — and tells them she will see to it that their effort is recognized. At the Council meeting, she presents the party with a minor artifact on behalf of her faction.
+
+**The Palm of the Sanctified Court.** A small wooden token, roughly palm-sized, featuring a carved palm leaf on either face. If a party member examines it closely, they will notice the two leaves are not mirror images — they are the same leaf, carved twice, from memory.
+
+*Mechanics:* When placed on open ground outdoors, the terrain within a 60-foot radius shapes itself into a naturally protected campsite. Natural light within this space is not visible from outside it. Any creature outside attempting to approach has **disadvantage on Perception checks** to notice those inside and **disadvantage on Stealth checks** to enter undetected; those inside have **advantage on Perception checks** to spot outside creatures looking in or approaching. The token is attuned to a single bearer; the party shares its benefits while the court is deployed. When deploying, the bearer designates which outside creatures are exempt from the approach penalties — allies only, not enemies. Resting within the court is always comfortable regardless of external conditions; occupants are protected from damage from extreme weather, severe cold or heat, and similar environmental effects. The token may be deployed any number of times; effects end when the bearer picks it up.
+
+---
+
+**Belladonna (Hidden Vale)**
+
+Belladonna approaches as well. Her manner is direct but not pushy — she has something specific to offer and she would like to offer it cleanly.
+
+**Prerequisites for the offer:**
+- A positive encounter with Belladonna in Act I (patient and respectful treatment, not dismissal or condescension) OR at least one party member belongs to the Guardians of the Hidden Vale
+- In Act II, the party agreed to share details of the Summoning ritual when she asked
+
+If both conditions are met: Belladonna tells the party she would like to take them to the Hidden Vale and initiate them into the order. She explains very little about what the ceremony involves, other than that it begins at dusk and runs through to dawn, and that the party will need to give it their full attention for the night.
+
+If either condition is not met, or if the party declines: Belladonna engages the party normally as an advisor and faction leader. No ceremony.
+
+---
+
+### Scene 2: The Hidden Vale Initiation *(Optional)*
+
+*Trigger: Belladonna's prerequisites met and party accepts. Begins at dusk the evening the Oracle debriefing concludes. Runs through to dawn. This is the first night of downtime.*
+
+**Getting there:** The Guardians use a teleportation circle; the Vale's location is guarded. Belladonna leads the party from Sanctuary at dusk. They arrive at the head of the Hidden Vale — a long, sheltered valley approximately fifty miles north-northeast of Keshigo — as the light fails. Other sect members are already assembled and waiting.
+
+**The Vale:** A real location in the Sacred Lands. A river runs through it; parts are densely wooded, others open into clearings and glens. Seven sites within are sacred to the sect. These sites are not marked or visible to outsiders; members know the path by memory.
+
+**Structure.** Between each site, initiates are blindfolded and led by sect members. During each passage, one sect member tells a traditional story — passed down through oral tradition, known by every full member. These stories are designed to be listened to carefully: the answers to the ritual questions at the next site are embedded in the story that precedes it.
+
+When the group arrives at each site, blindfolds are removed. An exemplar — a sect member in ritual costume and mask, representing the spirit of that place — is waiting. The exemplar asks three questions. A single initiate is expected to answer each one; answers are drawn from the preceding story. The exemplar does not coach, prompt, or repeat the question.
+
+*If no party member can answer a question:* The exemplar remains silent, then allows the group to pass. The site's virtue was not received. There is no mechanical consequence, but the sect members take note.
+
+---
+
+**The Seven Sites**
+
+*The DM reads each story aloud as the party moves between sites — delivered in character as the sect member guiding the group. Stories are brief. Read them at an unhurried pace.*
+
+---
+
+**Passage to The Gateway.**
+
+> *Before the path begins, there must be a first step. The founder of the order stood at the edge of this valley and looked out at it for a long time before beginning. When asked later what she was waiting for, she said: nothing. She was not waiting. She was beginning. The difference between waiting and beginning is that one of them moves.*
+>
+> *She had come from a long way away and did not know the valley was here. She had no map. She had a promise she had made to herself — that if she ever found a place worth keeping, she would return and tell others. She could not set the promise down. That was the only reason she came back.*
+>
+> *When she found the valley, she did not find the valley. She found the path to it. The valley revealed itself only after three more days of following that path, one step at a time, without certainty that anything was coming.*
+
+**The Gateway** — *a stone arch at the head of the valley, old enough that its origin is unknown.* Virtue: **Determination.**
+
+The exemplar asks:
+
+1. *"What was the founder waiting for at the beginning of the path?"*
+   — Answer: Nothing. She was not waiting; she was beginning.
+
+2. *"What was the thing she could not set down?"*
+   — Answer: A promise — the one she had made to herself.
+
+3. *"What did she find when she found the valley?"*
+   — Answer: Not the valley. The path to it.
+
+---
+
+**Passage to The Old Giants.**
+
+> *Three members of the earliest sect knew they were dying. They were old, and they had been the ones who kept the records — the ones who knew every path through the vale, every name, every history that had not yet been written down. When they were gone, those things would be gone too. This was not something they could prevent by living longer.*
+>
+> *They came to the council of the sect and said: give us names that will outlast us. Not our names — those belonged to them and would die with them. New names. Names that could be passed on. The council gave them three names, and those three names became three roles that the sect has maintained for every generation since.*
+>
+> *They did not become the pillars you will see. The pillars were already there. But the three chose to be buried at the base of each one, so that when those who came after stood among them, they would be standing among their predecessors. They do not ask to be remembered by name. They ask only to be remembered as watching.*
+
+**The Old Giants** — *three tall rock pillars in a hidden glen, each with a small flat stone at its base.* Virtue: **Devotion.**
+
+The exemplar asks:
+
+1. *"What did the three give up first?"*
+   — Answer: Their names — they asked for new ones that could be passed on after them.
+
+2. *"What is it that the Old Giants ask of those who pass by them?"*
+   — Answer: Nothing. Only to be remembered as watching.
+
+3. *"Where are the three now?"*
+   — Answer: At the base of each pillar — they chose to be buried there.
+
+---
+
+**Passage to The Mighty Oaks.**
+
+> *Five oaks grew from one acorn. This is not a story — it is a fact of the vale that the sect knows but does not explain. Roots connect all five below the ground; from above, they appear to be separate trees growing in separate directions.*
+>
+> *A lightning strike took one of them in the third generation of the sect's presence here. The remaining four are still alive. When the struck tree fell, they did not follow — the roots held. The three that were not struck did not reach toward the fallen one. They continued growing in their own directions.*
+>
+> *A sect member in that generation wrote: the roots did not save the fallen oak. They held the four. This is what roots are for.*
+
+**The Mighty Oaks** — *five towering ancient oaks deep in a wood; one is a massive fallen trunk, still rooted.* Virtue: **Integrity.**
+
+The exemplar asks:
+
+1. *"What connected the five oaks to each other?"*
+   — Answer: Their roots — below the ground, unseen.
+
+2. *"What happened when the fifth fell?"*
+   — Answer: The other four held. They did not follow.
+
+3. *"What are roots for?"*
+   — Answer: Not to save the fallen. To hold the rest.
+
+---
+
+**Passage to The Crystal Cavern.**
+
+> *A traveler came to a cave during a storm. It seemed to offer shelter. Inside, every wall was made of crystal that had grown over centuries, and every wall showed the traveler their own reflection — but each reflection was different. One showed them older. One showed them frightened. One showed them triumphant. One showed them defeated. One showed them as they had been as a child.*
+>
+> *The traveler looked at each reflection for a long time, trying to determine which one was true. None of them were. The traveler understood this gradually, over a full night, and by dawn was sitting with their back to the walls, looking at nothing.*
+>
+> *When the storm ended and they left, they described the experience to a sect member they met on the path. The sect member asked: where were you standing while you were looking at the reflections? The traveler said: in the dark. The sect member said: that was the only true thing in the cave.*
+
+**The Crystal Cavern** — *a cave whose walls are lined with crystals that catch what little light reaches them and multiply it.* Virtue: **Discernment.**
+
+The exemplar asks:
+
+1. *"What was the traveler looking for in the reflections?"*
+   — Answer: The true one.
+
+2. *"Which reflection was true?"*
+   — Answer: None of them.
+
+3. *"What was the only true thing in the cave?"*
+   — Answer: The traveler, standing in the dark.
+
+---
+
+**Passage to The Hidden Path.**
+
+> *There is a passage under the ridge between this valley and the one east of it. It takes approximately three hours to walk in complete darkness. There is no light source along the way and the tunnel does not allow for one — the passage is too low and narrow for a torch to remain upright, and even a torch pressed to the floor will die for lack of air before the halfway point.*
+>
+> *A sect member was lost in the passage for three days. They had been through before; they knew the route. On this crossing, they became convinced at some point that the passage had ended — that there was no more ground ahead and they were standing at a wall of solid rock. They could not feel an opening. They stood there for what they later counted as many hours.*
+>
+> *They moved forward because they had been through before and they believed the path was still there. They could not verify this. They chose to believe it.*
+>
+> *The path was there.*
+
+**The Hidden Path** — *the entrance to a narrow underground passage; low-ceilinged; the other end is not visible from here.* Virtue: **Conviction.**
+
+The exemplar asks:
+
+1. *"What did the sect member use to navigate the passage?"*
+   — Answer: Memory — they had been through before.
+
+2. *"What stopped them in the dark?"*
+   — Answer: The belief that the path had ended.
+
+3. *"What moved them forward?"*
+   — Answer: Their own conviction — the choice to believe the path was still there.
+
+---
+
+**Passage to The Guardian Rock.**
+
+> *The stone in this clearing was not always here. It was moved.*
+>
+> *The original site of the Guardian Rock was at the base of the north face of the ridge — a significant boulder the sect had marked as a place of power and return for three generations. The north face was beginning to show signs of increasing instability: small rock falls, then larger ones, then the kind of cracks that suggest something larger is coming. The sect council debated what to do.*
+>
+> *They moved the rock. It took eleven members three days of continuous effort and improvised equipment. The rock did not ask to be moved. It had no stake in what happened to it. The instability of the north face claimed the original site four years later.*
+>
+> *The question was asked in the generation that did the work: why did we do this? The answer was that it was theirs to protect. That was the whole answer. It was theirs to protect, it could not protect itself, and so they protected it.*
+
+**The Guardian Rock** — *a massive carved boulder in a broad clearing, with decades of carved marks from initiated members visible on its base.* Virtue: **Loyalty.**
+
+The exemplar asks:
+
+1. *"Why was the rock moved?"*
+   — Answer: To protect it — it could not protect itself.
+
+2. *"What did the rock give in return?"*
+   — Answer: Nothing. It had nothing to give.
+
+3. *"Why did the sect move it anyway?"*
+   — Answer: Because it was theirs to protect.
+
+---
+
+**Passage to The Sacred Pool.**
+
+> *The pool shows what stands above it, but only when it is still. A sect member came to the pool in anger — not performing anger, not showing anger to anyone else, but carrying real anger about something real that had happened. They came with a question about what to do. The pool showed them their own face, distorted.*
+>
+> *They came back when they were no longer angry. The pool showed them the trees and the sky and, near dawn, the first stars. They asked their question. The pool did not answer it, because pools do not speak. But the member later wrote that they found the answer on the walk back, in the quiet.*
+>
+> *The pool's only rule, which is not posted anywhere and which is not enforced by anyone: come without urgency.*
+
+**The Sacred Pool** — *a still pond in a silent wood; the water is very clear; the surface perfectly flat.* Virtue: **Discretion.**
+
+The exemplar asks:
+
+1. *"What does the pool show when it is disturbed?"*
+   — Answer: Nothing useful. Distortion.
+
+2. *"What did the sect member have to do to see clearly?"*
+   — Answer: Wait — and be still.
+
+3. *"What is the pool's only rule?"*
+   — Answer: Come without urgency.
+
+---
+
+**The Riverbank**
+
+After the seventh site, blindfolds are not replaced. The group is led out of the wood and down to the riverbank as the night reaches its deepest point.
+
+Before the ceremony continues, a leader is designated from among the initiates. If any party member belongs to the Guardians, that person serves. If not, Belladonna asks for a volunteer; she asks once and accepts the first person who answers.
+
+**Ceremonial death.** The leader lies down on the bank. Sect members cover them completely with a length of cloth. From this point forward, the assembled sect treats the leader as dead — no eye contact, no acknowledgment, no response if the leader speaks or moves. They are, for the ceremony, no longer present.
+
+The remaining initiates are designated as the watch. They hold it until the ceremony ends.
+
+**The corrupted exemplars.** The seven exemplars return in different costumes and masks — still clearly the same seven figures, but altered. The virtues they represented have been inverted: Determination has become Rigidity; Devotion has become Blind Obedience; Integrity has become Self-Righteousness; Discernment has become Paranoia; Conviction has become Closed-Mindedness; Loyalty has become Complicity; Discretion has become Isolation.
+
+Each corrupted exemplar addresses the remaining initiates. They are not hostile. They speak as though making a reasonable case for the corrupted version of the virtue they represent. They are persuasive. That is the point.
+
+**How to run the confrontations:** The DM does not script these exchanges in advance. Each exemplar makes their case briefly and waits. The initiates are not required to refute the argument, make a check, or perform in any formal sense. They are required to engage — to say something that comes from genuine engagement with the argument rather than dismissal or silence. A party member who attempts to ignore or physically interfere with an exemplar will find the exemplar unmoved. What they want is a real response.
+
+*These are sect members, not actual spirits. The ritual has real weight and is treated with absolute seriousness by everyone present. The fey of the vale are watching.*
+
+**Ritual rebirth.** When all seven confrontations have concluded, Belladonna signals the end of the watch. The exemplars return to their original masks — the virtues, not the corruptions. Each offers a closing statement to the initiates. These statements are traditional — the same words spoken at every initiation, in the same order. They are not inspiring speeches. They are clear, simple statements about what the virtue is and what it asks. The DM should deliver them plainly, without performance.
+
+The leader rises.
+
+**Dawn.** Fey of the local vale emerge from the wood as the first light comes. They do not announce themselves; they appear at the treeline, curious and unhurried. They move among the assembled people and acknowledge the new members with brief individual recognitions — a touch, a look, a few words. This is not a formal ceremony. It is more like a gathering that has happened to include something significant.
+
+A feast follows. Sect members who were strangers an hour ago are already talking as though they have known these initiates for years.
+
+**Rewards:**
+- Initiated party members are full members of the Guardians of the Hidden Vale with complete standing
+- Each initiated party member receives a boon from the collective spirits of the Hidden Vale. Each member selects one; the selection is permanent. *(See Hidden Vale Boons below.)*
+- Any initiated party member who wishes to take the Archfey as their Warlock patron may do so. The initiation is the prerequisite; the pact is made separately at the player's discretion and requires a private moment with the fey before the feast ends.
+- **If a party member was already a sect member:** Pamella is present — the sect's reclusive leader, who does not typically travel or appear publicly. After the feast, she asks to speak with the party member privately. The content of that conversation is at the DM's discretion and should reflect what the party has done and what the sect needs from them going forward.
+
+---
+
+### Scene 3: Fourteen Days
+
+*The party has fourteen days before the Council session. The DM should lay out these days in advance, assign spotlight encounters to specific days, and use the remaining time to let the players direct their own downtime activities.*
+
+**The party's fame.** The shape of the party's reputation varies by what they did.
+
+- *Baseline:* They crossed the Middle Sea, entered the Unity, and came back. This alone is sufficient. Most people in the Isles have never met anyone who has been to the Unity firsthand.
+- *The Daliketh rescue:* Survivors and their families are scattered across the Isles and will recognize the party on sight. This adds a personal dimension — not the abstract fame of accomplishment but the specific gratitude of people who know the name of someone who might not have made it out.
+- *The Hidden Vale initiation:* News travels. The Guardians do not publicize initiations, but the Isles are small and people talk.
+- *The airship:* If the party returned by airship, this is the detail that captures popular imagination above all else. People want to see it, touch it, ask questions. The party will need to decide how much access to allow and will manage that decision actively throughout the fourteen days.
+
+**Spotlight structure.** Each player character should receive at minimum two spotlight encounters during the fourteen days — one from the faction encounter options below, and one from either a second faction encounter or a personal connection scene from the character's backstory. Not every encounter needs to be played as a full scene; some can be summarized. The spotlight encounters should be played fully.
+
+**Downtime activities available.** Standard 5e downtime rules apply. The following are particularly appropriate given the party's situation:
+
+- *Crafting magic items:* Both the Arcane Practitioners Association and the Honored Forge will support the party's crafting work — workspace, materials sourcing, access to tools not generally available. The DM may reduce the time required for one item per character by providing skilled assistance.
+- *Scribing spells:* The Eightfold Path provides access to their library at no charge, with no strings attached, if the party is on good terms with them.
+- *Practicing a profession:* A community hungry for entertainment and intellectual exchange will welcome characters with musical, performance, or scholarly backgrounds.
+- *Training:* The Lodge of Perfection offers open enrollment. A party member who trains with them for the full two weeks receives a mechanical benefit at the DM's discretion.
+
+**Faction encounter options:**
+
+*Varley Rathmandantus (Eightfold Path).* Varley meets immediately. The device intelligence has generated a body of data his people are still processing; he is extremely grateful. If the party raises complications with the device — its effects on bystanders, its undisclosed functions — he will ask them to overlook the "unforeseen variables." If the party presses: teleported outside the guildhall; the relationship ends. If the relationship holds: extensive questions about what they found; Heida contact is Bix Harbaugh; Path crafting services at a 20% cost reduction going forward.
+
+*Beldwin Stonefinger (Arcane Practitioners Association).* The agreement requires at least three pieces of actionable intelligence: schematics for public works projects, airship or locomotive schematics, or comparable technical documentation. Citadel archive notes count double toward this threshold. If the party brought the airship back: Beldwin is visibly, uncharacteristically excited. Two weeks of study time fulfills the agreement regardless of other intelligence. If terms are met: associates begin work immediately; delivery in approximately one week. Custom item rules: *(see Act III–IV Interlude for full parameters).*
+
+*Cassiel (Troubadours).* Cassiel is a Troubadour who has been following the Circle's story since before the party left the Isles, gathering accounts from everyone who has had contact with them. They will approach the party during the downtime period and ask for an interview. Cassiel is good at their job: they have already spoken with Kaman, Warebock, several Daliketh practitioners, and at least two of the party's Balnor contacts. Their working title for the piece is *The Circle's Work*. The party's cooperation or lack of it will shape the premiere at the Council feast — a party that gives Cassiel an honest, substantive account will find their story told accurately and well; a party that evades or refuses will find that Cassiel fills the gaps from their other sources, which may produce something more embellished than accurate. Cassiel does not hold grudges.
+
+*Urdo Vhane (Avengers) — Stranger thread follow-up.* If the Stranger thread is live and Vhane has had time to process what the party told him, he will seek a second meeting during the downtime period. This meeting is private, more candid, and more consequential than the first. The DM should develop this thread based on what the party presented and how credible Vhane found it.
+
+*Personal connections.* The DM should encourage each player to identify at least one relationship from their backstory who lives in or has recently arrived at the Isles. These scenes do not need to be structured encounters; they are personal moments that run parallel to the faction structure and should reflect, without commentary, everything the character has been through.
+
+---
+
+### Scene 4: The Pre-Session Meeting
+
+*Day thirteen — the day before the Council session.*
+
+Present: the Oracle, Vinna Maar, Tarak Maal, Belladonna, Morning Wren. The purpose is to ask what the party plans to present and to offer advice.
+
+The Oracle and her advisors hold a consensus position: the work is done. Hope asked something of the Circle, and the Circle did it. The right course is a return to watchful peace — acknowledge the findings, honor the party's service, and resume the careful equilibrium that has sustained the Archipelago for generations. They will advise honest, complete presentation and let the Council reach its own conclusions.
+
+The Oracle is not immovable. Two things will shift her position.
+
+**Carnuth evidence.** If the party recovered archive materials from the Citadel containing notes in Circe Lovelace's hand indicating that the Cabal is developing a plan to permanently eliminate Carnuth, and presses this: the Oracle's certainty falters. She will read the notes. She will be silent for a long moment. When she speaks: she cannot in good conscience advise caution if an Old God whose survival she has been working to protect is being actively hunted. She will support, from the chair, a motion for a fact-finding mission to the Sacred Lands.
+
+**A genuine case for the eastern peoples.** If a party member argues — with real conviction, not strategically — about what the Unity's colonization of the Sacred Lands means for the people living under it, and connects that argument to what the Isles was founded on: the Oracle listens. She may not fully agree. But she will suggest the party contact Hope directly before the session (her ritual space is available) and will not oppose a Council discussion of the Unity's eastern expansion.
+
+If persuaded on either count, the Oracle says so plainly. She will support any consistent motion from the chair — but the argument still needs to be made to the Council. Her support is a signal that it will not be procedurally out of order; it is not a substitute for persuasion.
+
+*The meeting lasts several hours. By its end, the party knows what they are walking into tomorrow.*
+
+---
+
+### Scene 5: The Council Session
+
+*Day fourteen. The full Council of the Archipelago, called to formal session by the Oracle's personal written invitation. Full attendance. This has not happened in over twenty-five years.*
+
+**The room.** A large formal chamber arranged for this purpose — faction banners, specific seating allocations, an official record-keeper. The Oracle sits at one side. Kamena, halfling leader of the Concordat, sits at the facilitator's position. Every other seat is occupied.
+
+**Kamena.** She calls the session to order with minimal ceremony, states the purpose — the party will present their findings; the Council will determine what the people of the Isles will do with them — and yields to the party immediately. She maintains order throughout, calls for the structured phases, and manages time without apparent effort. Her neutrality is genuine.
+
+---
+
+**Opening presentation.**
+
+Kamena calls on the party to present their findings and recount their journey. This is fully roleplayed. The party may present however they choose — in sequence, by topic, divided between members, with or without supporting materials. Faction leaders and observers listen throughout. There will be occasional reactions — applause, murmuring, chairs shifting — but no interruptions until the party concludes.
+
+*The DM should let this run. The party has earned the chance to tell this story in full, and the room is genuinely listening. The quality of the presentation shapes the feeling of the room going into the questioning phase, but is not mechanically adjudicated.*
+
+---
+
+**Questioning phase.**
+
+When the party concludes, Kamena calls on faction leaders in seniority order. Each leader may ask up to three questions. The phase runs several hours in total; the DM summarizes most of it and flags specific questions for direct roleplay. The following ten questions are recommended for full roleplay treatment:
+
+| # | Questioner | Question |
+|---|---|---|
+| 1 | **Urdo Vhane** (Avengers) | *"You entered Unity territory and came back. Do they know about us — the Isles, the networks, the practitioners? Are they already looking?"* |
+| 2 | **Stooping Hawk**, First Voice (Greensingers) | *"You freed a spirit the Unity was holding captive. What was his condition — and were there others?"* |
+| 3 | **Senior Godcaller** | *"The practitioners living under the Unity's suppression — do they still practice? What do they call the powers they serve?"* |
+| 4 | **Senrika**, Speaker (Returned) | *"You walked among ordinary Unity citizens. What do they believe about those who left — about people like us?"* |
+| 5 | **Leo Casma**, Captain-General (Lodge of Perfection) | *"You engaged Unity military forces directly. What is your assessment of their capability — their numbers, their discipline, their willingness to use force against practitioners?"* |
+| 6 | **Pamella** (Guardians of the Hidden Vale) | *"You traveled through lands that border the Sacred Lands. Was there any evidence the Unity is aware of what lies there?"* |
+| 7 | **Varley Rathmandantus** (Eightfold Path) | *"The device we provided — did it function as intended, and what were its limitations under field conditions?"* |
+| 8 | **Seawatch officer** | *"Tell me exactly how you crossed the Middle Sea undetected in both directions. Is it your assessment that the Unity currently believes the crossing is possible?"* |
+| 9 | **Senior member, Path of Virtue** | *"You made decisions in the field where the right course was not apparent. I will not name a specific incident. What was the hardest choice you made — and do you stand by it?"* |
+| 10 | **Shadowed Disciples representative** | *"You found evidence of an organization operating inside the Unity outside official structures — what you call the Cabal. State specifically: what is their objective, and how far have they progressed toward it?"* |
+
+*The DM should develop each faction leader's follow-up questions from what the party actually said in their presentation. The table above provides starting points; the real questioning phase emerges from the interaction between the party's account and each faction's specific interests.*
+
+---
+
+**Break and open floor.**
+
+Kamena calls a brief recess. When the session resumes, she opens the floor to the party. Any member may make additional comments, correct the record, or advance an argument not covered during the initial presentation. Council members may ask follow-up or clarifying questions; the atmosphere is more conversational. There is food and drink. The room is looser.
+
+---
+
+**Faction speeches.**
+
+Each leader is invited to speak for their faction. Those who offered Council resources during the downtime period incorporate those resources into their remarks here.
+
+The tone and direction of this phase depends on whether Maritas was freed during Act III.
+
+*If Maritas was freed:* The prevailing sentiment is toward action. **Urdo Vhane** makes the case plainly: the Unity will eventually move to eliminate any free society of practitioners regardless of how carefully the Isles conducts itself. The only question is when this confrontation comes and on whose terms. **Leo Casma** follows with a sober military assessment: war with the Unity is winnable. He does not minimize what that requires — the Isles would need to devote its entire society to the effort. He is not advocating for war; he is describing what it takes. The room hears the difference and sits with it.
+
+*If Maritas was not freed:* The prevailing sentiment is concern for the Isles' continued viability. **Senrika** notes that the Wayfinders' networks inside the Unity are more exposed now than they were a year ago, and the trend will not reverse — when the Unity identifies them, those networks are finished, along with the Isles' primary means of getting practitioners out and its primary source of eastern intelligence. **Stooping Hawk** speaks about growing discontent among the Isles' native spirits; the Greensingers have been monitoring this for months, and what the party reported about Huma's captivity has deepened the concern significantly. The Unity's willingness to imprison a spirit of Huma's age and power is not a precedent anyone in this room should be comfortable with.
+
+*Both paths:* **Pamella** speaks last. She has been in correspondence with practitioners in the Sacred Lands through channels the Guardians have maintained quietly for years. Her message is direct: several of the Old Gods are already considering an independent intervention. They have not asked the Archipelago for anything. They have not warned anyone. They are simply moving.
+
+---
+
+**The Oracle's pronouncement.**
+
+By the time Pamella finishes, the room has ceased to function as a deliberative body. Multiple conversations run simultaneously at increasing volume. Kamena calls for order twice. No one is listening.
+
+The Oracle rises from her seat at the edge of the room. She does not raise her voice. She does not call for attention. She walks to the center of the chamber and stands there, and the room goes quiet.
+
+She begins to levitate. A halo of pale light forms around her. When she speaks, it is in a voice that is not her own — deeper, less human, carrying the quality of sound coming from a larger space than the room:
+
+> *"The Spirits walk among us. Harmony wishes accord with the Children of the Isles. Should they speak to her with one voice, this will be offering enough to open the way."*
+
+She descends. The voice is gone. She stands where she stood and says nothing more.
+
+---
+
+### Scene 6: The Harmony Puzzle
+
+*The pronouncement is still in the room. The next few minutes matter.*
+
+**What the task is.** Harmony is the spirit of Cooperation. The pronouncement is not a petition or a speech — it is an invitation to a Communing ritual. The offering she requires is not material. It is a unified voice: the agreement of the assembled faction leaders, all of them speaking as one, authorizing the party to speak on the Archipelago's collective behalf when they Cross into Harmony's domain. The agreement itself — every faction leader in the same room consenting together to a single voice — is the gift.
+
+The party must understand this and act on it. The DM does not prompt or explain.
+
+**Timing windows.**
+
+*Immediate action* — within minutes of the pronouncement, while the Oracle is present and every faction leader is still in the room: Any faction leader asked will agree without resistance or negotiation. The unified voice can be secured in minutes.
+
+*Within the same session* — up to approximately half an hour: Conversation fills the room; groups begin to drift. The faction leaders remain. The party will need to explain what they are asking; individual conversations rather than a single request to the room.
+
+*Before the day ends:* The Oracle has indicated she expects the faction leaders to remain available, and they will comply. The party can still secure every agreement; they will need to find each leader individually.
+
+*Delay of more than one day:* After a full week of in-game time with no action, the Oracle summons the party and gives them the answer directly. Faction leaders have dispersed across the Isles. The party must track down and secure the agreement of five specific factions.
+
+**The five factions required (delayed path, Maritas freed):** Avengers, Lodge of Perfection, Greensingers, Guardians of the Hidden Vale, Returned.
+
+**The five factions required (delayed path, Maritas not freed):** Returned, Greensingers, Godcallers, Concordat, Path of Virtue.
+
+In both cases: each faction leader will agree if approached respectfully and if the party can explain, with some coherence, what Harmony is asking and why their agreement is the gift. No check is required for a coherent explanation.
+
+**Spirit consultations.** Some parties will attempt to contact spirits they know before acting. Each response is consistent with the spirit's character.
+
+*Maritas:* Annoyed. He is a spirit of war and has no patience for philosophical riddles. He says so at length. *"I am not here to explain the obvious to you."*
+
+*Revna:* Dismissive. She is not familiar with Harmony and does not think particularly well of a spirit defined by people agreeing with each other. *"If cooperation were a virtue, the Unity would be its finest achievement."*
+
+*Huma:* He has not heard of Harmony but finds the concept genuinely interesting. He speculates thoughtfully about what such a spirit might be like and where she might exist. He has no useful information but is, characteristically, a good listener.
+
+*Hope:* She knows Harmony. She tells the party that Harmony is very private and responds only to a very specific kind of gift — not a material one. She will say nothing more than this. It is enough.
+
+**Performing the Communing ritual.** Once the party has secured the agreement, the ritual is performed. The faction leaders gather and speak together as one, authorizing the party to speak on behalf of the Archipelago. The Crossing begins.
+
+The Crossing leads to Harmony's domain. What the party finds there is the threshold of Chapter 16. *(The chapter closes here.)*
+
+**Level 12 milestone.** Fires when Harmony accepts the offering and the Communing ritual completes. Level 13 fires at the opening of Chapter 16.
+
+---
+
+### Council Feast *(Coda)*
+
+Occurs only if the Communing ritual is performed during the Council session itself or on the following day. If the party delays more than one day, the gathering disperses and the feast does not take place.
+
+The feast is formal in structure and informal in character. All faction leaders and their retinues attend. The Troubadours perform. Cassiel's account of the Circle's journey — accurate, embellished, or somewhere between, depending on how the downtime encounter went — premieres here. The room does not know the full weight of what just happened with Harmony; most people felt something at the Oracle's pronouncement, but the Communing ritual was private. There is a lightness to the evening that coexists with the seriousness of what was set in motion.
+
+The DM should treat the feast as open social roleplay. No structured scenes. Every faction leader is available for informal conversation. Threads from the session — a question answered well or badly, a subject left unaddressed — are available here. This is not the last time the party will see these people; it is the first time they have seen all of them together, in a room that is choosing, together, to be glad.
+
+---
+
+## Chapter 15 NPC Summary
+
+| NPC | Role | Notes |
+|---|---|---|
+| Urdo Vhane | Intelligence debrief; Stranger thread payoff; personal rewards at Council | Social only; human male |
+| Morning Wren | Spirit contact debrief; presents Palm of the Sanctified Court at Council | Social only; see Spirits Reference |
+| Belladonna | Hidden Vale offer; Council pre-session advisor; Council faction speech | Social only; see Spirits Reference |
+| Pamella | Hidden Vale ceremony (if sect member in party); Council faction speech | Social only; rarely appears publicly |
+| The Oracle | Pre-session meeting; Council pronouncement | Social only |
+| Vinna Maar | Pre-session meeting attendee | Social only |
+| Tarak Maal | Pre-session meeting attendee | Social only |
+| Kamena | Council session facilitator; neutral | Social only; halfling female, Concordat leader |
+| Stooping Hawk | Council questioning and faction speech (Greensingers) | Social only |
+| Senrika | Council questioning and faction speech (Returned) | Social only |
+| Leo Casma | Council questioning and faction speech (Lodge of Perfection) | Social only |
+| Varley Rathmandantus | Council questioning (Eightfold Path); downtime faction encounter | Social only |
+| Beldwin Stonefinger | Downtime faction encounter (APA); custom items | Social only |
+| Cassiel | Downtime interview; performs at Council feast | Social only; Troubadour |
+| Harmony | Communing ritual target; chapter close | Belief-spirit; Cross only |
+
+---
+
+# Chapter 16: The New Front *(Level 13 → Level 14)*
+
+## Chapter Summary
+
+The Communing ritual from Chapter 15 leads directly into Harmony's domain — a great hall in chaos that resolves, through patience and attention, into a feast, then a statuary corridor, then an open courtyard where Harmony herself sits. She makes her request: travel to the Sacred Lands, determine what is disrupting the coexistence between the Unity's colonists and the native peoples there, and address it. If the party agrees without prevarication, she grants each member a boon immediately.
+
+Returning, the party reports to the Oracle; the response is immediate. The mission is approved, no debate remains. The planning meeting at the Wayfinders' Lodge in Heida sets operational parameters: support options differ depending on whether Maritas was freed, and the destination is identified as Tikatowa — the Unity's primary colonial hub in the east, layered over sixty-plus years of contested history. A month-long sea voyage follows. The chapter closes when the party takes their first committed step toward one of the three factions defining Act IV's structure.
+
+**Level 13 milestone.** Fires at the chapter's open — when the party enters Harmony's domain, the threshold of Act IV is crossed.
+**Level 14 milestone.** Fires when the party makes first substantive contact with a faction: approaches the Colonial Authority's Field Teams formally, establishes contact with Kalameris's people, or performs the first ritual toward Carnuth.
+
+*Characters appearing: Harmony, the Oracle, Vinna Maar, Malachite, Morning Wren, Watch-Captain Delmar Fel (Maritas freed) or Yasme Stoneheart (Maritas not freed).*
+*New characters introduced: Harmony (belief-spirit, first full encounter); Watch-Captain Delmar Fel (half-elf male, Seawatch); Yasme Stoneheart (dwarf female, Tidecallers). Tikatowa NPCs are social environment rather than individual characters.*
+
+---
+
+### Scene 1: Harmony's Domain
+
+*The Communing ritual completes. The faction leaders' unified voice opens the way. What follows is the Crossing into Harmony's domain.*
+
+**The domain unfolds in three phases.** The party does not receive directions; they navigate by observation and judgment.
+
+---
+
+**Phase 1: The Great Hall**
+
+The party arrives in a medieval great hall crowded with people who appear to be on the verge of open violence. Multiple shifting factions occupy different sections of the room; no apparent leadership; a dispute whose precise nature cannot be determined even after thorough investigation. The argument has the quality of something that has been going on for a very long time.
+
+**What investigation reveals:** The subject of the dispute is unclear regardless of how long the party watches or how many participants they question. The parties seem to be arguing sincerely, but the grounds keep shifting. Each faction is convinced the others are unreasonable. No one is listening.
+
+**What a high-DC Perception check reveals** — DC 17, and it must be made after investigation, not instead of it: liveried servants moving through the chaos with complete professional composure. They are not trying to stop the argument. They are carrying dishes.
+
+---
+
+**Phase 2: The Kitchen**
+
+Following the servants leads through a side passage to a large, well-appointed kitchen where the staff is calmly managing a significant catering operation. The kitchen is warm and efficient; the people in it are focused and pleased with their work. Whatever is happening in the hall is background noise to them.
+
+When the party returns to the hall after visiting the kitchen, it has become a great feast. The same factions are now seated together. Everyone is getting along. The argument appears to have resolved itself while the party was away, and nobody seems to find this remarkable.
+
+The chamberlain, found in the kitchen on the party's second visit, leads them through a long corridor into a statuary hall — figures in various poses, all contending with, helping, or otherwise interacting with each other — and unlocks a set of beautifully carved double doors at its end.
+
+---
+
+**Phase 3: The Courtyard**
+
+An open-air space five stories tall, lined with doorways each marked with a symbol — some recognizable as Isles factions, most unfamiliar. A garden of statues, plants, and works of art fills the space; individuals and groups are engaged in discussion, collaboration, and shared company. The atmosphere is busy and warm.
+
+Harmony is here.
+
+**Harmony.** Middle-aged in appearance, long dark hair, nothing particular about her dress or bearing. Kind but aloof; her attention drifts toward the life around her rather than toward the people she is speaking with. This is not dismissiveness — she is genuinely interested — but she has difficulty keeping a single track. She responds to patient, respectful engagement and becomes harder to reach if approached transactionally or impatiently. She already knows what the party did in the Unity and why they are here.
+
+**Her request.** Travel to the Sacred Lands. Determine what is disrupting the coexistence between the Unity's colonists and the native peoples there. Address it. She is also aware that the Cabal has decided to act against Carnuth, and she considers this a potential catastrophe. She says this without elaboration.
+
+She does not promise anything in exchange. She explains that this is what she is asking for, and waits.
+
+**Agreeing without prevarication.** If the party agrees — without extended negotiation, conditions attached, or demands — she grants each member a boon immediately. Each party member selects one; the selection is permanent. *(See Appendix B: Harmony's Boons.)*
+
+**If the party negotiates or demands terms.** She does not refuse them or become hostile. She listens to what they say, weighs it, and responds in a way that makes clear she found the prevarication notable. She may still send them. The boons are not offered.
+
+**Departure.** Harmony opens the door back herself — the Crossing requires no ritual on the return. As the party passes through, she says something brief: a single observation about what they did, or what they are about to do, or what she finds interesting about them specifically. *The DM should prepare this line for their party. It should feel like something she noticed that no one told her.*
+
+---
+
+### Scene 2: Reporting Back
+
+*Brief. The party returns from Harmony's domain.*
+
+If the Council session is still formally assembled when they return: the party reports to the room. Faction leaders respond with varying degrees of visible reaction, but the Oracle's response is uniform: the mission is approved, the party is dispatched. There is nothing left to argue about.
+
+If the Council has dispersed: the Oracle receives them privately. Same response.
+
+If the Council feast is still underway, the return from Harmony's domain gives the gathering a different texture — something has been decided, and the room knows it without being told. Faction leaders who have something to say to specific party members before they leave will find their moments here.
+
+*The chapter does not linger. The party is moving.*
+
+---
+
+### Scene 3: The Planning Meeting
+
+*Wayfinders' Lodge, Heida. Day following the Council session. Vinna Maar and Malachite lead. Morning Wren is present throughout.*
+
+**The destination.** The group identifies **Tikatowa** as the entry point. It is the Unity's primary naval and administrative hub in the Sacred Lands: a native fishing and trading port of significant size that was, approximately sixty years ago, established as the base of Unity colonial operations in the east — a process that was, by available accounts, mostly peaceful. It is now the largest Unity settlement east of the Middle Sea, the administrative center of the colonial apparatus, and the most logical point of contact for a group arriving from the Isles.
+
+**Morning Wren's contribution.** She has no expertise in routes or logistics and says little during that part of the session. When the conversation turns to what the party can expect on the ground, she offers one piece of advice she considers important enough to interrupt for: the spirits of the Sacred Lands are far more integrated into daily mortal life there than they are in the Isles. The native peoples maintain active relationships with local spirits as a matter of course. Those spirits — unlike the Unity's suppressed belief-spirits — are aware, capable, and present. The party should make a concerted effort to work with them when they arrive. She thinks the spirits of the region may prove a more direct source of aid than anything the Isles can send with them.
+
+**Support options.** Three paths depending on prior choices. The party may combine support options or arrive without formal backup.
+
+*If Maritas was freed:* **Watch-Captain Delmar Fel** (half-elf male, Seawatch) joins the meeting. His faction has begun construction of a covert naval base on an island approximately seventy miles south of Tikatowa, using magical concealment developed in partnership with the Arcane Practitioners Association. He offers the party three things: transportation to the region, a known extraction point if they need to leave quickly, and the possibility of active backup if they find themselves in serious trouble. The initial group for the operation departs in approximately one month.
+
+*If Maritas was not freed:* **Yasme Stoneheart** (dwarf female, Venture-Captain, Tidecallers) joins the meeting. She and her three ships will pose as an independent shipping consortium based out of Keshigo, running cargo between the Isles and Tikatowa — a cover with documented Unity precedent. If the documentation holds up to scrutiny, the consortium will have official standing. Once established, she also intends to run occasional cargo between Tikatowa and Daliketh — rare, dangerous routes that the Wayfinders have wanted for years. Yasme's support is more diffuse than a naval base and harder to detect; it also takes two months or more to establish before it offers reliable backup.
+
+*Independent path (airship):* If the party has the airship, a third option exists. Independent airship companies regularly move cargo between the Unity and Tikatowa and to points inland. Operating as a commercial vessel gives the party flexibility the other options do not provide — at the cost of whatever scrutiny an independent airship attracts at a Unity-administered port.
+
+**The voyage.** However passage is arranged, the journey from the Perfect Isles to Tikatowa is approximately one month by sea. Vinna Maar notes — without elaboration — that the party should make good use of the time.
+
+---
+
+### Scene 4: The Voyage
+
+*One month at sea. East-southeast from the Perfect Isles, skirting the southern edge of the Middle Sea, toward the Sacred Lands.*
+
+This is not a training voyage or a supply run. The DM should establish the ship, the crew, and the daily reality of a month at sea before an operation whose scope the party has only begun to understand. Long silences are appropriate. So is preparation.
+
+**Voyage Encounter Table (d6).** Roll once per week; four rolls over the month. Re-roll duplicates.
+
+| d6 | Encounter |
+|---|---|
+| 1 | **Open Water, Quiet Day** — Nothing happens. The sea is flat, the sky is clear, and the ship moves in silence for hours. Whatever the party does with the time is the scene. |
+| 2 | **A Distant Ship** — Another vessel on the horizon, moving parallel to the party's course. It does not approach. A DC 14 Perception check reveals Unity colors. After an hour it alters course slightly and disappears to the east. Whether it was tracking them or running a standard crossing route is not clear. |
+| 3 | **Weather** — A three-day squall. The ship holds; the party does not. Each party member makes a **DC 12 Constitution saving throw** or suffers one level of exhaustion that persists until they reach landfall. Skilled navigators or weather-workers can influence the ship's performance — DM's discretion on mechanical effects. |
+| 4 | **The Night Watch** — A party member on night watch hears something alongside the hull: not impact, but presence. In the morning, they find a single carved token on the deck — a small fish, made from driftwood, in a style none of them recognize. It was not there when they came aboard. |
+| 5 | **Another Ship, Another Story** — A vessel flying no colors draws alongside, its captain shouting for a parley. Independent traders running eastern routes are unusual enough to find each other interesting. The captain — a gnome woman, cheerful, professionally curious — will trade information for information. She knows Tikatowa well and will share what she knows if she finds the party honest. She also knows a faster entrance to the harbor than the official route and will share it unprompted if the conversation goes well. |
+| 6 | **The First Sight** — Landfall. The coast of the Sacred Lands appears first as a dark line above the horizon, then resolves: forested hills, a long headland, and beyond it, smoke. Not the smoke of a signal fire — the steady, low smoke of a city. Tikatowa is a day's sail ahead. *The DM should note the party's first reaction to this. It will matter later.* |
+
+---
+
+### Scene 5: Arrival at Tikatowa
+
+*The ship enters Tikatowa's harbor. The DM rolls three times on the Tikatowa Encounter Table before the party does anything — these three encounters play out over the party's first hours ashore.*
+
+**The harbor.** The port district has been remade in Unity style: uniform stone construction, posted regulations, a gatehouse where arrivals are logged and travel papers inspected. Behind the gatehouse, the walled government precinct holds the Colonial Authority offices, a garrison, and a Unity magistrate's court. Beyond the port district, the city shifts: a loose mix of architecture and building traditions, familiar in texture to anyone who knows Keshigo, denser and worn with more visible tension. A city wall is under construction along the landward side and is almost complete.
+
+**The city's vocabulary.** The party will quickly learn that the people of Tikatowa have developed their own shorthand for the social divisions among them, drawn from the local hobgoblin dialect. *Shigori* — roughly "us" or "people" — refers to anyone of the Sacred Lands, regardless of race. *Megori* — "outsiders," or more precisely "not-people" — refers to the Unity and those fully aligned with it. These terms are in common use and are not considered rude in most company, though Unity officials dislike them.
+
+**Three broad groups make up the city's population:**
+
+*Unity loyalists:* Those who migrated from the Unity, those present on assignment, and those who grew up in Tikatowa in households strongly shaped by Unity norms. They staff the Colonial Authority and run most major commercial operations in the port district. They identify primarily as Unity citizens stationed far from home.
+
+*Shigori on the fringe:* Members of the many local peoples who live and work within Unity-controlled Tikatowa while maintaining their own traditions. The region's pre-Unity population included dozens of distinct tribes: Elves, humans, half-elves, halflings, Wildlings (goblins), Tantori (hobgoblins), Zatai (bugbears), gnomes, and others. Many work alongside the Unity without integrating into it, participating in the city's economy while maintaining separate social and spiritual lives.
+
+*Everyone else:* The slim majority. Several generations of people living in close quarters and having children together has made the Shigori/Megori divide less clean than either side prefers. This group wants the arrangement to function and resents the forces pulling it toward open conflict. They are not a political bloc and do not organize. They are the city's social center of gravity.
+
+The shantytown growing on the city's outskirts is predominantly Shigori — people priced out of the city proper, pushed out by colonial infrastructure expansion, or displaced from areas where resourcing operations have disrupted traditional land use.
+
+---
+
+### Scene 6: The Initial Investigation
+
+*The party explores Tikatowa. No prescribed sequence; no time limit except the one the party sets for itself.*
+
+**Three centers of gravity.** The broad outlines are not hidden. Anyone willing to spend time outside the port district will encounter Shigori residents with opinions.
+
+**The Colonial Authority** has practical control of the city and is the Unity's instrument on the ground. It contains internal divisions: moderate officials who believe accommodation is both pragmatic and just; hardliners who believe the region can only be stabilized through full integration; those primarily interested in their own advancement. Whatever cover identity the party arrived with requires them to interact with the Authority early. Its **Field Teams** — based out of the Old Armory building in the dock district — handle anything sensitive the Authority cannot assign to a larger force and recruit heavily among people who look useful. Recruiting a group like the party would be considered a coup.
+
+**King Kalameris** has consolidated native resistance across the interior and much of the rural Sacred Lands. He has no visible presence in Tikatowa, but his sympathizers do. Making the right contacts in the right neighborhoods opens a path toward him. Patient, careful work in Shigori-heavy parts of the city will eventually produce enough fragments to point the party the right way.
+
+**Carnuth** is present in a way the other two are not: the land itself carries evidence of what the mining operations are doing to it. A Shigori spirit-speaker, a Greensinger-affiliated traveler, or any party member who can perceive the spirit world will notice that something is wrong with the sacred places inside and near the city. The old tree at the intersection — thin, watchful — is the most visible sign. Following that thread leads toward Carnuth.
+
+**Tikatowa Encounter Table (d10).** Available throughout the party's entire time in the city. The DM may roll or select whenever the party is exploring without a specific objective. Entry 10 works best as a final encounter before the party commits to a faction.
+
+| d10 | Encounter | What It Reveals |
+|---|---|---|
+| 1 | **The Registration Queue** — At the Colonial Authority's citizen services office, a line of people wait to renew residence permits, register employment records, or update contribution status. The queue is mixed but the Shigori take longer. A Tantori woman near the front has been asked to supplement her papers twice. She explains this to no one in particular, in the measured tone of someone who stopped being angry about it some time ago. A Unity clerk emerges, apologizes for the delay, and compliments the queue's patience. The Tantori woman does not respond. | Administrative friction that falls harder on Shigori; normalized inequality |
+| 2 | **The Aftermath** — A section of a Unity supply warehouse near the port has been broken into overnight. Constables and an Authority investigator are taking statements from dock workers. A Unity official tells passersby this is the work of "Kalameris agents" — he says it with practiced fluency, as if reading from a card. A Shigori dock worker who overheard turns away quickly. Insight check: his expression is not fear. It is not surprise either. | Kalameris sympathizers inside the city; the Authority's single explanation for all resistance |
+| 3 | **The Patrol** — A Unity constable and a Shigori auxiliary are on patrol together. The constable is young, correct, and careful. The auxiliary — a half-elf woman — does the actual work: she defuses a dispute between two vendors in rapid Tantori, shares a brief exchange with a gnome stallholder, and summarizes the results for the constable in careful Unity standard. He nods, takes a note, and thanks her. She doesn't watch him go. | The Authority's practical dependence on local knowledge it doesn't officially acknowledge |
+| 4 | **The Stall** — A food stall run by an elderly Zatai woman. A Unity clerk orders the Unity dish; she makes it without comment. A Shigori laborer orders a local dish by its proper name; her expression changes slightly. She makes it and says something in the hobgoblin dialect. He laughs. The clerk asks what she said. She considers for a moment. "I told him it is better today." Insight check: that is not what she said. | The untranslated gap between Shigori and Megori life |
+| 5 | **The Wall** — A section of the city wall under construction, where a mixed crew of Unity engineers and Shigori laborers work in the afternoon heat. The engineers direct; the Shigori do the heavy work. A Tantori man driving a stone cart begins singing something low, and two others nearby pick it up under their breath. A Unity overseer notices, takes a step toward them, thinks better of it, and moves away. The song continues. | Colonial labor dynamics; cultural expression as passive resistance |
+| 6 | **Three Languages** — A family eating outside a street stall. The grandfather speaks in the hobgoblin dialect; the mother answers in Unity standard; the children switch between both without appearing to notice. The father, who appears to be Unity-born, says little but laughs at the same moments as everyone else. The grandfather notices the party watching and nods with unhurried friendliness. | The middle majority; what integration actually looks like on the ground |
+| 7 | **The Shantytown Edge** — At the outer edge of the city, a row of Shigori shelters — canvas, timber, salvage — is visible from the main road. A Unity clerk walks the boundary with a clipboard, measuring something. He is polite, efficient, and not looking at any of the people he passes. A Tantori man sits outside his shelter watching the clerk. He has been watching for a while. He does not speak. He does not move. | Displacement made visible; bureaucratic encroachment without confrontation |
+| 8 | **The Offer** — A Unity businessman approaches the party and asks if they are looking for work. He runs an agricultural processing operation: good wages, regular hours, Unity standard contract. The pitch is practiced and genuinely reasonable. Housing assistance available for those willing to relocate. As he talks, a Shigori woman selling vegetables nearby listens without appearing to. When he leaves, she says to whoever is closest: "That land was my grandmother's." She returns to her work. | Agricultural extraction as transaction; the same ground seen from two sides |
+| 9 | **The Departure** — A notice on the Colonial Authority's public board: a Unity family is leaving; their home is available to registered citizens. A small cluster reads it: a Unity couple making notes, a Shigori family reading with different interest, an older Unity man who knows the departing family shaking his head quietly. The family has been here fourteen years. Their youngest was born here. They are "going home." | The quiet attrition; what "home" means when the Unity defines it |
+| 10 | **The Old Tree** — The party passes an intersection where a very old tree stands in the middle of the road, the paving laid around it rather than through it. Offerings have been left at its base: small cloth parcels, dried flowers, a handful of grain. A Unity maintenance crew working nearby glances at it occasionally but does not approach. Any party member who can perceive the spirit world: the tree has a faint presence attached to it — thin, watchful, like something accustomed to waiting. *(Works best as the final encounter before the party begins committing to a faction.)* | Shigori spirit practice in the open; the Authority's decision not to force the issue; Carnuth's presence — diminished but not gone |
+
+**The three paths open.** By the end of Scene 6 the party has enough information to choose a direction:
+
+- *The Old Armory building, dock district* — for the Colonial Authority path
+- *Shigori neighborhoods and careful conversations* — for the Kalameris path
+- *The spirit world, the old tree, the signs in the land* — for the Carnuth path
+
+*Chapter ends when the party takes their first committed step toward one of the three.*
+
+**Level 14 milestone.** Fires when the party makes first substantive contact with a faction: approaches the Field Teams formally, reaches someone who can put them in contact with Kalameris, or performs the first ritual toward Carnuth.
+
+---
+
+## Chapter 16 NPC Summary
+
+| NPC | Role | Notes |
+|---|---|---|
+| Harmony | Domain sequence; request; boon grants | Belief-spirit; see Spirits Reference |
+| The Oracle | Debrief on return; mission approval | Social only |
+| Vinna Maar | Planning meeting co-lead | Social only |
+| Malachite | Planning meeting co-lead | Social only |
+| Morning Wren | Planning meeting — Sacred Lands spirit advice | Social only |
+| Watch-Captain Delmar Fel | Planning meeting — Seawatch naval base (Maritas freed path) | Social only; half-elf male |
+| Yasme Stoneheart | Planning meeting — Tidecallers shipping cover (Maritas not freed path) | Social only; dwarf female |
+
+---
+
+# Optional Interlude: A Fine Shindig
+
+## Interlude Summary
+
+A formal reception at the governor's residence for a delegation of arriving Unity officials. The party may have an invitation through the Colonial Authority path — completing Field Team Mission 2 qualifies them — or may contrive attendance by other means. What the invitation does not tell them: Circe Lovelace is among the arriving officials.
+
+This interlude is the only reliable path to the documents that detail the Cabal's plan to kill Carnuth. Those papers are in the Ministry building, not at the reception. The reception, with most of the Authority's security relocated to the governor's residence, is the window to retrieve them.
+
+**How it runs.** Two tracks diverge depending on whether the party investigated the arriving delegation before the event. If they identified Circe in advance, they have time to plan a split operation: one group at the reception to maintain cover and manage Circe, another staging the caper at the Ministry building. If they arrive unprepared, Circe identifies them and engineers a private meeting — which is an ambush. Either way, the interlude ends when both the reception and the Ministry building arc have concluded or been abandoned.
+
+**No level milestone fires.** Interludes do not affect leveling.
+
+*Characters introduced: Vicona Praest (Unity Minister of Justice; Kalameris Mission 2 target). Stat block in Appendix B.*
+
+---
+
+### Scene 1: The Invitation and the Window
+
+*Start of Week 3. The party learns of the reception.*
+
+The reception is announced several days before the event. Word reaches Field Team agents officially — the invitation is delivered to the Old Armory and specifically names the party as newly recognized agents whose success on Mission 2 warrants inclusion. A party without official Field Team standing can still obtain an invitation: any established cover identity in Tikatowa can work social channels to secure one, with the required effort scaling to how visible and credible that cover has been.
+
+**The preparation window.** Between announcement and event, the party can investigate the arriving delegation. This is an open opportunity; the DM should not coach the party toward it, but the arrival of a Ministry of Justice contingent from the Unity capital is notable enough that a party asking questions will find people willing to talk.
+
+What they can learn:
+
+- *DC 16 Investigation (advantage if they personally encountered Circe in Act III; DC 12 if they know her by name from the Citadel archive materials):* Circe Lovelace is traveling with the Ministry of Justice contingent under Vicona Praest's official delegation.
+- *DC 13 Investigation:* On reception evenings, Authority constables and Field Team personnel are reassigned to the governor's residence. Posts elsewhere in the city are thinly covered.
+- *DC 14 Investigation:* The Ministry building operates with a skeleton crew when senior officials attend evening events.
+- *Freely available to anyone who asks around the dock district:* The delegation's advance cargo was cleared through the port earlier in the week and delivered to the Ministry building.
+
+A party that confirms Circe's presence now has time to plan. A party that does not runs Scene 2 on Track B.
+
+---
+
+### Scene 2: The Governor's Reception
+
+*The governor's residence. Evening.*
+
+The residence is the most formal building in Tikatowa's government precinct: well-maintained, architecturally correct, conspicuously orderly in the way that colonial administrative buildings tend to be — as if orderliness itself is a form of argument. The reception is structured around arrival toasts, a formal dinner, and an open reception period. Guests include Field Team agents, Colonial Authority functionaries, registered merchant interests, and a small number of Shigori residents selected for their alignment.
+
+**Vicona Praest** is the official guest of honor. She is a senior Unity official who has navigated a complicated institution for a long time — measured, careful about what she says, protective of her position without appearing defensive. She greets the party cordially if introduced; she will answer pointed questions cautiously and will not volunteer anything. She is not a Cabal member. She carries documentation that partially overlaps Circe's papers — troop dispositions, administrative planning for the Ministry of Justice contingent's visit, and an oblique reference to a "special operation" she has not followed up on — but has no operational knowledge of the Cabal's plan.
+
+*Kalameris Mission 2:* If the party is pursuing Praest as the extraction target for Kalameris's second mission, this reception is the best window. She is accessible for conversation; engineering a private meeting that appears to be her idea is considerably easier than extracting her by force from a guarded venue.
+
+**Track A — Prepared (party has identified Circe):**
+
+The party has time before the evening to decide who attends the reception and who runs the caper at the Ministry building. The two groups operate simultaneously.
+
+At the reception: Circe Lovelace is present as a member of the Ministry of Justice contingent. She is composed and watchful. If the party encounters her in the social flow of the evening, she is professional and careful — she knows they have identified her, and she knows they know she is watching. Neither side can afford a public move. The DM should play this as a mutual surveillance exercise under social pressure: a wrong word, an uncharacteristic reaction, a companion who does not know the party's current cover can unravel the facade from either direction. Circe will not trigger anything at the reception. She has concluded the party is more useful as a resource she has not yet finished with.
+
+The caper window opens when the dinner portion begins and most reception guests are seated. Track A Scene 3 runs simultaneously.
+
+**Track B — Unprepared (party does not know Circe is attending):**
+
+At some point during the reception — the DM determines timing based on how the party presents themselves — Circe identifies them. Her recognition is not visible to observers. She continues the evening normally. Through a junior aide, she passes the party a note requesting a private word about an official matter; alternatively, she contrives a brief aside during the open reception period and asks them to join her in a room she has arranged.
+
+*The private meeting.* A side room at the residence, away from the event, where noise would not carry. Four Cabal operatives are waiting (modified Veteran profile: +2 to all saving throws, +10 maximum HP, as used for Citadel Area 2 guards). Circe uses her Appendix B stat block.
+
+Her intent is capture and interrogation. The party is more useful as a source of information about what the Isles knows than as a collection of bodies. She shifts to lethal force only if capture becomes clearly impossible.
+
+**Circe's escape.** When reduced to 50 HP or when her last operative falls — whichever comes first — she casts *misty step* (bonus action) and activates her prepared Scroll of Word of Recall (action). Same protocol as the Citadel encounter: the party can counterspell the Word of Recall and physically restrain her after the misty step, but both must succeed. The DM's intent is that she escapes.
+
+Regardless of outcome: the party's cover in Tikatowa is blown. They cannot operate openly for the remainder of Act IV.
+
+---
+
+### Scene 3: The Ministry Building
+
+*Track A only. This scene runs simultaneously with Scene 2.*
+
+The Ministry building is the Colonial Authority's primary administrative hub in the dock district: a four-story stone structure in standard Unity construction. Normal staffing: 4–6 constables on duty, 3–4 overnight clerical staff. Reception night: one constable at the main entrance, one doing a building round, one clerical worker.
+
+**Entry. Three routes:**
+
+1. *Legitimate credentials.* Field Team identification with a plausible cover story (DC 13 Persuasion). The constable at the entrance on reception night is not inclined to investigate closely.
+2. *Service entrance.* A rear service entrance uses a standard padlock (DC 12 Thieves' Tools). Locating it without prior knowledge: DC 13 Perception; Field Team agents know it. The constable's building round takes place every 30 minutes.
+3. *VIP intake route.* The Ministry of Justice contingent's advance materials were delivered through a side entrance on the north face, used for official arrivals. DC 14 Investigation during the preparation window, or a successful social approach to delegation staff at the reception, yields this route. Side entrance: DC 14 Thieves' Tools. The corridor beyond leads directly to the secondary offices assigned to the Ministry of Justice contingent.
+
+**Finding the papers.** Circe's papers are not filed with the Authority's document system. They are in a concealed case in the workroom assigned to the Ministry of Justice contingent — second floor, east corridor. The case has a false bottom and is inside a locked desk drawer (DC 12 Thieves' Tools to open the drawer).
+
+Locating the specific desk:
+- *DC 17 Investigation* — general search of the assigned workroom
+- *DC 14 Investigation* — if the party has directional information from social engineering at the reception or from the preparation window
+- *DC 12 Investigation* — if the party examined Circe's aide during preparation and can identify the desk from the description of the workspace
+
+**Contents of the case.** A compact folio:
+
+- *The trap:* Full moon, Week 4. A specific valley accessible from the Cabal convoy route. Cold-iron apparatus positions after the controlled burn begins; the Huma-blood spear fires when Carnuth is held.
+- *Convoy disposition:* Armored cart count, crew size, fallback positions.
+- *Carnuth assessment:* Why the full moon is the correct timing (Carnuth at his weakest), confidence level of the projections.
+
+**Time pressure.** The reception runs approximately 2 hours. The party has this window before officials return and the building resumes normal staffing. The DM runs this as narrative pressure rather than a round count — a methodical party has enough time; unexpected obstacles compress the margin.
+
+**If the party is discovered.** A constable on his round, a clerk working an overdue filing, a junior aide sent back from the reception to retrieve a document. These are not Cabal operatives. The party can bluff them (DC 13 Deception using Field Team credentials), redirect them, or neutralize them without lethal force. Killing Authority personnel in the Ministry building carries lasting consequences regardless of whether cover is already blown elsewhere.
+
+---
+
+### Interlude Resolution
+
+The interlude ends when both the reception arc and the Ministry building arc have concluded or been abandoned.
+
+| Result | Consequence |
+|---|---|
+| Papers secured; cover intact | Full intelligence advantage entering Chapter 17; party can still operate openly in Tikatowa |
+| Papers secured; cover blown | Full intelligence advantage; party cannot operate openly for the remainder of Act IV |
+| Papers not recovered; cover intact | Party can still operate openly; entering Chapter 17 without operational knowledge of the trap |
+| Papers not recovered; cover blown | No intelligence; no open cover; hardest path into Chapter 17 |
+| Praest extracted (Kalameris Mission 2) | Partial intelligence; Kalameris's second mission complete; incomplete picture of the trap |
+
+*Whatever the party holds at the end of this interlude is what they bring to Chapter 17.*
+
+---
+
+## Optional Interlude NPC Summary
+
+| NPC | Role | Notes |
+|---|---|---|
+| Circe Lovelace | Surveillance (Track A); ambush leader (Track B); escape | Combat; stat block in Appendix B |
+| Vicona Praest | Reception VIP; Kalameris Mission 2 target; partial intel carrier | Social/capture; stat block in Appendix B |
+| The Governor | Reception host | Social only; unnamed |
+| Cabal operatives (4) | Track B ambush | Combat; modified Veteran profile (as Citadel Area 2 guards) |
+
+---
+
+## Harmony's Boons *(Chapter 16)*
+
+Granted by Harmony when the party agrees to her request without prevarication. Each party member selects one of the following. The selection is permanent. All boons are innate abilities — no spell slots, no material components required. Concentration requirements of the base spell do not apply unless noted.
+
+**The Shared Burden.**
+Once per day, you may cast *warding bond* on a willing creature within 5 feet of you. The effect lasts 1 hour and does not require concentration. While the bond is active, you take half the bonded creature's damage and they gain +1 AC and all saving throws; if the bond would reduce you to 0 hit points, it ends immediately.
+
+**Common Ground.**
+Twice per day, you may cast *calm emotions* (spell save DC 14). The effect lasts 1 minute and does not require concentration.
+
+**Stand Together.**
+Once per day, you may cast *aid* as a 5th-level spell, affecting up to three creatures of your choice within 30 feet. The effect lasts 8 hours.
+
+---
 
 # APPENDIX B: NPC STAT BLOCKS
 
@@ -4799,15 +5638,51 @@ She fights to buy time for the archive. She escapes.
 
 ---
 
+## Vicona Praest *(Optional Interlude: A Fine Shindig)*
+
+*Medium humanoid (human), lawful neutral*
+
+**Armor Class** 12
+**Hit Points** 65 (10d8 + 20)
+**Speed** 30 ft.
+
+| STR | DEX | CON | INT | WIS | CHA |
+|---|---|---|---|---|---|
+| 10 (+0) | 12 (+1) | 14 (+2) | 17 (+3) | 15 (+2) | 16 (+3) |
+
+**Saving Throws** Int +5, Wis +4, Cha +5
+**Skills** Deception +5, History +5, Insight +4, Persuasion +5
+**Senses** passive Perception 12
+**Languages** Common
+**Challenge** 3 (700 XP)
+
+**Bodyguard Presence.** Two Veterans (Praest's personal security detail) attend her at all times during the reception. While either is within 10 feet of her, attack rolls against her have disadvantage as they interpose. If both bodyguards are incapacitated or removed, she loses this benefit.
+
+**Scroll of Sending (1 Use).** Praest carries a prepared Scroll of Sending. If separated from her bodyguards and threatened, she uses her action to send a message to her security detail.
+
+**Ministry Authority.** Any non-hostile Unity official who can verify Praest's documents of authority will comply with reasonable orders. This has no effect against hostile creatures.
+
+#### Actions
+
+**Dagger.** *Melee or Ranged Weapon Attack:* +3 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 3 (1d4 + 1) piercing damage.
+
+**Commanding Presence (1/Day).** Praest issues a sharp command to one creature within 30 feet that can hear and understand her. The target must succeed on a DC 14 Wisdom saving throw or be frightened of Praest until the end of its next turn.
+
+---
+
+**The DM should know.** Praest is not a Cabal member. She is aware that the northern coast's productivity is anomalous — subordinates have recommended investigation — and has not ordered one. If captured and questioned under circumstances that compel honest answers, she will say why: political pressure from above, a judgment that the question exceeded her authority to press independently, or a genuine preference not to know, depending on which the DM finds most useful for the campaign. She carries documentation that partially overlaps Circe's papers — troop dispositions, administrative planning for the Ministry of Justice contingent's Tikatowa visit, and an oblique reference to a "special operation" she has not followed up on. This is useful intelligence but not sufficient on its own to warn Carnuth of the specific trap.
+
+---
+
 ## Maritas Boons *(Chapter 11)*
 
 Granted when Maritas is freed at the Congress theatre in Chapter 11. Each party member who receives a boon selects one of the following. The selection is permanent.
 
 **Might.**
-Once per day, when you fail a Strength check or Strength saving throw, you may reroll it and take the higher result.
+Once per day, when you fail a Strength check or Strength saving throw, you may reroll it and take the higher result. This includes rolls you made with made with advantage. 
 
 **Secret of Steel.**
-Once per turn, when you reduce a creature to 0 hit points with a melee weapon attack, you gain 2d6 temporary hit points.
+Twice per long rest, when you reduce a creature to 0 hit points with a melee weapon attack, you gain 2d6 temporary hit points.
 
 **Retribution.**
 Once per short rest, when a creature within 5 feet hits you with a melee attack, you may use your reaction to make one melee weapon attack against it.
@@ -4841,4 +5716,20 @@ Once per day, you may cast *freedom of movement* on yourself. The effect lasts 1
 
 **Inciting Word.**
 Twice per day, you may cast *crown of madness* (spell save DC 14).
+
+---
+
+
+## Hidden Vale Boons *(Chapter 15)*
+
+Granted by the collective spirits of the Hidden Vale at the close of the initiation ceremony. Each initiated party member selects one of the following. The selection is permanent. All boons are innate abilities — no spell slots, no material components required. Concentration requirements of the base spell do not apply unless noted.
+
+**Warden's Step.**
+Once per day, you may cast *pass without trace* on yourself and up to five willing creatures within 30 feet. The effect lasts 1 hour and does not require concentration.
+
+**Vale's Eye.**
+At will, you may cast *detect magic* as a bonus action. The effect lasts 10 minutes and does not require concentration. Once per day, you may cast *see invisibility*. The effect lasts 10 minutes and does not require concentration.
+
+**Steadfast.**
+You cannot be surprised while you are conscious. Once per long rest, when you fail a saving throw, you may immediately reroll it and take the higher result.
 

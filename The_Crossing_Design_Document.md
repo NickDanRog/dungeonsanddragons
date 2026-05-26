@@ -1977,7 +1977,7 @@ He makes one more circuit of the party — shaking each hand, declaring himself 
 
 The door falls to the ground a moment later.
 
-All eleven spirits of the Unity Congress turn, as one, to look at the party. The Harmony seated beside you in the stands turns too.
+All ten spirits of the Unity Congress turn, as one, to look at the party. The Harmony seated beside you in the stands turns too.
 
 ---
 

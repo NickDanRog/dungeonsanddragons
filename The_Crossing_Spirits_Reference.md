@@ -579,8 +579,6 @@ Cyrencia occupies a category of her own. She is not a belief-spirit, not an Old 
 
 **Role in the adventure:** Act V — the party's patron into the Godshome. The central objective of Act V's opening phase is to find and wake her. Once awake, she serves as the party's sponsor for the Conclave, providing the Old God patronage required for mortals not of the Sacred Lands to enter the Godshome. She is also the party's primary source of the principle behind the sleeping western Old Gods — though she does not state this as instruction.
 
-**Boons:** TBD — to be determined during DM Guide writing for Act V.
-
 **Acceptable offering:** The Summoning at the Council site on Kartos's Isle is the culmination of the process that woke her. By the time the party performs it, she is already prepared to respond. No separate offering is required; the Ordeal sequence was the offering. This should be noted when writing the DM Guide's ritual mechanics for Act V.
 
 ---

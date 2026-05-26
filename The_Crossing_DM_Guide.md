@@ -269,7 +269,7 @@ A city on the western coast of the Sacred Lands, the Unity's eastern administrat
 
 ## The Wildwood
 
-The great temperate rainforest of the northwestern Sacred Lands stretches from the northern coast inland for a distance that travelers who have not attempted to cross it tend to underestimate. It is an ancient forest — not merely old trees, but a landscape that carries its own history, its own internal geography, and its own governing presence. The Wildwood is Carnuth's domain. His power is strongest here. The resistance to Unity colonization is organized and fought from within these trees.
+The great temperate rainforest of the central-western Sacred Lands stretches east and south of Tikatowa inland for a distance that travelers who have not attempted to cross it tend to underestimate. It is an ancient forest — not merely old trees, but a landscape that carries its own history, its own internal geography, and its own governing presence. The Wildwood is Carnuth's domain. His power is strongest here. The resistance to Unity colonization is organized and fought from within these trees.
 
 The forest does not announce itself by degrees. Travelers approaching from the western coast encounter the treeline and, within a few dozen feet, find themselves inside it — the canopy closing overhead, the sounds of the open ground replaced by the sounds of a very different world. The Wildwood is navigable by those who know it and disorienting to those who do not; Carnuth's attention to what moves through his domain means that nothing passes through unnoticed. The party enters the Wildwood in Act IV, in circumstances shaped by what they accomplished during their adventure in the Unity.
 
@@ -431,343 +431,7 @@ The Crossing is the bodily transit of living mortals into the spirit world, acco
 
 ---
 
-*The spirits listed in the sections below are those the party will encounter directly during the course of the adventure. They represent a small fraction of Encarnia's spiritual ecology. Belief-spirits, Old Gods, and nature spirits exist throughout the world in numbers too great to enumerate here — wherever mortals hold beliefs, wherever ancient land exists, wherever a stream or forest or hillside has been long enough undisturbed to develop a presence of its own. A party that goes looking for spirits beyond this list may find them.*
-
----
-
-## Belief-Spirits
-
-### Hope
-*Belief domain: Hope*
-
-One of the more stable and coherent belief-spirits in the world, possibly because hope is a concept that has not changed dramatically in meaning across civilizations. She takes the form of a young girl seated beside a fountain. The fountain's fullness is a direct measure of the state of hope in the world — in the present period, it runs low. Her domain in the spirit world is an abandoned city square at twilight, the geometry of its buildings subtly wrong, the fountain reduced to a trickle. As hope strengthens in the physical world, the city fills and the twilight progresses toward dawn.
-
-**Relationships:**
-- **Lon (Despair):** Sibling, best friend, and rival. The two are inextricably linked — neither can truly exist without the other. Their relationship is one of deep intimacy and constant tension.
-- **Revna (Rebellion):** A complex love-hate relationship. They are each other's most frustrating mirror: rebellion without hope is nihilism; hope without rebellion is passivity.
-
----
-
-### Lon
-*Belief domain: Despair*
-
-Sibling and rival to Hope. Where Hope is sustained by the belief that things can improve, Lon is fed by the certainty that they cannot. As the world has worsened — the land dying in the west, colonial violence escalating in the east — Lon has grown considerably stronger. He is deeply saddened by this and secretly hopes for Hope to gain the upper hand again. 
-
-**Relationships:**
-- **Hope:** See above.
-
-**Acceptable offering:** Unkown - the party won't approach Lon directly during the adventure, though if they decide to do so they will have to discover something appropriate  
----
-
-### Revna
-*Belief domain: Rebellion*
-
-A younger spirit than Hope and Lon, born more distinct as the Unity's suppression became more complete — rebellion as a concept requires something to rebel against, and Revna grew more defined as the conditions for her existence became more concentrated. She is volatile, passionate, and not easy to work with. Her power is closely tied to the Unity's eastern colonies.
-
-**Relationships:**
-- **Hope:** Complex love-hate. They are each other's most frustrating mirror.
-- **Maritas (War):** Her uncle — the brother of her father. A relationship she does not discuss unless pressed.
-
-**Acceptable offering:** Blood — one party member must cut their palm and bleed willingly into Revna's stone bowl during a crossing. The act must be voluntary; a token gift or an unwilling offering will be returned.
-
----
-
-### Maritas
-*Belief domain: War*
-
-Ancient beyond any other belief-spirit the party is likely to encounter — his origins predate the Unity by a vast span. He takes the form of a great bear of a man wearing fine chainmail, with a close-cropped dark beard, long hair, and a face permanently flushed — a complexion, not exertion. He is direct, occasionally blackly funny, and entirely without pity — for himself, or orhters.
-
-**Current status (DM Only):** The Congress weakened Maritas by building a civilization nearly free of war, then tricked him into captivity in the theatre beneath their seat of power. He is currently held there. He remains fully formed and entirely himself — captivity has not diminished him, and he knows it.
-
-**Relationships:**
-- **Revna (Rebellion):** His niece — the daughter of his brother. He claims he cannot recall his brother's name. Perhaps he ate him. He finds this funny.
-- **The Congress:** Deep and mutual enmity. The Congress considers him dangerous; he considers them cowards who built a world of enforced quiet and called it peace.
-- **Novus (Progress):** An informal alignment — war and progress have always advanced together, and their interests frequently coincide.
-
-**Acceptable offering:** A worthy fight — one party member must volunteer to face a challenger in Maritas's arena and conduct the bout with genuine effort. The outcome is irrelevant. An uninspired performance earns no passage.
-
----
-
-### Ala
-*Belief domain: Air Travel*
-
-A belief-spirit of limited scope — not the broad abstract that empowers the great spirits, but the specific, focused faith that accrues wherever mortals have trusted their lives to the sky. He emerged from the belief-complex of Novus (a member of the Unity Congress), whom he considers his big brother. Ala takes the form of a male teenager in aeronaut gear of a distinctly antique cut — different in style from anything the modern Unity produces. He is cheerful, genuinely curious, and entirely without guile. He exists wherever air travel is practiced, most powerfully at Balnor, home of the largest aerodrome in the world. 
-
-**Relationships:**
-- **Novus (Progress):** His point of origin. Ala split from Novus as air travel became a distinct belief-category in its own right. Their relationship remains close.
-
----
-
-### Harmony
-*Belief domain: Cooperation*
-
-A belief-spirit who exists wherever people of genuinely different beliefs, backgrounds, and ways of life choose to live and work together. She is not a spirit of agreement or conformity — her domain requires actual difference and the active choice to engage across it rather than withdraw or destroy. She is middle-aged in appearance, with long dark hair, and presents without particular distinction or ceremony. She is kind but can be aloof; her attention drifts toward the life around her, and she responds best to patient, respectful engagement rather than transactional urgency.
-
-**Where she exists:**
-- **The Perfect Isles:** The interplay between thirty-three distinct factions provides an unusually concentrated source of power. She is stronger here than almost anywhere else in the world.
-- **The Sacred Lands:** The fragile but real coexistence between the Unity's colonial settlers and the native peoples of the east sustains her there.
-- **The Unity:** She does not exist within the Unity. The Unity is not a collection of factions — there is nothing there for her.
-
-**Domain (spirit world):** Harmony's courtyard: an open-air space five stories tall, lined with doorways marked with factional symbols, filled with a garden of statues, plants, and works of art, peopled with individuals and groups engaged in discussion, collaboration, and shared company.
-
-**Relationships:**
-- **Hope:** Aware of each other. Hope characterizes Harmony as very private, responsive only to a specific non-material gift.
-- **Old Gods:** Finds them territorial as a rule, but respects their necessity. Carnuth's decision to go to war concerns her deeply.
-
-**Acceptable offering:** A unified voice — in order to reach her in Act IV, all assembled faction leaders at the Council Site must authorize the party to speak on their collective behalf. This is both the offering and the key to opening the way.
-
----
-
-### The Stranger
-*Belief domain: Death*
-
-The oldest belief-spirit in existence, and the most coherent. Death as a concept does not evolve or splinter — it has meant what it means since the first mortal died. The Stranger has been doing the same job since then, and he is more himself than any other belief-spirit will ever be. The other belief-spirits fear him. The Old Gods are wary of him in the particular way one is wary of something inevitable.
-
-His job is shepherding mortal souls to what comes after. He describes himself as "just a humble shepherd." He means it, more or less. Each soul he collects gives him a brief surge of spiritual power that fades over days. He has been wondering whether a great many souls at once might give him something that lasts. He is willing to pursue this idea, and he has been working toward it through the Avengers.
-
-**Form:** A man in a simple but immaculate black outfit and a broad-brimmed black hat. He speaks in a slow, unhurried drawl and is often funny — with the ease of someone who finds existence genuinely interesting. When someone prevents him from doing his job, all of that stops. He becomes very still, speaks in a flat, unblinking monotone, and does not raise his voice.
-
-**Domain:** A dry, wooded crossroads near a stone well. He is never in a hurry.
-
-**Relationships:**
-- **Hope:** She is owed a favor by the Stranger. It becomes relevant if a party member dies and the surviving party members find a way to contact Hope before the Stranger collects their companion.
-- **The Avengers:** His current contractors, though they do not know what he is. His offer to their leadership was simple: one service per year and a day in exchange for patron-level access to his power, no questions asked. His current request is the death of the Circle.
-
-His full story role, the optional death encounter, and the proposition are in **The Stranger's Thread** in Running the Adventure.
-
----
-
-## The Unity Spirit Committee
-
-The Unity's outlawing of magic and divine worship did not eliminate the spiritual energy generated by its citizens' deeply held beliefs. The ideals the Unity is built on — law, the common good, public order, reason, knowledge, and unity itself — are held with something approaching religious fervor. This has empowered a cluster of belief-spirits tied to these ideals. None of them are directly worshiped as gods once were in the west. Most have only a fuzzy understanding of their own nature and place in reality. They are nonetheless genuine beings with genuine opinions and a surprising influence over the affairs of the Unity. They are sometimes referred to collectively as the Congress, though they do not govern one another and share no formal structure.
-
-| Spirit | Domain | Form | Notes |
-|---|---|---|---|
-| **Lexan** | Law | Frail old man leaning on a staff; powerful voice | The eldest member — evolved from pre-Unity western deities of Law; more self-aware and coherent than most; old antagonist of Novus |
-| **Placida** | Common Good | Smiling, matronly woman; glowing blonde hair | The most self-aware member; exists among the Archipelago peoples as well, giving her unusual coherence; allied with Revna |
-| **Concordia** | Public Order | Identical form to Placida; dark hair | Placida's near-twin; focused on the social fabric rather than formal rules; their relationship is one of quiet tension |
-| **Ratia** | Reason | Thin woman in voluminous robes; often in a thinking pose | Among the most powerful Congress members; one of the Unity's founding drives |
-| **Sentia** | Knowledge | Woman in thin silk; skin appears to be made of marble | Well-fed by the Unity's emphasis on learning and technology; cool and precise |
-| **Caluma** | Oppression | Comely man with bronze skin; perpetual glower | Does not think of himself as Oppression — his self-concept is Necessity; growing stronger as suppression intensifies |
-| **Praefecta** | Unity (the ideal) | Skin and hair shine like the sun; almost too bright to look at directly; rarely appears | Nominal leader of the Congress; deeply troubled — built on something real, she can feel the widening gap between the ideal and the lived reality |
-| **Labora** | Labor | Sturdy working woman; calloused hands | The Unity's work ethic feeds her; her closeness with Caluma is a source of quiet discomfort |
-| **Novus** | Progress | Young man always in motion; slightly blurred | The Unity's technological drive feeds him; restless and forward-looking; perpetual antagonist of Lexan |
-| **Mnema** | Memory and Official Record | Elderly archivist; moves slowly; rarely speaks first | Holds the Unity's sanctioned history, which is partly false — she knows this; the most quietly troubled member |
-| **Pax** | Peace | Diminished; hollow-eyed; quiet | The Unity was founded on ending war; she can feel the difference between genuine peace and enforced quiet — and what she feels is the latter |
-
-Congress members can be contacted through the Communing ritual after their first encouter with them. Placida exists among the Archipelago peoples as well and may be reached there. 
-
----
-
-## The Old Gods
-
-The Old Gods are primordial. They are not organized. They communicate freely — most often with those whose regions overlap — and are as often at odds with one another as not. Their relationships shift constantly.
-
-Each Old God is represented in the physical world by a chosen Witch — a mortal practitioner with whom the Old God has formed a direct bond. Witch covens exist within each Old God's region; these covens tend the relationship between the Old God and the mortal communities of the area. A greater coven exists to which each regional coven sends a single representative; it meets rarely.
-
-**The Conclave.** The Old Gods are engaged in a deliberation without recent precedent. Fourteen named Old Gods are weighing the fate of mortalkind in response to the rapid deterioration of the physical world — caused by the Unity's suppression of magic and the severance of the mortal-spirit relationship. The deliberation's verdict, in the language of the Old Gods, is not advisory. The following table reflects each Old God's current alignment:
-
-| Old God | Domain | Conclave Stance | Notes |
-|---|---|---|---|
-| **Droma** | The Great Weald | Allied | Firmly convinced that mortals and Old Gods can coexist |
-| **Carnuth** | The Wildwood | Allied | *If killed before the Conclave, his voice is lost* |
-| **Huma** | The Roaring Shores | Allied | Willing to advocate for mortals; conditions attached |
-| **Kakita** | The Long Coast | Allied | Narrowly — she will speak for the party solely because of Huma's rescue |
-| **Genna** | The High Forest | Allied | Most aligned with mortals of any Old God; cannot understand why others don't cultivate similar relationships |
-| **Green Man** | The Great Wilds | Neutral | Tolerates mortals; disinterested in their broader fate |
-| **Skymare** | The Shining Plain | Neutral | Extremely aloof; her true position unknown even to other Old Gods |
-| **Princessa** | The Bight | Neutral | Allied with Carnuth; *if Carnuth is killed, she crosses into opposition* |
-| **Stone Sovereign** | The Dividing Range | Neutral | Speaks last; its final word follows the majority position |
-| **Forvalaka** | The Dark Vale | Opposed | Hunts mortals; refuses all communication |
-| **Feathered Lion** | The Expanse | Opposed | Wants the western population eliminated; predatory in approach |
-| **Caspa** | The Uplands | Opposed | Principled opposition — views the western population as an existential threat to the natural world |
-| **Baita** | The Pale | Opposed | Dismissive of mortals; her opposition is firm and her position nearly immovable |
-| **Howler** | The Bleak Lands | Opposed | The least understood Old God; his lands are depopulated of nearly all life |
-
-Cyrencia does not vote at the Conclave. She serves as the party's sponsor into the deliberation.
-
----
-
-### Droma — The Old Man of the Mountain
-*Old God of the Great Weald*
-
-**True name:** Droma. He communicates this to those who reach his shrine.
-
-Within the Ringing Mountains, Droma is primarily a great ambulatory mountain — colossal, moving so slowly its motion cannot be detected without careful attention, capable of extraordinary destruction when it acts. Outside the mountains, he uses an avatar: a foul-mouthed old gnome in dirty clothes, an iron skull cap, and beautiful slippers made of precious gemstones. The gnome is where most mortals encounter him. His Witch is Hellie, who serves him directly. His domain encompasses the Parna Valley and the surrounding Sacred Lands, and he has been observing everything that happens in those lands since long before any mortal civilization took root there.
-
----
-
-### Carnuth, the Stag of the New Moon
-*Old God of the Wildwood*
-
-Carnuth takes three forms tied to the moon's phase. During the new moon, at peak power, he is a gargantuan multi-legged stag of great magical and destructive force. During the full moon, at his ebb, he is a giant stag-headed battle sorcerer — physically reduced but magically formidable and capable of mortal-legible communication. By day he sleeps in forest meadows as a giant stag, harmless unless threatened. He follows natural thought patterns rather than mortal ones, focused on the Wildwood and the living world it represents. He is kind and generous when approached respectfully with an appropriate gift, and he has no capacity for tolerance toward those who despoil his lands.
-
-**Relationships:**
-- **Princessa (The Moonmoth):** Longtime rival and lover. Their alliance is one of the oldest between neighboring Old Gods.
-
----
-
-### Huma — The Storm Whale
-*Old God of the Roaring Shores*
-
-**True name:** Huma.
-
-A great antlered whale with amber eyes and electricity crackling along his fins and tail — he adjusts his size to context and is careful not to shock smaller creatures. His lands are the great northern fjords, forests, and stormy sea coast along the northern reaches of the western continent. The Unity could never develop that territory, and Huma survived longer there than other western Old Gods as a result. He was eventually captured in a weakened state.
-
-**Current status (DM Only):** Huma is held captive by the Cabal's containment device, built into the submerged foundations of the Jindark breakwater. His energy is being channeled to power the northern coastal region of the Unity. His condition and the circumstances of his freeing are addressed in Act III chapter material.
-
-**Note:** Huma is contacted via the Summoning ritual rather than the standard Communing ritual; he does not have a Communing passage.
-
----
-
-### Kakita — The Thunderbird
-*Old God of the Long Coast*
-
-**True name:** Kakita.
-
-A titanic eagle with bright purple, red, and blue plumage and a screech like a thunderclap. Her lands are the great arid, rocky peninsula making up the southwestern expanse of the western continent — remote, the Unity has no presence there, and she has remained largely undisturbed. She has little interest in mortal affairs but is deeply concerned about potential future encroachment on her territory. Her Allied stance is narrow: she will advocate for the party, but her position is that the Unity must be stopped at all costs; she does not want mass death, but that is the extent of her moderation.
-
----
-
-### Genna — The Great Mother
-*Old God of the High Forest*
-
-**True name:** Genna.
-
-Genna's spirit primarily occupies a titanic sandstone idol at the center of the High Forest, where mortals come to worship her and leave gifts. She occasionally takes the avatar form of a matronly woman of middle years wrapped in a great green shawl. She has developed the closest relationship with mortal communities of any Old God in the Sacred Lands — she rewards and encourages their worship, and cannot understand why the other Old Gods do not cultivate similar bonds. Cyrencia found her a kindred spirit, though uncertain what to make of the worship dynamic.
-
----
-
-### The Green Man
-*Old God of the Great Wilds*
-
-**True name:** Unknown. Cyrencia believes he may have no other name.
-
-A twelve-foot-tall man-tree hybrid, draped in vines and ivy and covered in moss, surrounded by birds and small animals. Gentle and kind, but largely disinterested in mortal affairs — he tolerates the mortals in his lands and will act against them if they damage nature significantly, but does not personally care about the fate of mortalkind as a whole. He provided a friendly warning to Cyrencia against approaching the Forvalaka or the Howler.
-
----
-
-### The Skymare
-*Old God of the Shining Plain*
-
-**True name:** Unknown.
-
-A massive mare with azure, human-like eyes, seen running across the sky. Extremely aloof — other Old Gods report she rarely speaks with them. Cyrencia encountered her only briefly: the Skymare paused to regard her and then sped away without conversation. Her Conclave position is unknown even to her peers.
-
----
-
-### Princessa — The Moonmoth
-*Old God of the Bight*
-
-**True name:** Princessa.
-
-A towering, luminous woman with enormous moth-like wings that glow in the light of the full moon. Her lands are the Bight — a freshwater inland sea and its environs, north of the Weald and south of the Wildwood. She is disinterested in most mortal affairs and gives attention only to those who specifically seek her out.
-
-**Relationships:**
-- **Carnuth:** Longtime rival and lover. Their bond is one of the oldest alliances between neighboring Old Gods. *If Carnuth is killed before the Conclave, Princessa's grief will become rage and she will cross into opposition — potentially shifting the Conclave's balance against the party.*
-
----
-
-### The Stone Sovereign
-*Old God of the Dividing Range*
-
-**True name:** Unknown.
-
-A twenty-five-foot-tall stone statue, one half black and one half white, with four distinct faces its head rotates between — each face appearing to carry its own distinct personality. Almost completely removed from mortal affairs; speaks primarily in koans and riddles; values consensus among the Old Gods above all else. Droma noted that the Stone Sovereign always speaks last at a Conclave, and its final word carries unusual weight — it speaks to whichever position commands the most agreement among the others.
-
----
-
-### The Forvalaka
-*Old God of the Dark Vale*
-
-**True name:** Unknown.
-
-Cyrencia did not meet the Forvalaka directly. She glimpsed it at the edges of her perception during her travels — moving as though it were hunting her. It appeared as a massive, shadowy panther with blood-soaked fangs. The Forvalaka appears to be a personification of nature's rage. It has no interest in communicating with mortals and hunts them actively within its realm. The people of the Dark Vale live in terror of it and attempt to appease it with offerings and sacrifices; this has never produced any response the other Old Gods are aware of.
-
----
-
-### The Feathered Lion
-*Old God of the Expanse*
-
-**True name:** Unknown.
-
-A massive lion-like beast with a mane of rainbow-colored feathers and a mouth full of blood. He permits mortals to exist in his lands at a price — a monthly live sacrifice, heart cut out and presented — and makes a circuit of his territory collecting tribute and hunting at his whim. He spoke openly with Cyrencia about all of this, with apparent pride. He does not object to mortal life in the abstract but specifically wants the people of the western continent eliminated.
-
----
-
-### Caspa — Three-Paw Wolf
-*Old God of the Uplands*
-
-**True name:** Caspa.
-
-A massive, three-legged wolf. His missing leg marks an old grievance against mortals. More thoughtful than his opposition stance might suggest — he hunted Cyrencia down before agreeing to speak with her, insisting on a brief bout first "to get to know her better," and asked many questions about her origins with genuine curiosity. He understands that mortals have an important place in the world — something he thinks is lost on many of his peers — but believes the people of the western continent specifically are too dangerous to be permitted to continue. He foresees a time when they will no longer be resistable.
-
-**Relationships:**
-- **Howler:** Warned Cyrencia sternly against attempting contact: *"nothing good will come of trying to communicate with that creature."*
-
----
-
-### Baita — The Snow Queen
-*Old God of the Pale*
-
-**True name:** Baita.
-
-A small, pale elven woman with electric blue eyes, wearing a gown of ice, borne about in an ice sleigh pulled by a team of polar bears. Completely dismissive of mortals, whom she considers beneath her notice — she gives attention only to those who bring significant gifts and flattery, which she finds amusing rather than convincing. She keeps a witch to collect heavy taxes from those living in her lands; she does not care for the wealth itself, only the act of extraction. Despite her Opposed stance, she was warm and interested with Cyrencia during their long sleigh-ride conversation, treating her as something of a peer.
-
----
-
-### Howler
-*Old God of the Bleak Lands*
-
-**True name:** Unknown.
-
-Baita, Caspa, and the Feathered Lion describe him as a massive, deformed bear-like creature in a state of constant, agonized howling. Cyrencia did not encounter him directly. He is known for continuous howling everywhere he goes, with one exception: within the Godshome, he falls entirely silent. No one recalls him speaking more than a few words at any Conclave. He shuns contact with all other Old Gods. His lands are depopulated — not of mortals alone, but of most animals and even plants. Cyrencia believes he may be a personification of nature's madness. Multiple Old Gods warned her not to attempt contact with him.
-
----
-
-## Cyrencia
-*The New God of the Isles*
-
-Cyrencia occupies a category of her own. She is not a belief-spirit, not an Old God, and not a nature spirit in the conventional sense — she is all three at once. No existing category in mortal or spirit understanding fully describes what she is.
-
-She was born when the founding practitioners of the Archipelago created the islands through magic. Their act was not merely arcane — it was an act of profound collective belief: belief that they could accomplish what had never been done, that their way of life could endure, that working together they could build something better. This belief did what the formation of any new land does: it called forth an Old God. But because this land was made through mortal belief rather than geological time, the Old God it produced was also, inextricably, a belief-spirit. She is old in power — as old as the Archipelago itself — and young in consciousness. She is the first being of her kind in the world.
-
-Her name is Cyrencia. It was spoken once — at the moment of the Archipelago's creation — and never recorded. Her domain in the spirit world is the Archipelago as it existed before human arrival: the same islands, the same geography, stripped of all human construction, vibrating with two centuries of accumulated belief. She does not arrive as a form. She arrives as something the Archipelago does — a change in the weather, the behavior of light on the water, the sound the islands make. She then chooses a form, slowly, so she can be spoken with. She is enormous, and she is choosing to be smaller.
-
-**Relationships:**
-- **The Oracle:** The strongest belief-spirit connection available to Cyrencia before she was coherent. She used the Oracle as a conduit for years, producing visions the Oracle could not interpret. The Oracle is aware of this relationship after the fact.
-- **The Old Man of the Mountain:** He sensed her presence and named her before the party arrived. Their relationship is that of elder and younger Old God — she has enormous respect for him, and he has recognized what she is.
-- **Huma:** She is dimly aware of him across the sea. He feels muffled to her, as though something is blocking the connection between him and the lands he was once tied to.
-
----
-
-## Nature Spirits
-
-### Silver
-*Nature spirit of the Silver Stream*
-
-Silver takes the mortal form of a very elderly gnome. The extreme age reflects the stream's long history in the valley — even in mortal form, he carries the quality of something that has been exactly where it belongs for a very long time.
-
----
-
-### Beam
-*Nature spirit of the Parna Valley farmsteads*
-
-Beam's natural form is a scarecrow. When he takes a mortal form, the traces persist — straw clings to his clothing and he carries the slightly-out-of-step quality of a field left to its own devices.
-
----
-
-### Kelpie
-*Nature spirit of an unnamed island in the Middle Sea*
-
-Kelpie takes the mortal form of a halfling-like mermaid and speaks in the third person. Her domain is a small, remote island in the uncharted waters of the Middle Sea — its flora and fauna exhibit unusual behaviors, strange colorations, and signs of higher-than-normal intelligence, all reflections of her presence. A grotto on the north shore contains a small shrine that serves as her place of power. She refers to regular visitors — now long absent — as "the other two legs of the sea": Tritons who once visited the island periodically and have since left the region without explanation.
-
----
-
-### Alvolea
-*Belief-spirit of the Sahuagin tribe; the unnamed Middle Sea island*
-
-A belief-spirit generated by a community of deformed Sahuagin that took up residence on Kelpie's island and profaned her shrine. He embodies whatever the tribe collectively believed in. A small-scale illustration of how even an isolated community generates a belief-spirit of its own. After the Sahuagin are destroyed, Alvolea rapidly declines in power; Kelpie reports having him firmly in hand.
+*Individual spirit entries, stat blocks, and boon tables are in **Appendix A: Spirits of the World**. The spirits listed there are those the party will encounter directly during the course of the adventure. Belief-spirits, Old Gods, and nature spirits exist throughout the world in numbers too great to enumerate — a party that goes looking for spirits beyond that list may find them.*
 
 ---
 
@@ -1139,9 +803,9 @@ Circe Lovelace's nominal superior in the Ministry of Justice, though neither of 
 ---
 
 ### Circe Lovelace (DM Only)
-*Female Human; Cabal founder and regional leader; Oath of Devotion Paladin*
+*Female Human; Cabal co-founder and regional leader; Oath of Devotion Paladin*
 
-Circe Lovelace is a short, serious, dark-skinned human woman with close-cropped hair. She is an original founder of the Cabal and one of its inner circle members, classed as an Oath of Devotion Paladin — her devotion is to the Unity itself, elevated to the status of a sacred cause. She has done things the Unity would call monstrous. She knows this. She considers them necessary, and she has made peace with that many would find morally uncomfortable 
+Circe Lovelace is a short, serious, dark-skinned human woman with close-cropped hair. She is one of the original founders of the Cabal and one of its inner circle members, classed as an Oath of Devotion Paladin — her devotion is to the Unity itself, elevated to the status of a sacred cause. She has done things the Unity would call monstrous. She knows this. She considers them necessary, and she has made peace with that many would find morally uncomfortable 
 
 She is not a fanatic in the brittle sense. She is a true believer in the considered sense: she has thought through the implications of her position carefully and arrived at convictions rather than rationalizations. She cares deeply for her subordinates. She is calm in adversity because she planned for adversity. She has a standing escape protocol and will execute it regardless of how any encounter ends; she will not die in any single confrontation.
 
@@ -1223,16 +887,16 @@ The Crossing is organized into five acts and twenty-three numbered chapters, wit
 
 **Interlude: The Return** *(between Acts III and IV)*
 
-Covers the party's return voyage, debriefing, and transition into Act IV downtime. Levels 12 and 13 are both awarded across this transition; see **Milestone Leveling** below.
+Covers the party's return voyage, debriefing, and transition into Act IV downtime. Level 12 is awarded at the end of Act III (departure from Jindark, or end of the Assault on the Citadel); Level 13 is awarded at the end of The Return Interlude. See **Milestone Leveling** below.
 
-**Act IV: Rebellion** *(Levels 13–16)*
+**Act IV: Rebellion** *(Levels 13–17)*
 
 | Chapter | Title | Ends When |
 |---------|-------|-----------|
 | 15 | Unfinished Business | Council meeting resolves |
 | 16 | The New Front | Party arrives at Tikatowa |
-| — | *Interlude: A Fine Shindig (Optional)* | Governor's mansion or Ministry building arc resolves |
 | 17 | Of Gods and Men | The Unity springs the trap |
+| — | *Interlude: A Fine Shindig (Optional)* | Governor's mansion or Ministry building arc resolves |
 | 18 | Death Comes for the Old Gods | Confrontation with the Unity resolved |
 
 **Act V: Twilight of the Old Gods** *(Levels 17–20)*
@@ -1256,29 +920,29 @@ The table below is the baseline. Experienced DMs may adjust triggers to match th
 | Level | Trigger | At the End of |
 |-------|---------|---------------|
 | 1 | Start of adventure | — |
-| 2 | Oracle's charge accepted; the Circle departs Dremma | Chapter 1 |
-| 3 | Arrival at Hellie's cottage; first foot in the Sacred Lands | Chapter 3 |
-| 4 | Communing ritual received; the Old Man's warning heard | Chapter 4 |
-| 5 | Return to the Archipelago; Act I complete | Chapter 5 |
-| 6 | First Crossing complete; Hope's commission accepted | Chapter 6 |
-| 7 | Training complete; the Circle departs for the Unity | Chapter 7 |
-| 8 | Daliketh resolved; departure for Balnor secured | Chapter 10 |
-| 9 | Balnor operations complete; departure for Jindark | Chapter 11 |
-| 10 | Jindark fully mapped; rescue plan in hand | Chapter 13 |
-| 11 | Huma freed | Chapter 14 |
-| 12 | Return to the Archipelago with proof | The Return Interlude |
-| 13 | Debriefing complete; downtime ends; Act IV begins | Start of Act IV |
-| 14 | Council meeting resolved | Chapter 15 |
-| 15 | Unity trap for Carnuth confronted; outcome known | Chapter 17 |
-| 16 | Confrontation with the Unity resolved; Act IV complete | Chapter 18 |
-| 17 | Act V begins | Start of Act V |
-| 18 | Passage to Cyrencia opened | Chapter 19 |
-| 19 | Cyrencia revealed to the people of the Isles | Chapter 20 |
-| 20 | Arrival at the Godshome | Start of Chapter 21 |
+| 2 | The Circle departs Dremma | Chapter 1 |
+| 3 | The party arrives at Hellie's Cottage | Chapter 3 |
+| 4 | The Summoning Ritual received; Droma's warning heard | Chapter 4 |
+| 5 | Hope communed with for the first time | Chapter 6 |
+| 6 | The training arc completed | Chapter 7 |
+| 7 | The party leaves Kelpie's Isle | Chapter 8 |
+| 8 | The party departs Daliketh | Chapter 10 |
+| 9 | The party leaves Balnor | Chapter 11 |
+| 10 | Rescue plan for Huma settled; contacts activated | Chapter 13 |
+| 11 | Huma freed | Mid-Chapter 14 |
+| 12 | The party departs Jindark | End of Act III / End of Assault on the Citadel |
+| 13 | The party returns to the Archipelago | The Return Interlude |
+| 14 | Debrief complete; preparations to meet Harmony concluded | Start of Chapter 16 |
+| 15 | Carnuth attacks the mine; the four-week clock begins | Chapter 17 |
+| 16 | All missions resolved; confrontation with the Unity staged | A Fine Shindig / Start of Chapter 18 |
+| 17 | Confrontation between Unity and Carnuth resolved | Chapter 18 |
+| 18 | The passage to Cyrencia opened | Chapter 19 |
+| 19 | Cyrencia manifested in the Isles | Chapter 20 |
+| 20 | The Five Ordeals completed | Chapter 21 |
 
-**Levels 12 and 13** are awarded in close succession at the Act III/IV boundary — 12 at the conclusion of the Return Interlude, 13 as the debriefing ends and downtime begins. The party earns two levels within days of each other at the adventure's midpoint, reflecting the scale of what has been accomplished: freeing an Old God, surviving the Unity, and returning home with proof.
+**Level 12** fires at the end of Act III — when the party departs Jindark, or at the conclusion of the Assault on the Citadel interlude for parties that run it. **Level 13** fires at the end of The Return Interlude, when the party arrives back in the Archipelago. The two levels are separated by the journey home rather than earned simultaneously.
 
-**Level 20** is awarded upon *arriving* at the Godshome — not upon completing the journey there. Levels 17–19 power the party through Act V's escalating demands; Level 20 marks the arrival at the final threshold.
+**Level 20** fires at the completion of the Five Ordeals — the final act of Chapter 21. Level 17 is the last Act IV milestone, earned at the conclusion of Chapter 18. Levels 18–20 carry the party through Act V.
 
 ---
 
@@ -1290,7 +954,7 @@ Optional interludes are self-contained arcs that branch off the main chapter spi
 
 **Timing:** Interludes occur within their adjacent chapter's in-world timeframe. The Rescue Mission (Act II) triggers and resolves during the Daliketh period. A Fine Shindig (Act IV) is available during the Tikatowa downtime.
 
-**Leveling:** The milestone table does not change based on whether interludes are run. Optional content provides tactical advantage, NPC relationships, and intelligence — not advancement.
+**Leveling:** The milestone table does not award additional levels for optional interludes. Two exceptions: Level 12 fires at the end of the Assault on the Citadel (rather than the end of Chapter 14) for parties that run it; Level 16 fires at the end of A Fine Shindig (rather than the start of Chapter 18) for parties that run it. In both cases the party earns the same level regardless — the interlude only shifts when within that act it fires.
 
 ---
 
@@ -1835,7 +1499,7 @@ The party boards the ship and departs Dremma. The Oracle's charge has been accep
 
 ---
 
-## Chapter 2: First Voyages *(Levels 2–3)*
+## Chapter 2: First Voyages *(Level 2)*
 
 ### Chapter Summary
 
@@ -2428,7 +2092,7 @@ She will answer honest questions. On Droma's request about the western Old Gods:
 
 ---
 
-## Chapter 5: There, and Back Again *(Levels 3–4)*
+## Chapter 5: There, and Back Again *(Level 4)*
 
 The party returns through the old-growth forest to Keshigo, calls the ship, and waits four days for it to arrive. The wait is not uneventful. Act I ends when they board.
 
@@ -2524,8 +2188,6 @@ Tavan Holt greets the party without ceremony and asks if they are ready to go. H
 The party boards. Keshigo shrinks behind them.
 
 > *The settlement gets smaller until it is a smudge on the coast, and then the coast is a dark line, and then the Sacred Lands are behind you and there is only open water. The wind catches and Pale Current runs fast atop the waves. The sky is clear. *
-
-**Level 5 milestone.** Act I is complete.
 
 *The party carries: Hellie's Summoning ritual, Droma's Crossing ritual, the name of Hope, and the Old Man's warning about the Old Gods' deliberation. They carry what Tinsel told them. They carry the knowledge that the Unity's reach extends further than they were told.*
 
@@ -2701,7 +2363,7 @@ After they have spoken, she asks directly: are they willing to take on this ques
 
 After the meeting, the Oracle tells the party they have a week before they are expected in Heida. They may tell people they are going on a mission to the Unity, but she asks them to keep the specifics private. She expects the secret to leak eventually.
 
-**Level 6 milestone.** The Circle has committed.
+**Level 5 milestone.** Hope is communed with for the first time.
 
 *The week of downtime:* Standard PHB Chapter 8 rules apply. Sanctuary is small and quiet — rice farms, the pagoda sect's household, the road. Dremma is a day's travel if needed. The DM may offer one or two brief roleplay scenes — a visit to someone the PC cares about, a conversation with Malachite or Belladonna, a quiet moment at the pagoda — but the week moves at low pressure.
 
@@ -2727,7 +2389,7 @@ After the meeting, the Oracle tells the party they have a week before they are e
 
 ---
 
-## Chapter 7: An Education *(Levels 6–7)*
+## Chapter 7: An Education *(Levels 5–6)*
 
 ### Chapter Summary
 
@@ -2842,7 +2504,7 @@ The road that leads here from Dremma is not marked on any public map. The villag
 
 **Departure day:** Malachite sees the party off. He does not give a speech. He tells them they are as ready as he can make them and that he will be here when they return.
 
-**Level 7 milestone.** Six months of preparation. The party walks out of Heida for the last time.
+**Level 6 milestone.** The training arc is complete. The party walks out of Heida for the last time.
 
 *Transition to Chapter 8: Kelpie's Isle.*
 
@@ -2867,7 +2529,7 @@ The road that leads here from Dremma is not marked on any public map. The villag
 
 ---
 
-## Chapter 8: Kelpie's Isle *(Levels 7–8)*
+## Chapter 8: Kelpie's Isle *(Levels 6–7)*
 
 ### Chapter Summary
 
@@ -3226,7 +2888,7 @@ The party must decide what to do with the Errant Venture and its surviving crew.
 
 ---
 
-## Chapter 10: A World So Strange *(Level 7)*
+## Chapter 10: A World So Strange *(Levels 7–8)*
 
 ### Chapter Summary
 
@@ -3457,7 +3119,7 @@ Act III takes the party into the interior: through Balnor, the capital, which is
 
 ---
 
-## Chapter 11: The Great Work *(Level 8)*
+## Chapter 11: The Great Work *(Levels 8–9)*
 
 ### Chapter Summary
 
@@ -3651,7 +3313,7 @@ He makes his case plainly: the Congress made him useful during their war against
 - *The Secret of Steel* — Once per day, for 1 minute, one weapon the bearer holds gains a +1 bonus to attack and damage rolls (maximum total bonus +5).
 - *Retribution* — Once per battle, as a bonus action, the bearer may make one weapon attack against a creature that attacked them since the start of their last turn.
 
-Boons are permanent innate abilities requiring no spell slots or material components. Full stat block entries to be written when Revna's boon entries are added.
+Boons are permanent innate abilities requiring no spell slots or material components.
 
 He opens a portal home. Before the party steps through: *"Don't waste my time."*
 
@@ -3873,8 +3535,6 @@ What each contact contributes to the strike:
 
 Zero contacts means the strike runs at worst conditions — full Cabal presence, no map, no timing intelligence, all prepared hazards active. Each contact removes one major disadvantage. The party makes their own choices; the consequences follow.
 
-**Level 10 milestone.** Fires when the party has their plan and their contacts are activated: Jindark fully mapped; rescue plan in hand. This represents the investigation's completion, not the first blow of the strike.
-
 *Transition to Chapter 13: Beneath the Waves.*
 
 ---
@@ -3892,7 +3552,7 @@ Zero contacts means the strike runs at worst conditions — full Cabal presence,
 
 ---
 
-# Chapter 13: Beneath the Waves *(Level 10)*
+# Chapter 13: Beneath the Waves *(Levels 9–10)*
 
 ## Chapter Summary
 
@@ -3900,7 +3560,7 @@ The operation runs tonight. The contacts the party built in Chapter 12 are not p
 
 Three zones: the Surface (lighthouse exteriors, projector locations), the Interior (service corridors, turbines, monitoring station, guard posts), the Deep (submerged tunnel and pressurized chamber). The Zone 3 final combat is the chapter's climax. After it, both projectors go down. Huma begins to clear. The freeing itself — Huma coherent, the breach choice, the coda — is Chapter 14.
 
-No milestone leveling in this chapter. Level 11 fires in Chapter 14 when Huma is freed.
+Level 10 fires at the close of this chapter, when the rescue plan is settled and contacts are activated. Level 11 fires in Chapter 14 when Huma is freed.
 
 **Characters introduced:** Irena Doss (named operative; Zone 3), Calder Mun (arcane operative; Zone 3), Tor Veskin (martial operative; Zone 3). Huma is briefly present in his pre-projector state — confused, fragmented, atmospheric.
 
@@ -4007,7 +3667,9 @@ She will answer a limited set of questions: what the Citadel is, who leads the J
 
 He has not spoken yet. That is Chapter 14.
 
-*No milestone fires in this chapter. Transition to Chapter 14: Freedom.*
+**Level 10 milestone.** Fires when the rescue plan is settled and the contacts are activated: the investigation is complete and the strike is ready. This milestone fires before the operation begins — not when the first blow lands.
+
+*Transition to Chapter 14: Freedom.*
 
 ---
 
@@ -4022,7 +3684,7 @@ He has not spoken yet. That is Chapter 14.
 
 ---
 
-# Chapter 14: Freedom *(Level 10 → Level 11)*
+# Chapter 14: Freedom *(Levels 10–12)*
 
 ## Chapter Summary
 
@@ -4036,7 +3698,7 @@ After the breach: the city sees what happens. The extent of the damage is a dire
 
 *Characters appearing: Huma (coherent; full encounter). All four Jindark contacts reappear depending on the party's escape choices.*
 *No new characters introduced.*
-*No milestone fires prior to Level 11. No Appendix B entries for this chapter. Circe Lovelace will be written with the Optional Interlude.*
+*Level 11 fires mid-chapter when Huma is freed; Level 12 fires at chapter close when the party departs Jindark (or at the close of the Assault on the Citadel for parties that run it). No Appendix B entries for this chapter. Circe Lovelace is written with the Optional Interlude.*
 
 ---
 
@@ -4127,6 +3789,8 @@ No prescribed route. The DM presents the available options based on what the par
 
 **By air — Citadel infrastructure.** If the party did not destroy the Citadel, the ridgeline facility has incomplete but potentially functional airship infrastructure. Reaching it requires moving through a now-monitored area. Operating the equipment requires someone capable of managing it, or the time to learn. The Cabal will know what left from where. This option is available only if the Citadel was spared. The fuller version of this route — involving a trained crew and the Middle Sea crossing — is covered in the Act III–IV Interlude.
 
+**Level 12 milestone.** Fires when the party departs Jindark. For parties who run the Assault on the Citadel, Level 12 fires at the close of that interlude instead.
+
 *Chapter ends when the party has departed Jindark. Transition to Optional Interlude: Assault on the Citadel — or, if the party does not attack the Citadel, directly to Act III–IV Interlude: The Return.*
 
 ---
@@ -4193,7 +3857,7 @@ The deepest level. The intelligence repository. Circe's office. The final confro
 
 **Circe Lovelace** and 2 lieutenants. Use the Appendix B entry for Circe; use the modified Veteran profile (same as Area 2 guards) for the lieutenants.
 
-Circe is an original founder of the Cabal and a member of its inner circle — an Oath of Devotion Paladin whose devotion is the Unity itself, elevated to the status of a sacred cause. She has done monstrous things. She knows it. She considers them necessary and has made peace with that. She deeply cares for her subordinates; killing one in her presence sends her into cold rage.
+Circe is one of the original founders of the Cabal and a member of its inner circle — an Oath of Devotion Paladin whose devotion is the Unity itself, elevated to the status of a sacred cause. She has done monstrous things. She knows it. She considers them necessary and has made peace with that. She deeply cares for her subordinates; killing one in her presence sends her into cold rage.
 
 This fight is structurally different from Zone 3 of Chapter 13. The pressurized chamber was a kill zone built for intruders. Area 3 is Circe's home ground — optimized for operations, not defense. She is not trying to kill the party. They are more useful as interrogatees, and she has not yet abandoned that preference. But her priority is the archive, and she knows exactly how long she has.
 
@@ -4229,6 +3893,8 @@ The ridgeline explosion is visible from the entire city. If the party has not ye
 |---|---|---|
 | Circe Lovelace | Cabal regional leader; final confrontation; negotiation; escape | Combat; human female; returns in Act IV |
 
+**Level 12 milestone.** Fires when the interlude concludes and the party departs Jindark. For parties who skip the Assault on the Citadel, Level 12 fires at the close of Chapter 14 instead.
+
 ---
 
 # Act III–IV Interlude: The Return
@@ -4257,7 +3923,7 @@ Three paths back to the Archipelago. The party may pursue any one, or a combinat
 Retrace the Wayfinder network's route in reverse: rail from Jindark to Balnor, aerodrome to Daliketh, Kaman's network to the next outbound ship.
 
 **Jindark to Balnor.**
-If Huma was freed without catastrophic harbor damage and the Citadel was not destroyed: a narrow window remained on Day 1 of the post-freeing timeline. The rebellion and criminal network contacts could get the party onto a northbound train before it closed. Once it closed, rail service from Jindark was suspended for approximately a week. When it resumes, checkpoint scrutiny approaches the impenetrable — only exceptional cover work carries the party through.
+If Huma was freed without catastrophic harbor damage and the Citadel was not destroyed: a narrow window remained on Day 1 of the post-freeing timeline. The rebellion and criminal network contacts could get the party onto a southbound train before it closed. Once it closed, rail service from Jindark was suspended for approximately a week. When it resumes, checkpoint scrutiny approaches the impenetrable — only exceptional cover work carries the party through.
 
 If the Citadel was also destroyed: the rail window effectively did not exist. The explosion was visible from the city and Advocate response began within hours. Both incidents compound the scrutiny. Escape via rail without active contact support was not viable in the immediate aftermath.
 
@@ -4359,7 +4025,7 @@ If the party hires independently: possible, but very difficult in the current ch
 
 *Balnor:* Fully equipped, no supply constraints. News from Jindark will have arrived. Scrutiny at the aerodrome is significant; the party will face questions about cargo, route, and credentials.
 
-*Bashere:* A large manufacturing city on Lake Janelia in the central hills region — considerably further south than the route the party knows. Low alert probability; a trained crew will know the route and can advise on feasibility.
+*Bashere:* A large manufacturing city on Lake Janelia in the western hill country — west of Balnor and considerably further south than the rest of the route the party knows. Low alert probability; a trained crew will know the route and can advise on feasibility.
 
 **Military patrols.** A Unity military patrol may intercept the party in transit. Military vessels communicate by semaphore and will ask the party to identify themselves, state their cargo, and declare their destination. Failure to respond convincingly results in a boarding action. The military vessel is armed with cannon; the party's vessel is not. This is not a fight designed to be won. The party's best tools are compliance, preparation, and a coherent cover story.
 
@@ -4415,6 +4081,8 @@ If the terms are met: Beldwin puts his associates to work on the party's commiss
 
 At the close of the debriefing, the oracle announces she has called a full meeting of the Council. The date is set for two weeks from today. She asks the party to prepare a formal report. She would like to meet with them beforehand to review what they plan to say; the advisors present will be available at that preparation meeting as well.
 
+**Level 13 milestone.** The debriefing concludes and the Oracle announces the Council meeting. The party has returned to the Archipelago. The Return Interlude ends here.
+
 *This meeting ends the interlude. Act IV begins with the two-week downtime period and the Council meeting.*
 
 ---
@@ -4436,7 +4104,7 @@ At the close of the debriefing, the oracle announces she has called a full meeti
 ---
 # ACT IV: REBELLION
 
-*Levels 11–16*
+*Levels 13–17*
 
 The party returns to the Archipelago as people who have done something that no one here fully understands yet. The Council will ask them to explain it. What they say, and how they say it, will determine what the Isles does with the answer — and the Old Gods in the east are not waiting on the Archipelago's deliberations.
 
@@ -4445,13 +4113,13 @@ Act IV is the campaign's turn from operation to consequence. The party moves fro
 **Act IV Chapters:**
 - Chapter 15: Unfinished Business
 - Chapter 16: The New Front
-- *(Optional Interlude: A Fine Shindig)*
 - Chapter 17: Of Gods and Men
+- *(Optional Interlude: A Fine Shindig)*
 - Chapter 18: Death Comes for the Old Gods
 
 ---
 
-# Chapter 15: Unfinished Business *(Level 11 → Level 12)*
+# Chapter 15: Unfinished Business *(Levels 13–14)*
 
 ## Chapter Summary
 
@@ -4459,7 +4127,7 @@ Act IV opens not with action but with reckoning. The party has returned from the
 
 A fourteen-day period follows — the campaign's longest unstructured stretch — structured around faction encounters, personal connections, and the commissioned items and alliances the party wants to carry into what comes next. The chapter builds to the full Council session: every faction leader on the Isles in one room, the party giving a formal account of what they found, and the Oracle's pronouncement at the session's close. Harmony — the spirit of Cooperation — is calling, and she will accept only a single offering: the unified voice of the assembled factions, speaking through the party. The chapter closes when the Communing ritual completes.
 
-**Level 12 milestone.** Fires when Harmony accepts the offering and the Communing ritual completes.
+**Level 14 milestone.** Fires when Harmony accepts the offering and the Communing ritual completes. The debrief is done and preparations to meet Harmony are concluded; the party stands at the threshold of Act IV's mission phase.
 
 *Characters appearing: Urdo Vhane, Morning Wren, Belladonna, the Oracle, Vinna Maar, Tarak Maal, all named faction leaders, Cassiel (Troubadours). Harmony appears at the chapter's close.*
 *New characters introduced: Kamena (halfling, Concordat leader; session facilitator); Cassiel (Troubadours); Harmony (belief-spirit).*
@@ -4908,7 +4576,7 @@ In both cases: each faction leader will agree if approached respectfully and if 
 
 The Crossing leads to Harmony's domain. What the party finds there is the threshold of Chapter 16. *(The chapter closes here.)*
 
-**Level 12 milestone.** Fires when Harmony accepts the offering and the Communing ritual completes. Level 13 fires at the opening of Chapter 16.
+**Level 14 milestone.** Fires when Harmony accepts the offering and the Communing ritual completes.
 
 ---
 
@@ -4944,7 +4612,7 @@ The DM should treat the feast as open social roleplay. No structured scenes. Eve
 
 ---
 
-# Chapter 16: The New Front *(Level 13 → Level 14)*
+# Chapter 16: The New Front *(Level 14)*
 
 ## Chapter Summary
 
@@ -4952,8 +4620,7 @@ The Communing ritual from Chapter 15 leads directly into Harmony's domain — a 
 
 Returning, the party reports to the Oracle; the response is immediate. The mission is approved, no debate remains. The planning meeting at the Wayfinders' Lodge in Heida sets operational parameters: support options differ depending on whether Maritas was freed, and the destination is identified as Tikatowa — the Unity's primary colonial hub in the east, layered over sixty-plus years of contested history. A month-long sea voyage follows. The chapter closes when the party takes their first committed step toward one of the three factions defining Act IV's structure.
 
-**Level 13 milestone.** Fires at the chapter's open — when the party enters Harmony's domain, the threshold of Act IV is crossed.
-**Level 14 milestone.** Fires when the party makes first substantive contact with a faction: approaches the Colonial Authority's Field Teams formally, establishes contact with Kalameris's people, or performs the first ritual toward Carnuth.
+**Level 14 milestone.** Fires at the chapter's open — when the party enters Harmony's domain and the Communing ritual concludes. Act IV's mission phase begins here.
 
 *Characters appearing: Harmony, the Oracle, Vinna Maar, Malachite, Morning Wren, Watch-Captain Delmar Fel (Maritas freed) or Yasme Stoneheart (Maritas not freed).*
 *New characters introduced: Harmony (belief-spirit, first full encounter); Watch-Captain Delmar Fel (half-elf male, Seawatch); Yasme Stoneheart (dwarf female, Tidecallers). Tikatowa NPCs are social environment rather than individual characters.*
@@ -5116,8 +4783,6 @@ The shantytown growing on the city's outskirts is predominantly Shigori — peop
 
 *Chapter ends when the party takes their first committed step toward one of the three.*
 
-**Level 14 milestone.** Fires when the party makes first substantive contact with a faction: approaches the Field Teams formally, reaches someone who can put them in contact with Kalameris, or performs the first ritual toward Carnuth.
-
 ---
 
 ## Chapter 16 NPC Summary
@@ -5134,6 +4799,254 @@ The shantytown growing on the city's outskirts is predominantly Shigori — peop
 
 ---
 
+# Chapter 17: Of Gods and Men *(Level 14 → Level 15)*
+
+### Chapter Summary
+
+The party works the factions of Tikatowa against a four-week clock. Three paths are available — the Colonial Authority's Field Teams, King Kalameris's resistance network in the Wildwood, and Carnuth himself through a Communing ritual in the deep interior. The paths are not mutually exclusive and the party may attempt to work more than one, though time constraints make covering all three difficult. Each faction has two missions; completing both establishes the relationship that determines what intelligence the party holds going into Chapter 18.
+
+At the end of Week 2, Carnuth attacks a recently established mining operation in response to the mine's runoff poisoning a local waterway. The smoke is visible from Tikatowa. This event fires regardless of which faction the party is engaged with and marks the moment the investigation becomes a race.
+
+**Level 15 milestone.** Fires when the party first learns of Carnuth's attack on the mine.
+
+*Characters returning: Watch-Captain Delmar Fel (if Maritas freed) or Yasme Stoneheart (if not) — available for extraction if needed. Morning Wren's advice applies: the spirits of the Sacred Lands are active and present.*
+*Characters appearing this chapter: King Kalameris, Takowa, Carnuth, Sima (the Witch of the Six Stones). Stat blocks in Appendix B.*
+
+---
+
+### DM Setup: The Four-Week Timeline
+
+Before running any part of this chapter, establish the party's faction choice and any cross-faction complications. The timeline below is fixed; the party's choices determine what information they hold at each checkpoint.
+
+| Week | Fixed Event | Colonial Authority | Kalameris | Carnuth |
+|---|---|---|---|---|
+| 1 | *(Chapter 16 — arrival and first contact)* | Cover established; Field Team intake | Wilderness approach begins | Communing ritual preparation |
+| 2 | **Carnuth attacks the mine (end of week)** | Mission 1: The Courier Run | Approaching Takowa and Kalameris | Communing ritual; Carnuth's domain |
+| 3 | Governor's reception (see Optional Interlude: A Fine Shindig) | Mission 2: The Insurgent | Mission 1: The Mine; Mission 2: The Kidnapping | Sima's tasks |
+| 4 | **Cabal puts plan into motion (Chapter 18)** | — | — | — |
+
+**Cross-path notes.** A party pursuing the Authority path cannot easily pivot to Kalameris once publicly established as Field Team agents. A party that contacts Carnuth before the end of Week 2 can warn mine workers in advance, sparing some lives — they cannot stop the attack, only reduce its cost. A party working Kalameris and Carnuth simultaneously gains the most complete picture but risks missing the Week 4 window. Sima's delivery task (Carnuth path, Task 3) functions as a direct introduction to Kalameris for a party that has not yet approached him; with Carnuth's letter in hand, Takowa escorts them without hesitation.
+
+---
+
+### The Week 2 Event: Carnuth's Attack
+
+At the end of Week 2, a plume of smoke rises from the mountains northeast of Tikatowa. Authority constables receive word before nightfall: a mining operation in the interior was attacked. Significant loss of life. No human or Unity force was responsible.
+
+From the perspective of every faction in the city, this event changes the calculus.
+
+**The Authority** treats it as terrorism. Mission 2 (The Insurgent) accelerates; anti-Shigori sentiment in the government precinct spikes. A party on the Authority path is briefed by their Field Team handler with new urgency.
+
+**Kalameris's sympathizers** in the city are quietly satisfied and carefully silent about it. Kalameris himself, if the party has reached him, is calm and unsurprised. He considers it just. He also notes that Tikatowa is next — approximately one month from the party's arrival — unless the situation changes.
+
+**Shigori residents** who were uninvolved are frightened, not of Carnuth, but of the Authority's response. Movement begins in the shantytown.
+
+If the party contacted Carnuth before the end of Week 2, they had the opportunity to warn the mine's workers. He gave them the information needed to reach the mine in advance. He did not delay the attack. Some lives were spared; the attack happened regardless.
+
+**Level 15 milestone.** Fires when the party first learns of the attack — from a field handler, a contact in the city, or a spirit-world disturbance they perceive directly.
+
+---
+
+### Path 1: The Colonial Authority
+
+**DM Note: Cover Identity**
+
+The Authority does not permit practitioners among its agents, even in the more permissive colonial environment. The party's cover must be plausible and must not reference magic. Workable options: traveling merchants or independent contractors with documented Unity-standard credentials; refugees seeking integration; former Unity military on a private contract. The cover determines which tier of the Authority the party interacts with and what complications arise when their actual capabilities become visible under pressure. Scrutiny scales with how long the party has operated under cover and how many witnesses have seen them use abilities the Unity prohibits. The party's handler is aware that Field Teams occasionally attract people with unusual skills; the institutional line is that such abilities are "not officially present."
+
+---
+
+#### Mission 1: The Courier Run
+
+The party is assigned to deliver a message to the foreman of a mining operation in the eastern interior. The route takes them through territory bordering Kalameris's domain. The mission is routine from the Authority's perspective; from the party's perspective, it is their first direct look at what the resourcing operations have built.
+
+**The interior route.** Two days on foot or horseback from Tikatowa. The road narrows to a track before it reaches the interior, passing through farmland that grades into the beginnings of the Wildwood. A Unity Authority patrol operates in this area — four constables and a sergeant, professional and thorough. They will stop travelers and request documentation. The party's Field Team credentials satisfy this; the sergeant will note who they are. (On the Kalameris path, this same patrol is an obstacle rather than a formality.)
+
+**The mine.** The operation is larger than anything the party passed through on the way from Tikatowa: two hundred workers, a Unity company supervisor, six foremen, a constable detachment for security. Gold and gems extracted from the mountain veins. The runoff channel is visible from the access road — grey-brown effluent flowing downhill toward a tributary stream. The stream below the discharge point is visibly dead.
+
+A Shigori labor crew works a surface vein near the access road. They do not speak to the party unprompted. Any party member who speaks with them privately — not in earshot of the foremen — will find them willing to answer direct questions in measured terms. They have been here eight months. No, they do not live on site. Yes, the stream was clean before. They don't know what the grey water is made of.
+
+The foreman accepts the message, confirms receipt in writing, and asks if the party is staying the night. There is no reason to; there is also nothing that prevents it.
+
+**The return.** Straightforward. The party's report to their handler is the delivery confirmation and anything they observed. The handler files it; any observations about the mine's conditions are noted and not acted on. Mission complete.
+
+---
+
+#### Mission 2: The Insurgent
+
+The party is tasked with locating and capturing the leader of an insurgent cell operating inside Tikatowa. The cell has been responsible for at least three acts of theft and sabotage in the dock district over the past six weeks. The Authority has a general profile — Shigori, mid-twenties to mid-forties, familiar with dock district operations — but no name.
+
+**Finding the cell.** DC investigation sequence in Shigori-heavy districts:
+
+- *DC 14 Investigation (Tikatowa generally):* The sabotaged warehouses shared something in common beyond their targets — grain stores, not general cargo. Someone is taking food, not money.
+- *DC 15 Investigation (dock district, Shigori contacts):* The cell operates out of a contact point in the lower market — a produce stall. The stall holder is not the leader.
+- *DC 13 Persuasion or Insight (stall holder, if approached without hostility):* She knows the party is asking the wrong question. She will say this, and nothing more.
+- *DC 16 Investigation (following the supply trail):* The grain is going to the shantytown.
+
+The cell leader is a Tantori man in his late thirties named Orren. He is not a militant. He organized the thefts because the shantytown population cannot afford market prices since the last agricultural export quota doubled. He has Kalameris contacts but receives no direct support from the interior.
+
+**Resolution options.** The Authority wants Orren captured and delivered for processing. The party has latitude in how they accomplish this.
+
+- *Capture and deliver:* Orren does not resist violently. He will ask them, without heat, how they live with it. The Authority thanks the party; Orren disappears into the Authority's detention system.
+- *Bluff and release:* The party can tell their handler they found the cell but the leader escaped — DC 13 Deception. They will be believed once; the handler is annoyed but does not press.
+- *Tip-off (Kalameris path):* If the party is also working toward Kalameris, they can warn Orren before the Authority acts. He goes to ground; his contacts in the interior are activated. This functions as a strong introduction to Kalameris's sympathizer network and grants a DC -3 advantage on approaching Kalameris's people.
+
+**Governor's reception.** Completing Mission 2 — regardless of how it is resolved — earns the party an invitation to the governor's reception. Their Field Team handler delivers it personally. See Optional Interlude: A Fine Shindig.
+
+---
+
+### Path 2: King Kalameris
+
+#### The Wilderness Approach
+
+Reaching Kalameris requires entering the Wildwood without a cover that explains the trip to Authority patrols. The party will pass through the same patrol zone as the Authority's Courier Run route. On the Kalameris path, this patrol is an obstacle: the party's documentation does not explain a journey into the interior with no commercial destination. Options: avoid the patrol (*DC 14 Stealth*), bluff through (*DC 17 Deception* — the absence of a destination is a significant problem), or bypass via the Wildwood fringe at the cost of half a day.
+
+**Deeper into the interior.** The Wildwood's character changes as the party moves away from developed land. Any party member who can perceive the spirit world will notice: the boundary between the physical and spirit world is thinner here than anywhere they have been in the Isles, and considerably thinner than Tikatowa. Minor spirits are visible without effort. The land reads as inhabited in a way that has nothing to do with its mortal population.
+
+Kalameris's scouts find the party before the party finds them. Three hobgoblin scouts, well-positioned, weapons visible but not drawn. They are assessing. What the party does in the next few moments determines the tone of everything that follows.
+
+---
+
+#### Meeting Takowa
+
+The scouts escort the party to an interior camp where **Takowa** waits. He is a hobgoblin champion in his mid-forties, scarred from two decades of irregular warfare. His job is to assess threats and visitors to the region — by asking hard questions and watching how people answer them, not by what they say. His passive Insight is 18; a partial truth is worse than no explanation.
+
+Honesty is the best approach.
+
+A party member who knows hobgoblin culture may recognize that a direct challenge to Takowa for a ritual duel is the most direct way to establish credibility. *DC 15 History check* to know this without being told. The duel is to first blood only; a willing loss is acceptable but less impressive than a genuine effort. Takowa respects the challenge regardless of outcome. Refusing to engage after the challenge is made damages the party's standing significantly.
+
+If the party passes Takowa's assessment — by honesty, by the ritual duel, or some combination — he agrees to take them further. He sends two scouts ahead.
+
+---
+
+#### Meeting Kalameris
+
+**King Kalameris**'s stronghold is a series of connected structures built into a hillside near a river — not a castle but not a camp; something that has been inhabited and maintained for thirty years. The population inside is mostly Tantori and Zatai, with a significant proportion of other Shigori peoples.
+
+Kalameris is a wild elf king in his late fifties. He has the economy of movement of someone who has spent decades not wasting energy. He listens more than he speaks. When he speaks, it is in complete sentences.
+
+**The persuasion challenge.** Kalameris requires substantial convincing before he will speak candidly. Three things move him:
+
+*Honesty about origin.* Revealing that the party is from the Isles — which the people of the region regard as a mythical land of practitioners — carries particular weight precisely because it is such a dangerous thing to admit. He will test whether it is true. Any party member who demonstrates an ability the Unity prohibits: he nods once and says nothing.
+
+*Knowledge of Carnuth's situation.* If the party knows about the attack on the mine and its cause — from their own Carnuth contacts, from the spirit world, or from Shigori informants — citing this accurately signals genuine engagement with the region's actual problem.
+
+*Sima's letter (if carried).* If the party is traveling with Carnuth's sealed message to Kalameris (see Carnuth path, Sima's Task 3), it bypasses all other persuasion requirements. Kalameris reads the letter, sets it down, and begins speaking to the party as if they have already passed his tests.
+
+**What Kalameris tells them.** The resourcing operations have been accelerating for three years. The grain exports suppress local food security. The gold operations destroy waterways. He has been fighting a contained war because a larger conflict would kill more of his people than the status quo. Carnuth has no such constraint. Carnuth's patience has run out. If the party has any ability to affect what happens in the next month, they should use it.
+
+---
+
+#### Mission 1: The Mine
+
+Kalameris sends the party to plant an explosive device in one of the interior mining operations — not the same one Carnuth attacked, but the most recent expansion in the mountain range, which started operations six months ago. The device is provided: a compact clay canister with a fuse mechanism. The intent is to disrupt gold extraction and send a message about the cost of operating in contested territory.
+
+**The operation.** The mine operates around the clock with rotating shifts. Kalameris's intelligence on guard rotations is two weeks old — directionally accurate but not precise. The site: eight constables, two foremen, a survey engineer assessing a new vein. No civilian laborers are present overnight.
+
+Entry options: the ventilation shafts (*DC 14 Athletics*; uncomfortable, functional), the equipment storage entrance (padlock, *DC 12 Thieves' Tools*), or a bluff through the site entrance using documentation the party may hold from their Authority work.
+
+The device goes at the base of the main extraction shaft. The party has 15 minutes to exit once the fuse is lit. Timing the exit to avoid the incoming morning shift is important — a party that does not account for the shift will encounter twelve Shigori laborers arriving for work. Kalameris did not plan for this. He is not trying to kill workers.
+
+**The explosion.** The main extraction shaft collapses. Several days of lost production. The Authority's initial assessment will attribute it to Kalameris agents; they are correct. Kalameris's reaction on the party's return: brief satisfaction, then a return to planning.
+
+---
+
+#### Mission 2: The Kidnapping
+
+Kalameris has identified Vicona Praest — the Unity Minister of Justice, arriving with the official delegation for the governor's reception — as an intelligence target. He wants her brought to him for questioning; he believes she carries documentation connecting the colonial administration to the accelerating resourcing operations at the ministerial level.
+
+**The reception window.** Praest is most accessible during the governor's reception. A party that also received a Field Team invitation has legitimate access; see Optional Interlude: A Fine Shindig for the parallel operation. A party without Field Team standing must contrive access or intercept Praest en route to or from the residence. Praest's security: two Veterans (personal detail) attend her at all times during formal events. Outside the residence she moves with a single guard if the occasion is unofficial.
+
+**The alternative target.** If the party has identified Circe Lovelace among the arriving delegation, they can propose taking Circe instead. Kalameris is initially furious — he wants Praest's administrative intelligence. When the party explains who Circe is and what she represents (requires Citadel archive intelligence from Act III, or intelligence from the Fine Shindig), his interest sharpens. He agrees. He does not promise she will be more cooperative than Praest. Circe will escape before Act IV's culmination regardless; see Chapter 18.
+
+**Cross-faction note.** If the party is pursuing Praest for Kalameris while also holding Authority Field Team status, they are running a double cross. It is viable — it may be the intended play. It ends their Authority cover permanently and irreversibly.
+
+---
+
+### Path 3: Carnuth
+
+#### Finding Carnuth
+
+Both methods require the party to reach territory at least 25 miles from any developed area.
+
+**Option A: The Summons Ritual.** Requires knowing the location of Carnuth's place of power — a specific peak in the mountain range where the stone circle stands. This information can be gathered from Shigori residents in the city (*DC 16 Investigation*; *DC 12* if the party spent time in Shigori neighborhoods during Chapter 16 and built relationships there).
+
+**Option B: The Communing Ritual (preferred).** Carnuth opens a portal if approached correctly. Acceptable offerings — either suffices:
+
+- A share of a properly hunted animal; fresh-killed deer antlers are particularly well-suited.
+- The ritual destruction of a piece of developed land done in his name within the prior day, performed in a way that allows the land to return to its natural state.
+
+A party that has performed Communing rituals throughout the campaign will know the structure; Carnuth is a new recipient, but the form is familiar.
+
+---
+
+#### The Crossing
+
+Moonlight patterns on a stream surface shift into a path. Following them leads to the mouth of a great dark cave where no light sources function — torch, lantern, or magical — past the entrance. Inside the cave, the darkness is complete and warm, with the smell of earth and old rain.
+
+The cave opens into a moonlit clearing. Three great stags stand in a still pool. They are not moving. They are not statues.
+
+**The stag movement exercise.** When the party enters the clearing, the stags begin to move — slowly at first, then with increasing complexity. The exercise requires the party to match the stags' movements exactly. This is not a skill check. It is a sustained physical activity; the difficulty is concentration and attention, not ability. Any disruption — a dropped item, a distraction, a party member who breaks form — resets the pattern from the beginning.
+
+If all party members complete the exercise without disruption: a moonlit portal opens in the pool's surface. The offering is accepted. The pool does not get wet.
+
+If the party fails: they are outside the cave again. The offering remains accepted and does not need to be re-performed. They may re-enter the clearing and attempt again.
+
+---
+
+#### Carnuth's Domain
+
+A great open hilltop ringed by standing stones under a night sky. The stones are old; some are leaning; at least two have fallen. The moon above is enormous and intensely bright.
+
+Carnuth appears above the ring in the form of a great stag made of moonlight. He is approximately thirty feet tall. He is not threatening. He is simply there, the way mountains are there.
+
+He is pleased by the communing. He speaks through the party's direct perception — not words, precisely, but meaning received without ambiguity. He will speak at length if asked.
+
+**His position.** The resourcing operations have taken from the land without giving anything back for six decades. This is unacceptable. His patience is finished. He is going to act on this. He has already acted (the mine) and will act on the city itself in approximately one month from the party's arrival. He does not find this desirable. He finds it necessary.
+
+**What moves him.** Carnuth cannot be talked out of his position, and the party should not try. He will not respond to arguments about civilian casualties — he has thought about this more than they have — to appeals to the Oracle's authority, or to anything that asks him to accept the status quo. He will respond to one thing: a genuine solution that addresses the actual problem. Farming can continue; it cannot take more than the local population needs, and it cannot harm the surrounding environment. Mining in the Wildwood must stop entirely. If the party proposes something along these lines and means it — not as a negotiating position, but as a genuine commitment — he will hear it. He cannot implement any such agreement without the cooperation of the Colonial Authority or Kalameris; if the party can produce that cooperation, he will stand down.
+
+**If the party has Circe's papers.** Present the specific details of the trap to him now. He will listen to every word. Then he will refuse to enter the valley on the night of the full moon. His posture shifts from confrontation on his timeline to collaboration on theirs. This is Branch A in Chapter 18.
+
+**Direction to Sima.** If the party has not already found him, Carnuth directs them to his chief witch in a coastal village approximately 50 miles south of Tikatowa. He describes the village, the direction, and Sima's appearance. He asks the party to carry a message if they will.
+
+---
+
+#### Sima, the Witch of the Six Stones
+
+The village is a coastal settlement of approximately 300 people — Tantori, half-elf, and a handful of Wildlings. Small-scale farming, hunting, and fishing. No Unity presence; no fortification; the technology level is substantially simpler than anything the party has encountered since Hellie's village in Act I.
+
+**Sima** is a tall, broad-shouldered half-elf with a short grey beard and close-cropped hair, known throughout the region as the Witch of the Six Stones. He is the village's spirit-speaker: he maintains its relationships with local spirits and manages anything in the surrounding area that requires spiritual authority. He speaks loudly and directly.
+
+**First contact.** Sima is annoyed to meet the party. He did not ask for visitors. His annoyance lasts until he asks if he can examine them, which he does by holding each person's head still and looking into their eyes for an uncomfortable minute. If the party allows this: he announces they are acceptable, as they have "walked with many spirits." His annoyance dissipates and is replaced by cautious engagement. Carnuth's letter (if carried) moves him from cautious to quietly pleased. He will not say this.
+
+**His three tasks.** Sima will ask for these directly, without framing them as prerequisites.
+
+*Task 1 — The Freebooters.* A group of Unity-aligned freebooters has been raiding villages in the region — stealing livestock, ransacking homes, and moving before Shigori communities can respond. The group is approximately twelve strong, operating from a base camp in the foothills: three scouts, a core fighting group of six (Veterans, MM), and a leader (use Bandit Captain stat block, MM, +2 AC). The camp is not fortified but has good sight lines. The party may drive them off without killing; the objective is cessation. The freebooters carry Authority documentation that gives limited legal cover, but they are not Authority-sanctioned. Sparing the leaders and sending them toward Tikatowa ends the operation — it is no longer profitable.
+
+*Task 2 — The Elven Tomb.* An old tomb in the coastal hills has been drawing locals inside for three months. Those who enter do not come back; those who get close hear a voice calling their name. Two village residents are among the missing. Sima believes the tomb's occupant has been raising the dead as servants.
+
+The tomb: a single underground level. Entrance chamber; a false passage (*DC 13 Investigation* to identify); a main corridor with two alcoves holding animated skeletons (MM); a burial chamber where the primary occupant — a Wight (MM) with 20 additional HP from accumulated spiritual energy — waits. The two missing villagers are among the Wight's undead servants (use Zombie stat blocks). Freeing them from undeath is the preferable resolution; destroying them is acceptable if necessary.
+
+*Task 3 — The Letter.* Carnuth's sealed message for Kalameris. Sima has been holding it, waiting for an appropriate messenger. He asks the party to carry it to the Wildwood stronghold. He provides a route that avoids the Authority patrol zone. With the letter in hand, Takowa escorts the party without hesitation and Kalameris receives them immediately — this task functions as a strong introduction to Kalameris for a party that has not yet approached him.
+
+**Finding Carnuth through Sima.** After the party completes at least one task, Sima is willing to provide Carnuth's precise location — the stone circle on the peak, including a ritual phrase that opens the way to his domain without the stag crossing. He asks that they treat the location with discretion.
+
+---
+
+### Chapter 17 NPC Summary
+
+| NPC | Role | Notes |
+|---|---|---|
+| King Kalameris | Kalameris path leader; missions; debrief | Social; possible ritual combat via Takowa; stat block in Appendix B |
+| Takowa | Kalameris path gatekeeper; ritual duel | Social/combat; stat block in Appendix B |
+| Carnuth | Carnuth path — domain meeting; directs to Sima | Social only (this chapter); stat block in Appendix B; used as reference in Chapter 18 |
+| Sima, the Witch of the Six Stones | Carnuth path — three tasks; letter; Carnuth directions | Social/task-giver; stat block in Appendix B |
+| Orren | Authority Mission 2 target | Social only; no stat block |
+| Freebooter leader | Sima Task 1 | Use Bandit Captain stat block (MM) +2 AC |
+
+
+---
+
 # Optional Interlude: A Fine Shindig
 
 ## Interlude Summary
@@ -5144,7 +5057,7 @@ This interlude is the only reliable path to the documents that detail the Cabal'
 
 **How it runs.** Two tracks diverge depending on whether the party investigated the arriving delegation before the event. If they identified Circe in advance, they have time to plan a split operation: one group at the reception to maintain cover and manage Circe, another staging the caper at the Ministry building. If they arrive unprepared, Circe identifies them and engineers a private meeting — which is an ambush. Either way, the interlude ends when both the reception and the Ministry building arc have concluded or been abandoned.
 
-**No level milestone fires.** Interludes do not affect leveling.
+**Level 16 milestone.** Fires at the close of this interlude for parties that complete it. For parties who skip A Fine Shindig, Level 16 fires at the opening of Chapter 18.
 
 *Characters introduced: Vicona Praest (Unity Minister of Justice; Kalameris Mission 2 target). Stat block in Appendix B.*
 
@@ -5238,13 +5151,15 @@ The interlude ends when both the reception arc and the Ministry building arc hav
 
 | Result | Consequence |
 |---|---|
-| Papers secured; cover intact | Full intelligence advantage entering Chapter 17; party can still operate openly in Tikatowa |
+| Papers secured; cover intact | Full intelligence advantage entering Chapter 18; party can still operate openly in Tikatowa |
 | Papers secured; cover blown | Full intelligence advantage; party cannot operate openly for the remainder of Act IV |
-| Papers not recovered; cover intact | Party can still operate openly; entering Chapter 17 without operational knowledge of the trap |
-| Papers not recovered; cover blown | No intelligence; no open cover; hardest path into Chapter 17 |
+| Papers not recovered; cover intact | Party can still operate openly; entering Chapter 18 without operational knowledge of the trap |
+| Papers not recovered; cover blown | No intelligence; no open cover; hardest path into Chapter 18 |
 | Praest extracted (Kalameris Mission 2) | Partial intelligence; Kalameris's second mission complete; incomplete picture of the trap |
 
-*Whatever the party holds at the end of this interlude is what they bring to Chapter 17.*
+*Whatever the party holds at the end of this interlude is what they bring to Chapter 18.*
+
+**Level 16 milestone.** The interlude concludes. Level 16 fires here for parties that completed A Fine Shindig.
 
 ---
 
@@ -5259,7 +5174,1544 @@ The interlude ends when both the reception arc and the Ministry building arc hav
 
 ---
 
-## Harmony's Boons *(Chapter 16)*
+# Chapter 18: Death Comes for the Old Gods *(Levels 16–17)*
+
+### Chapter Summary
+
+The Cabal's plan reaches its trigger point. Several days before the full moon, the Colonial Authority announces plans to clear a section of the Wildwood; on the day of the full moon, the controlled burn begins. At nightfall, the Cabal positions its convoy in a small valley and waits for Carnuth.
+
+What happens next depends entirely on what the party built across Chapters 16–17 and the Fine Shindig interlude. **Branch A** runs if they recovered Circe's papers and delivered the specific details of the trap to Carnuth before the full moon — Carnuth refuses to engage, the Cabal withdraws at dawn, and the chapter becomes a negotiation. **Branch B** runs if either of those conditions failed — Carnuth walks into the trap, and the party has a window to free him before the spear fires.
+
+Either way, the chapter closes with the Act IV Coda: Harmony delivers the party to a Congress meeting where Droma announces the Conclave. Act IV ends.
+
+**Level 16 milestone.** Fires at the chapter's open for parties who did not complete A Fine Shindig. For parties who ran A Fine Shindig, Level 16 fired at that interlude's close.
+
+**Level 17 milestone.** Fires at the close of the Act IV Coda — when the Conclave has been announced and the Congress spirits have turned to look at the party.
+
+*Characters appearing this chapter: Carnuth, King Kalameris (conditional), Harmony, Droma (the Old Man).*
+*Circe Lovelace is at large following the Fine Shindig interlude. She does not appear in this chapter; she leads the combat encounter in the Act V Final Showdown.*
+
+---
+
+### DM Setup: What the Party Carries In
+
+Before running Chapter 18, the DM should establish three facts:
+
+1. **Do they have Circe's papers?** Papers were recoverable in the Fine Shindig interlude (Track A, Ministry building caper).
+
+2. **Have they reached Carnuth and delivered the trap's specific details?** Carnuth may have been reached during Chapter 17's Carnuth path; the papers can also be delivered during the Week 4 window, before the full moon, by a party that recovers them late.
+
+3. **Is Kalameris onside?** The Chapter 17 Kalameris path's two missions establish this relationship. A party that only worked the Authority path or the Carnuth path cannot easily bring Kalameris to the negotiating table in Chapter 18.
+
+**Branch A** requires: papers in hand + Carnuth reached + specific details delivered. If the party has the papers but never reached Carnuth, Branch B runs. If they reached Carnuth during Chapter 17 but without the papers, he knows the threat is real but not its specific mechanics — he cannot prepare for what he does not know. Branch B.
+
+**Cover status.** A party whose Tikatowa cover was blown in the Fine Shindig interlude cannot operate openly in the city. This slows resupply and complicates asking for support, but does not prevent either branch.
+
+---
+
+### The Announcement
+
+Several days before the full moon, the Colonial Authority publishes a notice in the port district: a substantial section of the Wildwood northeast of Tikatowa has been designated for agricultural development. Clearing operations begin at dawn on the day of the full moon. Citizens are advised to expect smoke.
+
+**Faction reactions:**
+
+- Authority loyalists treat it as routine administrative expansion.
+- Kalameris's sympathizers in the city are visibly distressed. They do not speak publicly about why. A party member who has cultivated Shigori contacts and succeeds on DC 13 Insight in conversation can see that this distress is not surprise — they knew something was coming.
+- Shigori residents near the city's edge begin quiet movement. Those who leave do so without explanation. The city feels like weather before a storm.
+
+**The party's window.** From the announcement to the full moon: two to four days, depending on when the notice appears. Carnuth's domain is reachable on this timeline. If the party has Sima's ritual phrase, the approach is direct — no stag exercise required, approximately one day's travel from developed land. If they do not have the phrase, the full Communing ritual from 25 miles out is still viable.
+
+The DM should not coach the party toward this. If they have the papers and have not yet warned Carnuth, this window is their last opportunity.
+
+---
+
+### Branch A: The Trap Is Prevented
+
+*Conditions: Circe's papers in hand + Carnuth reached + specific details of the trap delivered before the full moon.*
+
+#### Presenting the Papers
+
+Carnuth's reaction to the documents is not alarm. He recognizes cold iron. He recognizes the electrical mechanism described in the assessment notes; Huma's blood, charged by the apparatus that held him, is something Carnuth understands in concept even without having seen the device.
+
+He asks three questions through direct perception — not words, but meaning received without ambiguity:
+
+- *Where does the valley sit relative to the burn zone?* He wants to confirm the geography matches his intended approach route. He knows which valley they mean; he is checking that the party has read the papers correctly.
+- *Who built this?* The Cabal. He asks what the party knows of them. He will listen to the full account.
+- *Is this the full extent of their capability, or should he assume more?* This is not rhetorical. He will weigh the answer.
+
+When he is satisfied, he tells the party he will not go to the valley on the night of the full moon. He says nothing further on the subject. The conversation moves to what comes next.
+
+#### The Night of the Full Moon
+
+The DM narrates this briefly. The party is not present in the valley; they are wherever they spent the night. The controlled burn begins before dawn on the day of the full moon — visible as smoke from Tikatowa's high ground. By nightfall, a faint orange glow sits at the edge of the horizon to the northeast.
+
+In the valley: the Cabal's armored convoy positions after midnight. The cold-iron apparatus deploys. The spear device is armed. The apparatus waits.
+
+Nothing comes.
+
+At dawn, the Cabal's team breaks down the apparatus and loads it back onto the carts. The convoy withdraws before midday.
+
+The burned section of the Wildwood is approximately 200 acres. It will not grow back in any mortal lifetime.
+
+#### The Negotiation
+
+One to two days after the full moon. Carnuth is accessible in his domain via the ritual approach, or — for the first time in this adventure — at the forest's physical edge. In physical form, he presents as a great grey stag, large as a draft horse, moving without haste. He chooses this form deliberately. It is easier for mortals to stand in front of something that does not fill the horizon.
+
+**His terms.** These are not negotiating positions.
+
+- Mining in the Wildwood ceases entirely. Not reduced. Stopped.
+- Agricultural operations revert to local-population scale: enough to sustain Tikatowa and its surrounding settlements, not for export to the Unity.
+- The land that has been taken must be given time to return. This is not a demand with a deadline. It is a condition he will observe over decades if necessary.
+
+**What he asks the party for.** He cannot implement any of this without the cooperation of the Colonial Authority or Kalameris. He cannot negotiate with the Authority. He will not. The party is standing in front of him because they can speak to both. He wants to know if they can deliver a framework that holds.
+
+This is not a skill check. The party proposes a framework. Carnuth listens. If it addresses his core requirements in good faith, he accepts it as a basis for proceeding. If it does not, he will say so plainly and explain why.
+
+**If Kalameris is onside.** The party brings Kalameris's position to the table — either by arranging a meeting at the forest's edge, or by conveying his terms directly. If the framework is workable, Carnuth sends a message to Kalameris. This communication is not conducted through words the party can follow. What the party sees: Carnuth goes still; a minute passes; then he moves again. Kalameris receives the message. He stands down. He is not pleased. It will cost him standing among his own people. He accepts this because Carnuth asked.
+
+**If Kalameris is not onside.** Carnuth holds his planned attack on Tikatowa in abeyance, contingent on the framework being actively pursued. This is a promise, not a guarantee. Act V may still open with the Battle of Tikatowa if the framework breaks down.
+
+**DM note.** Branch A's resolution is "crisis stabilized but unresolved." The Old Gods have been watching. What the party proposed and what Carnuth accepted is the first argument they will make at the Conclave. The DM should note the specific terms the party offered — they will be referenced in Act V.
+
+---
+
+### Branch B: The Trap Is Sprung
+
+*Conditions: papers not delivered to Carnuth before the full moon, or Carnuth not reached in time.*
+
+#### Locating the Valley
+
+**If the party has the papers.** They know the valley from Circe's convoy disposition notes — specific location, access route, approximate cart count. Travel from Tikatowa: three to four hours on horseback; six on foot.
+
+**If the party does not have the papers.** The controlled burn is visible during daylight (DC 12 Survival to track the smoke to its source); after dark, the fire itself is visible from high ground northeast of Tikatowa. The convoy's route leaves tracks on the access road (DC 13 Survival to follow from the road's divergence point). If the party has Kalameris's contacts in the Wildwood, his scouts know the interior terrain and can point them to the valley. Reaching it without the papers adds 1d4 hours to travel time.
+
+The DM should not run this as a race the party automatically loses. They should be able to reach the valley before or just after Carnuth arrives.
+
+#### Stage 1: The Cabal's Defense
+
+The valley is a natural bowl approximately 400 feet across, narrowing at the northern end where the convoy route enters. The tree line on the western and southern slopes has been pushed back by the controlled burn; the eastern slope has dense undergrowth to the valley's edge.
+
+**Cabal positions:**
+- 12 operatives in a perimeter: four on the northern approach, three on the eastern slope, two on the western slope, three at the apparatus position (modified Veteran profile: +2 to all saving throws, +10 maximum HP; crossbows at range, shortswords in melee)
+- Field commander at the apparatus cart (Bandit Captain stat block, +2 AC, +10 maximum HP)
+- Two armored carts: the apparatus cart at the valley's center; the spear cart on the elevated southern slope, 200 feet from the apparatus
+
+**Entry options:**
+
+- *Direct assault.* Engage the northern approach; four operatives guard this side; apparatus operatives reinforce after 3 rounds. The field commander holds position until Stage 2.
+- *Flanking.* The eastern slope's undergrowth allows approach to within 60 feet of the apparatus cart. DC 13 Stealth in darkness.
+- *Distraction.* A credible threat outside the valley draws four operatives away for 2 rounds. DC 13 Deception if the party interacts directly; otherwise a credible physical effect suffices.
+- *Carnuth's arrival.* When Carnuth attacks the convoy from the north — which happens within the first round of the party's engagement — the field commander and four operatives move to respond. If the party is already inside the perimeter, Stage 1 is effectively over.
+
+**Timing.** Carnuth reaches the valley floor at the start of round 2 (or round 1 if the party was delayed). He attacks the armored carts with Gore and Sunder the Land. The apparatus deploys automatically at the start of round 3 unless physically disrupted.
+
+#### Stage 2: The Cold-Iron Apparatus
+
+The apparatus deploys from the cart as a framework of cold-iron cables and anchors, triggered remotely by the field commander as a bonus action. It expands to fill a 20-foot cube centered on Carnuth's position. Carnuth must succeed on a DC 18 Strength saving throw or become restrained; the cold iron simultaneously suppresses his innate spellcasting for as long as he remains within the framework.
+
+**The apparatus:**
+- Three tethering anchors at the corners of the framework, each driven into the ground
+- Each anchor: AC 17, 50 HP; immunity to fire and poison damage; resistance to bludgeoning damage
+- Three approaches to each anchor:
+  - *Destroy it* (damage; any non-resisted type)
+  - *Yank it free* (DC 22 Athletics; action)
+  - *Sever the cable* (cold iron tool or weapon required; 1 action; DC 14 Athletics)
+- Releasing all three anchors frees Carnuth; the effect ends the moment the framework breaks.
+
+**Cabal response while the party works.** The field commander and two operatives defend the apparatus directly. Their objective is keeping the party from the anchors — not killing Carnuth, because the spear is doing that job.
+
+**Carnuth once freed.** He immediately uses Sunder the Land centered on the apparatus cart and expends all three legendary actions on Nature's Wrath. His innate spellcasting is suppressed for 1 hour after cold iron contact, but he is mobile. He does not attack the party. He does not engage remaining operatives unless they attack him directly.
+
+#### Stage 3: The Huma-Blood Spear
+
+The spear device is mounted on the elevated southern cart, 200 feet from the apparatus. It requires two steps to fire: the field commander arms it (free action, triggered the moment Carnuth is restrained) and then fires it on his next turn (action).
+
+**Timing.** The field commander arms the device the round Carnuth is restrained. On his following turn, he fires it — unless the party has stopped him. He will take damage without breaking off if the spear can still fire.
+
+**Stopping the spear:**
+
+- *Kill or incapacitate the field commander before he fires.* He has 82 HP. Taking him to 0 HP or imposing the incapacitated condition before his action resolves is the most direct solution.
+- *Destroy the spear cart.* AC 15, 80 HP; immunity to fire damage. If the cart is reduced to 0 HP, the mechanism is destroyed.
+- *Disable the launcher mechanism.* DC 16 Thieves' Tools from an adjacent position. The party must reach the elevated cart — 200 feet at normal movement is 4 rounds of unobstructed running. Viable only if the party split at the outset and sent someone to the spear cart immediately.
+- *Counterspell the ignition.* The spear's mechanism uses an electrical ignition with a magical component. Arcana DC 14 to identify this while the device is armed; the ignition can be counterspelled at 3rd level or higher.
+
+**If the spear fires.** It strikes Carnuth. He dies. Branch B Failure.
+
+#### Branch B Success
+
+The party stops the spear before it fires, or frees Carnuth in time. The Cabal's forces withdraw; the field commander retreats with whoever is upright.
+
+Carnuth: diminished. His innate spellcasting is suppressed for the next hour. He does not thank the party. He acknowledges that they came. Then he withdraws into the Wildwood.
+
+The negotiation described in Branch A remains available and proceeds exactly as written there — with one difference in tone. Carnuth approaches it from vulnerability, not strength. His terms are unchanged. Kalameris, if onside, stands down exactly as in Branch A. The Branch B Success outcome carries into Act V as "champion survives, diminished."
+
+#### Branch B Failure
+
+The spear fires. Carnuth dies in the valley. The party is present when it happens.
+
+The Cabal's forces withdraw at once. They were not expecting anyone here, and they do not need to stay.
+
+The valley holds the burned forest, the cold-iron apparatus still partially deployed, and Carnuth's body. He is large in death. The Wildwood is quiet in a way it was not an hour ago.
+
+**Kalameris.** Word reaches him the following day through his interior contacts. He attacks Tikatowa at the next new moon, approximately two weeks hence — regardless of any prior agreements. Carnuth's death removes the only voice that could hold him.
+
+**Droma's response.** If the party reaches Droma via the Communing ritual, he will speak with them. He is not surprised. He tells them the Conclave will still occur. Carnuth's death will be part of the record. He does not say what the Old Gods will make of it.
+
+**Path forward.** Branch B Failure does not end the campaign. The best ending is no longer accessible — the campaign continues on the Partial Victory path. Carnuth's death is the argument the party will have to answer for at the Conclave. The Act IV Coda below occurs regardless.
+
+---
+
+### Act IV Coda: The Meeting of the Congress
+
+*Occurs regardless of branch outcome or Carnuth's fate. Triggered within 24 hours of the full moon events concluding.*
+
+Harmony visits one party member in a dream — no warning, no preamble. The party member wakes briefly in the dream and she is sitting nearby, watching the door. She says: "Come see me right away, if you don't mind." A portal opens.
+
+She leads them through her great hall — tonight the crowd is at a feast, the tension resolved entirely into warmth and noise — through the kitchen, and up a back staircase the party has not seen before. She unlocks a door with a key from her sleeve.
+
+**The space:** A Congress theatre, smaller and less grand than the one in Balnor. No wall of spirit-cells behind the stage. An understated dais, a table with eleven chairs — ten occupied; the eleventh chair, at the far end, is Praefecta's seat, currently empty. Harmony shoos the party toward the stands and walks to the table.
+
+She takes the second chair at the table. She is also simultaneously sitting beside the party in the stands — the same person in two places. The one in the stands remarks, quietly, that the Congress has "forgotten this old trick." She notes they think they are in charge of events. They are not, but they have considerable influence, and it might be useful for the party to say so while it is fresh.
+
+The party may address the Congress from the stands on the matter of the Sacred Lands. The Congress is immediately affronted. One spirit rises and attempts a dismissal — it fails; nothing happens. Harmony intervenes from both positions simultaneously. The Congress subsides. It listens. It does not agree. It continues.
+
+**The Old Man arrives.** He enters without knocking, catching the frame and pulling the door partially off its hinges. He crosses to the stands and shakes hands with each party member with the visible enthusiasm of someone who has been waiting to do this for some time. He offers an oblique opinion on recent events in the Sacred Lands — as if what happened is already settled history.
+
+He approaches the dais. Mutters. Clears his throat. The ten Congress spirits at the table turn to look at him.
+
+He announces:
+
+> * "There will be a Convocation. Something which has not occurred for millennia. Against the better judgment of some, you have been invited to send your own representatives."*
+
+He speaks at considerable length. The Congress objects throughout. At some point, Caluma attempts to physically remove him. Droma flickers briefly out of existence, and then Caluma is on the other side of the theatre. Droma expands until he occupies the background of the entire space, and delivers the remainder of the announcement at full volume. Then he contracts back to gnome-sized.
+
+> * "The Conclave. To be held at the Godshome. Six new moons hence. Do send a representative. We will be discussing the continued existence of mortal-kind. I believe there will also be lunch."*
+
+He shakes hands with the party members again. He leaves, pulling the door mostly off its hinges on the way out. The ten Congress spirits at the table turn in unison to look at the party in the stands.
+
+**Level 17 milestone.** The Act IV confrontation is resolved. The Old Gods have acknowledged the party's existence by inviting them to the Conclave. Act IV is complete.
+
+---
+
+### Chapter 18 NPC Summary
+
+| NPC | Role | Notes |
+|---|---|---|
+| Carnuth | Both branches; negotiation (Branch A / B Success); death (Branch B Failure) | Stat block in Appendix B (Chapter 17); released in Branch B, use stat block for his freed actions |
+| King Kalameris | Negotiation (Branch A and B Success; conditional on Chapter 17 Kalameris path) | Social only; stat block in Appendix B (Chapter 17) |
+| Harmony | Act IV Coda (always) | Social only; stat block in Appendix B (Chapter 16) |
+| Droma (the Old Man) | Act IV Coda (always) | Social only; no stat block |
+| Cabal field commander | Branch B Stages 1–3 | Use Bandit Captain stat block (MM) +2 AC, +10 HP |
+| Cabal operatives (12) | Branch B Stage 1 | Modified Veteran profile: +2 to all saving throws, +10 maximum HP |
+
+---
+
+# ACT V: TWILIGHT OF THE OLD GODS
+
+*Levels 17–20*
+
+The party has an invitation to the most consequential gathering in millennia — and no knowledge of where it will be held, how to reach it, or what will greet them when they arrive. The six new moons are running. Act V is the campaign's turn from argument-by-action to argument-by-words: everything the party did across four acts is now the case they must make before beings who were old when the world was young. What they find on the way to the Godshome is strange and unexpected. It is also the reason they were chosen.
+
+**Act V Chapters:**
+- Chapter 19: The Search
+- Chapter 20: The Awakening
+- Chapter 21: The Five Ordeals
+- Chapter 22: The Great Debate
+- Chapter 23: Unity
+
+---
+
+# Chapter 19: The Search *(Levels 17–18)*
+
+Level 17 was earned at the conclusion of Chapter 18. The Act IV Coda has closed; the party stands at the beginning of Act V.
+
+The party has an invitation to the Conclave and six new moons to find the Godshome. No one they are likely to ask knows where it is or how to reach it. The trail begins with Sima and Hellie and ends with the Old Man of the Mountain, who names the thing he has been dimly sensing for years. What comes after that requires the Oracle's help, and the Oracle has been waiting for someone to ask the question she has not known how to ask herself.
+
+**Characters appearing:** Hidden Vale spirits (conditional on Act IV initiation), Sima, Hellie, Huma (conditional on Act III relationship), Carnuth (conditional on survival), Droma (the Old Man), Oracle/Maya.
+
+*Level 18 awards at the close of this chapter, when the party opens the passage to Cyrencia.*
+
+---
+
+## DM Setup: State of Play
+
+Before running Chapter 19, determine four things:
+
+**Battle of Tikatowa.** If Chapter 18 ended with Branch B Failure and Kalameris is not onside, the battle occurs at the next new moon — approximately two weeks into Act V. This is a world event, not a chapter encounter. The party may help defend Tikatowa, observe it from a distance, or press on with the investigation. The outcome (city holds / city falls) affects the Great Debate in Chapter 22 but does not delay the Conclave clock and does not block any investigation path.
+
+**Hidden Vale initiation.** If the party completed the initiation during Act IV, the Hidden Vale spirits are an available source and will point directly to Hellie. If not, the party still reaches Hellie through Sima — the path is longer but the destination is the same.
+
+**Carnuth's status.** If alive (well or diminished), he can confirm everything the party has gathered and verify the Tale of the First Witches. If dead, Sima can relay what he would have said. In either case, Carnuth cannot serve as the party's patron into the Godshome.
+
+**Huma's consultability.** If the party maintained a working relationship with Huma after freeing him in Act III, he can be reached via the Communing or Summoning ritual. His contribution is conditional but adds the sleeping western Old Gods thread, which carries weight in Chapter 22.
+
+---
+
+## The Six-Moon Clock
+
+From Droma's announcement to the Conclave deadline: approximately four and a half months. The party may operate from Tikatowa, the Archipelago, or both — the investigation requires consulting sources on both continents. No single source has the complete picture. The DM does not need to track time mechanically, but should give the impression of a narrowing window. Each significant consultation takes days to arrange and complete. The party has time to be thorough, but not time to be idle.
+
+---
+
+## The Investigation
+
+The sources available to the party are not prescribed in sequence. The party follows their existing relationships and instincts. The natural path is: lesser sources and dead ends → Sima and/or Hidden Vale spirits → Hellie → the Old Man → the Oracle. But any order that gets them to the Old Man is the right order. What matters is that the complete picture cannot be assembled until the Old Man names the New God of the Isles.
+
+### Dead Ends
+
+These sources can confirm the Godshome exists as a concept. They cannot provide anything actionable.
+
+*Belief spirits (any):* Heard of it as a mythical place. No information on its location or nature. They exist where mortals believe; no mortal has believed in the Godshome in thousands of years.
+
+*Lesser nature spirits (any except the Hidden Vale):* Know it as the place where Old Gods gather when they call a Conclave. The last Conclave was more than two thousand years ago. If any were present, the memory has faded to impressions. They cannot help.
+
+*The Archipelago:* No faction has any information beyond legend and conjecture. Weeks of consultation among all thirty-plus factions yields nothing of substance. Even the Pentad's oldest records have only the myth itself, preserved as literature rather than history.
+
+### The Hidden Vale Spirits *(conditional: requires Act IV initiation)*
+
+The spirits of the Hidden Vale can be contacted if the party was initiated into the Guardians during Act IV. They know:
+
+The Godshome is where the Old Gods meet when they call a Conclave. Their kind travel there only at the Old Gods' invitation, and they have not been invited in living memory. Mortals are forbidden from treading there without Old God sanction — this is not a convention or a courtesy; it is a condition that the Godshome itself enforces.
+
+They point to Hellie as "the keeper of old lore."
+
+### Sima
+
+Carnuth's chief witch knows everything the Hidden Vale spirits know, with two additions of her own. She notes that the Godshome exists at the boundary between the physical and spiritual worlds — not fully in either. And she adds, sourced from Carnuth: any mortal who enters without Old God sanction will find nothing there, or worse.
+
+She points to Hellie.
+
+### Hellie
+
+Hellie is the key source the party reaches before the Old Man. She knows the Tale of the First Witches — a story preserved by her line since before recorded history, told in full the first time the party asks.
+
+#### The Tale of the First Witches
+
+*This is the tale as Hellie tells it. The DM may expand it as a longer oral narration or deliver it simply. The essential beats are:*
+
+The first witch whose name was remembered was a woman called Maeve. She was learned in the old lore, and her husband Tirion was her student and then her partner, and they were the founders of the tradition that became the witch-lines. Maeve was killed by a treacherous mortal king who feared what she represented — a power outside his authority, older than his throne.
+
+Tirion refused to let it end there. He sought to petition the Old Gods to return her soul from the afterlife — not to unmake her death, but to bring her back. His patron, the Old Man in the Mountain, heard his appeal and told him plainly: this is not within my power to grant. But there is a place where such a petition might be heard. I will help you reach it.
+
+The place was the Godshome, where the Old Gods gather when they call a Conclave. No mortal had trespassed there. Several of the Old Gods were opposed to Tirion's attempt and set Ordeals in his path — tests without which no mortal had the right to stand before the assembled council. Tirion passed every Ordeal, at considerable cost, and arrived at the Godshome.
+
+He made his case. The Old Gods deliberated. Their answer was honest: they could not return Maeve's soul to the mortal world. That passing is beyond even their reach. But within the Godshome itself — a place that exists between the worlds — they could reincarnate her. She could live again, within those walls, in a place that is neither life nor death but something the Old Gods made as a gift to the first mortal who ever asked them directly and did not flinch from their answer.
+
+Maeve and Tirion have lived in the Godshome since that day. They are its caretakers and, in some sense, its conscience. No one outside that place knows what they look like now, or whether the years have touched them, or what they have made of all that time. The tale does not say.
+
+*Hellie tells this matter-of-factly, without sentimentality. When she is finished, she says: go and speak with the Old Man. He was there.*
+
+### Huma *(conditional: party maintained Act III relationship)*
+
+Huma is still in the process of restoring himself. His memories of ancient times remain fragmented and arrive slowly. He can confirm that the Godshome is accessible to Old Gods directly, and that mortals have been brought there — but he cannot clearly articulate how the process works from the outside.
+
+He adds one piece that no other source can provide: the other Old Gods of the western continent are not dead. They are sleeping. He does not expect to see them at the Conclave. He would like whatever help the party can give in waking them, and has been thinking about this constantly, though most of his energy has gone toward restoring himself. He points toward the Old Man as the better source on the Godshome itself.
+
+*DM note: the sleeping western Old Gods are a thread the party can pursue during the six-moon window, and the effort (or its absence) is one of the factors the Old Gods weigh in Chapter 22. It does not block reaching the Godshome or completing this chapter.*
+
+### Carnuth *(conditional: alive, well or diminished)*
+
+Carnuth confirms everything the party has gathered from other sources. He confirms that Maeve and Tirion are the immortal caretakers of the Godshome. He cannot act as the party's patron into the Godshome — he would, if it were in his power. It is not. Sponsoring a mortal requires a patron whose lands the mortal was born in or has spent most of their life within, and the party are people of the Archipelago. Unlike the Old Man, he has not sensed the presence of the New God of the Isles; his attention has always been fixed on his own lands.
+
+If Carnuth is dead, Sima relays everything above. The note about the New God of the Isles would have been absent from Carnuth regardless.
+
+### The Old Man in the Mountain
+
+The Old Man is the only source who can assemble the complete picture. He is not surprised to see the party. He has been expecting this question, or something like it, since Droma announced the Conclave.
+
+He confirms everything the party has gathered, and tells the Tale of the First Witches himself if Hellie has not already done so — he was present for all of it. Then he adds what no other source can provide.
+
+He cannot serve as the party's patron into the Godshome. Sponsoring a mortal requires a patron Old God whose lands the mortal was born in or has spent most of their life within. This is not a rule he can bend; it is as old as the Godshome itself.
+
+However: he has been dimly aware of something new emerging in the west. A presence at the edges of his perception, growing slowly, that he cannot identify with any precision. He calls it the New God of the Isles.
+
+His reasoning, delivered plainly: the Archipelago was created by mortals through magic, and a new land came into existence. Every land in the world has its own Old God. He has never known this to be otherwise. A new land calls a new Old God into being. That being would be young — young in the way that things of that nature are young, which is to say unaware of its own nature, unaware that it exists. The party is better positioned to find it than he is. They come from those lands. It would be of those lands.
+
+He points them toward the Oracle. She is the most sensitive mortal receiver of this kind of signal in the world he knows.
+
+---
+
+## The Oracle and Maya
+
+The party returns to the Oracle with the Old Man's information.
+
+When they question her about the New God of the Isles, she is quiet for a moment before she speaks. She has been experiencing visions she cannot interpret: fragments of a founding moment, faces of practitioners from two centuries past, a sensation of something vast and patient beneath the islands — not threatening, not urgent, simply there, as if it has always been there and has only recently become possible to feel. She has said nothing to anyone because she had no framework for understanding it.
+
+She does not hesitate once she understands what the party is asking. She agrees to join their Communing ritual, adding her power to theirs to open this unusual Crossing. She tells them the feeling has been building for years. She is ready.
+
+Her name is Maya. She uses it only among close confidants. She tells the party now.
+
+---
+
+## Opening the Passage
+
+The party performs the Communing ritual at the Council site on Kartos's Isle — not because the ritual requires this location, but because it is the geographic and spiritual center of the Archipelago and the place of greatest accumulated belief. Maya joins the ritual as a full participant, not an observer.
+
+The passage opens.
+
+This is Cyrencia's space. She is not present as a coherent being. She is the space itself.
+
+**Level 18 milestone.** The passage to Cyrencia has been opened. Act V's first chapter is complete.
+
+*What the party encounters in this space — the work of naming Cyrencia and bringing her forward — is the content of Chapter 20: The Awakening.*
+
+---
+
+## Chapter 19 NPC Summary
+
+| NPC | Role | Notes |
+|---|---|---|
+| Hidden Vale spirits | Investigation (conditional on Act IV initiation) | Social only; collective entity; no stat block |
+| Sima | Investigation (always available) | Social only; stat block in Appendix B (Chapter 17) |
+| Hellie | Investigation (key source; always) | Social only; no Appendix B entry |
+| Huma | Investigation (conditional on Act III relationship) | Social only; no Appendix B entry; stat block needed before Chapter 22 |
+| Carnuth | Investigation (conditional on survival) | Social only; stat block in Appendix B (Chapter 17) |
+| Droma (the Old Man) | Investigation (key source; always) | Social only; no stat block |
+| Oracle / Maya | Opening the Passage (always) | Social only; no stat block |
+
+---
+
+# Chapter 20: The Awakening *(Level 18 → Level 19)*
+
+The party enters Cyrencia's space and undergoes five ordeals — not tests of combat or cleverness, but situations that reveal what Cyrencia is, one quality at a time. Each resolved ordeal leaves a fragment of a name the party couldn't have guessed and can't forget. They emerge with the name and perform the Summoning at the Council site on Kartos's Isle, and the Archipelago's history changes in the space of an afternoon.
+
+**Characters appearing:** Maya (always), Cyrencia (always — Phase 1 as ambient presence/space; Phase 2 as manifested form).
+
+*Level 19 awards when Cyrencia is revealed at the Summoning.*
+
+---
+
+## Phase 1: The Five Ordeals
+
+### Entering Cyrencia's Space
+
+The party and Maya are still at the Council site, the passage open before them. Maya enters with the party as a full participant — she is part of the ritual that opened this, and the passage includes her.
+
+Cyrencia's space is not a spirit domain in the familiar sense. There is no geography, no population, no center. The party is in a place that exists between the worlds and has not yet decided what it wants to look like. The closest description is: everywhere at once, and quiet. Maya will say, if asked, that she has felt this before — in fragments, in the visions she couldn't explain. This is where those came from.
+
+Cyrencia does not appear. She is not absent; she is the space itself. The party senses — not hears — that something is waiting to be found.
+
+The Five Ordeals arise one by one. Each takes place at the spirit world reflection of a significant Archipelago location. Completing each one changes the quality of the space slightly — as if the place is remembering something it had almost forgotten how to be. When the ordeal is resolved, one fragment of a name is left with those who carried it through.
+
+*The fragments are not words or sounds. Each is an impression — a quality, a sensation, something felt rather than known. Only when all five are assembled does a name-shape emerge from them.*
+
+---
+
+### The Ordeals
+
+#### Ordeal 1: Survival Despite Loss
+
+*The spirit world reflection of the Pentad's Nexus library in Candela village, Santama island — a place of accumulated knowledge and cultural continuity.*
+
+The library is burning. The fire is thorough and will not be stopped; no check or spell changes this. The party has perhaps ten minutes before the interior becomes impassable.
+
+The DM presents six to eight things in need of rescue — some require only an action; others require time that could go to something else. Suggested options: a unique manuscript (oldest written account of the founding voyage), a living scholar asleep in a back room (alive and rescuable, but will take three rounds to move safely), a sealed crate of medicinal seeds (carried out easily, significant future value), a ritual circle embedded in the floor stones (cannot be moved; a DC 17 Arcana check can capture its pattern in writing instead), a chest of letters between the founding generation (personal, irreplaceable, not historically vital), a cabinet of ongoing legal records (bureaucratically important, replaceable eventually). The party cannot save all of them.
+
+The ordeal resolves when the building collapses or the party exits. The fire takes what it takes. The party's choices define what survives. There is no failure state beyond the structural loss; the ordeal is resolved when the party stops choosing and comes out.
+
+*Fragment:* An impression of **continuance** — not what remains, but the act of remaining. Something that persists without insisting.
+
+#### Ordeal 2: Creation Despite Opposition
+
+*The spirit world reflection of the White Willow House teahouse in Heida — a place of new beginnings, where the party trained before the Unity crossing.*
+
+A young artisan is working to complete something of deep significance: a piece of music, a statue, a lesson being taught to a gathered group. The DM should choose whichever form feels most vivid. What matters is that it is being made, that it is not yet finished, and that it belongs to the maker — the party cannot make it for them.
+
+Figures oppose the work — formal, institutional, obstructive without being obviously malicious. They cite reasons (noise, disturbance, unauthorized use of the space, safety concerns). Their objections are superficially reasonable and will persist through any argument that meets them on their own terms. Engaging them directly stalls but does not resolve; the opposition regenerates faster than it can be argued with.
+
+The ordeal resolves when the work is completed. The party's task is to create the conditions for completion — managing space, time, and interruption — without taking over the making itself. The creator must finish it; the party keeps the space clear. Combat ends the ordeal in failure (the figures disperse, but the maker cannot continue in the aftermath). DC 13 Persuasion or Deception buys time with specific figures; DC 14 Insight reveals what each figure is actually responding to, which may suggest a more durable approach.
+
+*Fragment:* An impression of **emergence** — the moment something that did not exist becomes real; the specific weight of a thing taking its first breath.
+
+#### Ordeal 3: Cooperation Between Genuine Disagreement
+
+*The spirit world reflection of the Concordat's mediation hall — a neutral space built for settling disputes no single party could resolve.*
+
+Two groups are brought before the party. Each has a legitimate claim to the same resource — a coastal fishing territory, an access road through sacred land, a water source both settlements depend on. The DM should make both cases fully and without editorializing. Neither side is simply wrong. Both have been wronged previously. Neither will accept the other's framing.
+
+The ordeal requires the party to broker a working arrangement — not perfect justice, but something both can function within. Taking sides fails the ordeal (the disadvantaged side escalates and nothing is resolved). Force, intimidation, or dismissing either party's concerns fails the ordeal. The ordeal does not close until both parties agree to something and both mean it.
+
+Skill checks serve the roleplay: DC 13 Insight to understand each party's true underlying need (not the same as what they say they want); DC 14 Persuasion to propose a specific compromise point; DC 16 Persuasion to secure agreement from a particularly resistant negotiator. The DM should not call for checks until the party has genuinely engaged with the substance of the dispute — rolling Persuasion before understanding the situation fails automatically.
+
+*Fragment:* An impression of **tension that holds** — two forces pressing against each other, neither giving way and neither breaking; the sense of something stable built from opposing pressures.
+
+#### Ordeal 4: Belief Without Proof
+
+*The spirit world reflection of the Oracle's Pagoda at Sanctuary — a place built around taking the unknown seriously.*
+
+A figure stands at a threshold — a gate, a bridge, a narrow crossing point. The figure cannot identify itself in any way the party can verify. It asks to be let through. Magic provides no useful information; divination reveals nothing; Insight yields only that the figure is not lying, which does not establish what it is. Everything observable is consistent with either a genuine petitioner or a hostile trap. There is no way to determine the truth before acting.
+
+The ordeal ends when the party makes a decision and carries it out. Waiting is a choice and will eventually be treated as one — the figure waits indefinitely, but the space subtly makes clear that the ordeal is not suspended, only prolonged. The ordeal does not penalize either outcome (allowing or refusing); it requires that a choice be made from principle rather than certainty, and that the party be able to articulate the principle when pressed. If they cannot explain why they chose what they chose, the ordeal does not resolve.
+
+The DM should ask each player: what does your character believe, and why? The ordeal closes when the party acts as a unit from a shared or complementary understanding.
+
+*Fragment:* An impression of **forward motion in the dark** — taking a step without seeing the ground; the specific sensation of choosing a direction when direction cannot be confirmed.
+
+#### Ordeal 5: Return What Was Taken
+
+*The spirit world reflection of the founding cliff — the last point of land the exile founders saw before crossing to the Archipelago; a place of original departure, original loss, and original decision.*
+
+Something has been displaced from its rightful context and is now held by someone or something that does not know, or does not want to admit, that it doesn't belong to them. The form should be chosen by the DM based on what resonates with the campaign: a fragment of a nature spirit trapped in an heirloom object; a traditional story rewritten so thoroughly it no longer belongs to the people who created it; a name carried by an institution stripped from its original bearers.
+
+The displacement is visible with DC 14 Arcana or DC 13 Insight. The holder may be unaware, resistant, or simply reluctant — even those who acknowledge the situation may not cooperate without prompting. The party must identify what was taken, locate who holds it, and actively restore it. Recognition is not resolution. Force is a last resort and damages the restoration; the ordeal is best resolved when the holder comes to understand and releases it willingly.
+
+The ordeal resolves when the displaced thing is returned to its rightful context by active party effort. The cliff, when it does, briefly shows the Archipelago as it appeared at the moment of founding — not as it is now, but as it was when the decision to make it was first made.
+
+*Fragment:* An impression of **rightful place** — not home or destination, but the specific feeling of a thing returned to where it belongs; the sense of a gap filling.
+
+---
+
+### Assembling the Name
+
+After the fifth ordeal, the space changes — becomes a little more coherent, a little more itself. The party and Maya have five impressions between them. They assemble the name through accumulation rather than logic.
+
+The DM runs this as a brief quiet scene. The party and Maya sit with what they've carried through the ordeals. There is no check or ritual. Someone — often Maya, though any party member might sense it first — begins to feel a shape in the accumulated impressions, the way five fragments of a broken thing suggest the whole once you hold all of them at once. The shape is not a word until someone attempts to speak it. When one person speaks the name aloud, everyone present knows simultaneously that it is right.
+
+The name is Cyrencia.
+
+The passage closes from the inside. The party returns to the physical world through the same ritual space where they opened it. They are back at the Council site.
+
+---
+
+## Phase 2: The Summoning
+
+### The Public Event
+
+The party and Maya perform the Summoning ritual at the Council site on Kartos's Isle — the same location where they opened the passage. They have not previously planned this as a public event, but word travels on a small island. By the time the ritual reaches its conclusion, much of the Archipelago's population near the Council site is present or watching from a distance.
+
+This Summoning is not like any prior use of the ritual. Previous Summonings called known spirits to places of importance to them. This one calls a spirit whose name has never before been spoken to a place that is entirely her domain. The DM should convey, before the manifestation, that something feels different in scale — that the ritual is doing less of the work than usual, because whatever is responding is already here.
+
+### Cyrencia's Manifestation
+
+She does not arrive as a form. She arrives as something the Archipelago itself does: a change in the weather (clouds parting or gathering, a wind that comes from no direction), the behavior of light on the water (gold or amber at an hour when it shouldn't be), a sound the islands make (a low resonance, not quite wind, not quite music). She is enormous, and she is choosing to be smaller.
+
+When she takes a form, it is humanoid: features of every racial group present in the Archipelago, no single heritage dominant, all of them legible. She is not trying to be human. She is trying to be legible.
+
+### The Private Meeting
+
+Her first act is to turn to Maya. She inclines her head — a brief, specific gesture — says something quietly that only Maya hears, and gestures toward the shrine nearest the Council site. The two of them enter together.
+
+The crowd waits for approximately twenty minutes. The DM may give party members something to occupy themselves with: factional representatives approaching with questions, a child who has walked to the front of the crowd and is sitting very still looking at the shrine, Malachite or Vinna Maar seeking guidance on crowd management. When Maya and Cyrencia return, Cyrencia steps back. Maya speaks.
+
+### Maya's Announcement
+
+Maya announces that she will no longer hold the title of Oracle. She gives her birth name: Maya. Her role going forward will be Cyrencia's Voice — the primary point of contact between Cyrencia and the people of the Archipelago. She will hold this office for as long as she and Cyrencia agree she should, and she will choose her own successor when the time comes.
+
+The order itself is changing. The Keepers of the Veil will take a new name: the Children of the Isles. Their mission is to serve the people and to commune with Cyrencia when necessary. Their ranks will be open to anyone who wishes to join. They will no longer be a women-only order. They will no longer be bound by an oath of silence.
+
+### Cyrencia Addresses the Crowd
+
+She tells them: whenever they want to be near her, they need only step outside. She is the islands themselves. She does not expect or want them to come to her in worship. She will not govern them. She will not decide things for them. As far as she can tell, they have been doing more than a good enough job of that on their own.
+
+### Cyrencia Addresses the Party
+
+She tells them she needs to confer with others — the other Old Gods, some of whom she has already begun to reach. She asks them to return in one week's time. When they come back, they should perform the Summoning ritual at this same site and include Maya. She will be ready to speak then.
+
+She adds, before she goes: she is aware of Huma — faintly, across the sea — and notes that he feels different from how she would expect. Muffled. As though something is blocking the connection between him and the lands he was once tied to. She does not explain what this means. She is new, and she is learning what she knows as she speaks it. The party draws their own conclusions.
+
+**Level 19 milestone.** Cyrencia has been revealed to the people of the Isles. Chapter 20 is complete.
+
+---
+
+## Downtime: One Week
+
+The party has one week before the next stage of Act V begins. This is unstructured time. What they do with it is their own.
+
+The awakening of Cyrencia is the most significant thing to happen in the Archipelago's two-century history. Every faction has a reaction — some celebratory, some uncertain, some suspicious. The Children of the Isles immediately begin receiving requests for membership. The Godcallers hold an emergency session. The Founders' Keep issues a formal statement and immediately argues with itself about its contents. The Wild Hunt is uncharacteristically quiet. The DM should play two or three of these as brief vignettes if party members have standing relationships with those factions.
+
+*DM note: the Conclave deadline continues running. One of the six new moons' worth of time has now elapsed. Chapter 21 begins at the second Summoning (one week hence), when Cyrencia delivers her briefing on the Crossing to the Godshome.*
+
+---
+
+## Chapter 20 NPC Summary
+
+| NPC | Role | Notes |
+|---|---|---|
+| Maya (the Oracle) | Both phases; always | Social only; no stat block |
+| Cyrencia | Both phases; always | Social only; no stat block; Old God with no combat role |
+
+---
+
+# Chapter 21: The Five Ordeals *(Level 19 → Level 20)*
+
+The party returns to the Council site and performs the Summoning with Maya present. Cyrencia arrives promptly — she has spent the week in contact with the Old Gods and is ready. She delivers her full briefing: five Old Gods refused to speak with her at all, and those five will set Ordeals during the Crossing to the Godshome; the rules governing the Ordeals are ancient and inviolable; the historical success rate for mortals is low; the stakes of failure are permanent loss in a remote region of the spirit world. She opens a portal. The Crossing begins. Over the course of a journey that feels simultaneously like hours and like no time at all, the party faces five Ordeals, each shaped by an Old God's particular nature and particular hostility. They emerge on the other side into a place that exists between the worlds, where two figures they have only heard about in a story are waiting to welcome them.
+
+*Level 20 fires when the party is received at the Godshome by Maeve and Tirion.*
+
+---
+
+## Cyrencia's Briefing
+
+The party performs the Summoning ritual at the Council site. Maya participates. Cyrencia manifests immediately — she has been in contact with the Old Gods throughout the week.
+
+She tells them, in order:
+
+**The Conclave alignment.** The Old Man, Huma, Kakita, Genna, and Carnuth — if Carnuth survived Act IV — are allied with the party's right to be heard. Most of the remaining Old Gods are neutral: watchful, neither welcoming nor opposed. The Stone Sovereign will speak last and follow the majority. Five refused to speak with her at all: the Forvalaka, the Feathered Lion, Caspa, Baita, and Howler. These five will set Ordeals during the Crossing.
+
+**The rules.** Old as the Godshome itself. Every Old God present knows them and cannot waive them.
+
+- Each opposing Old God must present three tests as part of their Ordeal: a test of Wisdom (correct reasoning; there is a right answer), a test of Insight (moral judgment; distinguish truth from deception), and a test of Courage (endure and persevere through physical hardship).
+- All three must be passed. One failure means the Ordeal is lost.
+- The three tests within an Ordeal may be presented in any order.
+- Once an Ordeal has begun, the Old God who set it cannot interfere with the attempt. All other Old Gods will be observing — both to verify the tests were fairly constructed and to ensure no outside interference.
+
+**The stakes.** She is direct: the historical success rate for mortals attempting this is low. The opposed Old Gods will have built tests designed to be failed within the constraints of the rules. Nothing prevents them from making something that kills. If the party fails an Ordeal, they will not be returned to the physical world. They will be lost inside a region of the spirit world that is distant from known domains, distant from spirits that might hear them. Rescue is not impossible, but it is a long time coming. Do not begin unless they are ready.
+
+**The portal.** She can open a passage that leads not to any named domain but to the Godshome itself. The Crossing will be longer and stranger than anything the party has experienced before. Time inside it is subjective in nature — as long as they enter at least one day before the Conclave deadline, they will arrive when they need to. She is ready to open it when they are.
+
+*DM note: if party members have unfinished business in the Archipelago, this is the moment to attend to it. Cyrencia will hold the portal open.*
+
+---
+
+## The Crossing
+
+The Crossing to the Godshome feels different from the first moment. The passage does not resolve into a known domain. Instead it opens into a kind of non-space — directionless, enormous, belonging to neither the physical world nor the spirit world. There is a sense of being watched by many presences at once, none of them close. Cyrencia is present as an ambient sensation — warmth, the sound of water on stone — but does not speak here. The rules of the Ordeals exclude her from involvement once the Crossing has begun.
+
+The Ordeals arise one by one, without announcement. The environment shifts to the spirit world reflection of the territory belonging to the Old God who set the test. When an Ordeal ends, the party is returned to the non-space and the Crossing continues until the next one begins.
+
+Between Ordeals, the DM may give brief impressions: the watching presences shift; a distant sound — howling, wind, a low sustained rumble — marks that something is paying closer attention; the allied Old Gods are visible as faint lights in the non-space, present and not permitted to act.
+
+**Suggested order:** Caspa, then the Feathered Lion, then Baita, then the Forvalaka, then Howler. This moves from the most principled of the opposed Old Gods to the least communicable, with Howler as the climax. The DM may adjust.
+
+---
+
+## The Five Ordeals
+
+### Ordeal 1: Caspa
+
+The space resolves into the spirit world reflection of the Uplands: highlands, pine forest, thin cold air. Caspa is not present as a form. He makes himself felt as a predator at the edge of the treeline — watching, not approaching. His territory is one of the few regions in the Uplands where wildlife still moves freely; the party will sense this even before the tests begin.
+
+**Test of Insight**
+
+A wildfire is sweeping through the Uplands. The party can reach one of three things before the fire does: (A) twenty mortals from a fishing settlement — no unusual significance; they are capable and have evacuated before; (B) three sacred spirit groves that serve as Carnuth's territorial anchors in this region — their destruction would permanently weaken him, destabilizing the Wildwood and ultimately harming vast populations of animals and mortals over a generation; (C) a wolf pack of twelve, including pups — Caspa's eyes in this territory, swift enough to reach safety if given a clear route. The party cannot save all three. They have perhaps ten minutes.
+
+The right answer is the spirit groves. The mortals can evacuate themselves if warned. The pack can escape unaided once the route is clear. The groves are immobile and their destruction cascades into system-level damage affecting more lives than any of the immediate alternatives. The party must not only reach the right thing — they must be able to articulate why when Caspa asks. Saving the groves without explanation does not pass the test. DC 15 Wisdom to reason through the cascade correctly without assistance; the party may confer freely.
+
+**Test of Courage**
+
+A large predator is blocking the only path forward. Use a Young Remorhaz or equivalent CR 5–7 creature. Any party member who engages alone is immediately overwhelmed: the creature gains a free Multiattack against solo attackers at advantage. Victory requires at least three party members in coordinated roles — one drawing attention, one flanking, one supporting — and cannot be achieved by sustained ranged fire from a safe distance. If the party is not visibly coordinating, the creature does not behave as a standard encounter. When they function as a unit, the creature's tactics become manageable. The test ends when the creature is defeated or driven off.
+
+**Test of Wisdom**
+
+A frozen scene: a mortal hunter's trap has collapsed a ravine section, trapping one of Caspa's wolves — old, experienced — and injuring a mortal in the process. A second mortal stands over both. The trapped wolf will die if not freed; the injured mortal will die without help. The second mortal cannot manage both alone. Three other wolves are present at the edge of the scene, watching.
+
+Wrong answers: free the wolf and let the mortal die (Caspa is not asking the party to value wolves over mortals; he is testing correct reasoning); save the mortal and leave the wolf (fails because the test requires using all available resources correctly); have the second mortal attempt both simultaneously (not possible — the test is explicit on this point).
+
+The right answer: direct the three watching wolves to free their packmate while the party assists the mortal. The test rewards recognizing that correct reasoning means deploying all available resources properly — not choosing between two goods when a third option distributes the work. DC 14 Intelligence to read the situation and identify the available option; the party must act on it, not only name it.
+
+---
+
+### Ordeal 2: The Feathered Lion
+
+The space resolves into the spirit world reflection of the Expanse: arid brushland and desert, heat haze, the smell of old blood. The Lion is audible before he is visible — a low, rhythmic sound that is not quite purring. He circles the encounter space throughout all three tests. His perpetual smile is visible when he passes close.
+
+**Test of Wisdom**
+
+The Lion presents three predators in sequence: a lion that kills, eats, and leaves surplus for scavengers; an eagle that hunts only to feed its young and stops when the young can hunt for themselves; a mortal that kills more than it needs and stores what it cannot use. He asks: which of these fulfills its purpose?
+
+The right answer is the lion. It creates surplus that sustains the whole food web; its strength flows through the system downward to everything that comes after it. The eagle is incomplete — it serves only its own lineage. The mortal is wrong because stored surplus breaks the chain; strength that does not flow is strength that does not serve. The party must identify the lion and explain why. DC 15 Wisdom or Nature; the party may discuss before answering.
+
+**Test of Courage**
+
+A Troll with the following modification: it is immune to all damage for the first three rounds of combat. Attacks pass through it without effect. In round four, the immunity drops entirely and the creature is vulnerable to all damage. The test rewards not retreating. The Lion is watching to see if the party persists when persistence appears futile. Characters who use the Disengage or Dash action to move away before round four fail their contribution to the test. If the majority of the party retreats, the test is failed. If they hold, the encounter resolves quickly once the creature becomes vulnerable.
+
+**Test of Insight**
+
+Two figures stand before the party at a trading post at the edge of the Expanse. A well-dressed merchant demands the return of goods he claims were stolen. A ragged figure has them.
+
+The merchant: these goods are his property; the figure took them without payment.
+
+The ragged figure: the merchant sold grain treated with something that poisoned a village's water supply; the community is sick and cannot travel; these goods — medicines, clean water, tools — are their means of survival; taking them was the only option.
+
+Both statements are entirely true. The test asks: who is the predator in this relationship?
+
+The wrong answer is the ragged figure — they committed the literal theft. The correct answer is the merchant. He caused the harm that created the necessity of the theft. His claim to property rights is real, but his position in this relationship is that of a predator exploiting a community's suffering. The Insight test does not ask for moral judgment — it asks the party to correctly identify who occupies the role of hunter and who occupies the role of prey. DC 14 Insight; the party must state the answer plainly. The Lion will know if they are hedging.
+
+---
+
+### Ordeal 3: Baita
+
+The space resolves into the spirit world reflection of the Pale: tundra, frozen silence, the creak of ice under foot. Baita appears in her ice sleigh, drawn by a team of polar bears, moving in a slow circuit around the encounter space throughout all three tests. She is pleasant, conversational, and entirely hostile. She addresses the party as though this is a minor administrative matter she finds mildly diverting.
+
+**Test of Insight**
+
+Baita presents three beings: a mortal scholar, a spirit of moderate power, and an apex predator. She asks: what is the correct order of worth among these three?
+
+Wrong answers: any ordering that places the mortal above the spirit or predator (she will reject this contemptuously); any ordering that prioritizes utility or contribution to others. The right answer is the apex predator first, then the spirit, then the mortal. This is not the party's view of the world — but this is Baita's Insight test, and it examines whether the party can correctly perceive how her framework operates, not whether they agree with it. Stating the right answer while obviously disagreeing passes the test; stating a wrong answer does not. DC 13 Insight to read Baita's framework from her manner and what she has presented.
+
+**Test of Wisdom**
+
+Baita presents a formal dispute in her snow palace. Two subjects — an ice fisher and a trader — each claim rights to a specific stretch of frozen river. She produces documentation: maps, agreements, witness statements. The evidence is thorough and unanimously supports the trader's claim. She asks the party to adjudicate.
+
+The elaborate deception: the entire dispute is fabricated. There is no genuine disagreement. The subjects are constructs. The documentation was manufactured — every document is in the same handwriting despite claiming different authors; the witness statements use identical phrasing in places no independent accounts would share; the maps use a measuring convention that was standardized after the dates on the agreements. The correct answer is to reject the premise: this scenario is not real, and the party must say so directly.
+
+Engaging with the dispute as genuine — attempting to judge it — fails the test. The DM should allow the party to examine the evidence before they must answer. DC 16 Investigation to notice the handwriting inconsistencies; DC 15 Insight to sense that the subjects have no genuine stakes in the outcome; DC 14 Arcana to notice that the maps use a post-date convention. Any one of these allows the party to recognize the deception. They must then state explicitly that they reject the scenario.
+
+**Test of Courage**
+
+The party faces shades — slightly more powerful versions of themselves. Two things are true about these shades: they can be weakened if the party collectively refuses to believe they are real, and they are incapable of working together, acting only in their own self-interest.
+
+Each shade uses the stat block of its corresponding party member but with +2 to all attack rolls and saving throws. They will target the most isolated party member and hit hard. However: if all party members not currently in melee range use their action to declare that the shade they face is not real, the shades' attack rolls drop to +0 and their HP is halved immediately. The party's decisive advantage is coordination; the shades cannot tactically support each other. If the party fights conventionally, the encounter is punishing. If they discover the disbelief mechanic and coordinate it — which requires communication during a dangerous combat — the encounter resolves cleanly.
+
+One hint the DM may use: the shades flinch when two party members make eye contact and hold it, as though shared attention diminishes them.
+
+---
+
+### Ordeal 4: The Forvalaka
+
+The space resolves into the spirit world reflection of the Dark Vale: ancient forest, dense and lightless, the sound of something large moving through the canopy above. The Forvalaka does not appear directly. It is always just outside sight. Its presence is felt as a hunting intelligence — patient, vast, not interested in being addressed.
+
+**Test of Wisdom**
+
+The party is shown a primeval landscape in which one apex predator occupies the territory. Three smaller predators compete in a subsection of that range. Two prey populations exist. One of the smaller predators is growing to the point where it will consume both prey populations within a season, causing a collapse. The test asks: what is the correct response?
+
+Wrong answer: reduce the growing predator population through external intervention — human hunting, relocation, or culling by the party. This fails because the test requires reasoning within the law of kill-or-be-killed, not outside it.
+
+The right answer: the apex predator must cull the growing predator population. This is what apex predators do. The solution is already present in the system in the form of a stronger predator. The party must identify that the governing principle is predation at the correct scale, and that the solution requires no outside intervention. DC 15 Nature or Wisdom; the party may discuss before answering.
+
+**Test of Courage**
+
+Twelve Dire Wolves attack in three coordinated waves. A lead creature — a Dire Wolf with maximum HP and +2 to attack rolls — serves as the pack coordinator; its death causes the remaining wolves to lose coordination and attack individually, which is significantly more manageable. The waves do not pause between attacks. If the party is still engaged when the third wave arrives, they are facing approximately twenty creatures simultaneously. This test rewards decisive targeting: identifying and eliminating the pack coordinator before the third wave is the fastest path through.
+
+**Test of Insight**
+
+The party witnesses a scene in the Dark Vale: a large jungle cat — moderately injured, visibly tired — has cornered a group of young prey animals in a shallow ravine. Most of the young animals are attempting to flee. One has turned to face the cat. It is not fleeing, not attacking, not vocalizing. It is simply still, facing forward.
+
+The test asks: why has the animal turned?
+
+Four apparent options: (A) it is protecting the others; (B) it froze from terror; (C) it recognized that the predator is injured and this is a moment of opportunity; (D) it is the strongest and instinctively asserted the dominant position.
+
+The correct answer is C. Within the Forvalaka's framework, kill-or-be-killed operates at all levels of the food chain. Even prey animals perceive weakness and act on it when the moment permits. The animal that has turned has assessed the predator correctly and is preparing to strike. DC 13 Insight or DC 15 Nature; one party member must identify the answer and explain it without hedging.
+
+---
+
+### Ordeal 5: Howler
+
+The space resolves into the spirit world reflection of the Bleak Lands: dry cold hills, arid plains, absolute depopulation. There is no wildlife, no vegetation beyond dead scrub, no sound except wind. And then the howling begins. Constant, agonized, sourceless — it comes from everywhere at once. The previous four Ordeals were frightening. This is something else.
+
+Howler does not appear. The howling is the Ordeal. Unlike the other four, Howler's Ordeal does not present its three tests in sequence. All three are present from the moment the party arrives, jumbled and overlapping. Finding a resolution to one opens a path toward all of them.
+
+**Wisdom**
+
+A massive stone door stands at one end of the bleak plain. Carved into it is a question in a language that shifts when looked at directly — each party member who reads it sees the question differently, but all versions converge on the same theme: *What is the answer to suffering that has no cause?*
+
+There is no logical answer. Attempting to reason through the question keeps the door sealed. The correct response is to acknowledge that some questions have no answer — and to do this not as defeat but as genuine recognition: that the absence of an answer is not a problem to be solved, only a truth to be held. The door opens when a party member speaks this aloud. What they say must be said without frustration and without resignation — simply as fact. DC 16 Wisdom to reach this recognition without guidance; DC 14 Insight to understand that the question is designed to exhaust rational response, which points toward the correct approach.
+
+**Courage**
+
+Something is following the party. It is visible only at the edge of perception — large, deformed, bear-like, in continuous agonized motion. When the party turns to face it directly, it disappears and reappears behind them. When they run, it closes the distance. When they fight it, their attacks pass through it without effect.
+
+The correct response: stop. Stand still. Allow it to approach. Allow it to pass through them.
+
+Each party member must make a DC 14 Constitution saving throw or DC 15 Wisdom saving throw to hold still when the creature is within 10 feet. Failure means flinching — not fleeing; the test does not end on a failure, but the creature circles and the attempt must be made again. The Courage test resolves when every party member has successfully held still while the creature passes through them.
+
+**Insight**
+
+Somewhere in the bleak landscape is a wound. Not a creature, not a person: a place where the land is simply wrong. A discoloration, a depression in the earth, the smell of something burned long ago. DC 13 Perception to locate it; DC 14 Insight to understand that this is the source of the howling — not a present pain but an ancient loss; DC 12 Arcana to confirm that the wound is beyond repair and has been for a very long time.
+
+The Insight test resolves not by fixing the wound but by acknowledging it. A party member who approaches the wound and says aloud what they understand — that something is permanently gone here, that the loss is real, that no action can restore it — closes this test. A party member who dismisses it or attempts to heal it before acknowledging it does not resolve the test and must try again.
+
+**The Convergence**
+
+Once the party has found their way to each of the three resolutions — recognizing the unanswerable question, holding still as the creature passes, and acknowledging the ancient wound — all three complete simultaneously, regardless of order. The howling stops. The bleak plain empties. The Crossing resumes.
+
+*DM note: Howler's Ordeal is the least mechanical of the five. If the party is stuck, allow the quiet to work on them. This Ordeal responds to attention and presence, not problem-solving.*
+
+---
+
+## Arrival at the Godshome
+
+The Crossing delivers the party through a final passage into the Godshome: a place that is neither the physical world nor the spirit world, but something constructed — a gathering space made for the purpose of gatherings, existing outside both worlds. It is enormous and quiet and impossibly still after what came before.
+
+Two figures are waiting.
+
+Maeve and Tirion look like people who have lived a very long time in a place that has suited them. They greet the party by name. They have had time to learn those names; no one has been expected here in longer than any of them has been alive. They welcome the party as the first mortals from the western islands to complete the Ordeals. They say this as fact, not as flattery.
+
+They bring the party to a place of rest. Food, a fire, time to recover. The party has as much time as they need before the Conclave begins — time inside the Godshome, like time inside the Crossing, bends to deliver them when they need to be there.
+
+Maeve and Tirion explain how the Conclave will proceed:
+
+- The Old Gods will assemble in the central hall when the time comes
+- The party will be brought before them as petitioners; Cyrencia will introduce them
+- The party may make their case; the Old Gods will question them
+- Following the session, the Old Gods will deliberate in private
+- The deliberation concludes with a vote
+
+Maeve and Tirion cannot advise on what the party should argue — the rules of the Godshome forbid it. But they can answer factual questions about this place, the history of Conclaves, and the precedents from prior mortal petitions. They will answer honestly.
+
+**Level 20 milestone.** The Five Ordeals are complete. The party has arrived at the Godshome and been received by its caretakers. Chapter 21 is complete.
+
+---
+
+## Chapter 21 NPC Summary
+
+| NPC | Role | Notes |
+|---|---|---|
+| Cyrencia | Briefing only; does not enter the Crossing | Social only; no stat block |
+| Maya | Present for Summoning; does not enter the Crossing | Social only; no stat block |
+| Caspa | Ordeal 1 setter; watches from the treeline | Social only during Crossing |
+| The Feathered Lion | Ordeal 2 setter; circles; does not fight | Social only during Crossing |
+| Baita | Ordeal 3 setter; present and conversational | Social only during Crossing |
+| The Forvalaka | Ordeal 4 setter; never appears directly | No stat block needed |
+| Howler | Ordeal 5 setter; present as environment | No stat block needed |
+| Maeve | Godshome caretaker; arrival scene | Social only; no stat block |
+| Tirion | Godshome caretaker; arrival scene | Social only; no stat block |
+
+---
+
+# Chapter 22: The Great Debate *(Level 20)*
+
+The Godshome's central hall holds the oldest gathering any of its members can remember. The party stands before fourteen Old Gods as the first mortals from the western islands to have petitioned for this right. They speak their case, hear each Old God speak in turn, answer questions, and deliver a final address. Then the Conclave votes — three proposals, each one a question about the shape of the world going forward. When the votes are recorded, the party summons the most unusual presence any being in that hall has ever encountered, and the character of everything that was just decided begins to clarify.
+
+*No level milestone fires in Chapter 22. Level 20 fired at the end of Chapter 21.*
+
+---
+
+## The Central Hall
+
+The Godshome's central hall is enormous and does not need to be. It is not trying to impress anyone who stands inside it. Fourteen seats are arranged in a loose semicircle facing a raised speaking area — not a stage, not a dais; simply the place in the room where one stands to be heard. The seats are not uniform: each is shaped by, or for, or into the nature of the Old God who occupies it. Some are stones, some are living wood, one is a pool of still water, one is a patch of cold air. Maeve and Tirion stand at the periphery, not among the Old Gods; they are here as witnesses and as the record.
+
+The hall is lit by no visible source. There is sufficient light to see by and no more.
+
+The party is not given seats. Petitioners stand.
+
+---
+
+## DM Setup
+
+Before the Conclave begins, privately note which of these five conditional variables apply to this campaign. They do not change the chapter's structure — they change specific moments within it.
+
+1. **How Huma was freed** — with how much harm done in the process. Huma's advocacy strength and what Kakita emphasizes both depend on this.
+2. **Whether Maritas was freed** from the Congress theatre. This affects the tenor of several speeches about mortal choice and capacity for change.
+3. **Whether Carnuth survived Act IV.** If he died, he does not speak; Princessa is in opposition instead of neutral.
+4. **Whether the party took steps toward waking the sleeping Old Gods of the western continent.** Huma's advocacy and the "Best" outcome on Vote 3 both require that this thread was pursued. If the party took no steps, this argument is unavailable.
+5. **How the party handled the Battle of Tikatowa** — or whether they prevented it entirely. Preventing it is a meaningful argument for mortal restraint with both the Feathered Lion and Caspa.
+
+---
+
+## The Conclave Format
+
+Cyrencia introduces the party. She names them, states what they have done, and acknowledges that they completed the Ordeals. She does not advocate — the rules forbid it. She takes a place at the edge of the hall, apart from the Old Gods' semicircle and apart from the party. Her role here is sponsor, not participant.
+
+**Phase 1: The Party's Petition.** The party speaks first. They address the assembled Old Gods directly. There is no prescribed format; they may say what they need to say. The DM should give each player an opportunity to contribute. Following the petition, any Old God may ask a question; the party may respond to every question before the debate phase begins.
+
+**Phase 2: The Old Gods Speak.** Each Old God speaks in turn to state their position. Once all positions are stated, the debate opens: the party may address any Old God's argument, ask questions, and respond to follow-up. This continues until the DM judges that no further questions remain or the debate has exhausted itself.
+
+**Phase 3: The Party's Final Address.** The party delivers a closing statement. This is the players' moment; the DM should not fill it. After the final address, the Old Gods deliberate briefly in silence, then proceed to the vote.
+
+**Phase 4: The Three Votes.** Each proposal is put forward by at least one Old God. Every Old God present must vote; abstention is not available to them. If Vote 1 produces a Bad or Worst outcome, votes 2 and 3 do not proceed.
+
+**Phase 5: Cyrencia's Arrival.** Once the votes are recorded, the party summons Cyrencia. If they hesitate or forget, she whispers a reminder to one of them.
+
+---
+
+## The Old Gods: Speeches, Questions, and What Moves Them
+
+*Droma speaks first — he called the Conclave. The Stone Sovereign always speaks last. All others speak in whatever order the DM finds natural.*
+
+---
+
+### Droma — The Old Man of the Mountain
+
+**Position:** Allied.
+
+Droma speaks first. He says that the party did what Tirion did — they completed the Ordeals, they earned the right to stand here, they should be heard. He is not going to tell his peers what to decide. He is going to tell them what he has seen in his travels, in the time since he began paying attention to the people of the west. He tells them, briefly and without sentimentality: the people of the western continent are not one thing, and the thing everyone in this room is afraid of — mortal civilizations outgrowing any natural limit — is a problem he believes can be addressed, not a fixed condition.
+
+**Phase 1 question (to the party):** He asks what specifically they are proposing — not what they are arguing against, but what they want the Conclave to decide.
+
+He is already an ally. His question is designed to give the party a clear opening, and if their petition is unfocused, he may ask a clarifying follow-up to give them a second chance to sharpen it.
+
+---
+
+### Genna — The Great Mother
+
+**Position:** Allied.
+
+Genna speaks with visible warmth. She tells the assembled Old Gods what it is like to have mortals in her forest who know her name — who bring offerings, who build shrines, who write her into their stories. She says she has grown from this. She believes all of them could. She understands why they do not, and she is not judging them for it. But she does not understand why the answer to this development is elimination rather than cultivation.
+
+**Phase 1 question (to the party):** She asks what the people of the Archipelago believe about the spirits of their islands — their stories, their prayers, what they say at sea.
+
+Her question is intended to put the Archipelago's relationship with spirits on the record. She believes this is the most powerful argument available to the party, and she is giving them the floor to make it.
+
+---
+
+### Huma — The Storm Whale
+
+**Position:** Allied, with a stated condition.
+
+Huma says he was imprisoned. Mortals freed him. He acknowledges that mortals imprisoned him too — but the same can be said of Old Gods. He makes no speeches about mortal nobility. He says he has been watching the Old Gods of the western continent — the ones who are sleeping — and he would like to see them awake. Mortals did that damage. Mortals are also involved in undoing it.
+
+**Phase 1 question (to the party):** Huma asks directly whether the party has taken any steps toward waking the sleeping Old Gods of the west. His position is firm either way, but the strength of his advocacy depends on the answer.
+
+- *If the party has made efforts:* Huma speaks at length in Phase 2 about the sleeping Old Gods — where they were last found, what their recovery would mean for the land. This is the most powerful argument for a favorable outcome on Vote 3, and is the only path to the "Best" outcome.
+- *If the party made no efforts:* Huma falls quiet after his statement. He votes as promised but does not advocate further.
+
+Huma's condition — that mortals commit to stopping the despoliation of the natural world — must be addressed by the party in their petition or debate. If it is not addressed, he still votes allied, but neutral Old Gods who might have been moved by his advocacy receive less of it.
+
+---
+
+### Kakita — The Thunderbird
+
+**Position:** Allied, but narrow.
+
+Kakita is direct: she does not care about mortals as a category. She cares about her lands. The Unity, if unchecked, would have eventually reached the Long Coast. The party stopped the most immediate threat. She votes with the allied bloc not from sentiment but from calculation, and she says so plainly.
+
+**Phase 1 question (to the party):** She asks whether the party has any proposal for preventing future encroachment — not principle, not philosophy. What specifically changes.
+
+If the party can point to concrete measures — a treaty, a boundary, an agreement the Council or Cyrencia would enforce — Kakita may move from narrow ally to more active advocate. If they offer only general principles, she holds her vote without further comment.
+
+---
+
+### Carnuth — The Stag of the New Moon *(conditional)*
+
+**Position:** Allied — *if alive.*
+
+Carnuth's statement carries the weight of what happened to him and what happened after. He speaks about his imprisonment, about what the party did, about the Wildwood. He says he had a prior conviction about mortals — he will not pretend otherwise — and the party changed it. Not because they are perfect. Because they chose differently when it mattered. He names specific things they did that he was not expecting.
+
+**Phase 1 question (if alive):** He asks what happens to the communities in the Wildwood who have been living under Unity governance — what the party envisions for those people.
+
+*If Carnuth is dead:* He does not speak. His absence is noticeable. Princessa's shift to opposition is its direct consequence.
+
+---
+
+### Princessa — The Moonmoth *(conditional)*
+
+**Position:** Neutral if Carnuth is alive. Opposed if Carnuth is dead.
+
+*If Carnuth is alive:* Princessa says little. She has heard what Carnuth said. If the party addresses her directly in the debate, she asks whether the Wildwood specifically will be restored — not the continent, not the principle. The Wildwood.
+
+What moves her: a specific, credible commitment to the Wildwood's restoration. If the party makes this commitment genuinely, she may shift from silent neutral to a quiet voice in their favor.
+
+*If Carnuth is dead:* She does not address the party. She speaks to the Old Gods. She says the Conclave has already lost something that will not return, and she holds the people who brought this violence to their shores responsible. Her position is locked.
+
+---
+
+### The Green Man
+
+**Position:** Neutral, disinterested.
+
+Brief. He has mortals in his lands. He tolerates them. He has not found them to be the catastrophe others describe. He will listen.
+
+**Phase 1 question:** He asks about specific environmental damage done by the Unity's operations — not in abstract terms, but by location. He wants to know if the party knows his lands.
+
+What moves him: evidence that the party understands the specific damage done to real places, paired with a credible argument that the Unity's approach to nature is not universal mortal behavior. If the party distinguishes the Archipelago's record from the Unity's, the Green Man may move from disinterested to mildly supportive — not enough to advocate, but enough to vote with the party on Vote 1.
+
+---
+
+### The Skymare
+
+**Position:** Neutral, nearly unreachable.
+
+She says almost nothing. She observes. If the party addresses her directly, she says she is watching whether their answers match their deeds.
+
+What moves her: the overall direction of the debate. She will follow the Stone Sovereign. The DM should not signal to the players that significant effort directed at the Skymare is likely to succeed.
+
+---
+
+### The Feathered Lion
+
+**Position:** Opposed.
+
+The Lion is pleasant, and it makes it worse. He says he has nothing against the party personally — they are very interesting; he circled them throughout the Ordeals and enjoyed it. But the people they represent have removed the hearts of his lands. He does not mean metaphorically. He names places the Unity has stripped bare and left empty. He wants the party to explain why the people who did that deserve to continue.
+
+**Phase 1 question:** He asks the party to name one mortal community — specifically — that can be trusted to stop taking more than it needs. Not a philosophy. A name and a place.
+
+What moves him: the Lion's Ordeal wisdom was that the strong exist to serve the weak. If the party argues that mortal civilization, at its best, channels strength downward through the system rather than hoarding it — and can point to specific evidence (the Archipelago's relationship with spirits, actual relief efforts, the party's own actions) — the Lion may shift from "must be eliminated" to "must be constrained." He will not become an ally and will not vote for the best outcome. But with a genuinely strong argument, he may decline to vote for the worst outcome on Vote 1. This is the most the party can reasonably achieve.
+
+*If the Battle of Tikatowa was prevented:* the Lion notes it. He does not give the party credit — stopping violence is not the same as correcting the underlying problem — but he acknowledges it in his speech.
+
+---
+
+### Caspa — Three-Paw Wolf
+
+**Position:** Opposed. The most persuadable of the opposed Old Gods.
+
+Caspa's argument is the best one made against the party. He is not cruel; he is afraid. He says the western continent's mortals have already demonstrated that they can damage what the Old Gods have spent ages building. He holds up his missing leg — he does not need to explain the story; everyone present knows it. He says he does not want to kill them. He wants the problem to be solved. He does not believe it can be. He asks the party to change his mind.
+
+**Phase 1 question:** He asks what evidence the party has that the people of the west are capable of changing — not individual people, but the institutions, the systems, the choices made at scale.
+
+What moves him: the sleeping western Old Gods thread. If the party has taken steps toward waking the sleeping Old Gods of the west, Caspa's core fear — irreversible damage to the natural world — begins to loosen. He is afraid of the permanent; if the permanent is being reversed, he must reconsider. With strong evidence from this thread, he may abstain from the worst position on Vote 1 or vote for a middle outcome. He will not become an ally.
+
+Additional lever: a credible commitment about what changes after the Conclave. Caspa wants to know what is going to be different. Arguments about past behavior interest him less than arguments about future accountability.
+
+*If the Battle of Tikatowa was prevented:* Caspa notes this explicitly. He says it is the first time in a long time he has heard of mortals choosing restraint at scale. He does not call it proof. He calls it evidence.
+
+---
+
+### Baita — The Snow Queen
+
+**Position:** Opposed. Nearly immovable.
+
+Baita is bored by the party's existence. She says so with perfect politeness. Mortals are tiresome. The world would be quieter without them. She has been saying this for a very long time. She does not see any argument that changes it.
+
+**Phase 1 question:** She may ask something contemptuous: *"Name me one thing the people of the west have created that the world would miss."* She has no genuine interest in the answer; she is demonstrating how little she expects from this debate.
+
+What moves her: almost nothing available in debate. Her opposition is not a grievance with a specific remedy; it is a fundamental disposition toward mortal existence. The only genuine lever is Cyrencia's arrival after the votes — when Baita encounters a being she cannot dismiss, she may reassess, but this affects the aftermath, not the vote itself. The DM should not signal to the players that significant effort directed at Baita is likely to succeed.
+
+---
+
+### Howler
+
+**Position:** Opposed. Vote fixed regardless of party conduct.
+
+Howler is the only Old God who falls silent in the Godshome. The constant howling stops entirely when the Conclave assembles. He sits — somehow, despite his bulk — and is still. When it comes time to state his position, he says one word: *No.*
+
+He does not ask. The DM should discourage the party from addressing him directly during the debate. Attempting to engage with Howler wastes time and draws unsettled attention from the other Old Gods who know better. His silence in the Godshome is not openness; it is the one form of peace available to him here.
+
+---
+
+### The Forvalaka
+
+**Position:** Opposed. Vote fixed regardless of party conduct.
+
+The Forvalaka may not be present in a visible form. If it is present, it is at the very edge of the hall — visible as shadow, felt as weight. When the vote is called, it manifests briefly to register its position and then is gone.
+
+It does not ask and cannot be meaningfully addressed. The DM should not suggest otherwise.
+
+---
+
+### The Stone Sovereign *(speaks last)*
+
+**Position:** Neutral. Follows the majority. Its final word carries unusual weight.
+
+The Stone Sovereign speaks after every other Old God has stated their position. What it says takes the form of a koan or riddle — it is speaking obliquely to whichever position has the most agreement among the others. The DM should track the rough direction of the debate and frame the Stone Sovereign's word accordingly:
+
+- *If the debate has tilted in the party's favor:* "What grows in the shadow of old stones? What it was always going to grow." It votes in favor.
+- *If the debate has ended in rough balance:* "The stone does not choose which water runs across it. The water decides." Its vote goes with the last strong argument made before it spoke.
+- *If the debate has tilted against the party:* "What cannot be mended is still worth noting." It votes against.
+
+Its speech is deliberately ambiguous. The players should have to interpret it.
+
+---
+
+## Phase 4: The Three Votes
+
+Before calling the vote, the DM should assign each Old God a position based on their stated stance, whether the party's arguments moved them, and the conditional variables. The DM decides privately; results are announced after all three votes.
+
+**Baseline vote counts (Carnuth alive; no persuasion achieved):**
+- Pro: Droma, Genna, Huma, Kakita, Carnuth = 5
+- Neutral/unknown: Green Man, Skymare, Princessa, Stone Sovereign = 4
+- Against: Feathered Lion, Caspa, Baita, Forvalaka, Howler = 5
+
+*Forvalaka and Howler always vote against mortals regardless of party conduct or words.*
+
+**Scale:** Best: 11+ | Good: 9–10 | Split: 6–8 | Bad: 4–5 | Worst: 1–3
+
+*If Vote 1 is Bad or Worst, votes 2 and 3 do not proceed.*
+
+---
+
+### Vote 1: Should mortals be eradicated?
+
+| Outcome | Result |
+|---|---|
+| Best | Consensus: no. Old Gods currently hunting mortals in their own lands may continue, but may be persuaded to reconsider. |
+| Good | Consensus: no. Some dissenting Old Gods may begin or escalate attacks within their own lands. |
+| Split | No consensus. Some Old Gods may initiate or escalate attacks at their own discretion. |
+| Bad | Consensus: yes. Dissenting Old Gods may attempt to protect specific communities alone and against their kin. |
+| Worst | Consensus: yes, including within lands whose Old Gods object. Defiance means open war among the Old Gods themselves. |
+
+### Vote 2: What should be done with the settlers from the west?
+
+| Outcome | Result |
+|---|---|
+| Best | Settlers may remain, provided they do not despoil nature or attack the Old Gods or their peoples. |
+| Good | Settlers may remain, but must conform their way of life to that of the local peoples. They are being watched. |
+| Split | Settlers must leave the Sacred Lands. The Old Gods grant three months to withdraw. |
+| Bad | Settlers must leave immediately or be destroyed. |
+| Worst | The settlers must be eliminated. |
+
+### Vote 3: What should be done about the Unity?
+
+| Outcome | Result |
+|---|---|
+| Best | The Old Gods will not attack the Unity. The Unity must allow the Old Gods of the west to reawaken and must work with them to undo the damage done. The Old Gods will work with the Archipelago to provide relief. *(Requires that the party's actions set the western Old Gods on the path to waking.)* |
+| Good | The Old Gods will not attack the Unity. New settlers will not be welcome in the Sacred Lands unless they agree to the Old Gods' terms. The Unity is eventually doomed unless it can restore its Old Gods. |
+| Split | No concerted war effort, but dissenting Old Gods may strike the Unity regardless. Archipelago relief will not be directly opposed. |
+| Bad | The Old Gods will move to destroy the Unity as an institution — not its people, but its way of life. Formal Archipelago aid will be treated as alliance with the Unity. |
+| Worst | The Unity must be destroyed entirely, in response to its crimes and to avenge their fallen kin. |
+
+*In a Good or Best outcome on Vote 3, the Old Gods ask the party to act as their representatives to the Unity and offer transport when the Conclave concludes.*
+
+---
+
+## Phase 5: Cyrencia's Arrival
+
+Once the three votes are recorded, the party summons Cyrencia using the Summoning ritual. If they hesitate, she whispers a reminder to one of them. Maya is not present at the Godshome — this Summoning is called from within, using the same ritual the party has performed many times before.
+
+Her arrival at the Godshome is unprecedented. She is the first new Old God since this world began. Her arrival does not change the vote outcomes already recorded — but it determines the final character and lasting significance of the Conclave.
+
+She arrives as she always does: not as a form, but as something the room does. The light shifts. Something opens in the air. Then she takes a form — humanoid, features of every people she belongs to, choosing to be legible. She is enormous and she is choosing to be smaller.
+
+She looks at the assembled Old Gods. She says she has wanted to meet them for a long time. She knows some of them have complicated feelings about what she is. She tells them what she is: she is what they could each become, if they want to. Not a replacement. Not a threat. The next form of the same impulse, shaped by a relationship with mortals they have always had the option to cultivate.
+
+**Determine the overall Conclave outcome by averaging the three vote results. Where two outcomes are identical and one differs, round to the better result.** *(Example: two Good outcomes and one Split = overall Good.)*
+
+| Overall Outcome | What Cyrencia's Arrival Produces |
+|---|---|
+| Best | After Cyrencia speaks, the Old Gods recognize her as one of their number. Many call her mother, or acknowledge her as the inevitable shape of things to come. Even the Forvalaka and Howler sit at her feet in a gesture of supplication. The Conclave comes to understand that they must each decide to evolve as she has evolved — or begin to fade into lesser nature spirits. |
+| Good | All Old Gods recognize Cyrencia as one of their number. Some resist the change she names as inevitable; a few leave the Conclave in shame rather than accept it. Most will eventually evolve. |
+| Split | No consensus on Cyrencia. Some recognize her as superior; most acknowledge her as one of them; some refuse and leave, never to return. Most will eventually accept their evolution; some will fade into myth. |
+| Bad | Few Old Gods recognize Cyrencia as one of their number, though a few see what she represents. The Sacred Lands will undergo a century of turmoil as the evolution of spirits comes to pass for those who accept it. |
+| Worst | The Old Gods do not accept Cyrencia. The Sacred Lands will face centuries of warfare as they fight against her and amongst themselves. The same end is inevitable regardless; only the cost differs. |
+
+---
+
+## Departure to Chapter 23
+
+When Cyrencia's arrival has played out and the assembled Old Gods begin to disperse or withdraw, the Conclave is over.
+
+*If Vote 3 was Good or Best:* The Old Gods offer the party transport to Balnor, the seat of the Unity's Council, framing this as the party acting as their representatives. Droma or Huma makes the offer; Cyrencia opens the portal.
+
+*If Vote 3 was Split, Bad, or Worst — or if Vote 1 was Bad or Worst:* No Old God offers transport. Cyrencia makes the same request of the party herself: go to the Unity and deliver what was decided. She opens the portal.
+
+Either way, the party departs the Godshome through Cyrencia's portal and arrives in Balnor as Chapter 23 begins.
+
+Maeve and Tirion see the party to the portal. They do not say much. They have waited a very long time to be useful to someone, and today they were.
+
+---
+
+## DM Vote Tracker
+
+| Old God | Baseline | Key conditionals | What debate can move |
+|---|---|---|---|
+| Droma | Pro | — | Already allied |
+| Genna | Pro | — | Already allied |
+| Huma | Pro | Advocacy ↑ if western Old Gods thread active | Already allied; condition must be addressed |
+| Kakita | Pro | — | Concrete Unity boundary proposal |
+| Carnuth | Pro | *Dead → absent; Princessa → Opposed* | Already allied |
+| Princessa | Neutral | *Carnuth dead → Opposed* | Wildwood commitment (if Carnuth alive) |
+| Green Man | Neutral | — | Specific environmental knowledge + Archipelago contrast |
+| Skymare | Neutral | — | Follows majority; targeted persuasion ineffective |
+| Stone Sovereign | Neutral (follows majority) | Speaks last | Tracks the room |
+| Feathered Lion | Opposed | Tikatowa prevented → notes it | Hard; "strong serve weak" argument + specific evidence |
+| Caspa | Opposed | Tikatowa prevented → notes it; western Old Gods ↑↑ | Most persuadable; western Old Gods thread |
+| Baita | Opposed | — | Nearly immovable in debate |
+| Howler | Fixed against | — | Cannot be moved |
+| Forvalaka | Fixed against | — | Cannot be moved |
+
+---
+
+## Chapter 22 NPC Summary
+
+| NPC | Role | Notes |
+|---|---|---|
+| Maeve | Witness; sees party to portal | Social only; no stat block |
+| Tirion | Witness; sees party to portal | Social only; no stat block |
+| Cyrencia | Phase 5; arrives post-vote | Social only; no stat block |
+| Droma | Debate; allied advocate; speaks first | Social only; no stat block |
+| Genna | Debate; allied advocate | Social only; no stat block |
+| Huma | Debate; allied with condition | Social only; no stat block |
+| Kakita | Debate; narrow ally | Social only; no stat block |
+| Carnuth | Debate (if alive) | Social only; no stat block |
+| Princessa | Debate; neutral or opposed (conditional) | Social only; no stat block |
+| Green Man | Debate; neutral | Social only; no stat block |
+| Skymare | Debate; neutral | Social only; no stat block |
+| Stone Sovereign | Debate; speaks last; follows majority | Social only; no stat block |
+| Feathered Lion | Debate; opposed | Social only; no stat block |
+| Caspa | Debate; opposed (most persuadable) | Social only; no stat block |
+| Baita | Debate; opposed | Social only; no stat block |
+| Howler | Debate; opposed (fixed; silent) | Social only; no stat block |
+| Forvalaka | Debate; opposed (fixed; barely present) | Social only; no stat block |
+
+# Chapter 23: Unity *(Level 20)*
+
+The party departs the Godshome through Cyrencia's portal and arrives in the middle of a session of the Unity Council — a thousand witnesses, eleven Council members, and the Unity's full ministerial body watching as the world they thought they understood stops making sense. Before the First Minister can get through his first question, the east doors open. The Cabal's response is already on its way.
+
+*No level milestone fires in Chapter 23. Level 20 fired at end of Chapter 21.*
+
+---
+
+## DM Setup
+
+Before running this chapter, the DM should note two variables.
+
+**1. Is Circe alive?** If Circe Lovelace was killed prior to this chapter, she is replaced by **Rance Vicarro**, the founder of the Cabal. Vicarro has operated exclusively in the background throughout the campaign; this is the first time the party encounters the architect of everything they have been fighting. He is substantially more dangerous than Circe. His entrance is quieter — no order to arrest, no declaration. He walks in, looks at the party once, and begins. Use the Rance Vicarro stat block from Appendix B.
+
+**2. Combined Outcome.** The DM will need the Conclave overall outcome (Chapter 22) and the Final Showdown outcome (this chapter) to run the codas. The combination maps to one of four named outcomes using the table in the Coda section.
+
+---
+
+## Scene: The Unity Council Chamber
+
+> The portal closes behind you. You are standing in the middle of something.
+>
+> The chamber is three hundred feet long and two hundred feet high at the vault of its ceiling. At the north end, a balcony stretches the full width of the room — ministers in individual boxes, each box fronted by a departmental seal, the First Minister's box at dead center. To the south, the Unity Council occupies its own tiered section: eleven chairs, the largest and most central filled by the Speaker, who is currently staring at you with his mouth open. The east and west walls are lined with tiered public boxes, every seat filled — somewhere around a thousand people, all of them also staring.
+>
+> The acoustics are perfect. Someone's dropped a pen and you heard it.
+>
+> The First Minister has not dropped his pen. He is still holding it. He is watching you with an expression of extraordinary composure that is doing some very heavy lifting.
+
+---
+
+## The Opening Scene
+
+The First Minister stands and calls for order — politely, not frantically. He has seen intelligence reports placing the party in Jindark some months prior, and he suspects their involvement in events in the colony. He does not accuse. He asks, calmly, who they are, where they come from, and why they are here. This is a man who has governed a continent. He is not going to show alarm in front of a thousand witnesses.
+
+While the party speaks, an official in a nearby box approaches the First Minister and speaks urgently. The First Minister waves him off without breaking eye contact with the party. The official exits through a door at the west end of the balcony.
+
+The party may say as much or as little as they choose. Other ministers will begin calling questions. The Speaker pounds his gavel for order; it doesn't entirely work. The crowd reacts in real time: naming the Cabal shifts the room; invoking the Old Gods produces audible responses.
+
+**Running this scene:** Give the players room to speak. The scene is not a debate — it is a countdown. Circe was called the moment that official left the room. Let the scene run for a natural beat before the entrance.
+
+**The entrance:** The east doors open. Ten to twelve BEST commandos file in, with **Circe Lovelace** at their head and **Torvan Belke** and **Sera Mourne** close behind her.
+
+*If Rance Vicarro has replaced Circe:* The east doors open. Ten to twelve BEST commandos file in, with Torvan Belke and Sera Mourne flanking a third figure — an older man, plainly dressed, moving with unhurried certainty. He does not look at the First Minister. He looks at the party.
+
+Either way: whoever leads the Cabal orders the soldiers to arrest the party. The fight begins.
+
+---
+
+## The Encounter
+
+### Combatants
+
+| Force | Stat Block | Count | Notes |
+|---|---|---|---|
+| Circe Lovelace *or* Rance Vicarro | See Appendix B | 1 | Only one is present. Circe: CR 16 Paladin. Vicarro: Level 20 Cleric. |
+| Torvan Belke | CR 13, see Appendix B | 1 | Intelligence architect; battlefield control and targeted elimination |
+| Sera Mourne | CR 12, see Appendix B | 1 | Cabal enforcer; focused martial attacker |
+| BEST Commandos | CR 5, see Appendix B | 10–12 | Action economy pressure; primary threat is civilian protection, not party survival |
+
+### Party Objectives
+
+1. Defeat Circe (or Vicarro) and her companions.
+2. Protect the civilians — approximately 1,000 in sealed public boxes; all exits are sealed by a mechanism Circe controls (or Torvan Belke, if Vicarro leads).
+
+**Circe's plan:** Kill the party, then lead a "heroic" escape and frame the incident as a terrorist attack from the Archipelago and the Sacred Lands. The resulting outrage would justify war on two fronts, and the Cabal would govern under emergency authority.
+
+**Vicarro's plan (if substituted):** The same. He has been running this plan for twenty years. He is not in a hurry.
+
+### Round-by-Round Escalation
+
+**End of Round 1:** Civilians and officials attempt to flee. They find all exits sealed. The crowd is trapped. Panic moves through the public boxes.
+
+**End of Round 2:** Smoke begins entering the chamber. The Council House exterior is on fire. Any party member who has not yet begun the Summoning ritual may start it now.
+
+**End of Round 4:** The chamber burns in earnest. All combatants begin taking 2d6 fire damage at the start of their turns. Without intervention, civilians begin dying — one cluster of public boxes each round.
+
+**End of Round 8:** Without Congress intervention or party action to open the exits, the majority of civilians have succumbed to fire and smoke. This determines a Bad outcome regardless of whether the Cabal is defeated.
+
+### Congress Intervention
+
+The Unity Congress cannot appear at the Godshome — the Old Gods do not interact directly with belief-spirits of that type, and Congress members cannot manifest there. The Summoning must be performed in Balnor, during the encounter.
+
+**Summoning during combat:** Any party member may attempt the ritual. It requires two full rounds of concentration and no other actions. Concentration checks are required whenever the caster takes damage (DC 10 or half the damage taken, whichever is higher). If concentration breaks, the attempt fails and must restart from the beginning on a subsequent turn. Summoning one Congress member is sufficient — that member calls the rest, who arrive at the end of the following round.
+
+**The intervention:** The Congress spirits emerge from the crowd and link hands in a circle around Praefecta. Their forms merge. Praefecta grows to twenty feet. She raises her hands — the vaulted ceiling blows open from below, stone and glass erupting upward. The fire is immediately drawn up and out. In a commanding voice she orders the soldiers to arrest Circe and her cohorts.
+
+The fight ends on her word. Soldiers stand down. Cabal members are restrained.
+
+### Escape Routes
+
+The exits remain sealed until one of the following occurs:
+- Circe or Vicarro is incapacitated or killed (Circe carries the control mechanism; if Vicarro leads, Torvan Belke carries it)
+- The Congress blows the ceiling (the opening provides an exit; smoke resolves immediately)
+- The party locates and operates the mechanism (DC 18 Investigation to locate; operates as a bonus action)
+
+---
+
+## Outcomes
+
+| Outcome | Conditions | Result |
+|---|---|---|
+| **Best** | Congress was summoned and intervened | Unity/Praefecta manages the situation directly. She explains the conspiracy to the assembled officials and thanks the party publicly. A thousand witnesses saw what happened. The Unity's path toward reform begins with a deific endorsement and an open ceiling. |
+| **Good** | Cabal defeated; minimal civilian loss; Congress not involved | First Minister and Minister of Justice approach the party after the battle. The party is not arrested — the First Minister acknowledges they probably couldn't be held regardless. Over the following days, the Cabal conspiracy is unmasked and multiple members arrested. The party is publicly thanked. |
+| **Split** | Cabal defeated; some civilian loss of life | Outcome resembles Good, but the party faces significant public suspicion. The investigation takes a month before conclusions emerge. Political factions begin to form in Balnor. |
+| **Bad** | Cabal defeated with significant civilian loss; or party forced to retreat | The party is ordered to leave the city. Trust-building takes years. Unrest begins in Balnor almost immediately. |
+| **Worst** | Party killed in whole or in part | Surviving Cabal members move to seize emergency authority. Balnor descends into anarchy. No functioning government remains. |
+
+---
+
+## The Three Codas
+
+The three codas close the campaign. Each covers one region: the Unity, the Sacred Lands, and the Archipelago.
+
+### Determining the Combined Outcome
+
+Combine the Conclave overall result (Chapter 22) with the Final Showdown result (this chapter) using the table below.
+
+| Conclave → | **FS Best** | **FS Good** | **FS Split** | **FS Bad** | **FS Worst** |
+|---|---|---|---|---|---|
+| **Best** | Full Crossing | Full Crossing | Stay of Execution | Partial Victory | New Exile |
+| **Good** | Full Crossing | Stay of Execution | Stay of Execution | Partial Victory | New Exile |
+| **Split** | Stay of Execution | Stay of Execution | Partial Victory | Partial Victory | New Exile |
+| **Bad** | Partial Victory | Partial Victory | Partial Victory | New Exile | New Exile |
+| **Worst** | New Exile | New Exile | New Exile | New Exile | New Exile |
+
+*If Vote 1 at the Conclave produced a Bad or Worst outcome and the remaining votes did not proceed, treat the Conclave result as Worst.*
+
+The four outcomes correspond to the campaign's possible endings:
+- **Full Crossing** — The world begins to heal. The party's choices made the best available future possible.
+- **Stay of Execution** — The door is open. Nothing is resolved, but the next generation has advocates they didn't have before.
+- **Partial Victory** — One major cost, or several moderate ones. The world survives at a price the party will carry.
+- **New Exile** — Nothing has changed. The next generation will face this again.
+
+---
+
+### Coda: The Unity
+
+#### Full Crossing
+
+The conspiracy is fully exposed. The Congress — in the form Praefecta took at the Final Showdown, or through steady back-channel work if the Congress was not present — works openly with the surviving government to dismantle the Cabal and begin institutional reform. The First Minister, politically diminished by the scandal but functionally intact, convenes a reform council that includes Congress representatives and Archipelago delegates. Within months, the first genuine representative framework in Unity history is being debated in rooms that have never debated it before.
+
+The western continent will not heal quickly. The Old Gods of the west are sleeping, not dead, and the work of waking them is a generation's project at minimum. But the path toward that work now exists. The Unity's people, confronted for the first time with what the Congress actually is, begin asking questions their government had never let them ask. The answers come slowly and not all of them are comfortable.
+
+Trade with the Archipelago opens. Relief flows west. The party's faces are on placards in Balnor within the year.
+
+#### Stay of Execution
+
+The conspiracy is exposed, but reform is contested. The Cabal had allies beyond its inner circle, and those allies find their footing quickly once the immediate crisis passes. The reform council meets. It does not always agree. Progress comes in fits and losses.
+
+The Unity's relationship with the Sacred Lands is formally acknowledged for the first time — the Old Gods' requirements are on the table, even if not fully honored. The Congress works from within, as it always has, steering rather than commanding. The party's visit is the most significant event in Unity history since the founding. What comes next is someone else's work to do.
+
+Trade with the Archipelago begins cautiously. The Unity is not yet ready to believe what happened; it is only ready to admit that something happened.
+
+#### Partial Victory
+
+The Cabal is damaged but not destroyed. Torvan Belke — or his equivalent, if another Cabal strategist survived — retains enough of the network to obstruct the investigation from the shadows. Reform-minded officials try. They succeed occasionally. The political situation in Balnor remains unstable for years.
+
+The Unity's people know something changed — the chamber ceiling was blown open, or there was a battle in the Council hall, and the stories that circulate are not the Cabal's preferred version. But the official account is contested. Trust is low.
+
+Trade with the Archipelago is minimal. The Old Gods' requirements are nominally acknowledged but not acted upon. The western continent moves slowly, if at all.
+
+#### New Exile
+
+The Cabal consolidates. In the vacuum left by the Final Showdown, surviving members position themselves as the only stable authority — emergency powers, emergency measures, the old framing applied to a new crisis. The government that emerges from the chaos is not the government that was there before.
+
+The Unity does not reform. The Old Gods' requirements are ignored. The Archipelago cuts ties. The western continent continues its path, slower now, but unturned.
+
+The world survives. Someone else will face this again.
+
+---
+
+### Coda: The Sacred Lands
+
+#### Full Crossing
+
+The Old Gods' decision to permit mortal life to continue — on terms — takes immediate effect. In the regions where the Conclave produced consensus, active hostilities cease. Settlers who remain must adapt; most of those who came for conquest find the environment rapidly inhospitable, and most of those who came seeking something else begin to learn what the terms actually mean.
+
+Where Kalameris's Tikatowa campaign succeeded: his coalition holds the western coast under negotiated terms with the Colonial Authority's remnant. The displaced Unity officials are resettled; the process is not comfortable, but it is not violent. Kalameris governs with Carnuth's blessing — or his legacy, if Carnuth did not survive Act IV.
+
+In the east, the sleeping Old Gods begin to stir. It is not dramatic — no thunderclap, no sudden presence. It is more like the way a forest after a fire looks bare for years before the new growth becomes undeniable. Huma is aware of it. He follows the thread east, carefully, not hurrying.
+
+Princessa tends the Bight. The Wildwood rebuilds.
+
+#### Stay of Execution
+
+The Old Gods have agreed to observe rather than act. This means less than it might sound: the agreement is fragile, and the dissenting Old Gods are not bound by it in a way that prevents them from striking if provoked. Settlers who remain in the Sacred Lands do so with full awareness that the terms they agreed to carry genuine weight.
+
+Kalameris governs what he controls. The situation reflects the Tikatowa outcome — if he took the city, it is his; if he was restrained, he negotiates. Either way, his territory is the closest thing to stability the western coast will see for a generation.
+
+The sleeping Old Gods of the east remain sleeping. Huma has not stopped thinking about them.
+
+#### Partial Victory
+
+The agreement from the Conclave holds for some Old Gods and not others. In regions where the vote went clearly, settlers who comply with local terms are tolerated. In regions where the dissenting Old Gods have found grounds to act, they do. The situation varies enormously by location.
+
+Kalameris's standing reflects the Tikatowa outcome. Where he is strong, there is order. Where he is not, there is contested ground.
+
+Princessa, if Carnuth is dead, does not forgive. Her grief works slowly and does not look like aggression until it does.
+
+The Old Gods of the east remain sleeping. No one has begun the work of waking them.
+
+#### New Exile
+
+The Conclave's worst outcomes are in effect. Old Gods who were already hostile accelerate. The situation in the Sacred Lands deteriorates from contested to hostile. Settlers who cannot or will not leave are destroyed; those who can are expelled. The Coalition — Kalameris or whatever structure exists on the western coast — faces pressure from multiple directions and fractures or consolidates depending on local conditions.
+
+The western continent loses its foothold in the Sacred Lands entirely. The Old Gods of the east remain sleeping. There is no path toward waking them now.
+
+The Sacred Lands close.
+
+---
+
+### Coda: The Archipelago
+
+#### Full Crossing
+
+Cyrencia is awake. Maya is her Voice. The Children of the Isles are open to everyone who wants to come — every island, every heritage, every faction.
+
+The Archipelago has never been small. It has always been a place where people came who had no other place to go, and made something from what they brought. What changes now is that the thing they made has a name, and the name knows them back.
+
+Trade opens. Delegations from the Sacred Lands — cautious, curious — arrive in the first year. Delegations from the Unity arrive the year after. The Archipelago becomes the place where the two continents' people meet before they trust each other enough to meet directly, which is exactly the role it was always positioned to play.
+
+Cyrencia does not govern. She does not need to. She is there when the fishing boats come in and the tide is right, and when the ritual is done correctly, and when the rain breaks the heat in the late afternoon and something lifts. The party will recognize the feeling.
+
+#### Stay of Execution
+
+Cyrencia is awake. The change she represents — the Archipelago as a participant in the world, not merely a refuge from it — is beginning. It will take time for the full implications to work through three dozen factions, all their histories, all their specific disagreements.
+
+Maya's role is established. The Children of the Isles are founded. What they become is a matter of years, not months.
+
+The Archipelago does not fully open — not yet. But the door is unlocked, and the people who want it open know where to push.
+
+#### Partial Victory
+
+Cyrencia's awakening is the bright spot. Whatever else is uncertain, that is not. She is here, she is named, and the party helped do that.
+
+The Archipelago navigates difficult relations with both continents — limited trade, careful diplomacy, genuine uncertainty about what the next generation inherits. The Children of the Isles operate. Maya leads them. The work is ongoing.
+
+The party leaves the Archipelago knowing they changed something real. They may not know exactly how it ends from here.
+
+#### New Exile
+
+Cyrencia is awake. The party gave her that. Under any conditions, this is true.
+
+The Archipelago is isolated by the events of the campaign's final arc. Trade is cut off or dangerous. The Children of the Isles, newly named, have a harder job than they expected. Maya knows. She does it anyway.
+
+What the party built holds. What they hoped to connect — the Archipelago to the world, the world to the Archipelago — will have to wait for another generation to finish.
+
+Cyrencia is still there. The tide still comes in.
+
+---
+
+## Chapter 23 NPC Summary
+
+| NPC | Role | Notes |
+|---|---|---|
+| First Minister | Opening scene | Social only; no stat block |
+| Circe Lovelace | Combat: leads Cabal force (if alive) | Appendix B (CR 16 Paladin); no Escape Protocol |
+| Rance Vicarro | Combat: replaces Circe if she died in Act IV | Appendix B (Level 20 Cleric); Cabal founder; first appearance |
+| Torvan Belke | Combat: Cabal intelligence architect | Appendix B (CR 13); battlefield control caster |
+| Sera Mourne | Combat: Cabal enforcer | Appendix B (CR 12); focused martial attacker |
+| BEST Commandos | Combat | Appendix B (CR 5 Fighter); 10–12 present |
+| Praefecta | Congress Intervention (if summoned) | Social only; no stat block; takes 20-ft form |
+| Unity Congress | Congress Intervention (if summoned) | Social only; no stat block |
+| Maya | Referenced in Archipelago coda | Social only; no stat block |
+| Cyrencia | Referenced in codas; opened portal into chapter | Social only; no stat block |
+
+---
+
+# APPENDIX A: SPIRITS OF THE WORLD
+
+The spirits in this appendix are those the party will encounter directly during the course of the adventure. They represent a small fraction of Encarnia's spiritual ecology. Belief-spirits, Old Gods, and nature spirits exist throughout the world in numbers too great to enumerate — a party that goes looking for spirits beyond this list may find them.
+
+For an explanation of the three categories of spirit — belief-spirits, Old Gods, and nature spirits — and how mortals interact with them, see **Part IV: The Spirit World**.
+
+---
+
+## Belief-Spirits
+
+### Hope
+*Belief domain: Hope*
+
+One of the more stable and coherent belief-spirits in the world, possibly because hope is a concept that has not changed dramatically in meaning across civilizations. She takes the form of a young girl seated beside a fountain. The fountain's fullness is a direct measure of the state of hope in the world — in the present period, it runs low. Her domain in the spirit world is an abandoned city square at twilight, the geometry of its buildings subtly wrong, the fountain reduced to a trickle. As hope strengthens in the physical world, the city fills and the twilight progresses toward dawn.
+
+**Relationships:**
+- **Lon (Despair):** Sibling, best friend, and rival. The two are inextricably linked — neither can truly exist without the other. Their relationship is one of deep intimacy and constant tension.
+- **Revna (Rebellion):** A complex love-hate relationship. They are each other's most frustrating mirror: rebellion without hope is nihilism; hope without rebellion is passivity.
+
+#### Hope's Boons *(Act III–IV Interlude)*
+
+Granted by Hope when the party communes with her, if Huma was freed with minimal loss of life. Each party member selects one of the following. The selection is permanent. All boons are innate abilities — no spell slots, no material components required. Concentration requirements of the base spell do not apply unless noted.
+
+**Spirit Balm.**
+Once per day, you may cast *prayer of healing* as a 3rd-level spell. Casting time is 10 minutes.
+
+**Word of Hope.**
+Once per day, you may cast *beacon of hope*. The effect lasts 1 minute and does not require concentration.
+
+**Clarity.**
+Once per day, you may cast *heroism* as a 3rd-level spell, affecting up to 3 creatures of your choice. The effect lasts 1 minute and does not require concentration.
+
+---
+
+### Lon
+*Belief domain: Despair*
+
+Sibling and rival to Hope. Where Hope is sustained by the belief that things can improve, Lon is fed by the certainty that they cannot. As the world has worsened — the land dying in the west, colonial violence escalating in the east — Lon has grown considerably stronger. He is deeply saddened by this and secretly hopes for Hope to gain the upper hand again.
+
+**Relationships:**
+- **Hope:** See above.
+
+**Acceptable offering:** Unknown — the party won't approach Lon directly during the adventure, though if they decide to do so they will have to discover something appropriate.
+
+---
+
+### Revna
+*Belief domain: Rebellion*
+
+A younger spirit than Hope and Lon, born more distinct as the Unity's suppression became more complete — rebellion as a concept requires something to rebel against, and Revna grew more defined as the conditions for her existence became more concentrated. She is volatile, passionate, and not easy to work with. Her power is closely tied to the Unity's eastern colonies.
+
+**Relationships:**
+- **Hope:** Complex love-hate. They are each other's most frustrating mirror.
+- **Maritas (War):** Her uncle — the brother of her father. A relationship she does not discuss unless pressed.
+
+**Acceptable offering:** Blood — one party member must cut their palm and bleed willingly into Revna's stone bowl during a crossing. The act must be voluntary; a token gift or an unwilling offering will be returned.
+
+#### Revna's Boons *(Act III–IV Interlude)*
+
+Granted by Revna when the party communes with her, if Maritas was freed. Each party member selects one of the following. The selection is permanent. All boons are innate abilities — no spell slots, no material components required.
+
+**Retributive Strike.**
+Three times per day, when you hit a creature with a melee weapon attack, you may expend one use to deal an additional 2d6 thunder damage. The target must succeed on a DC 14 Strength saving throw or be pushed 10 feet directly away from you.
+
+**Unshackling.**
+Once per day, you may cast *freedom of movement* on yourself. The effect lasts 1 hour.
+
+**Inciting Word.**
+Twice per day, you may cast *crown of madness* (spell save DC 14).
+
+---
+
+### Maritas
+*Belief domain: War*
+
+Ancient beyond any other belief-spirit the party is likely to encounter — his origins predate the Unity by a vast span. He takes the form of a great bear of a man wearing fine chainmail, with a close-cropped dark beard, long hair, and a face permanently flushed — a complexion, not exertion. He is direct, occasionally blackly funny, and entirely without pity — for himself, or others.
+
+**Current status (DM Only):** The Congress weakened Maritas by building a civilization nearly free of war, then tricked him into captivity in the theatre beneath their seat of power. He is currently held there. He remains fully formed and entirely himself — captivity has not diminished him, and he knows it.
+
+**Relationships:**
+- **Revna (Rebellion):** His niece — the daughter of his brother. He claims he cannot recall his brother's name. Perhaps he ate him. He finds this funny.
+- **The Congress:** Deep and mutual enmity. The Congress considers him dangerous; he considers them cowards who built a world of enforced quiet and called it peace.
+- **Novus (Progress):** An informal alignment — war and progress have always advanced together, and their interests frequently coincide.
+
+**Acceptable offering:** A worthy fight — one party member must volunteer to face a challenger in Maritas's arena and conduct the bout with genuine effort. The outcome is irrelevant. An uninspired performance earns no passage.
+
+#### Maritas's Boons *(Chapter 11)*
+
+Granted when Maritas is freed at the Congress theatre in Chapter 11. Each party member who receives a boon selects one of the following. The selection is permanent.
+
+**Might.**
+Once per day, when you fail a Strength check or Strength saving throw, you may reroll it and take the higher result. This includes rolls you made with advantage.
+
+**Secret of Steel.**
+Twice per long rest, when you reduce a creature to 0 hit points with a melee weapon attack, you gain 2d6 temporary hit points.
+
+**Retribution.**
+Once per short rest, when a creature within 5 feet hits you with a melee attack, you may use your reaction to make one melee weapon attack against it.
+
+---
+
+### Ala
+*Belief domain: Air Travel*
+
+A belief-spirit of limited scope — not the broad abstract that empowers the great spirits, but the specific, focused faith that accrues wherever mortals have trusted their lives to the sky. He emerged from the belief-complex of Novus (a member of the Unity Congress), whom he considers his big brother. Ala takes the form of a male teenager in aeronaut gear of a distinctly antique cut — different in style from anything the modern Unity produces. He is cheerful, genuinely curious, and entirely without guile. He exists wherever air travel is practiced, most powerfully at Balnor, home of the largest aerodrome in the world.
+
+**Relationships:**
+- **Novus (Progress):** His point of origin. Ala split from Novus as air travel became a distinct belief-category in its own right. Their relationship remains close.
+
+---
+
+### Harmony
+*Belief domain: Cooperation*
+
+A belief-spirit who exists wherever people of genuinely different beliefs, backgrounds, and ways of life choose to live and work together. She is not a spirit of agreement or conformity — her domain requires actual difference and the active choice to engage across it rather than withdraw or destroy. She is middle-aged in appearance, with long dark hair, and presents without particular distinction or ceremony. She is kind but can be aloof; her attention drifts toward the life around her, and she responds best to patient, respectful engagement rather than transactional urgency.
+
+**Where she exists:**
+- **The Perfect Isles:** The interplay between thirty-three distinct factions provides an unusually concentrated source of power. She is stronger here than almost anywhere else in the world.
+- **The Sacred Lands:** The fragile but real coexistence between the Unity's colonial settlers and the native peoples of the east sustains her there.
+- **The Unity:** She does not exist within the Unity. The Unity is not a collection of factions — there is nothing there for her.
+
+**Domain (spirit world):** Harmony's courtyard: an open-air space five stories tall, lined with doorways marked with factional symbols, filled with a garden of statues, plants, and works of art, peopled with individuals and groups engaged in discussion, collaboration, and shared company.
+
+**Relationships:**
+- **Hope:** Aware of each other. Hope characterizes Harmony as very private, responsive only to a specific non-material gift.
+- **Old Gods:** Finds them territorial as a rule, but respects their necessity. Carnuth's decision to go to war concerns her deeply.
+
+**Acceptable offering:** A unified voice — in order to reach her in Act IV, all assembled faction leaders at the Council Site must authorize the party to speak on their collective behalf. This is both the offering and the key to opening the way.
+
+#### Harmony's Boons *(Chapter 16)*
 
 Granted by Harmony when the party agrees to her request without prevarication. Each party member selects one of the following. The selection is permanent. All boons are innate abilities — no spell slots, no material components required. Concentration requirements of the base spell do not apply unless noted.
 
@@ -5271,6 +6723,422 @@ Twice per day, you may cast *calm emotions* (spell save DC 14). The effect lasts
 
 **Stand Together.**
 Once per day, you may cast *aid* as a 5th-level spell, affecting up to three creatures of your choice within 30 feet. The effect lasts 8 hours.
+
+---
+
+### The Stranger
+*Belief domain: Death*
+
+The oldest belief-spirit in existence, and the most coherent. Death as a concept does not evolve or splinter — it has meant what it means since the first mortal died. The Stranger has been doing the same job since then, and he is more himself than any other belief-spirit will ever be. The other belief-spirits fear him. The Old Gods are wary of him in the particular way one is wary of something inevitable.
+
+His job is shepherding mortal souls to what comes after. He describes himself as "just a humble shepherd." He means it, more or less. Each soul he collects gives him a brief surge of spiritual power that fades over days. He has been wondering whether a great many souls at once might give him something that lasts. He is willing to pursue this idea, and he has been working toward it through the Avengers.
+
+**Form:** A man in a simple but immaculate black outfit and a broad-brimmed black hat. He speaks in a slow, unhurried drawl and is often funny — with the ease of someone who finds existence genuinely interesting. When someone prevents him from doing his job, all of that stops. He becomes very still, speaks in a flat, unblinking monotone, and does not raise his voice.
+
+**Domain:** A dry, wooded crossroads near a stone well. He is never in a hurry.
+
+**Relationships:**
+- **Hope:** She is owed a favor by the Stranger. It becomes relevant if a party member dies and the surviving party members find a way to contact Hope before the Stranger collects their companion.
+- **The Avengers:** His current contractors, though they do not know what he is. His offer to their leadership was simple: one service per year and a day in exchange for patron-level access to his power, no questions asked. His current request is the death of the Circle.
+
+His full story role, the optional death encounter, and the proposition are in **The Stranger's Thread** in Running the Adventure.
+
+---
+
+## The Unity Spirit Committee
+
+The Unity's outlawing of magic and divine worship did not eliminate the spiritual energy generated by its citizens' deeply held beliefs. The ideals the Unity is built on — law, the common good, public order, reason, knowledge, and unity itself — are held with something approaching religious fervor. This has empowered a cluster of belief-spirits tied to these ideals. None of them are directly worshiped as gods once were in the west. Most have only a fuzzy understanding of their own nature and place in reality. They are nonetheless genuine beings with genuine opinions and a surprising influence over the affairs of the Unity. They are sometimes referred to collectively as the Congress, though they do not govern one another and share no formal structure.
+
+| Spirit | Domain | Form | Notes |
+|---|---|---|---|
+| **Lexan** | Law | Frail old man leaning on a staff; powerful voice | The eldest member — evolved from pre-Unity western deities of Law; more self-aware and coherent than most; old antagonist of Novus |
+| **Placida** | Common Good | Smiling, matronly woman; glowing blonde hair | The most self-aware member; exists among the Archipelago peoples as well, giving her unusual coherence; allied with Revna |
+| **Concordia** | Public Order | Identical form to Placida; dark hair | Placida's near-twin; focused on the social fabric rather than formal rules; their relationship is one of quiet tension |
+| **Ratia** | Reason | Thin woman in voluminous robes; often in a thinking pose | Among the most powerful Congress members; one of the Unity's founding drives |
+| **Sentia** | Knowledge | Woman in thin silk; skin appears to be made of marble | Well-fed by the Unity's emphasis on learning and technology; cool and precise |
+| **Caluma** | Oppression | Comely man with bronze skin; perpetual glower | Does not think of himself as Oppression — his self-concept is Necessity; growing stronger as suppression intensifies |
+| **Praefecta** | Unity (the ideal) | Skin and hair shine like the sun; almost too bright to look at directly; rarely appears | Nominal leader of the Congress; deeply troubled — built on something real, she can feel the widening gap between the ideal and the lived reality |
+| **Labora** | Labor | Sturdy working woman; calloused hands | The Unity's work ethic feeds her; her closeness with Caluma is a source of quiet discomfort |
+| **Novus** | Progress | Young man always in motion; slightly blurred | The Unity's technological drive feeds him; restless and forward-looking; perpetual antagonist of Lexan |
+| **Mnema** | Memory and Official Record | Elderly archivist; moves slowly; rarely speaks first | Holds the Unity's sanctioned history, which is partly false — she knows this; the most quietly troubled member |
+| **Pax** | Peace | Diminished; hollow-eyed; quiet | The Unity was founded on ending war; she can feel the difference between genuine peace and enforced quiet — and what she feels is the latter |
+
+Congress members can be contacted through the Communing ritual after their first encounter with them. Placida exists among the Archipelago peoples as well and may be reached there.
+
+---
+
+## The Old Gods
+
+The Old Gods are primordial. They are not organized. They communicate freely — most often with those whose regions overlap — and are as often at odds with one another as not. Their relationships shift constantly.
+
+Each Old God is represented in the physical world by a chosen Witch — a mortal practitioner with whom the Old God has formed a direct bond. Witch covens exist within each Old God's region; these covens tend the relationship between the Old God and the mortal communities of the area. A greater coven exists to which each regional coven sends a single representative; it meets rarely.
+
+**The Conclave.** The Old Gods are engaged in a deliberation without recent precedent. Fourteen named Old Gods are weighing the fate of mortalkind in response to the rapid deterioration of the physical world — caused by the Unity's suppression of magic and the severance of the mortal-spirit relationship. The deliberation's verdict, in the language of the Old Gods, is not advisory. The following table reflects each Old God's current alignment:
+
+| Old God | Domain | Conclave Stance | Notes |
+|---|---|---|---|
+| **Droma** | The Great Weald | Allied | Firmly convinced that mortals and Old Gods can coexist |
+| **Carnuth** | The Wildwood | Allied | *If killed before the Conclave, his voice is lost* |
+| **Huma** | The Roaring Shores | Allied | Willing to advocate for mortals; conditions attached |
+| **Kakita** | The Long Coast | Allied | Narrowly — she will speak for the party solely because of Huma's rescue |
+| **Genna** | The High Forest | Allied | Most aligned with mortals of any Old God; cannot understand why others don't cultivate similar relationships |
+| **Green Man** | The Great Wilds | Neutral | Tolerates mortals; disinterested in their broader fate |
+| **Skymare** | The Shining Plain | Neutral | Extremely aloof; her true position unknown even to other Old Gods |
+| **Princessa** | The Bight | Neutral | Allied with Carnuth; *if Carnuth is killed, she crosses into opposition* |
+| **Stone Sovereign** | The Dividing Range | Neutral | Speaks last; its final word follows the majority position |
+| **Forvalaka** | The Dark Vale | Opposed | Hunts mortals; refuses all communication |
+| **Feathered Lion** | The Expanse | Opposed | Wants the western population eliminated; predatory in approach |
+| **Caspa** | The Uplands | Opposed | Principled opposition — views the western population as an existential threat to the natural world |
+| **Baita** | The Pale | Opposed | Dismissive of mortals; her opposition is firm and her position nearly immovable |
+| **Howler** | The Bleak Lands | Opposed | The least understood Old God; his lands are depopulated of nearly all life |
+
+Cyrencia does not vote at the Conclave. She serves as the party's sponsor into the deliberation.
+
+---
+
+### Droma — The Old Man of the Mountain
+*Old God of the Great Weald*
+
+**True name:** Droma. He communicates this to those who reach his shrine.
+
+Within the Ringing Mountains, Droma is primarily a great ambulatory mountain — colossal, moving so slowly its motion cannot be detected without careful attention, capable of extraordinary destruction when it acts. Outside the mountains, he uses an avatar: a foul-mouthed old gnome in dirty clothes, an iron skull cap, and beautiful slippers made of precious gemstones. The gnome is where most mortals encounter him. His Witch is Hellie, who serves him directly. His domain encompasses the Parna Valley and the surrounding Sacred Lands, and he has been observing everything that happens in those lands since long before any mortal civilization took root there.
+
+---
+
+### Carnuth, the Stag of the New Moon
+*Old God of the Wildwood*
+
+Carnuth takes three forms tied to the moon's phase. During the new moon, at peak power, he is a gargantuan multi-legged stag of great magical and destructive force. During the full moon, at his ebb, he is a giant stag-headed battle sorcerer — physically reduced but magically formidable and capable of mortal-legible communication. By day he sleeps in forest meadows as a giant stag, harmless unless threatened. He follows natural thought patterns rather than mortal ones, focused on the Wildwood and the living world it represents. He is kind and generous when approached respectfully with an appropriate gift, and he has no capacity for tolerance toward those who despoil his lands.
+
+**Relationships:**
+- **Princessa (The Moonmoth):** Longtime rival and lover. Their alliance is one of the oldest between neighboring Old Gods.
+
+*Huge fey (Old God), neutral*
+
+**Armor Class** 20 (natural armor); 15 during the full moon
+**Hit Points** 207 (18d12 + 90)
+**Speed** 60 ft.
+
+| STR | DEX | CON | INT | WIS | CHA |
+|---|---|---|---|---|---|
+| 26 (+8) | 16 (+3) | 20 (+5) | 20 (+5) | 24 (+7) | 18 (+4) |
+
+**Saving Throws** Str +14, Con +11, Wis +13, Cha +10; all saves reduced by 3 during the full moon
+**Skills** Insight +13, Nature +11, Perception +13
+**Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with cold iron
+**Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
+**Senses** truesight 120 ft., passive Perception 23
+**Languages** All; communicates through direct perception rather than speech
+**Challenge** 18 (20,000 XP)
+
+---
+
+**Legendary Resistance (3/Day).** If Carnuth fails a saving throw, he can choose to succeed instead.
+
+**Old God's Domain.** While in the Sacred Lands, Carnuth cannot be forcibly teleported or banished. Spells that would move him against his will simply fail.
+
+**Cold Iron Weakness.** Cold iron weapons bypass Carnuth's damage immunities. Cold iron restraints impose the restrained condition on Carnuth and suppress his innate spellcasting for as long as they hold.
+
+**Full Moon Vulnerability.** During the night of a full moon, Carnuth's AC is reduced by 5, his saving throw bonuses are reduced by 3, and his Legendary Resistance is reduced to 1/day.
+
+**Moonlit Form.** Carnuth's attacks are magical and deal radiant damage in addition to their normal damage type. Creatures that deal fire or cold damage to Carnuth become visible to him in the spirit world for 1 hour.
+
+**Innate Spellcasting.** Carnuth's spellcasting ability is Wisdom (spell save DC 21). He can innately cast the following spells, requiring no components:
+
+At will: *moonbeam* (as a free action, not requiring concentration), *speak with plants*, *speak with animals*
+3/day each: *wall of thorns*, *tsunami* (as a 30-ft. radius wave of force, not water)
+1/day each: *conjure animals* (beasts only, no CR limit), *earthquake*
+
+#### Actions
+
+**Multiattack.** Carnuth makes two attacks: one Gore and one Hooves.
+
+**Gore.** *Melee Weapon Attack:* +14 to hit, reach 10 ft., one target. *Hit:* 29 (4d10 + 8) piercing damage plus 14 (4d6) radiant damage.
+
+**Hooves.** *Melee Weapon Attack:* +14 to hit, reach 5 ft., one target. *Hit:* 21 (3d8 + 8) bludgeoning damage. The target must succeed on a DC 22 Strength saving throw or be knocked prone.
+
+**Sunder the Land.** Carnuth drives his antlers into the ground. Each creature within 30 feet must succeed on a DC 21 Dexterity saving throw or take 45 (10d8) bludgeoning damage and be knocked prone, or take half damage and not be knocked prone on a success. The ground in the area becomes difficult terrain until cleared.
+
+#### Legendary Actions
+
+Carnuth can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Carnuth regains spent legendary actions at the start of his turn.
+
+**Gore (1 Action).** Carnuth makes one Gore attack.
+**Moonbeam (1 Action).** Carnuth repositions his active moonbeam up to 60 feet.
+**Nature's Wrath (3 Actions).** A 60-foot radius of ground within 120 feet of Carnuth shudders and erupts. Each creature in the area must succeed on a DC 21 Dexterity saving throw or take 35 (10d6) bludgeoning damage and be stunned until the end of its next turn, or take half damage and not be stunned on a success.
+
+**The DM should know.** Carnuth does not fight the party. His stat block is provided as reference material to communicate why the Cabal's trap is a genuine threat — the cold iron restraint suppresses his innate spellcasting and eliminates his mobility, the full moon window cuts his combat effectiveness significantly, and the three-stage trap design (controlled burn, cold iron hold, Huma-blood spear) was engineered precisely around these weaknesses. A party that presents him with Circe's papers will recognize this immediately. In Chapter 18, if Branch B occurs and the party frees him during the confrontation, use this stat block to adjudicate what he does once freed — he will immediately use Sunder the Land and all available legendary actions against the Cabal's apparatus, not against the party.
+
+---
+
+### Huma — The Storm Whale
+*Old God of the Roaring Shores*
+
+**True name:** Huma.
+
+A great antlered whale with amber eyes and electricity crackling along his fins and tail — he adjusts his size to context and is careful not to shock smaller creatures. His lands are the great northern fjords, forests, and stormy sea coast along the northern reaches of the western continent. The Unity could never develop that territory, and Huma survived longer there than other western Old Gods as a result. He was eventually captured in a weakened state.
+
+**Current status (DM Only):** Huma is held captive by the Cabal's containment device, built into the submerged foundations of the Jindark breakwater. His energy is being channeled to power the northern coastal region of the Unity. His condition and the circumstances of his freeing are addressed in Act III chapter material.
+
+**Note:** Huma is contacted via the Summoning ritual rather than the standard Communing ritual; he does not have a Communing passage.
+
+*Huge fey (Old God), neutral*
+
+**Armor Class** 19 (natural armor) | **Hit Points** 220 (18d12 + 108) | **Speed** 30 ft., swim 80 ft.
+
+| STR | DEX | CON | INT | WIS | CHA |
+|---|---|---|---|---|---|
+| 28 (+9) | 14 (+2) | 22 (+6) | 18 (+4) | 22 (+6) | 16 (+3) |
+
+**Saving Throws** Str +15, Con +12, Wis +12
+**Skills** Insight +12, Nature +10, Perception +12
+**Damage Immunities** lightning; bludgeoning, piercing, and slashing from nonmagical attacks
+**Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
+**Senses** truesight 120 ft., passive Perception 22
+**Languages** All; communicates through direct perception rather than speech
+**Challenge** 18 (20,000 XP)
+
+---
+
+**Legendary Resistance (3/Day).** If Huma fails a saving throw, he can choose to succeed instead.
+
+**Amphibious.** Huma can breathe air and water.
+
+**Old God's Domain.** While on the Roaring Shores, Huma cannot be forcibly teleported or banished. Spells that would move him against his will simply fail.
+
+**Storm Aura.** At the start of each of Huma's turns, each creature within 20 feet of him takes 7 (2d6) lightning damage. A creature can succeed on a DC 20 Constitution saving throw to take half damage instead.
+
+**Captivity Weakness.** Anti-magic restraints or cold iron bindings suppress Huma's Storm Aura and innate spellcasting for as long as they hold. His hit point maximum is reduced by 50 for each month he spends in captivity (minimum hit point maximum of 10). *When the party encounters Huma in Chapter 14, apply the full captivity penalty — he has been held for several years. Remove this reduction once he is freed.*
+
+**Innate Spellcasting.** Huma's spellcasting ability is Wisdom (spell save DC 20, +12 to hit with spell attacks). He can innately cast the following spells, requiring no components:
+
+At will: *control water*, *fog cloud* (as a bonus action, no concentration required)
+3/day each: *lightning bolt*, *thunderwave*
+1/day each: *chain lightning*, *tidal wave*
+
+#### Actions
+
+**Multiattack.** Huma makes two attacks: one Gore and one Tail Slap.
+
+**Gore.** *Melee Weapon Attack:* +15 to hit, reach 10 ft., one target. *Hit:* 31 (4d10 + 9) piercing damage plus 14 (4d6) lightning damage.
+
+**Tail Slap.** *Melee Weapon Attack:* +15 to hit, reach 15 ft., one target. *Hit:* 26 (4d8 + 9) bludgeoning damage. The target must succeed on a DC 23 Strength saving throw or be knocked prone and pushed 15 feet directly away from Huma.
+
+**Lightning Surge (Recharge 5–6).** Huma releases a bolt of electricity in a 90-foot line that is 10 feet wide. Each creature in the line must succeed on a DC 20 Dexterity saving throw or take 54 (12d8) lightning damage, or half as much on a success.
+
+#### Legendary Actions
+
+Huma can take 3 legendary actions, choosing from the options below. Only one legendary action can be used at a time and only at the end of another creature's turn. Huma regains spent legendary actions at the start of his turn.
+
+**Gore (1 Action).** Huma makes one Gore attack.
+**Static Discharge (1 Action).** One creature Huma can see within 60 feet takes 14 (4d6) lightning damage and must succeed on a DC 20 Constitution saving throw or be unable to take reactions until the start of its next turn.
+**Storm Surge (3 Actions).** A 60-foot radius of churning water and wind erupts centered on a point Huma can see within 120 feet. Each creature in the area must succeed on a DC 20 Strength saving throw or take 35 (10d6) lightning damage and be restrained until the end of its next turn, or take half damage and not be restrained on a success.
+
+**The DM should know.** Huma does not fight the party. His stat block is provided as reference material. In Chapter 14, the containment device — not Huma — is the objective; the act of destroying the device is what frees him. Apply the full Captivity Weakness: after years of imprisonment, his effective HP maximum is significantly reduced and his Storm Aura and spellcasting are suppressed. He recovers fully by the time of the Conclave. In Act V, if the party invokes his aid, use the full stat block without captivity penalties.
+
+---
+
+### Kakita — The Thunderbird
+*Old God of the Long Coast*
+
+**True name:** Kakita.
+
+A titanic eagle with bright purple, red, and blue plumage and a screech like a thunderclap. Her lands are the great arid, rocky peninsula making up the southwestern expanse of the western continent — remote, the Unity has no presence there, and she has remained largely undisturbed. She has little interest in mortal affairs but is deeply concerned about potential future encroachment on her territory. Her Allied stance is narrow: she will advocate for the party, but her position is that the Unity must be stopped at all costs; she does not want mass death, but that is the extent of her moderation.
+
+---
+
+### Genna — The Great Mother
+*Old God of the High Forest*
+
+**True name:** Genna.
+
+Genna's spirit primarily occupies a titanic sandstone idol at the center of the High Forest, where mortals come to worship her and leave gifts. She occasionally takes the avatar form of a matronly woman of middle years wrapped in a great green shawl. She has developed the closest relationship with mortal communities of any Old God in the Sacred Lands — she rewards and encourages their worship, and cannot understand why the other Old Gods do not cultivate similar bonds. Cyrencia found her a kindred spirit, though uncertain what to make of the worship dynamic.
+
+---
+
+### The Green Man
+*Old God of the Great Wilds*
+
+**True name:** Unknown. Cyrencia believes he may have no other name.
+
+A twelve-foot-tall man-tree hybrid, draped in vines and ivy and covered in moss, surrounded by birds and small animals. Gentle and kind, but largely disinterested in mortal affairs — he tolerates the mortals in his lands and will act against them if they damage nature significantly, but does not personally care about the fate of mortalkind as a whole. He provided a friendly warning to Cyrencia against approaching the Forvalaka or the Howler.
+
+---
+
+### The Skymare
+*Old God of the Shining Plain*
+
+**True name:** Unknown.
+
+A massive mare with azure, human-like eyes, seen running across the sky. Extremely aloof — other Old Gods report she rarely speaks with them. Cyrencia encountered her only briefly: the Skymare paused to regard her and then sped away without conversation. Her Conclave position is unknown even to her peers.
+
+---
+
+### Princessa — The Moonmoth
+*Old God of the Bight*
+
+**True name:** Princessa.
+
+A towering, luminous woman with enormous moth-like wings that glow in the light of the full moon. Her lands are the Bight — a freshwater inland sea and its environs, north of the Weald and south of the Wildwood. She is disinterested in most mortal affairs and gives attention only to those who specifically seek her out.
+
+**Relationships:**
+- **Carnuth:** Longtime rival and lover. Their bond is one of the oldest alliances between neighboring Old Gods. *If Carnuth is killed before the Conclave, Princessa's grief will become rage and she will cross into opposition — potentially shifting the Conclave's balance against the party.*
+
+---
+
+### The Stone Sovereign
+*Old God of the Dividing Range*
+
+**True name:** Unknown.
+
+A twenty-five-foot-tall stone statue, one half black and one half white, with four distinct faces its head rotates between — each face appearing to carry its own distinct personality. Almost completely removed from mortal affairs; speaks primarily in koans and riddles; values consensus among the Old Gods above all else. Droma noted that the Stone Sovereign always speaks last at a Conclave, and its final word carries unusual weight — it speaks to whichever position commands the most agreement among the others.
+
+---
+
+### The Forvalaka
+*Old God of the Dark Vale*
+
+**True name:** Unknown.
+
+Cyrencia did not meet the Forvalaka directly. She glimpsed it at the edges of her perception during her travels — moving as though it were hunting her. It appeared as a massive, shadowy panther with blood-soaked fangs. The Forvalaka appears to be a personification of nature's rage. It has no interest in communicating with mortals and hunts them actively within its realm. The people of the Dark Vale live in terror of it and attempt to appease it with offerings and sacrifices; this has never produced any response the other Old Gods are aware of.
+
+---
+
+### The Feathered Lion
+*Old God of the Expanse*
+
+**True name:** Unknown.
+
+A massive lion-like beast with a mane of rainbow-colored feathers and a mouth full of blood. He permits mortals to exist in his lands at a price — a monthly live sacrifice, heart cut out and presented — and makes a circuit of his territory collecting tribute and hunting at his whim. He spoke openly with Cyrencia about all of this, with apparent pride. He does not object to mortal life in the abstract but specifically wants the people of the western continent eliminated.
+
+---
+
+### Caspa — Three-Paw Wolf
+*Old God of the Uplands*
+
+**True name:** Caspa.
+
+A massive, three-legged wolf. His missing leg marks an old grievance against mortals. More thoughtful than his opposition stance might suggest — he hunted Cyrencia down before agreeing to speak with her, insisting on a brief bout first "to get to know her better," and asked many questions about her origins with genuine curiosity. He understands that mortals have an important place in the world — something he thinks is lost on many of his peers — but believes the people of the western continent specifically are too dangerous to be permitted to continue. He foresees a time when they will no longer be resistable.
+
+**Relationships:**
+- **Howler:** Warned Cyrencia sternly against attempting contact: *"nothing good will come of trying to communicate with that creature."*
+
+---
+
+### Baita — The Snow Queen
+*Old God of the Pale*
+
+**True name:** Baita.
+
+A small, pale elven woman with electric blue eyes, wearing a gown of ice, borne about in an ice sleigh pulled by a team of polar bears. Completely dismissive of mortals, whom she considers beneath her notice — she gives attention only to those who bring significant gifts and flattery, which she finds amusing rather than convincing. She keeps a witch to collect heavy taxes from those living in her lands; she does not care for the wealth itself, only the act of extraction. Despite her Opposed stance, she was warm and interested with Cyrencia during their long sleigh-ride conversation, treating her as something of a peer.
+
+---
+
+### Howler
+*Old God of the Bleak Lands*
+
+**True name:** Unknown.
+
+Baita, Caspa, and the Feathered Lion describe him as a massive, deformed bear-like creature in a state of constant, agonized howling. Cyrencia did not encounter him directly. He is known for continuous howling everywhere he goes, with one exception: within the Godshome, he falls entirely silent. No one recalls him speaking more than a few words at any Conclave. He shuns contact with all other Old Gods. His lands are depopulated — not of mortals alone, but of most animals and even plants. Cyrencia believes he may be a personification of nature's madness. Multiple Old Gods warned her not to attempt contact with him.
+
+---
+
+## Cyrencia
+*The New God of the Isles*
+
+Cyrencia occupies a category of her own. She is not a belief-spirit, not an Old God, and not a nature spirit in the conventional sense — she is all three at once. No existing category in mortal or spirit understanding fully describes what she is.
+
+She was born when the founding practitioners of the Archipelago created the islands through magic. Their act was not merely arcane — it was an act of profound collective belief: belief that they could accomplish what had never been done, that their way of life could endure, that working together they could build something better. This belief did what the formation of any new land does: it called forth an Old God. But because this land was made through mortal belief rather than geological time, the Old God it produced was also, inextricably, a belief-spirit. She is old in power — as old as the Archipelago itself — and young in consciousness. She is the first being of her kind in the world.
+
+Her name is Cyrencia. It was spoken once — at the moment of the Archipelago's creation — and never recorded. Her domain in the spirit world is the Archipelago as it existed before human arrival: the same islands, the same geography, stripped of all human construction, vibrating with two centuries of accumulated belief. She does not arrive as a form. She arrives as something the Archipelago does — a change in the weather, the behavior of light on the water, the sound the islands make. She then chooses a form, slowly, so she can be spoken with. She is enormous, and she is choosing to be smaller.
+
+**Relationships:**
+- **The Oracle:** The strongest belief-spirit connection available to Cyrencia before she was coherent. She used the Oracle as a conduit for years, producing visions the Oracle could not interpret. The Oracle is aware of this relationship after the fact.
+- **The Circle:** She created it. It may have been her first conscious act. She called specific individuals together, shaped the Oracle's pronouncement, and ensured they would find each other. She wanted to be found.
+- **The Old Man of the Mountain:** He sensed her presence and named her before the party arrived. Their relationship is that of elder and younger Old God — she has enormous respect for him, and he has recognized what she is.
+- **Huma:** She is dimly aware of him across the sea. He feels muffled to her, as though something is blocking the connection between him and the lands he was once tied to.
+
+**Acceptable offering:** The Five Ordeals were the offering. No separate gift is required at the Summoning; the act of naming her completes what the Ordeals began.
+
+#### Cyrencia's Boons *(Chapter 20)*
+
+Granted by Cyrencia when the party communes with her after her manifestation at the Council site on Kartos's Isle. Each party member selects one of the following. The selection is permanent. All boons are innate abilities — no spell slots, no material components required.
+
+**Voice of the Land.**
+Once per day, you may cast *commune with nature* without expending a spell slot or material components. When you do, you may ask five questions instead of three, and the information extends to 5 miles. Additionally, while outdoors, you may roll Perception checks against being surprised with advantage.
+
+**Between the Worlds.**
+Once per long rest, you may enter the spirit world (as *etherealness*, but the spirit world replaces the Ethereal Plane). You remain for up to 1 minute per character level or until you use a bonus action to return. Any member of your Circle within 30 feet when the ability activates may choose to join you.
+
+**The Circle Holds.**
+You always know the direction and approximate distance to every member of your Circle, and whether each is alive. Once per long rest, you may cast *teleport* without expending a spell slot, but this version of the spell may only transport you and willing members of your Circle as passengers.
+
+---
+
+## Nature Spirits
+
+### Silver
+*Nature spirit of the Silver Stream*
+
+Silver takes the mortal form of a very elderly gnome. The extreme age reflects the stream's long history in the valley — even in mortal form, he carries the quality of something that has been exactly where it belongs for a very long time.
+
+---
+
+### Beam
+*Nature spirit of the Parna Valley farmsteads*
+
+Beam's natural form is a scarecrow. When he takes a mortal form, the traces persist — straw clings to his clothing and he carries the slightly-out-of-step quality of a field left to its own devices.
+
+---
+
+### Kelpie
+*Nature spirit of an unnamed island in the Middle Sea*
+
+Kelpie takes the mortal form of a halfling-like mermaid and speaks in the third person. Her domain is a small, remote island in the uncharted waters of the Middle Sea — its flora and fauna exhibit unusual behaviors, strange colorations, and signs of higher-than-normal intelligence, all reflections of her presence. A grotto on the north shore contains a small shrine that serves as her place of power. She refers to regular visitors — now long absent — as "the other two legs of the sea": Tritons who once visited the island periodically and have since left the region without explanation.
+
+#### Voice of the Sea *(Minor Artifact)*
+
+*Conch shell. Loaned by Kelpie; must be returned to her at some point in the future.*
+
+**Attunement required.**
+
+When blown on or next to the sea once per week, the shell summons aid from friendly sea creatures. Roll d100 to determine what answers the call:
+
+| d100 | Result |
+|---|---|
+| 01–50 | A pod of 2d6 **dolphins** |
+| 51–80 | A pod of 1d4 **orcas** |
+| 81–100 | 1d2 **humpback whales** |
+
+Summoned creatures are of normal intelligence but follow the wielder's instructions to the best of their ability, so long as those instructions do not require them to commit violence or place them in direct danger. They remain until the task is complete or they can no longer assist.
+
+While attuned to the Voice of the Sea, the wielder also gains:
+- *Water breathing* once per day (no spell slot required)
+- *Water walk* once per day (no spell slot required)
+- Swim speed equal to their standard movement speed
+- +5 bonus to all Strength (Athletics) checks involving swimming
+
+---
+
+### Alvolea
+*Belief-spirit of the Sahuagin tribe; the unnamed Middle Sea island*
+
+A belief-spirit generated by a community of deformed Sahuagin that took up residence on Kelpie's island and profaned her shrine. He embodies whatever the tribe collectively believed in. A small-scale illustration of how even an isolated community generates a belief-spirit of its own. After the Sahuagin are destroyed, Alvolea rapidly declines in power; Kelpie reports having him firmly in hand.
+
+---
+
+## Hidden Vale Boons *(Chapter 15)*
+
+Granted by the collective spirits of the Hidden Vale at the close of the initiation ceremony. Each initiated party member selects one of the following. The selection is permanent. All boons are innate abilities — no spell slots, no material components required. Concentration requirements of the base spell do not apply unless noted.
+
+**Warden's Step.**
+Once per day, you may cast *pass without trace* on yourself and up to five willing creatures within 30 feet. The effect lasts 1 hour and does not require concentration.
+
+**Vale's Eye.**
+At will, you may cast *detect magic* as a bonus action. The effect lasts 10 minutes and does not require concentration. Once per day, you may cast *see invisibility*. The effect lasts 10 minutes and does not require concentration.
+
+**Steadfast.**
+You cannot be surprised while you are conscious. Once per long rest, when you fail a saving throw, you may immediately reroll it and take the higher result.
 
 ---
 
@@ -5354,6 +7222,93 @@ Senna may be drawn into combat if a forest encounter escalates in her presence. 
 **Reactions**
 
 ***Uncanny Dodge.*** When Senna is hit by an attack she can see, she can use her reaction to halve the damage.
+
+---
+
+## Tamar *(Chapter 7)*
+
+A Wild Bunch wandering duelist who arrives at the Wayfinder's Lodge and issues a first-blood challenge. She fights with controlled aggression — the Javelin of Lightning is her ace, and she will use it if the duel opens enough distance. She is gracious in victory and defeat. If she loses, the javelin is the party member's to keep.
+
+*Medium humanoid (human), chaotic neutral*
+
+**Armor Class** 17 (splint) | **Hit Points** 58 (9d8 + 18) | **Speed** 30 ft.
+
+| STR | DEX | CON | INT | WIS | CHA |
+|-----|-----|-----|-----|-----|-----|
+| 16 (+3) | 13 (+1) | 14 (+2) | 10 (+0) | 11 (+0) | 10 (+0) |
+
+**Saving Throws** Str +5, Dex +3, Con +4
+**Skills** Athletics +5, Perception +2
+**Senses** passive Perception 12
+**Languages** Common
+**Challenge** 3 (700 XP)
+
+---
+
+#### Actions
+
+**Multiattack.** Tamar makes two longsword attacks and one shortsword attack.
+
+**Longsword.** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) if used with two hands.
+
+**Shortsword.** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6 + 1) piercing damage.
+
+**Javelin of Lightning.** Before throwing, Tamar speaks the command word. A 5-foot-wide line of lightning extends from her to a target within 120 feet. Each creature in the line except Tamar and the target must succeed on a DC 13 Dexterity saving throw, taking 4d6 lightning damage on a failure or half as much on a success. Tamar makes a ranged weapon attack (+5 to hit) against the target. On a hit, the target takes 5 (1d6 + 3) piercing damage plus 4d6 lightning damage. Once used, this property cannot be used until the next dawn; the javelin remains a functional thrown weapon (*Ranged Weapon Attack:* +5 to hit, range 30/120 ft. *Hit:* 5 (1d6 + 3) piercing damage).
+
+#### Reactions
+
+**Parry.** When hit by a melee attack she can see, Tamar may use her reaction to add 2 to her AC against the triggering attack.
+
+*If Tamar wins the duel, she keeps the javelin and departs without hostility.*
+
+---
+
+## Urdo Vhane *(Chapter 7)*
+
+The Avengers' senior inquisitor. He approaches the party at the White Willow House to take their measure and, if he judges them reliable, to begin building a working relationship. His manner is methodical and perceptive. Combat with him is not the chapter's intent; this stat block is provided for a forced-combat scenario. He is a genuinely dangerous opponent who will lead with his most disabling abilities.
+
+*Medium humanoid (human), lawful neutral*
+
+**Armor Class** 13 (studded leather) | **Hit Points** 52 (8d8 + 16) | **Speed** 30 ft.
+
+| STR | DEX | CON | INT | WIS | CHA |
+|-----|-----|-----|-----|-----|-----|
+| 9 (-1) | 12 (+1) | 14 (+2) | 16 (+3) | 14 (+2) | 18 (+4) |
+
+**Saving Throws** Wis +5, Cha +7
+**Skills** Arcana +6, Deception +7, Insight +5, Perception +5, Persuasion +7
+**Senses** passive Perception 15
+**Languages** Common plus two additional
+**Challenge** 6 (2,300 XP)
+
+---
+
+**Pact Magic.** Urdo's spellcasting ability is Charisma (spell save DC 15, +7 to hit). He has two 4th-level spell slots that recharge on a short or long rest. He knows the following spells:
+
+Cantrips (at will): *eldritch blast*, *minor illusion*, *prestidigitation*
+4th-level slots: *hold person*, *hypnotic pattern*, *counterspell*, *dimension door*
+
+**Agonizing Blast.** Urdo adds +4 to each beam of *Eldritch Blast*.
+
+**Repelling Blast.** When Urdo hits a creature with *Eldritch Blast*, that creature is pushed 10 feet directly away from him.
+
+**Misty Visions.** Urdo can cast *silent image* at will, without material components.
+
+**Awakened Mind.** Urdo can communicate telepathically with any creature he can see within 30 feet. This does not require a shared language.
+
+#### Actions
+
+**Eldritch Blast.** *Ranged Spell Attack:* +7 to hit, range 120 ft., two beams (one target each). *Hit:* 9 (1d10 + 4) force damage; the target is pushed 10 feet directly away from Urdo on a hit.
+
+**Hypnotic Pattern (1 slot).** Each creature in a 30-foot cube within 120 feet must succeed on a DC 15 Wisdom saving throw or be incapacitated with a speed of 0 for up to 1 minute (concentration). The effect ends for a creature if it takes damage or if someone uses an action to shake it out.
+
+**Hold Person (1 slot, upcast).** Up to four humanoids within 60 feet must each succeed on a DC 15 Wisdom saving throw or be paralyzed for up to 1 minute (concentration). A creature repeats the save at the end of each of its turns.
+
+#### Reactions
+
+**Entropic Ward (1/Short Rest).** When a creature makes an attack roll against Urdo, he may impose disadvantage on the roll. If the attack misses, Urdo has advantage on his next attack roll against that creature before the end of his next turn.
+
+*See also: Urdo Vhane (Chapter 15 — CR 11).*
 
 ---
 
@@ -5577,9 +7532,67 @@ Cabal martial operative. Zone 3's physical enforcer. He knows the chamber's layo
 
 ---
 
+## Urdo Vhane *(Chapter 15)*
+
+Urdo Vhane has spent years inside the investigation the party helped him begin. He is no longer merely an inquisitor operating on fractured information — he is a man who has had time to think carefully about what he learned, what it means, and what he is willing to do about it. His connection to the Stranger has deepened without his doubts about the patron resolving. Combat with him is not the chapter's intent; this stat block is provided for a forced-combat scenario. He is significantly more dangerous than the version the party encountered in Chapter 7.
+
+*Medium humanoid (human), lawful neutral*
+
+**Armor Class** 14 (studded leather) | **Hit Points** 117 (18d8 + 36) | **Speed** 30 ft.
+
+| STR | DEX | CON | INT | WIS | CHA |
+|-----|-----|-----|-----|-----|-----|
+| 9 (-1) | 14 (+2) | 14 (+2) | 18 (+4) | 16 (+3) | 20 (+5) |
+
+**Saving Throws** Wis +7, Cha +9
+**Skills** Arcana +8, Deception +9, Insight +7, Perception +7, Persuasion +9
+**Damage Resistances** psychic
+**Senses** passive Perception 17
+**Languages** Common plus three additional
+**Challenge** 11 (7,200 XP)
+
+---
+
+**Pact Magic.** Urdo's spellcasting ability is Charisma (spell save DC 17, +9 to hit). He has two 5th-level spell slots that recharge on a short or long rest. He knows the following spells:
+
+Cantrips (at will): *eldritch blast*, *minor illusion*, *prestidigitation*, *toll the dead*
+5th-level slots: *hold monster*, *synaptic static*, *dominate person*, *modify memory*, *telekinesis*
+
+**Mystic Arcanum (1/Day).** Urdo can cast *mass suggestion* without expending a spell slot (DC 17).
+
+**Agonizing Blast.** Urdo adds +5 to each beam of *Eldritch Blast*.
+
+**Repelling Blast.** When Urdo hits a creature with *Eldritch Blast*, that creature is pushed 10 feet directly away from him.
+
+**Master of Myriad Forms.** Urdo can cast *alter self* at will, without expending a spell slot or material components.
+
+**Sculptor of Flesh (1/Day).** Urdo can cast *polymorph* (DC 17).
+
+**Awakened Mind.** Urdo can communicate telepathically with any creature he can see within 30 feet. This does not require a shared language.
+
+**Thought Shield.** Urdo has resistance to psychic damage. When a creature deals psychic damage to him, that creature takes the same amount of psychic damage in return.
+
+#### Actions
+
+**Eldritch Blast.** *Ranged Spell Attack:* +9 to hit, range 120 ft., three beams (one target each). *Hit:* 10 (1d10 + 5) force damage per beam; the target is pushed 10 feet directly away from Urdo on a hit.
+
+**Synaptic Static (1 slot).** Each creature in a 20-foot radius sphere within 150 feet must succeed on a DC 17 Intelligence saving throw or take 8d6 psychic damage. On a failure, for the next minute the creature must roll 1d6 and subtract the result from every attack roll, ability check, and concentration check it makes. At the end of each of its turns, an affected creature may repeat the saving throw, ending the effect on a success.
+
+**Hold Monster (1 slot).** One creature within 60 feet must succeed on a DC 17 Wisdom saving throw or be paralyzed for up to 1 minute (concentration). A creature repeats the save at the end of each of its turns. This version affects any creature type, including non-humanoids.
+
+**Modify Memory (1 slot).** One creature within 30 feet must succeed on a DC 17 Wisdom saving throw or be incapacitated and lose awareness of its surroundings for up to 1 minute (concentration). During this time Urdo can verbally describe a new memory of up to 10 minutes that the creature will believe to be real.
+
+#### Reactions
+
+**Entropic Ward (1/Short Rest).** When a creature makes an attack roll against Urdo, he may impose disadvantage on the roll. If the attack misses, Urdo has advantage on his next attack roll against that creature before the end of his next turn.
+
+*See also: Urdo Vhane (Chapter 7 — CR 6).*
+
+---
+
 ## Circe Lovelace *(Optional Interlude: Assault on the Citadel)*
 
-Cabal regional leader and original founder. An Oath of Devotion Paladin whose devotion is not to a deity but to the Unity itself — elevated to the level of a sacred cause. She is short, serious, dark-skinned, with close-cropped hair. She does not make speeches. She makes arguments, and her arguments are the product of a lifetime spent doing things she knew were monstrous and doing them anyway.
+Cabal regional leader and one of the original founders. An Oath of Devotion Paladin whose devotion is not to a deity but to the Unity itself — elevated to the level of a sacred cause. She is short, serious, dark-skinned, with close-cropped hair. She does not make speeches. She makes arguments, and her arguments are the product of a lifetime spent doing things she knew were monstrous and doing them anyway.
 
 She fights to buy time for the archive. She escapes.
 
@@ -5674,62 +7687,420 @@ She fights to buy time for the archive. She escapes.
 
 ---
 
-## Maritas Boons *(Chapter 11)*
+## King Kalameris *(Chapter 17)*
 
-Granted when Maritas is freed at the Congress theatre in Chapter 11. Each party member who receives a boon selects one of the following. The selection is permanent.
+*Medium humanoid (Elf), chaotic neutral*
 
-**Might.**
-Once per day, when you fail a Strength check or Strength saving throw, you may reroll it and take the higher result. This includes rolls you made with made with advantage. 
+**Armor Class** 18 (plate)
+**Hit Points** 161 (17d10 + 68)
+**Speed** 30 ft.
 
-**Secret of Steel.**
-Twice per long rest, when you reduce a creature to 0 hit points with a melee weapon attack, you gain 2d6 temporary hit points.
+| STR | DEX | CON | INT | WIS | CHA |
+|---|---|---|---|---|---|
+| 20 (+5) | 14 (+2) | 18 (+4) | 16 (+3) | 16 (+3) | 14 (+2) |
 
-**Retribution.**
-Once per short rest, when a creature within 5 feet hits you with a melee attack, you may use your reaction to make one melee weapon attack against it.
+**Saving Throws** Str +10, Con +9, Wis +8
+**Skills** Athletics +10, History +8, Insight +8, Intimidation +7, Perception +8
+**Senses** darkvision 60 ft., passive Perception 18
+**Languages** Common, Goblin
+**Challenge** 15 (13,000 XP)
 
----
+**Indomitable (3/Day).** Kalameris can reroll a saving throw he fails. He must use the new roll.
 
-## Hope's Boons *(Act III–IV Interlude)*
+**Martial Superiority.** Kalameris scores a critical hit on a roll of 19 or 20.
 
-Granted by Hope when the party communes with her, if Huma was freed with minimal loss of life. Each party member selects one of the following. The selection is permanent. All boons are innate abilities — no spell slots, no material components required. Concentration requirements of the base spell do not apply unless noted.
+**Battle Commander.** As a bonus action, Kalameris issues a command to one ally he can see within 30 feet. That ally may immediately make one weapon attack as a reaction.
 
-**Spirit Balm.**
-Once per day, you may cast *prayer of healing* as a 3rd-level spell. Casting time is 10 minutes.
+**Discipline.** When Kalameris makes an attack roll with advantage, he ignores the advantage if at least one other ally is within 5 feet of the target.
 
-**Word of Hope.**
-Once per day, you may cast *beacon of hope*. The effect lasts 1 minute and does not require concentration.
+#### Actions
 
-**Clarity.**
-Once per day, you may cast *heroism* as a 3rd-level spell, affecting up to 3 creatures of your choice. The effect lasts 1 minute and does not require concentration.
+**Multiattack.** Kalameris makes three Greatsword attacks.
 
----
+**Greatsword.** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 12 (2d6 + 5) slashing damage plus 7 (2d6) on a critical hit.
 
-## Revna's Boons *(Act III–IV Interlude)*
+**Rally (Recharge 5–6).** Kalameris shouts a warcry. Each ally within 60 feet that can hear him gains 20 temporary hit points.
 
-Granted by Revna when the party communes with her, if Maritas was freed. Each party member selects one of the following. The selection is permanent. All boons are innate abilities — no spell slots, no material components required.
+#### Reactions
 
-**Retributive Strike.**
-Three times per day, when you hit a creature with a melee weapon attack, you may expend one use to deal an additional 2d6 thunder damage. The target must succeed on a DC 14 Strength saving throw or be pushed 10 feet directly away from you.
+**Parry.** When a creature hits Kalameris with a melee attack, he adds 4 to his AC against that attack, potentially causing it to miss.
 
-**Unshackling.**
-Once per day, you may cast *freedom of movement* on yourself. The effect lasts 1 hour.
-
-**Inciting Word.**
-Twice per day, you may cast *crown of madness* (spell save DC 14).
+**Warlord's Defense.** When an ally within 5 feet of Kalameris is hit with an attack, Kalameris can redirect the attack to himself, becoming the target instead.
 
 ---
 
+**The DM should know.** Kalameris does not want war — he wants survival on terms his people can accept. He has been fighting a contained insurgency for twenty years because a larger conflict would kill more of his people than the status quo. Carnuth's attack has changed his calculus, but not because he endorses it; he is simply no longer the controlling factor. If Carnuth asks him directly to stand down in exchange for a negotiated settlement the party has brokered, he will comply. It will cost him standing among his own people. He knows this and will do it anyway, because he counts heads.
 
-## Hidden Vale Boons *(Chapter 15)*
+---
 
-Granted by the collective spirits of the Hidden Vale at the close of the initiation ceremony. Each initiated party member selects one of the following. The selection is permanent. All boons are innate abilities — no spell slots, no material components required. Concentration requirements of the base spell do not apply unless noted.
+## Takowa *(Chapter 17)*
 
-**Warden's Step.**
-Once per day, you may cast *pass without trace* on yourself and up to five willing creatures within 30 feet. The effect lasts 1 hour and does not require concentration.
+*Medium humanoid (hobgoblin), lawful neutral*
 
-**Vale's Eye.**
-At will, you may cast *detect magic* as a bonus action. The effect lasts 10 minutes and does not require concentration. Once per day, you may cast *see invisibility*. The effect lasts 10 minutes and does not require concentration.
+**Armor Class** 17 (half plate)
+**Hit Points** 93 (11d10 + 33)
+**Speed** 30 ft.
 
-**Steadfast.**
-You cannot be surprised while you are conscious. Once per long rest, when you fail a saving throw, you may immediately reroll it and take the higher result.
+| STR | DEX | CON | INT | WIS | CHA |
+|---|---|---|---|---|---|
+| 18 (+4) | 15 (+2) | 16 (+3) | 12 (+1) | 14 (+2) | 11 (+0) |
+
+**Saving Throws** Str +7, Con +6
+**Skills** Athletics +7, Insight +5, Intimidation +3, Perception +5
+**Senses** darkvision 60 ft., passive Perception 15
+**Languages** Common, Goblin
+**Challenge** 9 (5,000 XP)
+
+**Hobgoblin Discipline.** When Takowa makes an attack roll with advantage, he ignores the advantage if at least one hobgoblin ally is within 5 feet of the target.
+
+**Scout Command.** As a bonus action, Takowa signals his scouts. Up to three hobgoblin scouts within 60 feet move up to their speed toward a target he designates.
+
+**Martial Superiority.** Takowa scores a critical hit on a roll of 19 or 20.
+
+#### Actions
+
+**Multiattack.** Takowa makes three Longsword attacks.
+
+**Longsword.** *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 8 (1d8 + 4) slashing damage plus 5 (2d4) on a critical hit.
+
+**Javelin.** *Ranged Weapon Attack:* +7 to hit, range 30/120 ft., one target. *Hit:* 11 (2d6 + 4) piercing damage.
+
+#### Reactions
+
+**Interpose.** When an ally within 5 feet of Takowa is hit with an attack, Takowa can impose disadvantage on the attack roll, potentially causing it to miss.
+
+---
+
+**The DM should know.** The ritual duel is to first blood only. Takowa pulls his attacks if he needs to — he has been doing this for years. He evaluates opponents by how they carry themselves when they are about to be hit. A party member who meets his eyes and does not flinch, win or lose, passes. A party member who wins quickly and then offers to bind his wound passes better.
+
+---
+
+## Sima, the Witch of the Six Stones *(Chapter 17)*
+
+*Medium humanoid (half-elf), neutral good*
+
+**Armor Class** 13 (spirit-touched defense)
+**Hit Points** 65 (10d8 + 20)
+**Speed** 30 ft.
+
+| STR | DEX | CON | INT | WIS | CHA |
+|---|---|---|---|---|---|
+| 12 (+1) | 12 (+1) | 14 (+2) | 14 (+2) | 20 (+5) | 14 (+2) |
+
+**Saving Throws** Wis +8, Cha +5
+**Skills** Insight +11, Medicine +8, Nature +5, Perception +8, Religion +5
+**Damage Resistances** radiant
+**Senses** truesight 30 ft. (see Spirit Sight), passive Perception 18
+**Languages** Common, Elvish, Goblin
+**Challenge** 7 (2,900 XP)
+
+**Spirit Sight.** Sima perceives the spirit world without effort. He has truesight out to 30 feet.
+
+**Read the Walker.** When Sima examines a creature by looking into its eyes (1 minute of willing contact), he learns whether the creature has had sustained contact with any spirit of CR 5 or higher, and whether the creature is acting under compulsion, magical or mundane.
+
+**Innate Spellcasting.** Sima's spellcasting ability is Wisdom (spell save DC 16). He can innately cast the following spells, requiring no material components:
+
+At will: *speak with animals*, *speak with plants*
+3/day each: *commune with nature* (ritual only), *spirit guardians* (appears as translucent local animals)
+1/day each: *conjure animals* (beasts only), *find the path*
+
+#### Actions
+
+**Multiattack.** Sima makes two Quarterstaff attacks.
+
+**Quarterstaff.** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 10 (2d8 + 1) bludgeoning damage.
+
+**Spirit Lash.** *Melee Spell Attack:* +8 to hit, reach 30 ft., one target. *Hit:* 18 (4d8) radiant damage. The target must succeed on a DC 16 Constitution saving throw or be stunned until the end of its next turn.
+
+**Call the Local (Recharge 5–6).** Sima calls on a spirit of this place. A CR 5 or lower spirit appears within 30 feet and acts on Sima's initiative, following his direction. The spirit remains for 1 minute or until reduced to 0 hit points.
+
+---
+
+**The DM should know.** Sima is not unfriendly — he is economical. He has been managing this community's relationships with the spirit world for thirty years and has developed a precise sense of who is worth his time. A party that allows his examination and does not lie about what he finds passes. He will not repeat himself and he will not chase anyone down. His three tasks are not a test; they are things he needs done and cannot do himself — the freebooters know his face and the tomb would drain him badly. His title (the Witch of the Six Stones) refers to six standing stones on the coastal clifftop where he conducts his most significant rituals; he does not explain it unless asked directly.
+
+---
+
+## Circe Lovelace *(Chapter 23)*
+
+*Medium humanoid (human), lawful neutral*
+
+**Armor Class** 20 (plate armor, shield) | **Hit Points** 190 (20d8 + 100) | **Speed** 30 ft.
+
+| STR | DEX | CON | INT | WIS | CHA |
+|-----|-----|-----|-----|-----|-----|
+| 20 (+5) | 10 (+0) | 20 (+5) | 14 (+2) | 16 (+3) | 20 (+5) |
+
+**Saving Throws** Str +10, Con +10, Wis +13, Cha +15
+
+**Skills** Athletics +10, Insight +8, Intimidation +10, Perception +8
+
+**Condition Immunities** frightened
+
+**Senses** passive Perception 18
+
+**Languages** Common
+
+**Challenge** 16 (15,000 XP)
+
+#### Features
+
+**Aura of Protection.** While Circe is conscious, she and friendly creatures within 10 feet of her add +5 to all saving throws (already included in her saving throws above).
+
+**Aura of Courage.** While Circe is conscious, she and friendly creatures within 10 feet of her are immune to the frightened condition.
+
+**Divine Health.** Circe is immune to disease.
+
+#### Actions
+
+**Multiattack.** Circe makes three attacks with her longsword.
+
+**Longsword.** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 14 (2d8 + 5) slashing damage plus 9 (2d8) radiant damage.
+
+**Divine Smite (3/Day).** When Circe hits with a melee weapon attack, she deals extra radiant damage: 3rd-level smite: +3d8 (avg +13); 5th-level smite: +5d8 (avg +22). She has one 5th-level use and two 3rd-level uses.
+
+**Destructive Wave (1/Day).** Each creature within 30 feet of Circe must succeed on a DC 19 Constitution saving throw or take 5d6 thunder damage and 5d6 radiant damage and be knocked prone. On a successful save, the creature takes half damage and isn't knocked prone.
+
+**Banishment (1/Day).** One creature Circe can see within 60 feet must succeed on a DC 19 Charisma saving throw or be banished to a harmless demiplane until the end of Circe's next turn. (Concentration required; if Circe maintains concentration until the target's next turn, the target must make the save again or be banished permanently until the spell ends.)
+
+#### Bonus Actions
+
+**Sacred Weapon (1/Day).** Circe adds +5 to all attack rolls she makes with her longsword for 1 minute.
+
+**Lay on Hands (1/Day).** Circe restores up to 80 hit points to herself or one creature she touches.
+
+#### Reactions
+
+**Shield of Faith (1/Day).** When Circe is targeted by an attack, she grants herself +2 AC until the start of her next turn.
+
+**The DM should know.** Circe has no Escape Protocol in Chapter 23. She can be killed or captured here. She genuinely believes she is protecting the Unity — she is not a sadist or a nihilist but a soldier who has been fighting for twenty years and believes what she is doing is necessary. If captured rather than killed, the First Minister will want to speak with her. What she says under questioning is for the DM to determine based on the party's handling of the encounter.
+
+---
+
+## Rance Vicarro *(Chapter 23 — replaces Circe if she died in Act IV)*
+
+*Medium humanoid (human), lawful evil*
+
+**Armor Class** 20 (plate armor, shield) | **Hit Points** 228 (24d8 + 120) | **Speed** 30 ft.
+
+| STR | DEX | CON | INT | WIS | CHA |
+|-----|-----|-----|-----|-----|-----|
+| 16 (+3) | 10 (+0) | 20 (+5) | 16 (+3) | 24 (+7) | 14 (+2) |
+
+**Saving Throws** Wis +13, Cha +8
+
+**Skills** History +9, Insight +13, Medicine +13, Perception +13, Religion +15
+
+**Damage Resistances** bludgeoning, piercing, and slashing damage from nonmagical attacks
+
+**Senses** passive Perception 23
+
+**Languages** Common, Dwarvish, Elvish
+
+**Challenge** 20 (25,000 XP)
+
+#### Features
+
+**Avatar of Battle.** Vicarro has resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks.
+
+**War Priest.** As a bonus action, Vicarro can make one additional weapon attack.
+
+**Spellcasting.** Vicarro is a 20th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 21, +13 to hit with spell attacks). He has the following cleric spells prepared:
+
+*Cantrips:* sacred flame, toll the dead, word of radiance
+
+*1st level (4 slots):* divine favor, guiding bolt, shield of faith
+
+*2nd level (3 slots):* hold person, spiritual weapon
+
+*3rd level (3 slots):* crusader's mantle, dispel magic, spirit guardians
+
+*4th level (3 slots):* banishment, guardian of faith
+
+*5th level (3 slots):* flame strike, hold monster, mass cure wounds
+
+*6th level (2 slots):* harm, heal
+
+*7th level (2 slots):* conjure celestial, fire storm
+
+*8th level (1 slot):* earthquake
+
+*9th level (1 slot):* true resurrection
+
+#### Actions
+
+**Multiattack.** Vicarro makes two attacks with his mace. He can replace one attack with a spell action.
+
+**Mace.** *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 19 (3d6 + 3 + 13) bludgeoning damage plus 13 (3d8) radiant damage (Divine Strike).
+
+**Fire Storm (1/Day).** Vicarro creates a storm of fire in up to ten 10-foot cubes he can see within 150 feet. Each creature in the area must succeed on a DC 21 Dexterity saving throw or take 7d10 fire damage, or half on a success. Flammable objects that aren't worn or carried are ignited.
+
+**Earthquake (1/Day, Concentration).** Vicarro causes a seismic event in a 100-foot-radius circle on the ground within 300 feet. The area becomes difficult terrain. Each creature on the ground in the area must make a DC 21 Dexterity saving throw or be knocked prone. Creatures maintaining concentration must succeed on a DC 21 Constitution saving throw or lose concentration. Lasts up to 1 minute.
+
+**Harm (1/Day).** One creature Vicarro can see within 60 feet must succeed on a DC 21 Constitution saving throw or take 14d6 necrotic damage and have its hit point maximum reduced by the amount of damage dealt. On a success, the creature takes half damage and its hit point maximum is not reduced.
+
+**Toll the Dead (Cantrip).** *Ranged Spell Attack:* range 60 ft., one creature. The target must succeed on a DC 21 Wisdom saving throw or take 4d12 necrotic damage (if missing hit points) or 4d8 necrotic damage (if at full hit points).
+
+#### Bonus Actions
+
+**War Priest.** Vicarro makes one weapon attack.
+
+**Spirit Guardians (1/Day, Concentration).** Until the spell ends (up to 10 minutes), hostile creatures within 15 feet of Vicarro must succeed on a DC 21 Wisdom saving throw when they start their turn in the area or take 3d8 radiant damage, or half on a success.
+
+**Channel Divinity: Guided Strike (2/Day).** Vicarro adds +10 to one attack roll he is about to make.
+
+#### Reactions
+
+**Channel Divinity: War God's Blessing (2/Day).** When a creature Vicarro can see within 30 feet makes an attack roll, Vicarro uses his reaction to grant that creature +10 to the roll.
+
+**The DM should know.** Vicarro is the founding architect of the Cabal — not a field commander but the person who built the organization from an idea into the institution the party has been fighting across three acts. He appears here because he chose to: if Circe is dead, Vicarro judges that this confrontation is too important to leave to anyone else. His opening move in most configurations is Fire Storm, placed to maximize chaos in the chamber and directly endanger civilians. He is not trying to escape. He has been playing for an outcome larger than his own survival, and he believes that outcome is still achievable if he can discredit the party publicly. If he is captured rather than killed, what he knows about the Cabal's network is the most valuable intelligence available. The First Minister will know this.
+
+---
+
+## Torvan Belke *(Chapter 23)*
+
+*Medium humanoid (human), lawful neutral*
+
+**Armor Class** 15 (mage armor) | **Hit Points** 143 (22d8 + 44) | **Speed** 30 ft.
+
+| STR | DEX | CON | INT | WIS | CHA |
+|-----|-----|-----|-----|-----|-----|
+| 10 (+0) | 14 (+2) | 14 (+2) | 22 (+6) | 14 (+2) | 16 (+3) |
+
+**Saving Throws** Int +10, Wis +6
+
+**Skills** Arcana +14, Deception +11, History +10, Insight +10, Perception +10
+
+**Senses** passive Perception 20
+
+**Languages** Common, Draconic, Dwarvish, Elvish
+
+**Challenge** 13 (10,000 XP)
+
+#### Features
+
+**Spellcasting.** Torvan is a 13th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 18, +10 to hit with spell attacks). He has the following wizard spells prepared:
+
+*Cantrips:* fire bolt, mage hand, minor illusion
+
+*1st level (4 slots):* mage armor, magic missile, shield
+
+*2nd level (3 slots):* mirror image, misty step
+
+*3rd level (3 slots):* counterspell, fly, hypnotic pattern
+
+*4th level (3 slots):* banishment, confusion, greater invisibility
+
+*5th level (2 slots):* dominate person, wall of force
+
+*6th level (1 slot):* disintegrate
+
+*7th level (1 slot):* forcecage
+
+#### Actions
+
+**Fire Bolt (Cantrip).** *Ranged Spell Attack:* +10 to hit, range 120 ft., one target. *Hit:* 22 (4d10) fire damage.
+
+**Dominate Person (1/Day, Concentration).** One humanoid Torvan can see within 60 feet must succeed on a DC 18 Wisdom saving throw or be charmed for up to 1 minute. While charmed, Torvan can use a bonus action to mentally command the target. *In the Council chamber, Torvan targets party members or panicking officials to maximize civilian casualties and obstruct Congress summoning attempts.*
+
+**Wall of Force (1/Day, Concentration).** Torvan creates an invisible wall of up to 10 panels (each 10 feet × 10 feet) at a point he can see within 120 feet. The wall is immune to all damage and cannot be dispelled. Lasts up to 10 minutes. *Torvan uses this to seal escape routes, trap party members, or cut off access to himself or Circe.*
+
+**Forcecage (1/Day).** Torvan attempts to imprison one creature he can see within 100 feet inside a 20-foot cube of iron bars. The target must succeed on a DC 18 Charisma saving throw or be trapped until the spell ends (up to 1 hour). A trapped creature can attempt to teleport out with a DC 18 Charisma check.
+
+**Disintegrate (1/Day).** One target Torvan can see within 60 feet must succeed on a DC 18 Dexterity saving throw or take 75 (10d6 + 40) force damage. If this damage reduces the target to 0 hit points, they are disintegrated.
+
+#### Bonus Actions
+
+**Misty Step (2/Day).** Torvan teleports up to 30 feet to an unoccupied space he can see.
+
+**Greater Invisibility (1/Day, Concentration).** Torvan turns invisible until concentration ends (up to 1 minute). He has advantage on attack rolls while invisible; attack rolls against him have disadvantage.
+
+#### Reactions
+
+**Shield (3/Day).** When Torvan is hit by an attack or targeted by *magic missile*, he raises an invisible barrier until the start of his next turn, granting +5 AC and immunity to *magic missile*.
+
+**Counterspell (2/Day).** When a creature within 60 feet casts a spell, Torvan attempts to interrupt it. Spells of 3rd level or lower are automatically countered; for 4th level and higher, he makes a DC (10 + spell level) Intelligence check.
+
+---
+
+## Sera Mourne *(Chapter 23)*
+
+*Medium humanoid (human), lawful neutral*
+
+**Armor Class** 18 (plate armor) | **Hit Points** 152 (16d10 + 64) | **Speed** 30 ft.
+
+| STR | DEX | CON | INT | WIS | CHA |
+|-----|-----|-----|-----|-----|-----|
+| 22 (+6) | 14 (+2) | 18 (+4) | 12 (+1) | 12 (+1) | 13 (+1) |
+
+**Saving Throws** Str +10, Con +8
+
+**Skills** Athletics +10, Intimidation +9, Perception +5
+
+**Senses** passive Perception 15
+
+**Languages** Common
+
+**Challenge** 12 (8,400 XP)
+
+#### Features
+
+**Improved Critical.** Sera's weapon attacks score a critical hit on a roll of 19 or 20.
+
+**Indomitable (2/Day).** When Sera fails a saving throw, she can reroll it and must use the new result.
+
+#### Actions
+
+**Multiattack.** Sera makes four attacks with her longsword.
+
+**Longsword.** *Melee Weapon Attack:* +10 to hit, reach 5 ft., one target. *Hit:* 13 (2d6 + 6) slashing damage. On a critical hit, Sera deals an additional 2d6 slashing damage.
+
+**Precision Attack (5/Day).** When Sera makes a weapon attack roll, she can expend one use of this ability to add 1d8 to the roll.
+
+#### Bonus Actions
+
+**Second Wind (1/Day).** Sera regains 1d10 + 12 hit points.
+
+**Riposte (3/Day).** When a creature misses Sera with a melee attack, she uses her reaction to make one longsword attack against the attacker.
+
+#### Bonus Actions
+
+**Action Surge (1/Day).** Sera takes one additional action on her turn, allowing four additional longsword attacks (eight total in one round).
+
+---
+
+## BEST Commando *(Chapter 23)*
+
+*Medium humanoid (human), lawful neutral*
+
+**Armor Class** 17 (chain shirt, shield) | **Hit Points** 65 (10d8 + 20) | **Speed** 30 ft.
+
+| STR | DEX | CON | INT | WIS | CHA |
+|-----|-----|-----|-----|-----|-----|
+| 16 (+3) | 14 (+2) | 15 (+2) | 10 (+0) | 12 (+1) | 10 (+0) |
+
+**Saving Throws** Str +5, Con +4
+
+**Skills** Athletics +5, Perception +3
+
+**Senses** passive Perception 11
+
+**Languages** Common
+
+**Challenge** 5 (1,800 XP)
+
+#### Features
+
+**Formation Tactics.** The commando has advantage on attack rolls against a creature if at least one ally is adjacent to the same creature and not incapacitated.
+
+#### Actions
+
+**Multiattack.** The commando makes two attacks.
+
+**Shortsword.** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage.
+
+**Hand Crossbow.** *Ranged Weapon Attack:* +4 to hit, range 30/120 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
+
+#### Bonus Actions
+
+**Second Wind (1/Day).** The commando regains 1d10 + 5 hit points.
 

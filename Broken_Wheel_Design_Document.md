@@ -104,7 +104,7 @@ The entities behind the pacts that sustain the Immortals and Tegea. Their agenda
 |---|---|---|---|---|
 | Queen Tegea | she/her | Ruler of the High Kingdom; primary antagonist | Part I (by reputation); Part VII (in person) | Revelation of her origins as a liberator; final encounter shaped by the party's Cause |
 | King Xandar | he/him | Tegea's father; High Kingdom's founder; dead ~40 years | Referenced throughout | Historical figure whose original purpose frames the adventure's central question |
-| [HEIR OF AMBRACIA] | TBD | The executed Ambracian royal whose death sparked the revolution; dead before play begins | Referenced throughout | The martyr the revolution is built on; their memory and their ideals will be tested against what the party actually does |
+| Igor Karela | he/him | The executed Prince of Ambracia whose death sparked the revolution; dead before play begins; spirit manifests in Part II | Referenced throughout; spirit Part II | The martyr the revolution is built on; his memory and ideals are tested against the party's choices throughout; can be resurrected via Part II Bonus Objective — a living Igor has profound implications for every Cause |
 | General Toma Pendragh | he/him | First Immortal; military governor of Delft | Part III | Was Toma the Incorruptible; broken by torture; secretly yearns for death; not redeemable |
 | Prelate Anton Olesk | he/him | Second Immortal; head of Corrupted Church; governor of Shining South | Part IV | Redemption arc — manipulated by daemon advisors; can be turned if deception is exposed |
 | General Timur Havel | he/him | Third Immortal; High Lord of the Isles | Part V | Secretly assassinated Xandar; hidden witness survives; not redeemable |
@@ -189,9 +189,108 @@ In either case, a follow-up high DC Knowledge (Religion) check identifies the na
 - The party travels with the Duke to the Shrine at Rhunu (rock islet off the southwestern coast of Severan), where Father Tomais and the monks can perform the ritual.
 
 ### Part II: The Kingdom of Ambracia *(Levels 4–5)*
-The revolution expands to the mainland territories of its home kingdom. A small but organized imperial field army must be defeated and the kingdom's population, many of whom supported the heir's failed revolt, must be consolidated behind the new revolutionary leadership. The site of the executions will be confronted directly, and the party will face early questions about what they are building on the martyr's memory.
+The revolution expands to the mainland territories of its home kingdom. A small but organized imperial field army — commanded by Military Governor General Gregor Stepanos — must be defeated, and the kingdom's population must be consolidated behind the new revolutionary leadership. The site of Prince Igor Karela's executions will be confronted directly, and the party will face early questions about what they are building on the martyr's memory.
+
+The kingdom is divided into four sub-regions, each with its own character:
+
+- **Duchy of Melvar** *(east)* — Rural eastern duchy separated from Severan by the Gulf of Melvar and the Strait of Venté. The Cernica Wood, site of Igor's last stand and battlefield execution, is here. The hidden outlaw settlement of Salona operates in the Brezovwood forest.
+- **The Quadrangle** *(central)* — The High Kingdom's primary agricultural investment: a vast plain between the Velara River, the Kamen Range, the Ambracian Lakes, and Krivača Bay, made into the breadbasket of the continent since the Conquest. Divided between the Duchy of Orem in the north and the Duchy of Tentavia in the south. Kalanova, the ancient capital of Ambracia, is here. The Ozeri clan — a front maintained by an ancient wight in direct service to the Queen — rules Dravena and the Duchy of Orem with brutal efficiency.
+- **The March** *(west)* — The westernmost sub-region, between the Ambracian Lakes and the Stelva River. Mirgraad at the Stelva delta is the High Kingdom's main collection point for Ambracian goods heading west into the Empire. Home to a string of neglected Ambracian border forts, the offshore Saako Prison at Halima, and the university city of Korneva — whose twin city Serenica sits just across the river in Delft. Crossing the Stelva is the threshold into Part III.
+- **The Long Coast** *(south)* — A strip of wooded coastland along the southern side of the Kamen Range and the Kraškaspur hills, home to a number of independent townships with their own political character.
 
 *First major mass combat engagement. The revolution's character begins to take shape publicly.*
+
+#### Part II Objectives *(9 main + 1 bonus; completing the first 4 advances party to level 4; completing the remaining 5 advances party to level 5)*
+
+**Objective dependency:** TBD with full objective design.
+
+---
+
+**Objective 1 — Defeat the Imperial Forces**
+**Type:** Military | **Visible:** Yes
+**Complete:** All High Kingdom forces in Ambracia are destroyed in combat, have surrendered to the revolutionary forces, or have fled the region.
+
+---
+
+**Objective 2 — Capture, Recruit, or Defeat Duke Aldis V Lodin**
+**Type:** Military / Diplomatic | **Visible:** Yes
+**Complete:** One of the following:
+- Aldis V Lodin joins the rebellion (recruited)
+- Aldis V Lodin is captured by the revolutionary forces
+- Aldis V Lodin is killed
+
+---
+
+**Objective 3 — Capture, Recruit, or Defeat Duke Mattis Ozeri**
+**Type:** Military / Diplomatic | **Visible:** Yes
+**Complete:** One of the following:
+- Mattis Ozeri joins the rebellion (recruited)
+- Mattis Ozeri is captured by the revolutionary forces
+- Mattis Ozeri is killed
+
+---
+
+**Objective 4 — Capture, Recruit, or Defeat Duke Andris Viklas**
+**Type:** Military / Diplomatic | **Visible:** Yes
+**Complete:** One of the following:
+- Andris Viklas joins the rebellion (recruited)
+- Andris Viklas is captured by the revolutionary forces
+- Andris Viklas is killed
+
+---
+
+**Objective 5 — TBD**
+
+---
+
+**Objective 6 — Make Contact with the Rebel Forces in Salona**
+**Type:** Intelligence / Diplomatic | **Visible:** No
+**Revealed:** This objective is revealed when any of the following conditions are met:
+- A successful Gather Intelligence operation is completed targeting Dorvec
+- The town of Dorvec is liberated or occupied by the revolutionary forces
+- The revolutionary forces liberate or occupy any two settlements in the Duchy of Melvar (not including Dorvec)
+
+**Complete:** The party meets Johan Mendis in person. He does not need to be recruited — the objective completes on first encounter.
+
+*Note:* In order to locate Salona, the party must first satisfy one of the following conditions:
+- Complete a successful Gather Intelligence operation targeting Salona (DC +5)
+- Complete a successful Establish Network operation targeting Dorvec
+- The revolutionary forces liberate (not merely occupy) Dorvec
+- Dorvec's Loyalty to the Revolutionary Forces reaches 7 or higher
+
+---
+
+**Objective 7 — Rescue the Rebel Leader in Vrbonic**
+**Type:** Intelligence / Military | **Visible:** No
+**Revealed:** This objective is revealed when any of the following conditions are met:
+- A successful Gather Intelligence operation is completed targeting Vrbonic
+- Any successful Gather Intelligence operation in the Quadrangle has a cumulative 10% chance of surfacing details about Alina Nidera and her arrest
+- The revolutionary forces capture 3 settlements in the Quadrangle
+
+**Complete:** One of the following:
+- The party undertakes a mission to rescue Alina Nidera in person
+- A successful special intelligence operation is completed to rescue Alina (treat as an Assassination operation targeting her; failure results in her execution)
+- The revolutionary forces occupy or liberate Vrbonic — *however*, if the town is assaulted directly while a garrison remains inside, there is a 50% chance Alina is executed along with all other political prisoners before the garrison falls
+
+*See also:* Alina Nidera NPC entry for execution clock and Quadrangle-wide consequences.
+
+---
+
+**Objective 8 — TBD**
+
+---
+
+**Objective 9 — TBD**
+
+---
+
+**Bonus Objective — Quell the Vengeful Spirit**
+*(Hidden — not identified as a bonus objective when revealed)*
+**Type:** Diplomatic | **Visible:** No (hidden; conditional on Objective 9 completion)
+**Revealed:** The party has an encounter with the spirit of Igor Karela during the completion of Objective 9.
+**Complete:** The party can complete this objective through one of two paths:
+1. Lay Igor's spirit to rest through the use of divine magic — this may be accomplished with or without NPC assistance.
+2. Perform the resurrection ritual on Igor Karela, returning him to life.
 
 ### Part III: The Kingdom of Delft *(Levels 6–8)*
 The first foreign theater. Delft's population has no particular loyalty to the High Kingdom, but neither does it have reason to welcome an Ambracian-led revolution. The party must argue for its cause as much as fight for it, winning over local factions while defeating the High Kingdom's more substantial military presence. The first Immortal appears here — the party's first direct encounter with what Tegea's pact has made.
@@ -328,14 +427,15 @@ The campaign does not use a fixed-event calendar. Time pressure is generated by:
 - [x] World and continent name: Zemia (world), Zidonia (continent)
 - [x] Five Immortals: all named and characterized (full details in Entity Reference)
 - [ ] Key revolutionary NPC roster — the party's major allied figures
-- [ ] The executed Ambracian heir: name and character details
+- [x] The executed Ambracian heir: **Igor Karela** (he/him); Prince of Ambracia; last stand and execution at Cernica Wood; spirit manifests in Part II; resurrection possible via Bonus Objective (full details in Entity Reference)
 - [ ] Confederation faction details — dozen states, their agendas
 - [ ] Demonic patrons: nature and agenda
 - [ ] Revolutionary forces: name and founding structure
 - [ ] Full regional detail per Part
 - [ ] Custom economy rules (to be provided by user)
 - [x] Part I objectives complete — 5 main + 1 bonus (see Part I Objectives section)
-- [ ] Objective counts per region: Parts II–VII (to be determined per Part)
+- [x] Part II objectives: 9 main + 1 bonus; first 4 → level 4, remaining 5 → level 5 (see Part II Objectives section)
+- [ ] Objective counts per region: Parts III–VII (to be determined per Part)
 
 ---
 

@@ -45,7 +45,17 @@ Mid-1600s equivalent.
 |---|---|---|---|
 | Queen Tegea | High Kingdom | Part I (reputation); Part VII (in person) | Primary antagonist; final confrontation |
 | King Xandar | High Kingdom (founder; dead) | Referenced throughout | Historical figure; frames the central question |
-| [Heir of Ambracia] | Kingdom of Ambracia (dead) | Referenced throughout | The martyr the revolution is built on |
+| Igor Karela | House of Karela / Kingdom of Ambracia (dead) | Referenced throughout; spirit appears Part II | The martyr the revolution is built on; can appear as vengeful spirit in Part II; resurrection possible |
+| Aldis V Lodin | House of Lodin / Kingdom of Ambracia (High Kingdom administration) | Part II | Duke of Melvar; surrendered during Conquest; ashamed pragmatist; can be turned to rebellion |
+| Johan Mendis | Salona | Part II | Leader of Salona bandits; son of executed Duchess of Tentavia; follower of Lekov; Liberation/Covenant recruit |
+| Gregori Lekov | The Chosen (informal reform movement) | Part II; Part IV | Defrocked Cleric 9; egalitarian reformer; visionary; Mendis's spiritual guide; following active in Shining South |
+| Mattis Ozeri | House of Ozeri (front) / High Kingdom | Part II | Reigning Duke of Orem; secretly an ancient wight in service to the Queen; identity maintained through magically disguised proxies |
+| Miko Havel | House of Ozeri (unwilling) | Part II | Former conman serving as Ozeri face man; discovered the fate of other face men; potential asset |
+| Rosa Petofsky | Cernican Rangers | Part II | Leader of the Cernican Rangers; ideological purist; Liberation/Covenant only; brings Elite Scouts unit |
+| Liandrin Sima | House of Sima / High Kingdom | Part II | Baroness of Vantica; bored and transactional; can be bribed to open Vantica's gates; Reformation/Dominion recruit |
+| Andris Viklas | House of Viklas / High Kingdom | Part II | Duke of Tentavia; ineffectual coward and opportunist; intelligence asset only |
+| Inota Ūdre | House of Ūdre / High Kingdom | Part II | Baroness of Ferma; diehard High Kingdom loyalist; cannot be recruited |
+| Alina Nidera | Independent (Vrbonic) | Part II | Poet and protest leader; jailed by Imperial garrison; Liberation/Covenant recruit; rescue grants Quadrangle-wide loyalty bonus |
 | Alfonse II Karima, Duke of Severan | House of Karima (Severan Ducal House) | Part I | Last lawful Duke; imprisoned in the Emerald Coffin since 24 AC alongside Emil Karima; Part I plot thread |
 | Emil Karima | House of Karima / The Straža (former leader) | Part I | Wizard brother of Alfonse II; former Straža leader; imprisoned in Emerald Coffin since 24 AC; Part I plot thread |
 | Linus Kateiva | Freedom Brigade (historical; executed 43 AC) | Referenced: Part I | Revolutionary philosopher and martyr; writings are the Freedom Brigade's ideological foundation |
@@ -111,10 +121,11 @@ Mid-1600s equivalent.
 | King Xandar | founded | High Kingdom |
 | King Xandar | father of | Queen Tegea |
 | King Xandar | killed during | Conquest (before campaign) |
-| [Heir of Ambracia] | member of | Royal Family of Ambracia |
-| [Heir of Ambracia] | led | Failed revolt (before campaign) |
-| [Heir of Ambracia] | executed by | High Kingdom |
-| [Heir of Ambracia] | sparked | Revolution |
+| Igor Karela | member of | House of Karela (Royal Family of Ambracia) |
+| Igor Karela | led | Failed revolt (before campaign) |
+| Igor Karela | executed by | High Kingdom |
+| Igor Karela | sparked | Revolution |
+| Igor Karela | appears as spirit during | Part II Objective 9 (triggers Bonus Objective) |
 | General Toma Pendragh | serves (compelled) | Queen Tegea |
 | General Toma Pendragh | governs | Kingdom of Delft |
 | General Toma Pendragh | commands | Imperial army (Delft) |
@@ -282,6 +293,57 @@ Mid-1600s equivalent.
 | Xanatar | speaks for | daemon council (primary liaison to Queen Tegea) |
 | Xanatar | corrupted (through Emerald Coffin) | Alfonse II Karima |
 | Xanatar | assigned | Sigluun (to guard Emerald Coffin) |
+| Igor Karela | last stand and execution at | Cernica Wood (Duchy of Melvar) |
+| Aldis V Lodin | governs | Duchy of Melvar (administrative seat: Milovar) |
+| Aldis V Lodin | subordinate to | General Gregor Stepanos |
+| Aldis V Lodin | surrendered to | High Kingdom (during Conquest; regarded as traitor by Ambracian patriots) |
+| Aldis V Lodin | can be turned to | Revolutionary Forces (conditions: credible military progress + political overture; see Secrets) |
+| Aldis V Lodin | appears in | Part II |
+| Johan Mendis | leads | Salona |
+| Johan Mendis | commands | 2 units Irregulars + 1 unit Bushwhackers (deployable under his orders only) |
+| Johan Mendis | son of | Duchess of Tentavia (executed during Conquest) |
+| Johan Mendis | heir to | Duchy of Tentavia (unexercised claim; Quadrangle sub-region) |
+| Johan Mendis | follower of | Gregori Lekov |
+| Johan Mendis | can be recruited by | Revolutionary Forces (Liberation or Covenant only) |
+| Johan Mendis | appears in | Part II |
+| Gregori Lekov | leads | The Chosen (reform movement; following strongest in Shining South) |
+| Gregori Lekov | defrocked by | High Church (last year; unorthodox beliefs) |
+| Gregori Lekov | spiritual guide to | Johan Mendis (convinced him he is among the "chosen elect") |
+| Gregori Lekov | hunted by | High Church (Shining South) |
+| Gregori Lekov | appears in | Part II; Part IV |
+| [Duchess of Tentavia] | mother of | Johan Mendis |
+| [Duchess of Tentavia] | executed by | High Kingdom (during Conquest) |
+| [Duchess of Tentavia] | ruled | Duchy of Tentavia (Quadrangle sub-region) |
+| Mattis Ozeri | rules | Duchy of Orem (as Duke Ozeri; identity is concealed) |
+| Mattis Ozeri | true nature | Ancient wight; not a Highlander noble |
+| Mattis Ozeri | serves | Queen Tegea |
+| Mattis Ozeri | controls | 3–4 magically disguised face men (rotating; executed after set interval) |
+| Mattis Ozeri | employs | Miko Havel (face man) |
+| Mattis Ozeri | ducal seat | Dravena |
+| Miko Havel | employed by | Mattis Ozeri (face man; coerced) |
+| Miko Havel | can reveal | Mattis Ozeri's true nature and lair layout; two other active face men in Dravena |
+| Rosa Petofsky | leads | Cernican Rangers |
+| Rosa Petofsky | commands | 1 unit Elite Scouts (if recruited) |
+| Rosa Petofsky | can be recruited by | Revolutionary Forces (Liberation or Covenant; must commit to abolishing nobility) |
+| Rosa Petofsky | operates from | Cernica Wood |
+| Liandrin Sima | rules | Vantica (Baroness) |
+| Liandrin Sima | placed by | High Kingdom (2 years ago; after predecessor executed for treason) |
+| Liandrin Sima | can be recruited by | Revolutionary Forces (Reformation or Dominion only) |
+| Andris Viklas | rules | Duchy of Tentavia (ducal seat: Utina) |
+| Andris Viklas | son of | [Baron Viklas] (betrayed Ambracian king during Conquest; rewarded with ducal seat) |
+| Andris Viklas | under pressure from | Gregor Stepanos (threatened with loss of duchy to Ozeri) |
+| Inota Ūdre | rules | Ferma (Baroness) |
+| Inota Ūdre | cannot be recruited by | Revolutionary Forces |
+| Alina Nidera | leads | Anti-Imperial movement (Vrbonic; non-violent) |
+| Alina Nidera | imprisoned by | Imperial garrison commander (Vrbonic) |
+| Alina Nidera | rescue effect | Loyalty +1 to Revolutionary Forces in all Quadrangle settlements |
+| Alina Nidera | execution risk | Cumulative 5% per turn; if executed: Unrest +2 in all Quadrangle settlements |
+| Alina Nidera | can be recruited by | Revolutionary Forces (Liberation or Covenant; if rescued) |
+| Salona | located within | Brezovwood (Duchy of Melvar) |
+| Salona | hostile to | High Kingdom |
+| Salona | neutral toward | Revolutionary Forces (initially) |
+| Salona | hunted by | General Stepanos (task force stationed at Dorvec) |
+| Salona | appears in | Part II |
 
 ---
 
@@ -735,23 +797,486 @@ If found and engaged, becomes a critical resource for the Bonus Objective and a 
 **Character**
 The players' home kingdom — the mainland territories outside Severan. Ambracia is where the Heir's failed revolt occurred and where the executions took place. The population has strong revolutionary sympathy, though the High Kingdom's military presence here is more substantial than in Severan. Emotionally, this is the revolution's most charged theater.
 
-*[Terrain, major settlements, and economic profile TBD with setting development.]*
+*Divided into four sub-regions. Sub-regions II–IV TBD with setting development.*
 
 **Imperial Presence**
-A small but well-organized imperial field army. Military administrator TBD.
+Administered by General Gregor Stepanos (Military Governor of Ambracia). No Immortal assigned.
 
 **Immortal Assigned:** None
 
 **Key Factions Present**
-- High Kingdom (field army and administration)
+- High Kingdom (field army and administration under Stepanos)
 - Revolutionary Forces (expanding from Severan)
-- *[Local factions TBD]*
+- Salona (outlaw and resistance community; Duchy of Melvar)
+- *[Additional local factions TBD]*
 
 **Regional Loyalty (starting)**
 Very high — the executions happened here. The population is primed. The party arrives as liberators among their own people.
 
 **Thematic Role**
 The revolution's home ground. This is where the party confronts the martyrs and what was done in the name of the old royal family. The revolution's character begins to take public shape here — early choices about governance and treatment of the population establish precedents that will follow the party for the rest of the campaign.
+
+---
+
+#### Sub-Region I — Duchy of Melvar
+
+**Character**
+The easternmost sub-region of Ambracia; regarded as a rural backwater by the kingdom's administrative center. Separated from Severan by the Gulf of Melvar and the Strait of Venté, the Duchy has deep economic ties to the island — its administrative seat at Milovar directly faces Vilniva across the water. Politically volatile; the liberation of Severan has inflamed sentiment here significantly.
+
+**Geography**
+
+*Borders:* Gulf of Melvar and Strait of Venté (east; separates from Severan) | Kraškaspur (south; separates from the Long Coast) | Velara River (west; separates from the Quadrangle) | North Sea (north; short coastline) | Krivača Bay (northwest)
+
+*Pilkawood* — Birch forest on the northern coast, between the Kraska Hills and the sea.
+
+*Kraska Hills* — Hill country in the north of the Duchy, extending northward from the Gornjespur.
+
+*Cernica Wood* — Great forest in the west of the Duchy, between the Kraska Hills / Gornjespur and the Velara River. The site of Prince Igor Karela's last stand and battlefield execution; his spirit is believed to linger here. *(See Part II Bonus Objective.)*
+
+*Brezovwood* — Dense pine and birch forest between the Gornjespur and the Kraškaspur. Long a hideout for bandits and royalist sympathizers; the hidden settlement of Salona is concealed somewhere within.
+
+*Gornjespur* — Low range of green mountains and hills in the southwest of the Duchy.
+
+*Kraškaspur* — Low range of hills and small mountains extending east from the Kamen Range along the region's southern border. Riddled with karsts, sinkholes, and cave systems.
+
+**Settlements**
+
+**Trivana**
+**Type:** Agricultural | **Status:** Occupied (High Kingdom)
+
+| Statistic | Value |
+|---|---|
+| Population | 2 — Small Town |
+| Economy | 3 |
+| DEF | 1 |
+| Loyalty — High Kingdom | 6 |
+| Loyalty — Revolutionary Forces | 8 |
+| Unrest | 6 |
+
+Located on the tip of Cape Horma where the North Sea meets Krivača Bay, Trivana serves as a deep-sea fishing port. The town has devolved into two armed camps with the pro-revolution fishing guilds squaring off against the pro-Imperial craft guilds.
+
+---
+
+**Milovar**
+**Type:** Administrative | **Status:** Occupied (High Kingdom)
+
+| Statistic | Value |
+|---|---|
+| Population | 5 — Small City |
+| Economy | 6 |
+| DEF | 3 |
+| Loyalty — High Kingdom | 4 |
+| Loyalty — Revolutionary Forces | 6 |
+| Unrest | 7 |
+
+Sitting opposite the Severnian capital of Vilniva on the Gulf of Melvar, Milovar serves as a transshipment point to the island Duchy. Long a hotbed of loyalist activity, unrest in the city has increased significantly since the liberation of the nearby island Duchy. The city is known for its pearl divers and its cutthroat merchants. Milovar serves as the seat of the Duke of Melvar.
+
+---
+
+**Velika Kosa**
+**Type:** Industrial | **Status:** Occupied (High Kingdom)
+
+| Statistic | Value |
+|---|---|
+| Population | 1 — Small Town |
+| Economy | 3 |
+| DEF | 0 |
+| Loyalty — High Kingdom | 2 |
+| Loyalty — Revolutionary Forces | 7 |
+| Unrest | 6 |
+
+Situated in the small lowland between the northern and southern branches of the Kraska Hills, Velika Kosa has been transformed into a virtual penal colony since the Conquest. Managed by a consortium of noble-run corporations from Dravena to the west, most of the township's population consists of undesirables sentenced to indentured servitude in its hardscrabble surface mines.
+
+---
+
+**Dorvec**
+**Type:** Industrial | **Status:** Occupied (High Kingdom)
+
+| Statistic | Value |
+|---|---|
+| Population | 3 — Large Town |
+| Economy | 4 |
+| DEF | 1 |
+| Loyalty — High Kingdom | 4 |
+| Loyalty — Revolutionary Forces | 4 |
+| Unrest | 3 |
+
+Somewhat isolated from the rest of the Duchy, industry in Dorvec is centered around harvesting bronzewood trees from the nearby Brezovwood and surface mining in the hills of the Kraškaspur. The people of Dorvec are known to be disinterested in politics, but are rumored to have connections among the bandits of Salona and the renegades of the Long Coast. The town is currently home to a large task force sent by General Stepanos to find and eliminate the resistance fighters of Salona.
+
+---
+
+**Salona**
+**Type:** Military | **Status:** Neutral
+
+| Statistic | Value |
+|---|---|
+| Population | 1 — Small Town |
+| Economy | Unknown |
+| DEF | Unknown |
+| Loyalty — High Kingdom | 0 |
+| Loyalty — Revolutionary Forces | 3 |
+| Unrest | 5 |
+
+A hidden community located somewhere deep within the Brezovwood, home to political dissidents, escaped indentures, criminals, and anyone opposed to the High Kingdom. They take their security seriously, making the settlement itself difficult to find. The Salonans are known to strike across the Duchy and deeper into the region, though their organization is poor and their efforts have had minimal impact.
+
+---
+
+#### Sub-Region II — The Quadrangle
+
+**Character**
+The central sub-region of Ambracia, the Quadrangle is a vast agricultural plain bordered by the Velara River to the east, the Kamen Range to the south, the Ambracian Lakes chain to the west, and Krivača Bay to the north. The High Kingdom has poured substantial investment into the region since the Conquest, making it the breadbasket of the continent; its farmlands are among the most developed in Zidonia. The sub-region is divided between two duchies — the wealthier Duchy of Orem in the north and the larger, more populous Duchy of Tentavia in the south — as well as the Royal Lands, a small duchy in the western portion of the sub-region administered directly by the crown.
+
+**Geography**
+
+*Ambracian Lakes Chain.* The Ambracian Lakes form the western border of the Quadrangle. Fed by the Brenanva River, which rushes down from the highlands where the Velengor Mountains meet the Kamen Range, the chain flows north through a series of lakes and connecting rivers before meeting the sea at Salonica:
+
+- **Brenanva River** — rushes down from the Velengor/Kamen highland junction into Lake Crenja
+- **Lake Crenja** — the largest and coldest of the lakes; home to many islands; the eastern branch of the Starovor Forest lines its northern shore
+- **Sima River** — short connecting river between Lake Crenja and Lake Mirma
+- **Lake Mirma** — the smallest but deepest of the lakes
+- **River Lis** — connects Lake Mirma to Lake Ravancja
+- **Lake Ravancja** — the second largest of the lakes
+- **River Rusk** — the only major bridge crossing in the chain
+- **Lake Baltas** — the second smallest and most northerly of the lakes
+- **Morenca River** — flows north from Lake Baltas to meet the sea at Salonica
+
+*Krusevac Hills.* A range of low hills running along the northern edge of the Kamen Range, the Krusevac Hills are home to orchards and vineyards that produce some of the finest agricultural goods in the sub-region.
+
+*Starovor Forest.* The eastern branch of the Starovor Forest runs along the northern shore of Lake Crenja. An undeveloped region with a reputation as a haunted place; most locals give it a wide berth.
+
+**Settlements**
+
+---
+
+**Salonica**
+**Type:** Industrial | **Status:** Occupied (High Kingdom)
+
+| Statistic | Value |
+|---|---|
+| Population | 4 — Large Town |
+| Economy | 5 |
+| DEF | 4 |
+| Loyalty — High Kingdom | 4 |
+| Loyalty — Revolutionary Forces | 6 |
+| Unrest | 7 |
+
+Once a major port in its own right, Salonica continues to serve as a transshipment point for goods and materials flowing up the chain through the Morenca River. In keeping with Imperial policy of centralization, road traffic has increased significantly over the last few decades as goods bound for other parts of the Empire are collected here and sent north to Mirgaard — a policy that has led to the virtual closure of the town's port, once its greatest pride. Since news of the liberation of Severen reached here, the town has become a powder keg of anti-Imperial activity.
+
+---
+
+**Dravena**
+**Type:** Trade | **Status:** Occupied (High Kingdom)
+
+| Statistic | Value |
+|---|---|
+| Population | 6 — Small City |
+| Economy | 6 |
+| DEF | 5 |
+| Loyalty — High Kingdom | 4 |
+| Loyalty — Revolutionary Forces | 5 |
+| Unrest | 5 |
+
+Ruled by the mercantile Ozeri clan, Highlander nobles brought in to replace the ducal line executed in the wake of the Conquest, Dravena serves as the ducal seat for the Duchy of Orem. Sitting near the mouth of the Velara River, Dravena is the major transshipment point for agricultural goods throughout the eastern portion of the Quadrangle. The people of the city are restless in the wake of recent events on Severan, though the Ozeri have mostly kept a lid on this through the use of their signature public brutality.
+
+---
+
+**Vantica**
+**Type:** Agricultural | **Status:** Occupied (High Kingdom)
+
+| Statistic | Value |
+|---|---|
+| Population | 3 — Small Town |
+| Economy | 6 |
+| DEF | 4 |
+| Loyalty — High Kingdom | 3 |
+| Loyalty — Revolutionary Forces | 5 |
+| Unrest | 4 |
+
+On the eastern shore of Lake Baltas, Vantica is famous for its production of Trana, a foul-smelling fish paste that has become a delicacy among the aristocracy across the High Kingdom over the past decade. Overfishing of the lake is starting to cause problems for its production.
+
+---
+
+**Stagraad**
+**Type:** Industrial | **Status:** Occupied (High Kingdom)
+
+| Statistic | Value |
+|---|---|
+| Population | 4 — Large Town |
+| Economy | 5 |
+| DEF | 4 |
+| Loyalty — High Kingdom | 3 |
+| Loyalty — Revolutionary Forces | 6 |
+| Unrest | 6 |
+
+In addition to its many surrounding farms, Stagraad is home to a major logging operation based out of the nearby Cernica Wood. These operations have recently been disrupted by a group of marauders calling themselves the Cernican Rangers, who have used increasingly brutal tactics against the loggers and recently struck the town itself, burning nearly a quarter of it to the ground.
+
+---
+
+**Utina**
+**Type:** Agricultural | **Status:** Occupied (High Kingdom)
+
+| Statistic | Value |
+|---|---|
+| Population | 4 — Large Town |
+| Economy | 3 |
+| DEF | 2 |
+| Loyalty — High Kingdom | 3 |
+| Loyalty — Revolutionary Forces | 6 |
+| Unrest | 6 |
+
+Located north of the Starovor Forest and east of Lake Mirma, Utina is ruled by an ineffectual Imperial toady. Its surrounding farmlands have seen a significant decrease in productivity over the past several years; Governor Stepanos has issued an ultimatum to the Duke to right the ship or be forced to surrender his lands to the Ozeri clan. The people of the town and region are kept in check only by the presence of a large Imperial garrison. Utina serves as the ducal seat for the Duchy of Tentavia.
+
+---
+
+**Ferma**
+**Type:** Agricultural | **Status:** Occupied (High Kingdom)
+
+| Statistic | Value |
+|---|---|
+| Population | 3 — Small Town |
+| Economy | 3 |
+| DEF | 1 |
+| Loyalty — High Kingdom | 3 |
+| Loyalty — Revolutionary Forces | 6 |
+| Unrest | 7 |
+
+Located east of Utina along the Velara River, Ferma is the only other major settlement in the Duchy of Tentavia. Formerly a quiet agricultural center, unrest in the region has increased significantly since the recent events on Severan, though its local Baron is a diehard Imperial supporter.
+
+---
+
+**Vrbonic**
+**Type:** Cultural | **Status:** Occupied (High Kingdom)
+
+| Statistic | Value |
+|---|---|
+| Population | 2 — Small Town |
+| Economy | 4 |
+| DEF | 0 |
+| Loyalty — High Kingdom | 2 |
+| Loyalty — Revolutionary Forces | 7 |
+| Unrest | 8 |
+
+Located on the northern shore of Lake Crenja, Vrbonic produces Tinquan, a specialty wine made from berries that grow only in the Starovor Forest. The recent jailing of a non-violent protest leader here has sparked a general uprising.
+
+---
+
+**Fort Krenov**
+**Type:** Military | **Status:** Occupied (High Kingdom)
+
+| Statistic | Value |
+|---|---|
+| Population | 3 — Large Garrison |
+| Economy | 2 |
+| DEF | 7 |
+| Loyalty — High Kingdom | 8 |
+| Loyalty — Revolutionary Forces | 3 |
+| Unrest | 2 |
+
+An ancient military installation that has long guarded the approach to Kalanova from the east, Fort Krenov is home to a large Imperial garrison. It is located on the River Rusk between Lake Ravancja and Lake Baltas, guarding the only road crossing on the chain between the mountains in the south and Salonica in the north.
+
+---
+
+**Fort Čardak**
+**Type:** Military | **Status:** Occupied (High Kingdom)
+
+| Statistic | Value |
+|---|---|
+| Population | 4 — Large Garrison |
+| Economy | 3 |
+| DEF | 8 |
+| Loyalty — High Kingdom | 8 |
+| Loyalty — Revolutionary Forces | 1 |
+| Unrest | 1 |
+
+Located at a strategic point along the western shore of Lake Baltas, Fort Čardak (generally known as simply "the Čardak") guards the approach to Kalanova from the north and is home to the Imperial field army of Ambracia. Governor Stepanos can usually be found here, preferring the company of his fellow soldiers to the political troubles of the city.
+
+---
+
+**Kalanova**
+**Type:** Administrative | **Status:** Occupied (High Kingdom)
+
+| Statistic | Value |
+|---|---|
+| Population | 7 — Large City |
+| Economy | 6 |
+| DEF | 8 |
+| Loyalty — High Kingdom | 4 |
+| Loyalty — Revolutionary Forces | 6 |
+| Unrest | 5 |
+
+The ancient capital of Ambracia, Kalanova is located on a series of bluffs overlooking the northern shore of Lake Ravancja. Its tiered construction was built and improved over the years with defense in mind, featuring multiple fortifications and reinforced gates between its many sections, along with its famous skybridges which allow travel between its upper hilltops. Kalanova today is a place on edge — its streets are unnaturally quiet despite its large population, and its people have grown increasingly and openly suspicious of the Imperial presence in their midst since the death of their beloved heir.
+
+---
+
+#### Sub-Region III — The March
+
+**Character**
+The westernmost sub-region of Ambracia, bordered by the Stelva River to the west, the Velengor Mountains to the south, Krivača Bay to the north, and the Ambracian Lakes chain to the east. The Stelva forms Ambracia's border with the Kingdom of Delft. Where the Quadrangle is defined by its farmland, the March is defined by its rivers, hills, and the flow of commerce — Mirgraad at the Stelva delta collects goods from across Ambracia and sends them west into the High Kingdom, while the river forts along the Stelva represent a defensive line that has been largely neglected since the Conquest.
+
+**Geography**
+
+*Lipovar Forest.* A broad band of old-growth oak covering much of the northern portion of the sub-region, running north of the Suhgalve Hills toward the coast of Krivača Bay.
+
+*Suhgalve Hills.* High, bald-topped hill country that dominates the central March. The hills are home to significant mineral wealth — gold, silver, and gemstones — and much of the region's industrial activity.
+
+*Starovor Forest (Western Branch).* The western portion of the Starovor Forest, running along the southern edge of the March near the Velengor foothills. Remote and undeveloped; shares the haunted reputation of the eastern branch.
+
+*Vakuras Hills.* A wild upland region north of the Velengor Mountains and south of the Starovor Forest, home to unaffiliated Halfling clans who pay tribute to Imperial authority. Technically part of the March and the Kingdom of Ambracia, but not directly governed.
+
+**Settlements**
+
+---
+
+**Mirgraad**
+**Type:** Trade | **Status:** Occupied (High Kingdom)
+
+| Statistic | Value |
+|---|---|
+| Population | 8 — Large City |
+| Economy | 7 |
+| DEF | 6 |
+| Loyalty — High Kingdom | 4 |
+| Loyalty — Revolutionary Forces | 5 |
+| Unrest | 5 |
+
+Located in the north of the sub-region on the Stelva delta, Mirgraad serves as the collection point for all goods and materials being sent from Ambracia to elsewhere in the High Kingdom. Administration of the city appears chaotic at face value — a carefully constructed facade. The region's resident duke ensures that the flow of commerce is constantly maintained without disruption while keeping the city's other factions fighting each other rather than the High Kingdom.
+
+---
+
+**Halima**
+**Type:** Administrative | **Status:** Occupied (High Kingdom)
+
+| Statistic | Value |
+|---|---|
+| Population | 2 — Small Town |
+| Economy | 2 |
+| DEF | 4 |
+| Loyalty — High Kingdom | 5 |
+| Loyalty — Revolutionary Forces | 7 |
+| Unrest | 3 |
+
+Situated on the northern coast between Salonica and Mirgraad, Halima is home to the infamous offshore Saako Prison, which functions as the High Kingdom's dumping ground for anyone too inconvenient to be at large, but too popular or connected to kill outright.
+
+---
+
+**Fort Bekla**
+**Type:** Military | **Status:** Occupied (High Kingdom)
+
+| Statistic | Value |
+|---|---|
+| Population | 1 — Small Garrison |
+| Economy | 1 |
+| DEF | 6 |
+| Loyalty — High Kingdom | 5 |
+| Loyalty — Revolutionary Forces | 2 |
+| Unrest | 4 |
+
+The northernmost of the old Ambracian border garrisons, Fort Bekla is located on the Stelva River south of Mirgraad and north of Korneva. Virtually abandoned since the Conquest, the fort is currently home to fewer than 150 soldiers and has fallen partially into disrepair.
+
+---
+
+**Korneva**
+**Type:** Educational | **Status:** Occupied (High Kingdom)
+
+| Statistic | Value |
+|---|---|
+| Population | 5 — Small City |
+| Economy | 4 |
+| DEF | 3 |
+| Loyalty — High Kingdom | 3 |
+| Loyalty — Revolutionary Forces | 6 |
+| Unrest | 5 |
+
+One of the Twin Cities of the Stelva River valley, Korneva has long been connected to its neighbor Serenica just across the river in Delft. Home to three major universities, Korneva has long served as a premier center of learning, attracting students from across the continent. Recent unrest in the region has produced open clashes between student groups and the Imperial commissars sent to keep them in line.
+
+---
+
+**Fort Bruma**
+**Type:** Military | **Status:** Occupied (High Kingdom)
+
+| Statistic | Value |
+|---|---|
+| Population | 2 — Small Garrison |
+| Economy | 1 |
+| DEF | 7 |
+| Loyalty — High Kingdom | 8 |
+| Loyalty — Revolutionary Forces | 2 |
+| Unrest | 1 |
+
+The middlemost of the old Ambracian river forts, Fort Bruma would likely be as neglected as Fort Bekla if not for the rise in river-borne piracy over the past decade. Under the leadership of a capable new garrison commander, the fortunes of this redoubt have improved markedly in recent years.
+
+---
+
+**Brenica**
+**Type:** Industrial | **Status:** Occupied (High Kingdom)
+
+| Statistic | Value |
+|---|---|
+| Population | 4 — Large Town |
+| Economy | 6 |
+| DEF | 4 |
+| Loyalty — High Kingdom | 3 |
+| Loyalty — Revolutionary Forces | 5 |
+| Unrest | 6 |
+
+Northwest of Kalanova on the eastern edge of the Suhgalve Hills, Brenica is home to major mining operations extracting gold, silver, and gemstones from the region. Security around the town is very high, with a large Imperial garrison. The mining corporations make extensive use of indentured and criminal labor.
+
+---
+
+**Bestara**
+**Type:** Trade | **Status:** Occupied (High Kingdom)
+
+| Statistic | Value |
+|---|---|
+| Population | 4 — Large Town |
+| Economy | 5 |
+| DEF | 4 |
+| Loyalty — High Kingdom | 3 |
+| Loyalty — Revolutionary Forces | 4 |
+| Unrest | 4 |
+
+Situated at one of the few crossings between Ambracia and Delft, Bestara's fortunes declined significantly over the past decade as the western bank of the river became increasingly lawless. The town addressed the problem by making arrangements with the region's criminal elements and the local river pirates, becoming a center for smuggling and other illicit activities. The region's duke is well aware of the situation — he is secretly pulling the strings and ensuring the High Kingdom profits accordingly.
+
+---
+
+**Cīrva**
+**Type:** Industrial | **Status:** Occupied (High Kingdom)
+
+| Statistic | Value |
+|---|---|
+| Population | 4 — Large Town |
+| Economy | 4 |
+| DEF | 3 |
+| Loyalty — High Kingdom | 3 |
+| Loyalty — Revolutionary Forces | 5 |
+| Unrest | 3 |
+
+Located on the western shore of Lake Ravancja opposite Kalanova, Cīrva is significantly isolated from the rest of the sub-region — so much so that the duke recently turned administrative control of the town over to the capital. Cīrva is home to logging operations in the Starovor Forest to the south and mining operations in the Suhgalve Hills to the north. Industrious and heavily garrisoned, it is one of the quietest towns in the region.
+
+---
+
+**Fort Veldana**
+**Type:** Military | **Status:** Occupied (High Kingdom)
+
+| Statistic | Value |
+|---|---|
+| Population | 1 — Small Garrison |
+| Economy | 1 |
+| DEF | 6 |
+| Loyalty — High Kingdom | 3 |
+| Loyalty — Revolutionary Forces | 1 |
+| Unrest | 4 |
+
+Located near the headwaters of the Stelva River, Fort Veldana serves as a dumping ground for the dregs of the High Kingdom's military. The fort is little more than a crumbling ruin with a miserable supply situation, staffed by a volatile combination of discipline problems and failed officers too well connected to throw in the stockade.
+
+---
+
+#### Sub-Region IV — The Long Coast
+
+**Character**
+A strip of wooded coastland running along the southern side of the Kamen Range and the Kraškaspur hills, home to a number of independent townships. More politically autonomous in character than the other sub-regions.
+
+*[Settlements, geography, and military detail TBD.]*
 
 ---
 
@@ -956,31 +1481,335 @@ Static — he is dead. His arc is revealed, not played. Every revelation about X
 
 ---
 
-### [Heir of Ambracia]
+### Igor Karela
 
-**Type:** NPC — Historical Figure (martyr) | **Pronouns:** TBD | **Alignment:** TBD
-**Faction:** Royal Family of Ambracia (dead) | **Class/Level:** N/A
-**First Appears:** Referenced throughout from Part I
+**Type:** NPC — Historical Figure (martyr) | **Pronouns:** he/him | **Alignment:** TBD
+**Faction:** House of Karela / Kingdom of Ambracia (dead) | **Class/Level:** N/A
+**First Appears:** Referenced throughout from Part I; spirit appears during Part II (Bonus Objective)
 
 **Role in Campaign**
-The Heir is dead before the campaign begins. Their failed revolt against the High Kingdom and their family's subsequent public execution is the spark that ignited the revolution. They are the martyr the party's movement is built on — and the question of what that means, what the Heir actually wanted, and whether the revolution is honoring their memory or using it, runs beneath the surface of the entire campaign.
+Igor is dead before the campaign begins. His failed revolt against the High Kingdom and his family's subsequent public execution is the spark that ignited the revolution. He is the martyr the party's movement is built on — and the question of what that means, what Igor actually wanted, and whether the revolution is honoring his memory or using it, runs beneath the surface of the entire campaign.
+
+In Part II, his spirit manifests during the completion of Objective 9 — unquiet, possibly vengeful, certainly complicated. The party may lay him to rest through divine magic or, if they pursue the more difficult path, resurrect him entirely. A living Igor Karela has enormous implications for the revolution and for every Cause.
 
 **Personality**
-TBD — to be developed with setting details. The Heir should be complex enough that different Causes can claim them as legitimation in different ways.
+TBD — to be developed with setting details. Igor should be complex enough that different Causes can claim him as legitimation in different ways.
 
 **Key Relationships**
-- member of: Royal Family of Ambracia
+- member of: House of Karela (Royal Family of Ambracia)
 - led: Failed popular revolt (before campaign)
 - executed by: High Kingdom
 - sparked: Revolution
+- appears as spirit during: Part II Objective 9 (triggers Bonus Objective)
 
 **Secrets (DM Only)**
-What the Heir actually wanted — their specific political vision, their relationships, what they would have done had they succeeded — should be discoverable across Parts I and II. Whether their vision aligns with the party's Cause is the party's problem to wrestle with.
+What Igor actually wanted — his specific political vision, his relationships, what he would have done had he succeeded — should be discoverable across Parts I and II. Whether his vision aligns with the party's Cause is the party's problem to wrestle with.
+
+If the resurrection path is taken in the Bonus Objective, Igor enters the campaign as a living figure. His arc and role from that point forward are TBD.
 
 **Arc**
-The Heir's memory evolves as the party learns more about them. They begin as a symbol. They end as a person. What the party does with that distinction is the arc.
+Igor's memory evolves as the party learns more about him. He begins as a symbol. He ends as a person — or, in one path, as a person again. What the party does with that distinction is the arc.
 
-**Stat Block Reference:** N/A
+**Stat Block Reference:** N/A (living — TBD if resurrected)
+
+---
+
+### Aldis V Lodin, Duke of Melvar
+
+**Type:** NPC — Local Figure / Potential Ally | **Pronouns:** he/him | **Alignment:** LN
+**Faction:** House of Lodin / Kingdom of Ambracia (High Kingdom administration) | **Class/Level:** TBD | **CR:** TBD
+**First Appears:** Part II
+
+**Role in Campaign**
+The Duke of Melvar, whose seat is at Milovar. In his late sixties, Lodin has spent thirty years living with the consequences of the choice that defines him: when the High Kingdom conquered Ambracia, he surrendered rather than march his forces to the aid of the Ambracian king. Ambracian patriots consider him a traitor. He considers himself a pragmatist who saved his people from a war they could not win. Both things are partially true, and he knows it.
+
+He is the most significant local authority in the Duchy of Melvar and a potential ally of the revolution — one the party will need to approach carefully.
+
+**Personality**
+Lodin presents as a composed, formal nobleman long accustomed to the low esteem in which his countrymen hold him. Beneath that composure is a man consumed by private shame he will not acknowledge to anyone. He wants to side with the rebellion. He does not believe he will be welcomed. He is also genuinely afraid — of High Kingdom retaliation, of what liberation might look like for a man who chose their side — and that fear has held him in place for thirty years.
+
+He is not a coward. He is a man who made a decision under pressure, called it pragmatic, and has spent thirty years failing to convince himself it was right.
+
+**Key Relationships**
+- governs: Duchy of Melvar (administrative seat: Milovar)
+- subordinate to: General Gregor Stepanos
+- appears in: Part II
+
+**Secrets (DM Only)**
+Lodin's surrender was not purely pragmatic — he genuinely believed resistance was futile and that cooperation would protect his people. It did, in a narrow sense. What he did not anticipate was thirty years watching what "protection" looked like in practice. The penal colony at Velika Kosa was established with his formal cooperation, and he has never forgiven himself for it.
+
+He will not volunteer any of this. Under sufficient pressure or genuine overtures of forgiveness, it can surface.
+
+**Recruitment Conditions (DM Only)**
+Lodin can be turned to the rebellion if two conditions are met: (1) the party demonstrates credible military progress — not rhetoric, but evidence the revolution stands a real chance; and (2) the party offers him something politically: a path to redemption, protection for his people, or a role in post-liberation governance. A Reformation-aligned party will find him especially receptive. A Dominion-aligned party will not.
+
+**Arc**
+Lodin begins as a minor obstacle and a symbol of complicity. Recruited, he becomes a credible administrative ally with genuine knowledge of High Kingdom operations in the region. His arc ends either in continued passive collaboration or in a late act of courage that partially redeems the defining failure of his life.
+
+**Stat Block Reference:** Appendix B (to be written in GM Guide, Part II)
+
+---
+
+### Johan Mendis
+
+**Type:** NPC — Potential Ally / Faction Leader | **Pronouns:** he/him | **Alignment:** CN
+**Faction:** Salona | **Class/Level:** TBD | **CR:** TBD
+**First Appears:** Part II
+
+**Role in Campaign**
+The leader of Salona — the hidden outlaw and resistance community in the Brezovwood. Mendis is the most significant military asset available to the party in the Duchy of Melvar, but he comes with complications.
+
+His mother was the Duchess of Tentavia, a duchy in the Quadrangle sub-region; she was executed during the Conquest, and he was raised in exile by her bodyguard. He downplays his pedigree among his followers — Salona's culture is one of outcasts and equals — but privately thinks of himself very much as a nobleman, and his instincts for authority and hierarchy run deep beneath the egalitarian surface he presents.
+
+**Personality**
+Charismatic and decisive in the way that men who have led through personal force rather than institutional authority tend to be. He is also a devout follower of Gregori Lekov's theology, which has convinced him that he is among the "chosen elect" sent to rule the world. This belief has given him a confidence that reads as vision to his followers and as dangerous presumption to anyone watching carefully.
+
+The nobleman and the bandit leader coexist uneasily in him. He wants liberation, but his instincts about what liberation means are shaped more by his aristocratic origins than he acknowledges.
+
+**Key Relationships**
+- commands: Salona (2 units Irregulars, 1 unit Bushwhackers; units deployable under his orders only)
+- follower of: Gregori Lekov
+- son of: Duchess of Tentavia (executed during Conquest)
+- heir to: Duchy of Tentavia (unexercised claim; Quadrangle sub-region)
+- raised in exile by: [Duchess's bodyguard; unnamed]
+- appears in: Part II
+
+**Secrets (DM Only)**
+Mendis privately believes he may be the "chosen one" that Lekov's theology anticipates — not merely one of the elect, but the one yet to be revealed. Lekov has not said this directly but has said enough to cultivate the belief. Whether this is sincere delusion, deliberate cultivation on Lekov's part, or something else is left for the GM to determine.
+
+His claim to the Duchy of Tentavia is legally real under pre-Conquest succession. If he survives to press it, it could complicate the revolution's governance of the Quadrangle significantly.
+
+**Recruitment Conditions (DM Only)**
+Mendis will join the revolution for Liberation or Covenant causes only. He regards the High Kingdom as irredeemable (Reformation holds no appeal) and will recognize a Dominion-aligned party as a different kind of oppressor. He insists on maintaining independent command; his forces are deployable only under his direct orders.
+
+**Arc**
+Mendis begins as a significant but complicated ally — useful militarily, ideologically unstable, with an unstated personal agenda. Over the campaign his "chosen elect" beliefs will either mature into something genuinely principled or drift toward the same hierarchical thinking the revolution nominally opposes. Whether the party engages with this tension shapes how his story ends.
+
+**Stat Block Reference:** Appendix B (to be written in GM Guide, Part II)
+
+---
+
+### Gregori Lekov
+
+**Type:** NPC — Potential Ally / Wild Card | **Pronouns:** he/him | **Alignment:** CG
+**Faction:** The Chosen (informal reform movement) | **Class/Level:** Cleric 9 | **CR:** 9
+**First Appears:** Part II (via Salona); following active in Part IV (Shining South)
+
+**Role in Campaign**
+A former priest, stripped of his standing by the High Church last year for unorthodox beliefs. He now leads an informal religious movement whose theology holds that all people are equal under the gods, traditional class distinctions are illegitimate, and those chosen by divine will — not birth or wealth — should lead. A messianic chosen one has yet to be revealed. He believes the revelation is coming.
+
+He is among the most powerful clerics the party is likely to encounter in Part II, and his influence extends well beyond the Duchy of Melvar — his following in the Shining South is large enough that the Corrupted Church is actively working to suppress it.
+
+**Personality**
+Warm, attentive, and genuinely passionate about the equality of all people under the divine. He listens carefully, speaks with conviction, and has a quality of absolute sincerity that draws followers naturally. He is also almost certainly not entirely well. The visions he describes are vivid, theologically consistent, and real to him in a way that makes them difficult to argue with — not because the argument fails, but because he is not operating within a framework where argument lands.
+
+The deep irony at the center of his theology — that the solution to illegitimate hierarchy is a new hierarchy of the divinely chosen — is not visible to him.
+
+**Key Relationships**
+- leads: The Chosen (reform movement; following strongest in Shining South)
+- spiritual guide to: Johan Mendis (convinced him he is among the "chosen elect")
+- defrocked by: High Church (last year; reason: unorthodox beliefs)
+- hunted by: High Church (Shining South; active suppression of his following)
+- appears in: Part II; Part IV
+
+**Secrets (DM Only)**
+Lekov's visions are genuine — he is receiving real divine communication of some kind. The source and nature of that communication is for the GM to determine: a sincere minor deity of equality and reform, something more ambiguous about how divinity works in this world, or something darker wearing a sympathetic face. His sincerity is not in question regardless.
+
+Whether he is the chosen one he prophesies, the prophet who precedes that figure, or a sincere man whose theology conveniently positions him as the arbiter of divine will is left deliberately open.
+
+**Arc**
+Encountered early as a curiosity and a complication to the Salona recruitment. In Part IV his surviving following becomes a genuine asset for disrupting the Corrupted Church's authority — or a competing doctrine that fractures the reform effort, depending on what the party has done with him. His arc ends in vindication, disillusionment, or martyrdom.
+
+**Stat Block Reference:** Appendix B (to be written in GM Guide, Part II)
+
+---
+
+### Mattis Ozeri
+
+**Type:** NPC — Antagonist / Secret | **Pronouns:** he/him (public persona) | **Alignment:** LE
+**Faction:** House of Ozeri (front) / High Kingdom | **Class/Level:** Wight (Wizard 3) | **CR:** TBD
+**First Appears:** Part II
+
+**Role in Campaign**
+The reigning Duke of Orem — or rather, the creature that has been playing that role since before the Conquest. Mattis Ozeri is an ancient wight in the service of Queen Tegea, installed to extract maximum economic value from the Duchy of Orem. He is not a Highlander noble. The Ozeri family does not exist. The Ozeri clan feared throughout Dravena and the Duchy is a rotating cast of magically disguised proxies he maintains and disposes of on a fixed schedule.
+
+He controls 3–4 active face men at any given time, trained to perform as specific members of the "Ozeri family" using magic to sustain the disguise. These operatives are executed after a set interval to prevent exposure. Communication with them is handled magically, allowing him to effectively be in multiple places simultaneously. His lair — not the ducal residence — is where he actually conducts his affairs.
+
+The Ozeri operation functions as a cross between a corporation and a crime syndicate, leasing public services and land plots to smaller client groups and taking a cut of all earnings. Order in the Duchy has been maintained exclusively through brutal public retaliation against anyone suspected of disloyalty.
+
+**Personality**
+Ancient, patient, and entirely calculating. Whatever the creature once was, nothing of warmth or ambition beyond the systematic remains. It views Dravena as a revenue-generating operation. The political situation following Severan's liberation is a problem to be managed, not a crisis to be alarmed by — though the efficiency of its contingency planning should not be underestimated.
+
+**Key Relationships**
+- rules: Duchy of Orem (concealed identity; ducal seat Dravena)
+- serves: Queen Tegea
+- controls: 3–4 magically disguised face men (rotating; executed after set interval)
+- employs: Miko Havel (face man; access point for party)
+
+**Secrets (DM Only)**
+He is an ancient wight — how ancient, and what he was before, is for the GM to determine. The Queen is aware of his nature and considers him one of her most reliable instruments. His lair is not the ducal palace; a successful intelligence gathering operation in Dravena, or a roleplay approach that surfaces Miko Havel, is required to locate it.
+
+**Arc**
+Discovering Ozeri's true nature is a significant investigative milestone. Confronting him requires finding his lair. Publicly revealing the deception would destabilize the Duchy of Orem's administration entirely and trigger a surge of pro-revolutionary sentiment across the Quadrangle.
+
+**Stat Block Reference:** Appendix B (to be written in GM Guide, Part II)
+
+---
+
+### Miko Havel
+
+**Type:** NPC — Potential Asset / Wildcard | **Pronouns:** he/him | **Alignment:** NE
+**Faction:** House of Ozeri (unwilling) | **Class/Level:** Rogue 2 | **CR:** 2
+**First Appears:** Part II
+
+**Role in Campaign**
+A former conman recruited by Mattis Ozeri to serve as one of his face men — trained, disguised, and deployed to impersonate a member of the Ozeri family in public. He recently stumbled onto the truth of what happens to Ozeri's other face men and is desperate for a way out before his own interval expires.
+
+He is the access point for the party to learn Ozeri's true nature. A successful intelligence gathering operation in Dravena will surface him as an advisor to the Duke who is willing to talk.
+
+**Personality**
+Charming, quick, and fundamentally self-interested. His terror of Ozeri has kept him functional, but terror is not loyalty, and he has been looking for a better deal from the moment he understood what he had gotten into. He is also very good at presenting himself as more reliable than he is.
+
+**Key Relationships**
+- employed by: Mattis Ozeri (face man; coerced)
+- can reveal: Ozeri's true nature and lair layout; names and locations of two other active face men in Dravena
+
+**Secrets (DM Only)**
+He will betray the revolution if he concludes he can get away with it. His loyalty has a price ceiling and the party should be aware of it.
+
+**Arc**
+Will provide full information on Ozeri — true nature, lair layout, and two other active face men — in exchange for a guarantee of protection and a payment of 500 GP. The gold condition can be negotiated away with a high DC Bluff, Diplomacy, or Intimidation check. Can be recruited; treat his loyalty as permanently conditional. His arc ends in genuine reform, timely betrayal, or a quiet disappearance — depending on how well the party manages him.
+
+**Stat Block Reference:** Appendix B (to be written in GM Guide, Part II)
+
+---
+
+### Rosa Petofsky
+
+**Type:** NPC — Potential Ally | **Pronouns:** she/her | **Alignment:** CG
+**Faction:** Cernican Rangers | **Class/Level:** Ranger 4 | **CR:** 4
+**First Appears:** Part II
+
+**Role in Campaign**
+Leader of the Cernican Rangers, a group of irregular fighters operating out of Cernica Wood who have been disrupting Imperial logging operations and recently attacked Stagraad itself, burning nearly a quarter of it. Her campaign began after her lover was killed during unrest in Stagraad and has escalated steadily since.
+
+**Personality**
+Driven, principled, and consumed. She holds no middle positions on collaboration or compromise — to her, anyone who works with the High Kingdom has already chosen a side, and she will treat them accordingly. Her ideological clarity is genuine, not performance: she arrived at these conclusions through grief and has tested them against every counterargument available to her.
+
+**Key Relationships**
+- leads: Cernican Rangers
+- commands: 1 unit Elite Scouts (brought if recruited)
+- operates from: Cernica Wood
+
+**Secrets (DM Only)**
+Her tactical escalation has been fueled as much by personal grief as by ideology. She is aware of this and has decided it does not matter. Whether it matters for the revolution is a question the party may have cause to consider.
+
+**Arc**
+Can be recruited only for a Liberation or Covenant cause, and only if the party commits explicitly to abolishing the nobility. Her ideological purity will create friction with more pragmatic party choices throughout. If recruited, she is absolutely reliable within those parameters — and a genuine threat to alliance-building outside them.
+
+**Stat Block Reference:** Appendix B (to be written in GM Guide, Part II)
+
+---
+
+### Liandrin Sima
+
+**Type:** NPC — Potential Asset | **Pronouns:** she/her | **Alignment:** NE
+**Faction:** House of Sima (Highlander) / High Kingdom | **Class/Level:** Bard 4 | **CR:** 4
+**First Appears:** Part II
+
+**Role in Campaign**
+Baroness of Vantica, placed in the position two years ago after her predecessor was executed for treason. A Highlander aristocrat who has grown thoroughly bored with the posting and is actively looking to profit from it before events make profit impossible.
+
+**Personality**
+Sophisticated, easily bored, and entirely transactional. She has no ideological commitments in either direction and would describe herself as a realist — though "for sale" captures it more precisely. She is a skilled political operator and will honor a deal she considers binding, which means the party needs to structure the deal carefully.
+
+**Key Relationships**
+- rules: Vantica (Baroness)
+- placed by: High Kingdom (after predecessor's execution for treason, 2 years ago)
+
+**Secrets (DM Only)**
+Her willingness to betray the High Kingdom is not widely known. It is revealed through a successful intelligence gathering operation targeting Vantica.
+
+**Arc**
+Will open Vantica's gates during a military assault in exchange for a bribe of 1,000 GP and an explicit guarantee that she can escape and will not be implicated. Can be recruited for Reformation or Dominion causes only. Her loyalty as an asset is always suspect — she is a skilled operator, but her first loyalty is to herself.
+
+**Stat Block Reference:** Appendix B (to be written in GM Guide, Part II)
+
+---
+
+### Andris Viklas
+
+**Type:** NPC — Potential Asset (Limited) | **Pronouns:** he/him | **Alignment:** CE
+**Faction:** House of Viklas / High Kingdom | **Class/Level:** Expert 3 | **CR:** 3
+**First Appears:** Part II
+
+**Role in Campaign**
+Duke of Tentavia, recently inherited from his father — a baron who betrayed the Ambracian king during the Conquest and was rewarded with the ducal seat. Andris is a pale shadow of his predecessor. Productivity in the Duchy has declined significantly under his watch, and Governor Stepanos has threatened to transfer his lands to the Ozeri if he cannot right the ship.
+
+**Personality**
+Pale, anxious, and resentful of the circumstances he was born into. His instincts run to self-preservation above all else, and beneath his resentment is a thoroughgoing laziness that has contributed as much to his failures as his incompetence. He is not stupid — he is simply unwilling to apply himself to anything that does not directly serve his comfort.
+
+**Key Relationships**
+- rules: Duchy of Tentavia (ducal seat: Utina)
+- son of: [Baron Viklas] (betrayed Ambracian king during Conquest; rewarded with ducal seat)
+- under pressure from: Gregor Stepanos (threatened with forced transfer of duchy to Ozeri)
+
+**Secrets (DM Only)**
+His poor performance and tension with Stepanos are a point of leverage. Revealed through a successful intelligence gathering operation targeting Utina.
+
+**Arc**
+Will turn against the High Kingdom only if absolutely convinced the rebellion can win and his personal safety is guaranteed. Can provide significant intelligence for the rebellion but is despised by the local population and has no independent value as a leader or symbol. Treat him as an intelligence asset, not a recruit.
+
+**Stat Block Reference:** Appendix B (to be written in GM Guide, Part II)
+
+---
+
+### Inota Ūdre
+
+**Type:** NPC — Minor Antagonist | **Pronouns:** she/her | **Alignment:** LN
+**Faction:** House of Ūdre / High Kingdom | **Class/Level:** Expert 4 | **CR:** 4
+**First Appears:** Part II
+
+**Role in Campaign**
+Baroness of Ferma, from a prominent local family that has maintained its position for decades through disciplined loyalty to the High Kingdom. She has called for additional Imperial troops in response to rising unrest following the events on Severan and is the local face of willing collaboration rather than reluctant compliance.
+
+**Personality**
+Hard-edged, principled within her own moral framework, and genuinely convinced that Imperial authority represents the only viable order. She is not cruel — she simply draws the lines where she draws them and acts accordingly. Her family's long institutional ties give her credibility that purely installed Highlander nobles do not have, which makes her more dangerous than her modest rank suggests.
+
+**Key Relationships**
+- rules: Ferma (Baroness)
+- longstanding family loyalty to: High Kingdom
+
+**Arc**
+Cannot be recruited. Firmly believes the High Kingdom cannot be permanently defeated, and she may be correct about specific risks she identifies. She is useful to the GM as a local voice for the Imperial position that is not cartoonishly villainous.
+
+**Stat Block Reference:** Appendix B (to be written in GM Guide, Part II)
+
+---
+
+### Alina Nidera
+
+**Type:** NPC — Potential Ally | **Pronouns:** she/her | **Alignment:** NG
+**Faction:** Independent (anti-Imperial movement, Vrbonic) | **Class/Level:** Expert 4 | **CR:** 4 (non-combat)
+**First Appears:** Part II
+
+**Role in Campaign**
+A poet and the leader of a principled anti-Imperial movement in Vrbonic, recently jailed by the local garrison commander after organizing several non-violent protests against Imperial over-gathering in the Starovor Forest. Her arrest has triggered a general uprising in the town. She is simultaneously a rescue objective, a diplomatic asset, and a ticking clock.
+
+**Personality**
+Thoughtful, creative, and genuinely principled. She comes at problems from unexpected angles — her background as a poet gives her an instinct for symbol, story, and the way that framing a problem changes what solutions become visible. Her non-violence is not naivety; it is a considered position she can and will defend.
+
+**Key Relationships**
+- leads: Anti-Imperial movement (Vrbonic; non-violent)
+- imprisoned by: Imperial garrison commander (Vrbonic)
+
+**Secrets (DM Only)**
+There is a cumulative 5% chance per turn that she is executed. If she dies before being rescued, increase Unrest by 2 in all Quadrangle settlements.
+
+**Arc**
+If rescued, can be recruited for Liberation or Covenant causes. Rescuing her grants +1 Loyalty to Revolutionary Forces in all Quadrangle settlements. As an asset she functions as a skilled diplomat and lateral thinker, often identifying approaches that more direct actors overlook. Her arc is one of the campaign's cleaner moral questions: the revolution will be asked to act before events overtake the opportunity.
+
+**Stat Block Reference:** Appendix B (to be written in GM Guide, Part II)
 
 ---
 
